@@ -2,8 +2,8 @@
 title: Início
 description: Introdução à ajuda do GDOOR WEB
 published: true
-date: 2020-01-02T20:07:40.730Z
-tags: 
+date: 2020-01-02T20:11:39.160Z
+tags: home
 ---
 
 # Ajuda do GDOOR WEB
@@ -38,5 +38,3 @@ O GDOOR WEB pode ser usado em vários tipos de empresas de comércio de médio e
 ## Primeiros passos
 
 Obtive acesso ao GDOOR WEB, e agora? [Clique aqui](/tutoriais/primeiros-passos) e veja um tutorial explicativo de como iniciar a configuração do seu sistema e o modo ideal de começar a utilizar o GDOOR WEB. Você também pode ver outros tutoriais passo-a-passo acessando [este tópico](/tutoriais).
-
-teste
