@@ -2,8 +2,8 @@
 title: Tutorial: Emitir uma NF-e
 description: Passo-a-passo para emitir uma NF-e no GDOOR WEB
 published: true
-date: 2019-12-27T17:41:33.816Z
-tags: 
+date: 2020-01-03T19:22:15.314Z
+tags: tutoriais, nf-e
 ---
 
 # Emitindo uma NF-e
@@ -97,7 +97,7 @@ Para gerar o documento, acesse **Movimentações** &raquo; **NF-e** e clique no 
 
 No formulário de NF-e, o primeiro dado que precisa ser informado é a natureza da operação. Ao iniciar uma nova NF-e, o sistema irá carregar automaticamente a operação que estiver configurada como padrão.
 
-> Caso deseje alterar as operações existentes ou criar novas operações, veja o tópico [Cadastro de operações](/movimentos/operacoes).
+> Caso deseje alterar as operações existentes ou criar novas operações, veja o tópico [Cadastro de operações](/cadastros/operacoes).
 {.is-info}
 
 Depois, é necessário informar o cliente. No campo apropriado, você pode digitar o nome de um cliente que esteja cadastrado para fazer uma busca, ou digitar diretamente o código, se souber.
