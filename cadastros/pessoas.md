@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T13:36:08.864Z
+date: 2020-01-06T13:40:31.613Z
 tags: cadastros, pessoas
 ---
 
@@ -34,13 +34,15 @@ A tela de detalhes possibilita ter uma visão completa do cadastro:
 
 ![Detalhes do cadastro](/cadastros/pessoas/detalhes.png)
 
-![mais-opcoes.png](/cadastros/pessoas/mais-opcoes.png){.align-left}
-
 No cabeçalho dessa tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direiro, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
 
 - Acesse a tela de edição do cadastro;
 - Abra a tela de NF-e com a pessoa já referenciada. Esta opção só estará disponível se a pessoa for um cliente.
 
-<span class=clearfix></span>
+![Mais opções.png](/cadastros/pessoas/mais-opcoes.png)
 
-oi
+Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. Sempre que você abrir a tela de detalhes, a aba identificação virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema.
+
+## Histórico
+
+Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/historico).
