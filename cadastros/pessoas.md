@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-03T20:39:53.804Z
+date: 2020-01-06T11:56:30.380Z
 tags: cadastros, pessoas
 ---
 
@@ -12,4 +12,4 @@ O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lug
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Ao clicar sobre um item dessa lista, você verá uma pré-visualização do cadastro com algumas informações chave:
 
-
+![preview.png](/cadastros/pessoas/preview.png)
