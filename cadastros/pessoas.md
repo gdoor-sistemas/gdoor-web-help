@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T20:31:43.755Z
+date: 2020-01-06T20:33:18.233Z
 tags: cadastros, pessoas
 ---
 
@@ -109,6 +109,10 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 
 > O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
+
+### Endereços
+
+![Quadro Endereços](/cadastros/pessoas/enderecos.png)
 
 ### Veículos
 
