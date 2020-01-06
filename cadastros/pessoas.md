@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T14:39:03.229Z
+date: 2020-01-06T14:49:39.431Z
 tags: cadastros, pessoas
 ---
 
@@ -55,14 +55,22 @@ Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. S
 
 ## Formulário
 
-O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes).
-
-![botao-adicionar.png](/cadastros/pessoas/botao-adicionar.png =500x)
-
-A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
+O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
 
 ### Atributos
 
-![atributos.png](/cadastros/pessoas/atributos.png){.align-right}
+Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
-//
+![atributos.png](/cadastros/pessoas/atributos.png)
+
+#### Cliente
+
+Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída. Também habilita campos que permitem informar:
+
+- **Dia de acerto**: usado para gerar o parcelamento, onde as parcelas vencerão no dia informado neste campo;
+- **Limite de crédito**: usado para limitar o valor de vendas a prazo pendentes para o cliente.
+
+![campos-cliente.png](/cadastros/pessoas/campos-cliente.png)
+
+> Atualmente, o GDOOR WEB não possui módulo financeiro. Portanto, o limite de crédito do cliente não tem como ser aplicado devido ao fato de que o sistema não tem como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
+{.is-danger .gw .gw-warning}
