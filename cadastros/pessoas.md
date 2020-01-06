@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T18:21:02.025Z
+date: 2020-01-06T18:55:23.269Z
 tags: cadastros, pessoas
 ---
 
@@ -72,7 +72,7 @@ Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída
 
 ![campos-cliente.png](/cadastros/pessoas/campos-cliente.png)
 
-> Atualmente, o GDOOR WEB não possui módulo financeiro. Portanto, o limite de crédito do cliente não tem como ser aplicado devido ao fato de que o sistema não tem como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
+> O limite de crédito do cliente não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 > O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
 {.is-danger .gw .gw-important}
 
@@ -91,8 +91,5 @@ Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. H
 
 ![campos-vendedor.png](/cadastros/pessoas/campos-vendedor.png)
 
-aslkdhaiushd uahsdiuhaisdhisahd
-
-> Atualmente, o GDOOR WEB não possui módulo financeiro. Portanto, o limite de crédito do cliente não tem como ser aplicado devido ao fato de que o sistema não tem como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
-> O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
+> O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
