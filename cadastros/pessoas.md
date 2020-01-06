@@ -2,20 +2,20 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T18:13:48.786Z
+date: 2020-01-06T18:20:37.539Z
 tags: cadastros, pessoas
 ---
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **funcionários**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras** e **vendedores**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
 ## Lista
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
-- Digitando apenas números: **código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
-- Digitando caracteres mistos: **nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax** ou **estado (UF)**.
+- Digitando apenas números: **Código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
+- Digitando caracteres mistos: **Nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax** ou **estado (UF)**.
 
 À direita do campo de busca se encontra o botão para atualizar a lista (![Atualizar](/comum/refresh.png){.inline}). Ele pode ser útil para quando a tela ficar parada por um longo tempo, e você queira atualizar a lista de clientes sem perder o que digitou na busca ou ter que atualizar a página inteira. Também pode ser que você esteja aguardando o cadastro ser completado por outro usuário ou outro dispositivo, então terá que atualizar para ver as novas informações.
 
@@ -26,9 +26,9 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 
 Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}). As opções de ação para esta tela são:
 
-- **Ver detalhes**: vai para a tela de [detalhes](#detalhes);
-- **Nova venda**: vai para a [tela de NF-e](/movimentos/nf-e#formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
-- **Apagar**: apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
+- **Ver detalhes**: Vai para a tela de [detalhes](#detalhes);
+- **Nova venda**: Vai para a [tela de NF-e](/movimentos/nf-e#formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Apagar**: Apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
 
@@ -67,8 +67,8 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída. Também habilita campos que permitem informar:
 
-- **Dia de acerto**: usado para gerar o parcelamento, onde as parcelas vencerão no dia informado neste campo;
-- **Limite de crédito**: usado para limitar o valor de vendas a prazo pendentes para o cliente.
+- **Dia de acerto**: Usado para gerar o parcelamento, onde as parcelas vencerão no dia informado neste campo;
+- **Limite de crédito**: Usado para limitar o valor de vendas a prazo pendentes para o cliente.
 
 ![campos-cliente.png](/cadastros/pessoas/campos-cliente.png)
 
@@ -80,6 +80,13 @@ Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída
 
 Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada. Não possui campos para informação adicional.
 
-#### Funcionário
+#### Vendedor
 
-No momento, o GDOOR WEB não 
+Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita os campos:
+
+- **Comissão à vista**: Percentual de comissão para vendas à vista;
+- **Comissão a prazo**: Percentual de comissão para vendas à prazo;
+- **Percentual máx. desconto**: Máximo de desconto em *percentual* que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento.
+- **Valor máx. desconto**: Máximo de desconto em *valor* que um vendedor pode aplicar em um documento.
+
+![campos-vendedor.png](/cadastros/pessoas/campos-vendedor.png)
