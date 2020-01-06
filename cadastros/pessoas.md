@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T18:59:16.382Z
+date: 2020-01-06T19:10:07.377Z
 tags: cadastros, pessoas
 ---
 
@@ -95,3 +95,15 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 
 > O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
+
+#### Transportador
+
+Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro de veículos, que permite informar os veículos que o transportador usa e facilitar o lançamento dessa informação nos documentos.
+
+![campos-transportador.png](/cadastros/pessoas/campos-transportador.png)
+
+Clique no botão <span class=mat-button>Adicionar veículo</span> para abrir o diálogo de adição de veículo:
+
+![adicionar-veiculo.png](/cadastros/pessoas/adicionar-veiculo.png)
+
+Para editar as informações de um veículo, altere nos campos exibidos na lista mesmo. Para remover um veículo, clique no botão ao lado da descrição (![remove.png](/comum/remove.png){.inline}).
