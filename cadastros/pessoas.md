@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T20:19:48.461Z
+date: 2020-01-06T20:24:07.828Z
 tags: cadastros, pessoas
 ---
 
@@ -75,6 +75,11 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Transportador**: Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
+
+À direita deste quadro, você pode adicionar uma imagem que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente.
+
+> Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [Imagens](/cadastros/comum/imagens).
+{.is-info .gw .gw-note}
 
 ### Cliente
 
