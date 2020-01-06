@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T20:25:32.370Z
+date: 2020-01-06T20:31:43.755Z
 tags: cadastros, pessoas
 ---
 
@@ -76,7 +76,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
 
-À direita deste quadro, você pode adicionar uma imagem que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente.
+À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. Você também identifica a pessoa como **física** ou **jurídica**, ou seja, uma pessoa real ou uma empresa, respectivamente. Se preferir, no caso de pessoa física, especifique o **gênero**. Também pode inativar um cadastro desmarcando a caixa **Ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: Ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
 
 > Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [Imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
