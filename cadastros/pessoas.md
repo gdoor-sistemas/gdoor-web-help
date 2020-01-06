@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T13:50:10.655Z
+date: 2020-01-06T13:58:24.054Z
 tags: cadastros, pessoas
 ---
 
@@ -21,6 +21,8 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 
 > O tamanho da página ficará salvo no navegador que você estiver utilizando e será usado em todas as listas.
 {.is-success .gw .gw-tip}
+
+Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}).
 
 Ao clicar sobre um item dessa lista, você verá uma pré-visualização do cadastro com algumas informações chave:
 
@@ -49,4 +51,6 @@ Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/hist
 
 ## Formulário
 
-//
+O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de lista e [detalhes](/cadastros/pessoas#detalhes).
+
+![botao-adicionar.png](/cadastros/pessoas/botao-adicionar.png)
