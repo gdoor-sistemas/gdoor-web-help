@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T14:53:19.324Z
+date: 2020-01-06T18:13:48.786Z
 tags: cadastros, pessoas
 ---
 
@@ -78,4 +78,8 @@ Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída
 
 #### Fornecedor
 
-Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada.
+Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada. Não possui campos para informação adicional.
+
+#### Funcionário
+
+No momento, o GDOOR WEB não 
