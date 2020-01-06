@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T19:12:39.163Z
+date: 2020-01-06T19:47:16.405Z
 tags: cadastros, pessoas
 ---
 
@@ -57,13 +57,19 @@ Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. S
 
 O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
 
-### Atributos
+### Identificação
+
+Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
+
+![identificacao.png](/cadastros/pessoas/identificacao.png)
+
+#### Atributos
 
 Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
 ![atributos.png](/cadastros/pessoas/atributos.png)
 
-#### Cliente
+##### Cliente
 
 Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída. Também habilita campos que permitem informar:
 
@@ -76,11 +82,11 @@ Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída
 > O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
 {.is-danger .gw .gw-important}
 
-#### Fornecedor
+##### Fornecedor
 
 Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada. Não possui campos para informação adicional.
 
-#### Vendedor
+##### Vendedor
 
 Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita os campos:
 
@@ -96,7 +102,7 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 > O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
 
-#### Transportador
+##### Transportador
 
 Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro de veículos, que permite informar os veículos que o transportador usa e facilitar o lançamento dessa informação nos documentos.
 
