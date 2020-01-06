@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T18:55:23.269Z
+date: 2020-01-06T18:59:16.382Z
 tags: cadastros, pessoas
 ---
 
@@ -86,8 +86,10 @@ Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. H
 
 - **Comissão à vista**: Percentual de comissão para vendas à vista;
 - **Comissão a prazo**: Percentual de comissão para vendas à prazo;
-- **Percentual máx. desconto**: Máximo de desconto em *percentual* que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento.
-- **Valor máx. desconto**: Máximo de desconto em *valor* que um vendedor pode aplicar em um documento.
+- **Percentual máx. desconto**: Máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
+- **Valor máx. desconto**: Máximo de desconto em valor que um vendedor pode aplicar em um documento.
+
+Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
 
 ![campos-vendedor.png](/cadastros/pessoas/campos-vendedor.png)
 
