@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T19:57:12.743Z
+date: 2020-01-06T19:58:17.799Z
 tags: cadastros, pessoas
 ---
 
@@ -61,13 +61,13 @@ O formulário de cadastro será exibido quando você for **criar** ou **atualiza
 
 Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
 
-![identificacao.png](/cadastros/pessoas/identificacao.png)
+![Quadro Identificação](/cadastros/pessoas/identificacao.png)
 
 #### Atributos
 
 Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
-![atributos.png](/cadastros/pessoas/atributos.png)
+![Atributos](/cadastros/pessoas/atributos.png)
 
 - **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída. Também habilita o quadro [Cliente](#cliente);
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
@@ -83,7 +83,7 @@ Este quadro será exibido quando o [atributo](#atributos) **Cliente** estiver ma
 - **Dia de acerto**: Usado para gerar o parcelamento, onde as parcelas vencerão no dia informado neste campo;
 - **Limite de crédito**: Usado para limitar o valor de vendas a prazo pendentes para o cliente.
 
-![campos-cliente.png](/cadastros/pessoas/campos-cliente.png)
+![Quadro Cliente](/cadastros/pessoas/campos-cliente.png)
 
 > O **limite de crédito** do cliente não tem como ser aplicado porque o GDOOR WEB não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 > O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
@@ -100,7 +100,7 @@ Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver m
 
 Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
 
-![campos-vendedor.png](/cadastros/pessoas/campos-vendedor.png)
+![Quadro Vendedor](/cadastros/pessoas/campos-vendedor.png)
 
 > O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
@@ -109,10 +109,10 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 
 Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar veículos.
 
-![campos-transportador.png](/cadastros/pessoas/campos-transportador.png)
+![Quadro veículos](/cadastros/pessoas/campos-transportador.png)
 
 Clique no botão <span class=mat-button>Adicionar veículo</span> para abrir o diálogo de adição de veículo:
 
-![adicionar-veiculo.png](/cadastros/pessoas/adicionar-veiculo.png)
+![Diálogo para adicionar veículo](/cadastros/pessoas/adicionar-veiculo.png)
 
-Para editar as informações de um veículo, altere nos campos exibidos na lista mesmo. Para remover um veículo, clique no botão ao lado da descrição (![remove.png](/comum/remove.png){.inline}).
+Para editar as informações de um veículo, altere nos campos exibidos na lista mesmo. Para remover um veículo, clique no botão ao lado da descrição (![Remover](/comum/remove.png){.inline}).
