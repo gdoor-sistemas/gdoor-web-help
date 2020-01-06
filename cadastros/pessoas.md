@@ -2,13 +2,15 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T14:35:13.085Z
+date: 2020-01-06T14:39:03.229Z
 tags: cadastros, pessoas
 ---
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **funcionários**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses atributos, não sendo necessário repetir cadastros.
+O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **funcionários**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+
+## Lista
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
@@ -53,8 +55,14 @@ Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. S
 
 ## Formulário
 
-O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de lista e [detalhes](#detalhes).
+O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes).
 
 ![botao-adicionar.png](/cadastros/pessoas/botao-adicionar.png =500x)
 
 A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
+
+### Atributos
+
+![atributos.png](/cadastros/pessoas/atributos.png){.align-right}
+
+//
