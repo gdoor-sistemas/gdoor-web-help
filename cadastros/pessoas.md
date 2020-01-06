@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T19:58:17.799Z
+date: 2020-01-06T19:59:26.808Z
 tags: cadastros, pessoas
 ---
 
@@ -76,7 +76,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 //
 
-#### Cliente
+### Cliente
 
 Este quadro será exibido quando o [atributo](#atributos) **Cliente** estiver marcado. 
 
@@ -89,7 +89,7 @@ Este quadro será exibido quando o [atributo](#atributos) **Cliente** estiver ma
 > O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
 {.is-danger .gw .gw-important}
 
-#### Vendedor
+### Vendedor
 
 Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver marcado. 
 
@@ -105,7 +105,7 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 > O percentual de comissão **a prazo** não tem como ser aplicado porque o sistema não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
 {.is-danger .gw .gw-important}
 
-#### Veículos
+### Veículos
 
 Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar veículos.
 
