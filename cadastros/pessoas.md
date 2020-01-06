@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T14:00:59.860Z
+date: 2020-01-06T14:17:48.518Z
 tags: cadastros, pessoas
 ---
 
@@ -22,7 +22,13 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 > O tamanho da página ficará salvo no navegador que você estiver utilizando e será usado em todas as listas.
 {.is-success .gw .gw-tip}
 
-Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}).
+Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}). As opções de ação para esta tela são:
+
+- **Ver detalhes**: vai para a tela de [detalhes](#detalhes);
+- **Nova venda**: vai para a [tela de NF-e](/movimentos/nf-e#formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Apagar**: apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros locais do sistema.
+
+![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
 
 Ao clicar sobre um item dessa lista, você verá uma pré-visualização do cadastro com algumas informações chave:
 
@@ -39,7 +45,7 @@ A tela de detalhes possibilita ter uma visão completa do cadastro:
 No cabeçalho dessa tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direiro, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
 
 - Acesse a tela de edição do cadastro;
-- Abra a tela de NF-e com a pessoa já referenciada. Esta opção só estará disponível se a pessoa for um cliente.
+- Abra a [tela de NF-e](/movimentos/nf-e#formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**.
 
 ![Mais opções.png](/cadastros/pessoas/mais-opcoes.png)
 
@@ -51,6 +57,6 @@ Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/hist
 
 ## Formulário
 
-O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de lista e [detalhes](/cadastros/pessoas#detalhes).
+O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de lista e [detalhes](#detalhes).
 
 ![botao-adicionar.png](/cadastros/pessoas/botao-adicionar.png)
