@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-06T20:36:21.003Z
+date: 2020-01-07T11:21:19.175Z
 tags: cadastros, pessoas
 ---
 
@@ -22,7 +22,7 @@ Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cad
 Na parte superior do quadro que contém a lista, você encontra o controle de paginação, onde pode determinar o tamanho da página e navegar entre páginas de conteúdo.
 
 > O tamanho da página ficará salvo no navegador que você estiver utilizando e será usado em todas as listas.
-{.is-success .gw .gw-tip}
+{.is-info .gw .gw-note}
 
 Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}). As opções de ação para esta tela são:
 
