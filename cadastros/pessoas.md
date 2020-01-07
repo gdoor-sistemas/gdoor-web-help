@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-07T11:21:19.175Z
+date: 2020-01-07T11:29:38.367Z
 tags: cadastros, pessoas
 ---
 
@@ -111,6 +111,11 @@ Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver
 {.is-danger .gw .gw-important}
 
 ### Endereços
+
+No cadastro da pessoa há um endereço principal e você pode incluir endereços adicionais. Clique no botão <span class=mat-button>Adicionar endereço</span> e uma tela para preenchimento do endereço será exibida. A lista de endereços adicionais ficará abaixo do endereço principal.
+
+> Para facilitar o preenchimento do endereço, você pode informar primeiro o CEP. Ao tirar o foco do campo, o sistema buscará o endereço do CEP, sendo necessário, na maioria das vezes, preencher apenas o número e o complemento.
+{.is-success .gw .gw-tip}
 
 ![Quadro Endereços](/cadastros/pessoas/enderecos.png)
 
