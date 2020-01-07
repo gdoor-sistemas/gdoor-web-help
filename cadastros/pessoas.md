@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-07T11:43:39.579Z
+date: 2020-01-07T11:46:22.345Z
 tags: cadastros, pessoas
 ---
 
@@ -142,3 +142,9 @@ Clique no botão <span class=mat-button>Adicionar veículo</span> para abrir o d
 ![Diálogo para adicionar veículo](/cadastros/pessoas/adicionar-veiculo.png)
 
 Para editar as informações de um veículo, altere nos campos exibidos na lista mesmo. Para remover um veículo, clique no botão ao lado da descrição (![Remover](/comum/remove.png){.inline}).
+
+### Observações
+
+Campo livre para preenchimento de informações adicionais.
+
+![observacoes.png](/cadastros/pessoas/observacoes.png)
