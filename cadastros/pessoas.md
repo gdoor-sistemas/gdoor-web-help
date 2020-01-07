@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-07T11:48:15.852Z
+date: 2020-01-07T17:31:27.289Z
 tags: cadastros, pessoas
 ---
 
@@ -15,7 +15,7 @@ O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lug
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
 - Digitando apenas números: **Código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
-- Digitando caracteres mistos: **Nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax** ou **estado (UF)**.
+- Digitando caracteres mistos: **Nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax**, **e-mail principal** ou **cidade**.
 
 À direita do campo de busca se encontra o botão para atualizar a lista (![Atualizar](/comum/refresh.png){.inline}). Ele pode ser útil para quando a tela ficar parada por um longo tempo, e você queira atualizar a lista de clientes sem perder o que digitou na busca ou ter que atualizar a página inteira. Também pode ser que você esteja aguardando o cadastro ser completado por outro usuário ou outro dispositivo, então terá que atualizar para ver as novas informações.
 
