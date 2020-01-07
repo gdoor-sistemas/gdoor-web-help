@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-07T11:46:22.345Z
+date: 2020-01-07T11:48:15.852Z
 tags: cadastros, pessoas
 ---
 
@@ -51,7 +51,10 @@ No cabeçalho dessa tela, você encontra algumas informações básicas do cadas
 
 ![Mais opções.png](/cadastros/pessoas/mais-opcoes.png)
 
-Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. Sempre que você abrir a tela de detalhes, a aba identificação, que contém os dados de cadastro da pessoa, virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema. Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/historico).
+Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. Sempre que você abrir a tela de detalhes, a aba identificação, que contém os dados de cadastro da pessoa, virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema.
+
+> Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/historico).
+{.is-info}
 
 ## Formulário
 
