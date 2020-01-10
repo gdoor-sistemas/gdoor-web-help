@@ -2,8 +2,8 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2019-12-24T17:44:07.454Z
-tags: 
+date: 2020-01-10T13:29:40.989Z
+tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
 # Configurar impostos
@@ -36,7 +36,7 @@ Quando o produto tem origem estrangeira. Isto é indicado pelo campo **Origem** 
 Quando a NF-e está marcada como operação para consumidor final.
 - **Revenda**:
 Quando a NF-e **não** está marcada como operação para consumidor final.
-- **Todas**:
+- **Geral**:
 Em qualquer operação, desde que não tenha encontrado uma regra específica antes.
 
 > Caso o produto seja uma exceção dentro de uma faixa de NCM, é possível vinculá-lo diretamente a uma regra. Este vínculo direto é feito no cadastro do produto e tem prioridade sobre as outras operações.
