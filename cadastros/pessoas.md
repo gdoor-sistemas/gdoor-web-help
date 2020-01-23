@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-23T19:17:55.737Z
+date: 2020-01-23T19:19:02.995Z
 tags: cadastros, pessoas
 ---
 
@@ -92,7 +92,7 @@ Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver m
 - **Percentual máx. desconto**: Máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
 - **Valor máx. desconto**: Máximo de desconto em valor que um vendedor pode aplicar em um documento.
 
-Nos campos de limite de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
+Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
 
 ![Quadro Vendedor](/cadastros/pessoas/campos-vendedor.png)
 
