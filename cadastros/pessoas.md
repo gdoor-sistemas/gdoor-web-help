@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-01-23T19:16:02.136Z
+date: 2020-01-23T19:17:35.544Z
 tags: cadastros, pessoas
 ---
 
@@ -84,25 +84,11 @@ Os campos neste quadro variam bastante. A seguir, os campos destacados em **negr
 > Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [Imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
 
-### Cliente
-
-Este quadro será exibido quando o [atributo](#atributos) **Cliente** estiver marcado. 
-
-- **Dia de acerto**: Usado para gerar o parcelamento, onde as parcelas vencerão no dia informado neste campo;
-- **Limite de crédito**: Usado para limitar o valor de vendas a prazo pendentes para o cliente.
-
-![Quadro Cliente](/cadastros/pessoas/campos-cliente.png)
-
-> O **limite de crédito** do cliente não tem como ser aplicado porque o GDOOR WEB não tem módulo financeiro ainda. Assim, não há como saber se o parcelamento pendente já foi quitado ou não. Quando o módulo financeiro for habilitado, a informação presente neste campo será utilizada.
-> O parcelamento também não é controlado pelo sistema ainda, no entanto, as parcelas já estão sendo geradas e armazenadas junto com a NF-e.
-{.is-danger .gw .gw-important}
-
 ### Vendedor
 
 Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver marcado. 
 
 - **Comissão à vista**: Percentual de comissão para vendas à vista;
-- **Comissão a prazo**: Percentual de comissão para vendas à prazo;
 - **Percentual máx. desconto**: Máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
 - **Valor máx. desconto**: Máximo de desconto em valor que um vendedor pode aplicar em um documento.
 
