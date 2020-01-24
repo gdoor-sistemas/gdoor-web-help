@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-01-24T19:50:53.609Z
+date: 2020-01-24T20:59:19.424Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
@@ -26,29 +26,27 @@ De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [
 
 ## Criando uma regra
 
-![Formulário de nova regra](/tutoriais/config-impostos/nova-regra-formulario.png){.align-right}
+Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo. 
 
-Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. Primeiro você precisa definir um **nome** para a regra e o tipo de **operação** que ela vai abranger. As opções são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
+![Assistente de configuração de regra](/tutoriais/config-impostos/formulario.png)
 
-- **Produtos importados**:
-Quando o produto tem origem estrangeira. Isto é indicado pelo campo **Origem** no [cadastro do produto](/cadastros/produtos).
-- **Consumidor final**:
-Quando a NF-e está marcada como operação para consumidor final.
-- **Revenda**:
-Quando a NF-e **não** está marcada como operação para consumidor final.
-- **Geral**:
-Em qualquer operação, desde que não tenha encontrado uma regra específica antes.
+### Identificação
+
+No primeiro passo você precisa definir um **nome** para a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
+
+- **Produtos importados**: Quando o produto tem origem estrangeira. Isto é indicado pelo campo **Origem** no [cadastro do produto](/cadastros/produtos).
+- **Consumidor final**: Quando a NF-e está marcada como operação para consumidor final.
+- **Revenda**: Quando a NF-e **não** está marcada como operação para consumidor final.
+- **Geral**: Em qualquer operação, <u>desde que não tenha encontrado uma regra específica antes</u>.
 
 > Caso o produto seja uma exceção dentro de uma faixa de NCM, é possível vinculá-lo diretamente a uma regra. Este vínculo direto é feito no cadastro do produto e tem prioridade sobre as outras operações.
-{.is-info .gw .gw-note .clearfix}
+{.is-info .gw .gw-note}
 
-## Editando uma regra
+### Vínculos
 
-Após criar uma regra, ou clicar sobre uma na lista, você será direcionado para a tela de edição de regra. É nesta tela que você poderá definir a faixa de NCM/CEST que a regra irá abranger, bem como os impostos que são aplicáveis a ela.
+![Vínculos da regra](/tutoriais/config-impostos/form-vinculos.png)
 
-![Formulário de edição de regra](/tutoriais/config-impostos/editar-regra-formulario.png)
-
-### NCM vinculadas
+Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span>
 
 ![Adicionar NCM ao vínculo](/tutoriais/config-impostos/modal-vinculo-ncm.png =400x){.align-left}
 
