@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-01-10T13:29:40.989Z
+date: 2020-01-24T19:50:53.609Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
@@ -16,7 +16,7 @@ Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configur
 
 ![Acessar configurações de impostos](/tutoriais/config-impostos/acessar-config-imposto.png)
 
-Primariamente, o sistema vem com 3 configurações, uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**. O vínculo entre a configuração de imposto e o produto é a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
+Primariamente, o sistema vem com 4 configurações, uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto é a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
 
 ![Como é feito o vínculo entre produto e tributação do GDOOR WEB](/tutoriais/config-impostos/vinculo-produto-imposto.png =800x)
 
