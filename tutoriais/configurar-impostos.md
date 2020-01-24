@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-01-24T20:59:19.424Z
+date: 2020-01-24T20:59:33.392Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
@@ -47,6 +47,8 @@ No primeiro passo você precisa definir um **nome** para a regra e o tipo de **o
 ![Vínculos da regra](/tutoriais/config-impostos/form-vinculos.png)
 
 Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span>
+
+-- --
 
 ![Adicionar NCM ao vínculo](/tutoriais/config-impostos/modal-vinculo-ncm.png =400x){.align-left}
 
