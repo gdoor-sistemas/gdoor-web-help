@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma NF-e
 description: Passo-a-passo para emitir uma NF-e no GDOOR WEB
 published: true
-date: 2020-01-03T19:22:15.314Z
+date: 2020-01-24T19:46:34.966Z
 tags: tutoriais, nf-e
 ---
 
