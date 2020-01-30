@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T13:08:27.051Z
+date: 2020-01-30T13:09:12.387Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -33,7 +33,6 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 - [Tipo de imposto](#tipo-de-imposto)
 - [Impostos](#impostos)
 - [Revisão](#revisao)
-{.links-list}
 
 ![Assistente de configuração de regra](/config/impostos/formulario.png)
 
