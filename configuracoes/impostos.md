@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T13:34:48.786Z
+date: 2020-01-30T13:42:41.868Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -67,13 +67,15 @@ Configurar uma regra e vincular pelo CEST é considerado uma exceção. Isso por
 
 ![Tipo de impostos a serem configurados nesta regra](/config/impostos/tipo-de-imposto.png)
 
-### Tributos
+Este passo estará disponível caso você escolha o vínculo por NCM ou Sem vínculo. Nele você deve escolher quais impostos vai configurar para que o faça no próximo passo.
 
-Nesta seção você pode determinar quais impostos serão incidentes sobre os produtos abrangidos por esta regra. Para adicionar um imposto à regra, clique no botão correspondente e uma aba será exibida no painel abaixo para configurar. Para remover o imposto da regra, passe ou mouse sobre a aba e clique sobre o botão Remover (![Remover imposto](/comum/remove.png){.inline}).
+### Impostos
+
+![Passo onde você configura os impostos](/config/impostos/passo-impostos.png)
+
+Neste passo serão mostradas uma aba para cada imposto que você escolheu no passo anterior, ou apenas a de ICMS ST, caso tenha escolhido vínculo por CEST. Abaixo, veremos os detalhes de cada configuração.
 
 #### ICMS
-
-Para adicionar ICMS à regra, clique no botão <span class=mat-button>Configurar ICMS</span> e uma aba será exibida no painel abaixo dele.
 
 Primeiro, você informa o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) padrão para esta regra e com base nesse código serão apresentados os campos que podem ser preenchidos. A imagem a seguir mostra duas opções diferentes de configuração com seus respectivos campos a serem configurados:
 
