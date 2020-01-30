@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T15:58:36.387Z
+date: 2020-01-30T16:04:32.009Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -81,7 +81,7 @@ Primeiro, você informa o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) padrã
 
 ![Campos para configuração do ICMS](/config/impostos/config-icms-campos.png)
 
-A tabela de alíquotas possui uma linha para cada UF porque o cenário da tributação pode mudar de acordo com as UF envolvidas, inclusive de acordo com a direção da operação. Se os valores para cada UF forem iguais, ou pelo menos para grande parte iguais, não é necessário preencher linha a linha, você pode preencher uma linha e replicar o valor para todas as outras, ou para as que ainda não foram preenchidas.
+A tabela de alíquotas possui uma linha para cada UF porque o cenário da tributação pode mudar de acordo com as UF envolvidas, inclusive de acordo com a direção da operação. Não é necessário preencher *todas* as linhas – preencha apenas para as linhas cuja UF sua empresa comercializa. Ainda, se você vai preencher para várias UF e os valores para cada uma forem iguais, ou pelo menos para grande parte iguais, não é necessário preencher linha a linha, você pode preencher uma linha e replicar o valor para todas as outras, ou para as que ainda não foram preenchidas.
 
 ![Replicar informação](/config/impostos/icms-replicate.gif)
 
