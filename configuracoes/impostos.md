@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T13:10:45.217Z
+date: 2020-01-30T13:21:49.342Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -50,13 +50,11 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 
 ### Vínculos
 
-![Vínculos da regra](/config/impostos/form-vinculos.png)
+![Vínculos possíveis para a regra](/config/impostos/regra-vinculos.gif)
 
-Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span>
+Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, caso você escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span> e, no diálogo que aparecer, informe o código específico ou a faixa de NCM.
 
--- --
-
-![Adicionar NCM ao vínculo](/config/impostos/modal-vinculo-ncm.png =400x){.align-left}
+![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x){.align-left}
 
 Vamos começar identificando as NCM que estarão vinculadas a esta regra. Para isso, clique no botão <span class=mat-button>Vincular NCM</span> e informe o código específico ou a faixa de NCM.
 
