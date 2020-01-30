@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T19:16:19.881Z
+date: 2020-01-30T19:26:11.149Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -140,8 +140,12 @@ Esta opção será exibida apenas se o [emitente](/configuracoes/emitente) estiv
 
 O procedimento é bastante simples, basta clicar no botão <span class=mat-button>Cadastrar alíquota</span> e no diálogo que aparecer, informar o mês e a alíquota:
 
-![adicionar-aliquota-simples.png](/config/impostos/adicionar-aliquota-simples.png)
+![Diálogo para adicionar alíquota](/config/impostos/adicionar-aliquota-simples.png)
 
 ## Localizar regras
 
-Em breve...
+Esta parte das configurações lhe ajuda a pesquisar se determinado código NCM ou CEST possui alguma configuração de tributação. Para fazer uma busca acesse o item pelo qual deseja buscar, digite o código em questão no campo de busca e vai ver se há alguma informação:
+
+![Busca de regra por NCM](/config/impostos/buscar-regra.png)
+
+Na lista de regras vinculadas, você pode clicar sobre um item para acessar a regra e visualizar detalhes ou alterar. Caso a busca não retorne nenhuma regra, significa que o código que você digitou não possui regra vinculada no sistema.
