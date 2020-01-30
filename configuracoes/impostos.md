@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T14:15:42.947Z
+date: 2020-01-30T14:58:12.509Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -116,3 +116,7 @@ Diferentemente do ICMS, que é um imposto **estadual**, o IPI é **federal**, po
 ![Campos para configuração de PIS e COFINS](/config/impostos/config-pis-cofins.png)
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. A base de cálculo é a mesma para as duas contribuições, mas a alíquota é específica de cada uma.
+
+### Revisão
+
+![Revisão da configuração da regra](/config/impostos/revisao.png)
