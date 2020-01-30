@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T13:09:12.387Z
+date: 2020-01-30T13:10:45.217Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -26,7 +26,7 @@ De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [
 
 ## Criando uma regra
 
-Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada passo desse assistente, que são:
+Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada um dos passos desse assistente, que são:
 
 - [Identificação](#identificacao)
 - [Vínculos](#vinculos)
@@ -38,7 +38,7 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 
 ### Identificação
 
-No primeiro passo você precisa definir um **nome** para a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
+No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
 
 - **Produtos importados**: Quando o produto tem origem estrangeira. Isto é indicado pelo campo **Origem** no [cadastro do produto](/cadastros/produtos).
 - **Consumidor final**: Quando a NF-e está marcada como operação para consumidor final.
