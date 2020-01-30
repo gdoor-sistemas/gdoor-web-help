@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T14:06:55.870Z
+date: 2020-01-30T14:10:20.058Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -96,7 +96,7 @@ Assim como na configuração de ICMS, a configuração de ICMS ST tem uma tabela
 
 ![Tabela de alíquotas do ICMS](/config/impostos/tabela-icms.png)
 
-E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de configuração do ICMS:
+E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de configuração do ICMS. As colunas **% BC ICMS** e **% Alíq. ICMS** serão exibidas no caso do vínculo por CEST, para que você possa definir o ICMS próprio do produto, que é necessário para o cálculo da Substituição Tributária. Caso o vínculo não seja o CEST, o ICMS próprio deve ser configurado na aba [ICMS](#icms).
 
 ![Campos para configuração do ICMS ST](/config/impostos/config-icms-st-campos.png)
 
