@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T11:52:40.777Z
+date: 2020-01-30T13:08:27.051Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -20,13 +20,20 @@ Primariamente, o sistema vem com 4 configurações, uma para cada operação ond
 
 ![Como é feito o vínculo entre produto e tributação do GDOOR WEB](/config/impostos/vinculo-produto-imposto.png =800x)
 
-Deste modo, as três configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
+Deste modo, as 4 configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
 
-De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [CEST](/glossario#cest). Esse vínculo é habilitado para regras que tenham ICMS ST e só será utilizado para para buscar configuração de ICMS ST.
+De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [CEST](/glossario#cest). Esse vínculo é uma exceção para especificar a configuração de [Substituição Tributária](/glossario#icms-st).
 
 ## Criando uma regra
 
-Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo. 
+Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada passo desse assistente, que são:
+
+- [Identificação](#identificacao)
+- [Vínculos](#vinculos)
+- [Tipo de imposto](#tipo-de-imposto)
+- [Impostos](#impostos)
+- [Revisão](#revisao)
+{.links-list}
 
 ![Assistente de configuração de regra](/config/impostos/formulario.png)
 
