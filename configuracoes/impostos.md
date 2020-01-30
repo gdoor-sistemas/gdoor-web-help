@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T13:46:16.042Z
+date: 2020-01-30T14:06:55.870Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -85,15 +85,16 @@ A tabela de alíquotas possui uma linha para cada UF porque o cenário da tribut
 
 ![Replicar informação](/config/impostos/icms-replicate.gif)
 
+> A coluna **CFOP** não é de informação obrigatória. Na verdade, o CFOP não é definido pela regra, mas varia de acordo com a operação que estiver sendo realizada. No entanto, a configuração dele na regra facilita o preenchimento automático para que você não precise especificar o CFOP a cada item adicionado a uma NF-e, por exemplo.
+{.is-info .gw .gw-note}
+
 #### ICMS ST
 
-Se o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) informado na aba **ICMS** indicar que há cobrança de ICMS por **Substituição Tributária**, também será habilitada a configuração de ICMS ST e o vínculo por CEST.
-
-![Configuração de ICMS ST](/config/impostos/config-icms-st.png)
+Esta aba será mostrada caso o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) informado na aba **ICMS** indicar que há cobrança de ICMS por **Substituição Tributária**, ou o vínculo escolhido for o **CEST**.
 
 Assim como na configuração de ICMS, a configuração de ICMS ST tem uma tabela com uma linha para cada UF. Por padrão, o sistema já preenche as alíquotas internas de cada UF conforme disposto pela [CONFAZ](/glossario#confaz):
 
-![Tabela de alíquotas do ICMS](/config/impostos/tabela-icms.jpg)
+![Tabela de alíquotas do ICMS](/config/impostos/tabela-icms.png)
 
 E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de configuração do ICMS:
 
