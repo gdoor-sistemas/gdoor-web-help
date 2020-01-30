@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T11:50:48.467Z
+date: 2020-01-30T11:52:40.777Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -28,7 +28,7 @@ De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [
 
 Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo. 
 
-![Assistente de configuração de regra](/tutoriais/config-impostos/formulario.png)
+![Assistente de configuração de regra](/config/impostos/formulario.png)
 
 ### Identificação
 
@@ -44,13 +44,13 @@ No primeiro passo você precisa definir um **nome** para a regra e o tipo de **o
 
 ### Vínculos
 
-![Vínculos da regra](/tutoriais/config-impostos/form-vinculos.png)
+![Vínculos da regra](/config/impostos/form-vinculos.png)
 
 Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span>
 
 -- --
 
-![Adicionar NCM ao vínculo](/tutoriais/config-impostos/modal-vinculo-ncm.png =400x){.align-left}
+![Adicionar NCM ao vínculo](/config/impostos/modal-vinculo-ncm.png =400x){.align-left}
 
 Vamos começar identificando as NCM que estarão vinculadas a esta regra. Para isso, clique no botão <span class=mat-button>Vincular NCM</span> e informe o código específico ou a faixa de NCM.
 
@@ -71,25 +71,25 @@ Para adicionar ICMS à regra, clique no botão <span class=mat-button>Configurar
 
 Primeiro, você informa o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) padrão para esta regra e com base nesse código serão apresentados os campos que podem ser preenchidos. A imagem a seguir mostra duas opções diferentes de configuração com seus respectivos campos a serem configurados:
 
-![Campos para configuração do ICMS](/tutoriais/config-impostos/config-icms-campos.png)
+![Campos para configuração do ICMS](/config/impostos/config-icms-campos.png)
 
 A tabela de alíquotas possui uma linha para cada UF porque o cenário da tributação pode mudar de acordo com as UF envolvidas, inclusive de acordo com a direção da operação. Se os valores para cada UF forem iguais, ou pelo menos para grande parte iguais, não é necessário preencher linha a linha, você pode preencher uma linha e replicar o valor para todas as outras, ou para as que ainda não foram preenchidas.
 
-![Replicar informação](/tutoriais/config-impostos/icms-replicate.gif)
+![Replicar informação](/config/impostos/icms-replicate.gif)
 
 #### ICMS ST
 
 Se o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) informado na aba **ICMS** indicar que há cobrança de ICMS por **Substituição Tributária**, também será habilitada a configuração de ICMS ST e o vínculo por CEST.
 
-![Configuração de ICMS ST](/tutoriais/config-impostos/config-icms-st.png)
+![Configuração de ICMS ST](/config/impostos/config-icms-st.png)
 
 Assim como na configuração de ICMS, a configuração de ICMS ST tem uma tabela com uma linha para cada UF. Por padrão, o sistema já preenche as alíquotas internas de cada UF conforme disposto pela [CONFAZ](/glossario#confaz):
 
-![Tabela de alíquotas do ICMS](/tutoriais/config-impostos/tabela-icms.jpg)
+![Tabela de alíquotas do ICMS](/config/impostos/tabela-icms.jpg)
 
 E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de configuração do ICMS:
 
-![Campos para configuração do ICMS ST](/tutoriais/config-impostos/config-icms-st-campos.png)
+![Campos para configuração do ICMS ST](/config/impostos/config-icms-st-campos.png)
 
 > O sistema traz alguns valores pré-preenchidos para facilitar a configuração. No entanto, é de extrema importância que você consulte a **contabilidade** da empresa para auxiliar nesse processo.
 {.is-warning .gw .gw-important}
@@ -98,7 +98,7 @@ E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de c
 
 Para adicionar IPI à regra, clique no botão <span class=mat-button>Configurar IPI</span> e uma aba será exibida no painel abaixo dele.
 
-![Campos para configuração do IPI](/tutoriais/config-impostos/config-ipi.png)
+![Campos para configuração do IPI](/config/impostos/config-ipi.png)
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. Se o código indicar isenção de IPI, será necessário informar o código do enquadramento legal do IPI, que classifica a incidência do imposto. Para obter esse código, você pode buscar uma tabela na internet ou consultar a contabilidade.
 
@@ -108,6 +108,6 @@ Diferentemente do ICMS, que é um imposto **estadual**, o IPI é **federal**, po
 
 Para adicionar PIS e COFINS à regra, clique no botão <span class=mat-button>Configurar PIS/COFINS</span> e uma aba será exibida no painel abaixo dele.
 
-![Campos para configuração de PIS e COFINS](/tutoriais/config-impostos/config-pis-cofins.png)
+![Campos para configuração de PIS e COFINS](/config/impostos/config-pis-cofins.png)
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. A base de cálculo é a mesma para os dois tributos, mas a alíquota é específica de cada um.
