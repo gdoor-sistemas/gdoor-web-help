@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T20:38:29.108Z
+date: 2020-02-03T20:39:12.798Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -45,7 +45,7 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 
 ![Assistente de configuração de regra](/config/impostos/formulario.png)
 
-#### Identificação
+#### Identificação{#identificacao}
 
 No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
 
@@ -57,7 +57,7 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 > Caso o produto seja uma exceção dentro de uma faixa de NCM, é possível vinculá-lo diretamente a uma regra. Este vínculo direto é feito no cadastro do produto e tem prioridade sobre as outras operações.
 {.is-info .gw .gw-note}
 
-#### Vínculos
+#### Vínculos{#vinculos}
 
 ![Vínculos possíveis para a regra](/config/impostos/regra-vinculos.gif)
 
@@ -139,7 +139,7 @@ Diferentemente do ICMS, que é um imposto **estadual**, o IPI é **federal**, po
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. A base de cálculo é a mesma para as duas contribuições, mas a alíquota é específica de cada uma.
 
-#### Revisão
+#### Revisão{#revisao}
 
 O último passo contém todos os dados como você configurou nos passos anteriores. Isso pode ajudá-lo a ter uma visão geral da configuração para checar se as informações estão corretas sem ter que rever cada passo. No título de cada seção há um botão **Ajustar** que direciona você para a seção em questão para que possa ajustar alguma informação.
 
