@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-01-30T19:26:11.149Z
+date: 2020-02-03T13:49:29.074Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -63,12 +63,13 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 
 Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, caso você escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span> e, no diálogo que aparecer, informe o código específico ou a faixa de NCM.
 
-![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x){.align-left}
+![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
+
+##### Exceção
 
 Ao confirmar o sistema verificará se não há conflito com outra regra para a mesma operação. Se duas faixas em regras diferentes para uma mesma operação se interceptarem, será mostrado um alerta e a faixa não poderá ser adicionada. Por exemplo: a **Regra 1**, para operações com **produtos importados** abrange a faixa de NCM **0101.00.00** até **0201.99.99**. A **Regra 2**, também para **produtos importados** abrange de **0200.00.00** até **0299.99.99**. Supondo que um determinado produto tenha a NCM **0200.01.01**, o sistema não saberá qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
 
 ##### Vínculo por CEST
-{.clearfix}
 
 Configurar uma regra e vincular pelo CEST é considerado uma exceção. Isso porque a tributação é definida pela NCM. O CEST é um código que especifica o produto quanto à **substituição tributária**, portanto, uma NCM pode ter vários CEST vinculados a ela. Assim sendo, quando você escolher o vínculo por CEST, apenas a configuração de ICMS ST ([veja mais abaixo](#icms-st)) será habilitada. O padrão de vínculo é o mesmo utilizado para a NCM.
 
