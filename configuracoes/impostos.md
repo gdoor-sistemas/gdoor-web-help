@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T13:49:29.074Z
+date: 2020-02-03T13:51:07.570Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -65,7 +65,7 @@ Neste passo você pode definir se esta regra será vinculada aos produtos por **
 
 ![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
 
-##### Exceção
+<h5 id=excecao class=toc-header>Exceções</h5>
 
 Ao confirmar o sistema verificará se não há conflito com outra regra para a mesma operação. Se duas faixas em regras diferentes para uma mesma operação se interceptarem, será mostrado um alerta e a faixa não poderá ser adicionada. Por exemplo: a **Regra 1**, para operações com **produtos importados** abrange a faixa de NCM **0101.00.00** até **0201.99.99**. A **Regra 2**, também para **produtos importados** abrange de **0200.00.00** até **0299.99.99**. Supondo que um determinado produto tenha a NCM **0200.01.01**, o sistema não saberá qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
 
