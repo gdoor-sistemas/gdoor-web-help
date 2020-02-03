@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-02-03T18:09:44.252Z
+date: 2020-02-03T19:32:07.147Z
 tags: cadastros, pessoas
 ---
 
@@ -116,7 +116,7 @@ Você pode informar três telefones no cadastro principal (**telefone**, **celul
 
 Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique em <span class=mat-button>Adicionar e-mail</span> e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*E-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão Remover (![Remover](/comum/remove.png){.inline}), ao lado do e-mail.
 
-![Quadro Telefones](/cadastros/pessoas/enderecos-eletronicos.png)
+![Quadro Endereços eletrônicos](/cadastros/pessoas/enderecos-eletronicos.png)
 
 ### Veículos
 
