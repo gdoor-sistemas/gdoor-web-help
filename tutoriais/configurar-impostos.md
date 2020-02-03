@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-02-03T16:35:04.231Z
+date: 2020-02-03T16:35:12.217Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
@@ -30,4 +30,4 @@ A próxima parte é a do vínculo. Escolha a opção **NCM**, clique no botão <
 
 > Uma breve explicação: estamos configurando uma tributação para venda de gás, e nossa empresa ficícia vende em vários recipientes diferentes, que estão cadastrados como vários produtos diferentes. Para não precisar vincular em cada um dos produtos, vamos vincular pela NCM. Assim, todo produto que tiver uma NCM que se encaixe nesta regra, será automaticamente vinculado a ela.
 
-Se esta regra for a primeira que você estiver criando, vai entrar em conflito com as que já vieram inicialmente criadas. Mas não se preocupe, é um processo comum. Conforme explicado [neste tópico](/configuracoes/impostos#exceçõ
+Se esta regra for a primeira que você estiver criando, vai entrar em conflito com as que já vieram inicialmente criadas. Mas não se preocupe, é um processo comum. Conforme explicado [neste tópico](/configuracoes/impostos#exceções)
