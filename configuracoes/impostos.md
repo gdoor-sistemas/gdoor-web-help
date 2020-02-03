@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T20:39:12.798Z
+date: 2020-02-03T20:40:00.941Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -45,7 +45,7 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 
 ![Assistente de configuração de regra](/config/impostos/formulario.png)
 
-#### Identificação{#identificacao}
+#### Identificação
 
 No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
 
@@ -57,7 +57,7 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 > Caso o produto seja uma exceção dentro de uma faixa de NCM, é possível vinculá-lo diretamente a uma regra. Este vínculo direto é feito no cadastro do produto e tem prioridade sobre as outras operações.
 {.is-info .gw .gw-note}
 
-#### Vínculos{#vinculos}
+#### Vínculos
 
 ![Vínculos possíveis para a regra](/config/impostos/regra-vinculos.gif)
 
@@ -65,7 +65,7 @@ Neste passo você pode definir se esta regra será vinculada aos produtos por **
 
 ![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
 
-##### Exceções
+##### Exceções{#excecao}
 
 Quando houver uma exceção dentro de uma faixa de código, você pode adicionar essa exceção clicando no botão <span class=mat-button>Exceção</span>. Assim, o vínculo já existente será recriado contornando essa exceção. Por exemplo: Suponhamos que haja uma regra que compreenda 2 grupos de NCM consecutivos: 24 e 25. Então, a faixa de NCM seria **2400.00.00** a **2599.99.99**. Aí você adiciona uma exceção, que é o **2501.00.00**. O novo vinculo ficará com duas faixas: **2400.00.00** a **2500.99.99**, e também **2501.00.01** a **2599.99.99**.
 
@@ -139,7 +139,7 @@ Diferentemente do ICMS, que é um imposto **estadual**, o IPI é **federal**, po
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. A base de cálculo é a mesma para as duas contribuições, mas a alíquota é específica de cada uma.
 
-#### Revisão{#revisao}
+#### Revisão
 
 O último passo contém todos os dados como você configurou nos passos anteriores. Isso pode ajudá-lo a ter uma visão geral da configuração para checar se as informações estão corretas sem ter que rever cada passo. No título de cada seção há um botão **Ajustar** que direciona você para a seção em questão para que possa ajustar alguma informação.
 
