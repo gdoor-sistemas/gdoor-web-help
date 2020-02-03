@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T13:52:00.496Z
+date: 2020-02-03T14:04:08.564Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -67,7 +67,13 @@ Neste passo você pode definir se esta regra será vinculada aos produtos por **
 
 ##### Exceções
 
-Ao confirmar o sistema verificará se não há conflito com outra regra para a mesma operação. Se duas faixas em regras diferentes para uma mesma operação se interceptarem, será mostrado um alerta e a faixa não poderá ser adicionada. Por exemplo: a **Regra 1**, para operações com **produtos importados** abrange a faixa de NCM **0101.00.00** até **0201.99.99**. A **Regra 2**, também para **produtos importados** abrange de **0200.00.00** até **0299.99.99**. Supondo que um determinado produto tenha a NCM **0200.01.01**, o sistema não saberá qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
+Ao adicionar um código ou faixa para o vínculo – seja NCM ou CEST – o sistema verificará se não há conflito com outra regra para a mesma operação. Por exemplo: supondo que a **Regra 1**, para operações com **produtos importados** abrangesse a faixa de NCM **0101.00.00** até **0201.99.99**. E a **Regra 2**, também para **produtos importados** abrangesse de **0200.00.00** até **0299.99.99**. Se um determinado produto tivesse a NCM **0200.01.01**, o sistema não saberia qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
+
+Assim, se duas faixas em regras diferentes para uma mesma operação se interceptarem, será mostrada uma confirmação para adicionar exceção na outra regra, para que não haja conflito. No caso do exemplo citado acima, a mensagem seria assim:
+
+![Confirmar adição de exceção](/config/impostos/conflito.png)
+
+Em caso de confirmação neste exemplo, o que aconteceria seria o seguinte: A **Regra 1** que abrangia a faixa de NCM 0101.00.00 a 0201.99.99
 
 ##### Vínculo por CEST
 
