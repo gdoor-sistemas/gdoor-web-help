@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T14:57:22.040Z
+date: 2020-02-03T15:05:26.561Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -66,6 +66,8 @@ Neste passo você pode definir se esta regra será vinculada aos produtos por **
 ![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
 
 ##### Exceções
+
+Quando houver uma exceção dentro de uma faixa de código, você pode adicionar essa exceção clicando no botão <span class=mat-button>Exceção</span>. Assim, o vínculo já existente será recriado contornando essa exceção. Por exemplo: Suponhamos que haja uma regra que compreenda 2 grupos de NCM consecutivos: 24 e 25. Então, a faixa de NCM seria **2400.00.00** a **2599.99.99**. Aí você adiciona uma exceção, que é o **2501.00.00**. O novo vinculo ficará com duas faixas: **2400.00.00** a **2500.99.99**, e também **2501.00.01** a **2599.99.99**.
 
 Ao adicionar um código ou faixa para o vínculo – seja NCM ou CEST – o sistema verificará se não há conflito com outra regra para a mesma operação. Por exemplo: supondo que a **Regra 1**, para operações com **produtos importados** abrangesse a faixa de NCM **0101.00.00** até **0201.99.99**. E a **Regra 2**, também para **produtos importados** abrangesse de **0200.00.00** até **0299.99.99**. Se um determinado produto tivesse a NCM **0200.01.01**, o sistema não saberia qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
 
