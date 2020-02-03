@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-02-03T17:23:40.088Z
+date: 2020-02-03T17:29:31.388Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 ---
 
@@ -46,7 +46,7 @@ Depois podemos ir direto para a aba **PIS/COFINS** onde indicaremos que essas co
 
 ![Configurar PIS e COFINS](/tutoriais/config-impostos/pis-cofins.png)
 
-Veja como ficou nossa configuração:
+Pronto, nossa configuração está concluída, veja como ficou na revisão. Não se esqueça de <span class="mat-button mat-accent">Salvar</span> no final da configuração:
 
 ![Revisão geral da configuração](/tutoriais/config-impostos/revisao.png)
 
