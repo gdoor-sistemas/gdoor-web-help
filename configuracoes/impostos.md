@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T14:04:08.564Z
+date: 2020-02-03T14:07:22.503Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -73,7 +73,7 @@ Assim, se duas faixas em regras diferentes para uma mesma operação se intercep
 
 ![Confirmar adição de exceção](/config/impostos/conflito.png)
 
-Em caso de confirmação neste exemplo, o que aconteceria seria o seguinte: A **Regra 1** que abrangia a faixa de NCM 0101.00.00 a 0201.99.99
+Em caso de confirmação neste exemplo, o que aconteceria seria o seguinte: A **Regra 2** agora abrange a faixa de NCM **0200.00.00** a **0299.99.99**. A **Regra 1** que abrangia a faixa de NCM **0101.00.00** a **0201.99.99**, agora abrange uma faixa menor, **0101.00.00** a **0199.99.99**.
 
 ##### Vínculo por CEST
 
