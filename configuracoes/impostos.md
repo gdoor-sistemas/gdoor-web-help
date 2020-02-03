@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T17:43:34.006Z
+date: 2020-02-03T20:37:33.231Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 ---
 
@@ -10,11 +10,12 @@ tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 
 Nesta seção das configurações você pode configurar:
 
-- [Regras de tributação *Veja como configurar ICMS, FCP, ICMS ST, IPI e PIS/COFINS no sistema*](#regras-de-tributação)
+- [Regras de tributação *Veja como configurar ICMS, FCP, ICMS ST, IPI e PIS/COFINS no sistema*](#regras)
 - [Alíquotas do SIMPLES *Veja onde informar as alíquotas de aproveitamento de crédito para empresas do SIMPLES*](#alíquotas-do-simples)
 - [Localizar regras por NCM e CEST *Localize rapidamente configurações vinculadas a uma NCM ou a um CEST*](#localizar-regras)
 {.links-list}
 
+<span id=regras></span>
 ## Regras de tributação
 
 Configuração de impostos é geralmente uma tarefa confusa, difícil de entender e muito trabalhosa. Essa parte do GDOOR WEB foi desenvolvida tendo como foco principal a praticidade, para que o usuário possa fazer isso sem muita dor de cabeça. Ainda é importante que isso seja feito com a ajuda de um responsável pela contabilidade da empresa, pois documentos com a declaração de impostos incorreta podem acarretar em pagamento de imposto indevido, multa, ou pode ser necessário depois de um tempo, pagar impostos atrasados.
