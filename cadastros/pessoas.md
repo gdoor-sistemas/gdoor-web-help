@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-02-17T14:16:28.729Z
+date: 2020-02-17T14:46:35.347Z
 tags: cadastros, pessoas
 ---
 
@@ -118,7 +118,7 @@ Além do e-mail principal e do site, você pode adicionar ao cadastro outros end
 
 ![Quadro Endereços eletrônicos](/cadastros/pessoas/enderecos-eletronicos.png)
 
-### Veículos
+### Veículos{#veiculos}
 
 Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar veículos.
 
