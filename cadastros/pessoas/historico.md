@@ -2,7 +2,7 @@
 title: Histórico da pessoa
 description: Veja os registros relacionados à pessoa em outros módulos do GDOOR WEB
 published: true
-date: 2020-02-14T20:47:37.158Z
+date: 2020-02-17T11:16:32.019Z
 tags: cadastros, pessoas, histórico
 ---
 
@@ -30,7 +30,7 @@ Esta aba será visível quando a pessoa tiver o atributo **Fornecedor** marcado.
 
 ## Produtos vendidos (vendedor)
 
-//
+Esta aba será visível quando a pessoa tiver o atributo **Fornecedor** marcado. Serão mostrados aqui todos os produtos comprados deste fornecedor. Você pode filtrar para mostrar o total de produtos comprados dentro de um período. Para mostrar os produtos de uma compra específica, acesse a aba [Compras](#compras-fornecedor) e clique na compra.
 
 ## Produtos comprados (fornecedor)
 
