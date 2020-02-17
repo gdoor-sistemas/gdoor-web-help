@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-02-03T19:36:08.286Z
+date: 2020-02-17T14:14:23.543Z
 tags: cadastros, pessoas
 ---
 
@@ -27,7 +27,7 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}). As opções de ação para esta tela são:
 
 - **Ver detalhes**: Vai para a tela de [detalhes](#detalhes);
-- **Nova venda**: Vai para a [tela de NF-e](/movimentos/nf-e#formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Nova venda**: Vai para a [tela de NF-e](/movimentos/nf-e/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
 - **Apagar**: Apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
