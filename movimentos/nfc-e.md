@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-08-06T13:02:42.095Z
+date: 2020-08-06T13:11:21.441Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
@@ -16,3 +16,7 @@ Este módulo do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV
 Por padrão, ao entrar no módulo de NFC-e, você vê a seguinte tela:
 
 ![Tela inicial da NFC-e](/movimentos/nfce/tela-inicial-nfce.png)
+
+O layout da NFC-e foi desenhado pensando na praticidade de um sistema de PDV, mas sem perder a aparência característica do GDOOR WEB. Na tela inicial exibida acima, você pode rapidamente acessar funções básicas como: **abrir** uma venda, acessar a **lista** de NFC-e, fazer uma **sangria** ou **suprimento** ou ainda, acessar as **configurações**. Você também pode personalizar a tela inicial, de modo que ao entrar no módulo de NFC-e, outra tela seja aberta por primeiro, como a lista ou uma nova venda ([Veja como fazer](#preferências)).
+
+## Preferências
