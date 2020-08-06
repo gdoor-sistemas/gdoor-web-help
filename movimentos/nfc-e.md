@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-08-06T13:14:50.089Z
+date: 2020-08-06T13:15:26.981Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
@@ -17,9 +17,9 @@ Por padrão, ao entrar no módulo de NFC-e, você vê a seguinte tela:
 
 ![Tela inicial da NFC-e](/movimentos/nfce/tela-inicial-nfce.png)
 
-O layout da NFC-e foi desenhado pensando na praticidade de um sistema de PDV, mas sem perder a aparência característica do GDOOR WEB. Na tela inicial exibida acima, você pode rapidamente acessar funções básicas como: **abrir** uma venda, acessar a **lista** de NFC-e, fazer uma **sangria** ou **suprimento** ou ainda, acessar as **configurações**. Você também pode personalizar a tela inicial, de modo que ao entrar no módulo de NFC-e, outra tela seja aberta por primeiro, como a lista ou uma nova venda ([Veja como fazer](#preferencias)).
+O layout da NFC-e foi desenhado pensando na praticidade de um sistema de PDV, mas sem perder a aparência característica do GDOOR WEB. Na tela inicial exibida acima, você pode rapidamente acessar funções básicas como: **abrir** uma venda, acessar a **lista** de NFC-e, fazer uma **sangria** ou **suprimento** ou ainda, acessar as **configurações**. Você também pode personalizar a tela inicial, de modo que ao entrar no módulo de NFC-e, outra tela seja aberta por primeiro, como a lista ou uma nova venda ([Veja como fazer](#preferências)).
 
-## Preferências{#preferencias}
+## Preferências
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean quis lobortis enim. Curabitur nunc erat, rutrum sit amet risus et, imperdiet rhoncus neque. Sed vel nulla fermentum, rhoncus velit vitae, porta quam. Nam semper turpis tellus. Quisque sit amet eleifend magna, et congue nisl. Phasellus convallis hendrerit placerat. Nulla velit nunc, elementum eget odio quis, malesuada condimentum neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tincidunt mauris quis leo vulputate scelerisque. Etiam sodales sodales magna in convallis. Vestibulum nunc ex, posuere nec sem sit amet, egestas congue nisi.
 
