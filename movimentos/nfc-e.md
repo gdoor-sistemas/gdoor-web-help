@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-08-06T18:52:34.212Z
+date: 2020-08-25T19:13:24.878Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
@@ -27,7 +27,11 @@ Em todas as telas da NFC-e, você verá na área central superior uma barra que 
 
 ## Lista
 
-//
+Na tela de lista, você visualiza as NFC-e emitidas e pode fazer uma busca ou filtro para visualizar apenas dados pertinentes ao que você precisa. 
+
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Os filtros serão salvos no navegador, então, se você trocar de computador ou usar outro navegador, precisará refazer os filtros, se for necessário. Para fazer um filtro na lista, clique no botão de filtro ao lado do campo de busca:
+
+![Filtro na lista de NFC-e](/movimentos/nfce/filtro-lista-nfce.png)
 
 ## Inutilizar numeração
 
