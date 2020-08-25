@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-08-25T19:44:28.193Z
+date: 2020-08-25T20:12:34.121Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
@@ -39,7 +39,7 @@ No painel de filtros destacado na imagem acima, você encontra, no canto direito
 
 ![Opções do filtro](/movimentos/nfce/opcoes-filtro-nfce.png =200x){.float-right .clearfix}
 
-<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em **Definir como padrão**. Para remover um filtro padrão, clique neste botão, depois em **Remover padrão**.
+<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em **Definir como padrão**. Para remover um filtro padrão, clique neste botão, depois em **Remover padrão**. A imagem ao lado mostra essas opções:
 
 ## Inutilizar numeração
 
