@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T15:04:35.582Z
+date: 2020-09-01T15:47:11.795Z
 tags: nfc-e
 editor: markdown
 ---
@@ -71,8 +71,19 @@ Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-
 
 As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:
 
-- <span class="mdi mdi-check"> Selecionar</span>
+<span class="mat-button mdi mdi-file-refresh"> Atualizar e transmitir</span>
+
+Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Aplica na NFC-e a tributação conforme as configurações, depois transmite a nota autorizada para a [SEFAZ](/glossario#sefaz).
+
+<span class="mat-button mdi mdi-content-duplicate"> Invalidar e criar nova</span>
+
+Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Inutiliza a numeração atribuída a esta NFC-e e gera uma nova, com os mesmos dados da atual, com a próxima numeração disponível. A nova NFC-e gerada será aberta para edição.
+
+<span class="mat-button mdi mdi-check"> Selecionar</span>
+
 Visível para todas NFC-e. Inicia o modo de [seleção múltipla](#selecao-multipla).
-- <span class="mdi mdi-refresh-circle"> Consultar status</span>
-Visível para as NFC-e enviadas para a [SEFAZ](/glossario#sefaz) e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
-- 
+
+<span class="mat-button mdi mdi-refresh-circle"> Consultar status</span>
+
+Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
+
