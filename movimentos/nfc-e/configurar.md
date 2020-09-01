@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-01T21:45:31.900Z
+date: 2020-09-01T22:02:59.719Z
 tags: nfc-e
 editor: markdown
 ---
@@ -15,7 +15,19 @@ As configurações da NFC-e são gerais para todos os usuários, e somente usuá
 
 ## Operação padrão
 
+![Configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
+
+Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [Cadastro de operações](/cadastros/operacoes).
+
 ## Comportamento
+
+![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x){.float-left}
+
+Nesta seção você configura como o sistema deve se comportar em determinadas situações. Veja em detalhes as opções:
+
+**Solicitar cliente**
+
+Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cliente seja informado. Não será obrigatório informar, podendo a solicitação ser fechada e a venda prosseguirá normalmente. Ainda será possível informar/alterar o cliente mais tarde.
 
 ## Certificado digital
 
