@@ -2,17 +2,14 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-09-01T19:31:32.779Z
+date: 2020-09-01T19:31:57.576Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
 
 # Nota Fiscal de Consumidor eletrônica
 
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XzZJwLsyAzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzZJwLsyAzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este módulo do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse. 
 
