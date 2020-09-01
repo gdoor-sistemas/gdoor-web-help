@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T11:47:32.566Z
+date: 2020-09-01T12:45:01.545Z
 tags: nfc-e
 editor: markdown
 ---
@@ -22,3 +22,5 @@ No painel de filtros destacado na imagem acima, você encontra, no canto direito
 ![Opções do filtro](/movimentos/nfce/opcoes-filtro-nfce.png =200x){.float-right .clearfix}
 
 <span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em **Definir como padrão**. Para remover um filtro padrão, clique neste botão, depois em **Remover padrão**. A imagem ao lado mostra essas opções:
+
+s
