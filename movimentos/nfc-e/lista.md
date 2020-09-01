@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T14:53:30.199Z
+date: 2020-09-01T15:04:35.582Z
 tags: nfc-e
 editor: markdown
 ---
@@ -71,7 +71,8 @@ Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-
 
 As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:
 
-|Opção|Visibilidade|Ação|
-|-----|:----------:|----|
-|<span class="mdi mdi-check"> Selecionar</span>|Todas|Inicia o modo de [seleção múltipla](#selecao-multipla)|
-|<span class="mdi mdi-refresh-circle"> Consultar status</span>|Enviadas para a [SEFAZ](/glossario#sefaz) e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade||
+- <span class="mdi mdi-check"> Selecionar</span>
+Visível para todas NFC-e. Inicia o modo de [seleção múltipla](#selecao-multipla).
+- <span class="mdi mdi-refresh-circle"> Consultar status</span>
+Visível para as NFC-e enviadas para a [SEFAZ](/glossario#sefaz) e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
+- 
