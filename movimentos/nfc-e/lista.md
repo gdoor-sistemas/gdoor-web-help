@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T15:47:11.795Z
+date: 2020-09-01T16:14:29.787Z
 tags: nfc-e
 editor: markdown
 ---
@@ -71,6 +71,10 @@ Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-
 
 As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:
 
+<span class="mat-button mdi mdi-check"> Selecionar</span>
+
+Visível para todas NFC-e. Inicia o modo de [seleção múltipla](#selecao-multipla).
+
 <span class="mat-button mdi mdi-file-refresh"> Atualizar e transmitir</span>
 
 Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Aplica na NFC-e a tributação conforme as configurações, depois transmite a nota autorizada para a [SEFAZ](/glossario#sefaz).
@@ -79,11 +83,34 @@ Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Ap
 
 Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Inutiliza a numeração atribuída a esta NFC-e e gera uma nova, com os mesmos dados da atual, com a próxima numeração disponível. A nova NFC-e gerada será aberta para edição.
 
-<span class="mat-button mdi mdi-check"> Selecionar</span>
+<span class="mat-button mdi mdi-file-send"> Transmitir</span>
 
-Visível para todas NFC-e. Inicia o modo de [seleção múltipla](#selecao-multipla).
+Visível para as NFC-e ainda não transmitidas. Envia o [XML](/glossario#xml) da NFC-e para a SEFAZ.
 
 <span class="mat-button mdi mdi-refresh-circle"> Consultar status</span>
 
 Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
 
+<span class="mat-button mdi mdi-content-copy"> Copiar chave de acesso</span>
+
+Visível para as NFC-e que possuem chave de acesso. Copia a chave de acesso para a área de transferência.
+
+<span class="mat-button mdi mdi-email"> Enviar por e-mail</span>
+
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Envia um e-mail para o endereço do cadastro do cliente com o XML da NFC-e. Caso esteja configurado, envia também o DANFCe. [Veja como configurar](/movimentos/nfc-e/configurar#email).
+
+<span class="mat-button mdi mdi-file-pdf"> Visualizar DANFCe</span>
+
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
+
+<span class="mat-button mdi mdi-xml"> Visualizar XML</span>
+
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o [arquivo XML](/glossario#xml) gerado para a NFC-e.
+
+<span class="mat-button mdi mdi-file-eye"> Pré-visualizar DANFCe</span>
+
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
+
+<span class="mat-button mdi mdi-xml"> Visualizar XML</span>
+
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o [arquivo XML](/glossario#xml) gerado para a NFC-e.
