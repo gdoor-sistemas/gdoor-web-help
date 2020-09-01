@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-01T22:02:59.719Z
+date: 2020-09-01T22:03:44.467Z
 tags: nfc-e
 editor: markdown
 ---
@@ -21,7 +21,7 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 ## Comportamento
 
-![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x){.float-left}
+![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x){.float-left .mr10}
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações. Veja em detalhes as opções:
 
