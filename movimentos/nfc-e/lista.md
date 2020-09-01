@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T16:14:29.787Z
+date: 2020-09-01T16:23:18.035Z
 tags: nfc-e
 editor: markdown
 ---
@@ -109,8 +109,20 @@ Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou dene
 
 <span class="mat-button mdi mdi-file-eye"> Pré-visualizar DANFCe</span>
 
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
+Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia se como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
 
-<span class="mat-button mdi mdi-xml"> Visualizar XML</span>
+<span class="mat-button mdi mdi-file-code"> Pré-visualizar XML</span>
 
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o [arquivo XML](/glossario#xml) gerado para a NFC-e.
+Visível para as NFC-e ainda não transmitidas. Permite visualizar como o [arquivo XML](/glossario#xml) será gerado para a NFC-e para transmissão. É só uma visualização e o arquivo sempre será gerado novamente a partir dos dados atualizados da NFC-e no momento da transmissão.
+
+<span class="mat-button mdi mdi-download"> Salvar documento</span>
+
+Visível para as NFC-e autorizadas. Possibilita download do arquivo XML da NFC-e, bem como o DANFCe em PDF.
+
+<span class="mat-button mdi mdi-cancel"> Cancelar NFC-e</span>
+
+Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante à SEFAZ.
+
+<span class="mat-button mdi mdi-delete"> Exluir NFC-e</span>
+
+Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela será eliminada da base de dados e não será possível recuperá-la novamente.
