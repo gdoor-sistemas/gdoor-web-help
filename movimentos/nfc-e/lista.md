@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T18:56:32.540Z
+date: 2020-09-01T18:57:52.730Z
 tags: nfc-e
 editor: markdown
 ---
