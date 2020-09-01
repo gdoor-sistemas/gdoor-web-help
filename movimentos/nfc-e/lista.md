@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T17:13:51.923Z
+date: 2020-09-01T18:56:32.540Z
 tags: nfc-e
 editor: markdown
 ---
@@ -10,6 +10,17 @@ editor: markdown
 # Lista de NFC-e
 
 Na tela de lista, você visualiza as NFC-e emitidas e pode fazer uma busca ou filtro para visualizar apenas dados pertinentes ao que você precisa.
+
+## Busca
+
+Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para limpar a busca (<em class="mdi mdi-close"></em>) que fica no final do campo de busca. Para aplicar [filtros](#filtros) aprimorados, clique no botão "Filtrar" (<em class="mdi mdi-filter"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "Atualizar lista" (<em class="mdi mdi-refresh"></em>) à direita.
+
+![Busca na lista e filtros na NFC-e](/movimentos/nfce/nfce-lista-buscar.png)
+
+> O que você digitar será buscado entre as seguintes informações da NFC-e: 
+> Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da nota**
+> Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**
+{.is-success .gw .gw-tip}
 
 ## Filtros
 
@@ -139,3 +150,8 @@ Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou d
 
 As ações disponíves confome indicado na imagem ao lado são: 1) **transmitir** as NFC-e selecionadas, 2) **excluir** as NFC-e selecionadas e 3) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todas as NFC-e selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar uma NFC-e **Pendente** e outra **Autorizada**, as ações não estarão disponíveis.
+
+> Utilizando a transmissão pelo modo de seleção múltipla, as NFC-e serão enviadas para uma fila de processamento em segundo plano e poderão demorar alguns minutos para serem transmitidas. Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
+> Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
+![Indicativo de envio de NFC-e em segundo plano](/movimentos/nfce/nfce-envio-segundo-plano.png)
+{.is-info}
