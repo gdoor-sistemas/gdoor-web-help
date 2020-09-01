@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T17:10:28.824Z
+date: 2020-09-01T17:11:44.732Z
 tags: nfc-e
 editor: markdown
 ---
@@ -137,5 +137,5 @@ Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou d
 
 ![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png){.float-right}
 
-As ações disponíves confome indicado na imagem ao lado são: 1) **transmitir** as NFC-e selecionadas, 2) **excluir** as NFC-e selecionadas e 3) **fechar** o modo de seleção múltipla.
+As ações disponíves confome indicado na imagem ao lado são: 1) **transmitir** as NFC-e selecionadas, 2) **excluir** as NFC-e selecionadas e 3) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todas as NFC-e selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar uma NFC-e **Pendente** e outra **Autorizada**, as ações não estarão disponíveis.
