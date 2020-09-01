@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T13:54:50.422Z
+date: 2020-09-01T14:11:22.145Z
 tags: nfc-e
 editor: markdown
 ---
@@ -52,3 +52,7 @@ Para aplicar um filtro, clique no botão <span class=mat-button>Aplicar</span>, 
 No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar as NFC-e em partes pra não carregar todas de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
 ![Controle de paginação](/movimentos/nfce/nfce-paginacao.png)
+
+Em cada item da lista você pode encontrar as seguintes informações:
+
+![nfce-item-lista-informacoes.png](/movimentos/nfce/nfce-item-lista-informacoes.png)
