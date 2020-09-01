@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T14:42:47.432Z
+date: 2020-09-01T14:53:30.199Z
 tags: nfc-e
 editor: markdown
 ---
@@ -69,3 +69,9 @@ Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-
 
 ![Ações de contexto para a NFC-e](/movimentos/nfce/nfce-acoes-contexto.gif)
 
+As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:
+
+|Opção|Visibilidade|Ação|
+|-----|:----------:|----|
+|<span class="mdi mdi-check"> Selecionar</span>|Todas|Inicia o modo de [seleção múltipla](#selecao-multipla)|
+|<span class="mdi mdi-refresh-circle"> Consultar status</span>|Enviadas para a [SEFAZ](/glossario#sefaz) e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade||
