@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-09-01T12:03:29.259Z
+date: 2020-09-01T14:30:23.038Z
 tags: movimentos, nfc-e
 editor: markdown
 ---
@@ -19,7 +19,7 @@ Por padrão, ao entrar no módulo de NFC-e, você verá a seguinte tela:
 
 O layout da NFC-e foi desenhado pensando na praticidade de um sistema de PDV, mas sem perder a aparência característica do GDOOR WEB. Na tela inicial exibida acima, você pode rapidamente acessar funções básicas como: **abrir** uma venda, acessar a **lista** de NFC-e, fazer uma **sangria** ou **suprimento** ou ainda, acessar as **configurações**. Você também pode personalizar a tela inicial, de modo que ao entrar no módulo de NFC-e, outra tela seja aberta por primeiro, como a lista ou uma nova venda ([Veja como fazer](/movimentos/nfc-e/preferencias)).
 
-O módulo de NFC-e foi tratado para se adaptar ao modo **tela cheia**, assim, ao usar PDV, o operador pode ficar sem distrações. Para entrar ou sair do modo tela cheia, você pode clicar no botão [![](/movimentos/nfce/botao-tela-cheia.png){.inline} ou ![](/movimentos/nfce/botao-tela-cheia2.png){.inline}] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
+O módulo de NFC-e foi tratado para se adaptar ao modo **tela cheia**, assim, ao usar PDV, o operador pode ficar sem distrações. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
 
 Em todas as telas da NFC-e, você verá na área central superior uma barra que contém: na esquerda, o título da tela que identifica onde você está; na direita, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
 
