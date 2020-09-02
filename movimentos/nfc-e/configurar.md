@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T13:18:35.246Z
+date: 2020-09-02T16:41:51.328Z
 tags: nfc-e
 editor: markdown
 ---
@@ -71,7 +71,7 @@ Nº da próxima NFC-e{.subtitle}
 
 Apenas informe um valor neste campo caso você já tenha transmitido NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. O próximo número disponível não fica gravado neste campo, ele serve apenas para informar um ponto de partida para o sistema.
 
-> Não é necessário informar o número 1, caso você esteja começando a emitir NFC-e agora. Pois naturalmente o sistema começará pelo número 1.
+> Não é necessário informar o número 1, caso você esteja começando a emitir NFC-e agora, pois o sistema naturalmente começará pelo número 1.
 {.is-info}
 
 Forma de emissão{.subtitle}
@@ -95,6 +95,24 @@ Código CSC{.subtitle}
 Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) da NFC-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. Os documentos informados aqui serão adicionados em cada NFC-e gerada. Para adicionar um documento, digite o número no campo intitulado "Adicionar CNPJ/CPF" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
 
 ## Impressão do DANFCe
+
+![Configurar a impressão do DANFCe](/movimentos/nfce/nfce-configurar-impressao-danfce.png)
+
+Nesta seção você configura detalhes sobre a impressão do [DANFCe](/glossario#danfce). Veja o que pode ser alterado:
+
+Fonte{.subtitle}
+
+Estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial** (sem serifa) e **Courier** (monoespaçada).
+
+Imprimir logo{.subtitle}
+
+Indique aqui se a impressão do DANFCe deve conter a logomarca da sua empresa. Será considerada a informada no [Cadastro do emitente](/configuracoes/emitente).
+
+Imprimir depois de autorizar{.subtitle}
+
+Indique aqui se após a autorização da NFC-e o sistema deve automaticamente abrir a janela para impressão do DANFCe.
+
+> Atualmente o sistema não tem como enviar a impressão do DANFCe direto para uma impressora, pois isso é uma limitação comum de uma página da Web. No entanto, a impressão pode ser realizada normalmente por meio do diálogo de impressão que o navegador abrirá.
 
 ## Meios de pagamento
 
