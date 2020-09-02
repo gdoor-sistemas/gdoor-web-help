@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T17:15:18.178Z
+date: 2020-09-02T17:17:02.955Z
 tags: nfc-e
 editor: markdown
 ---
@@ -124,7 +124,7 @@ Para adicionar tornar um meio de pagamento disponível na NFC-e, depois de cadas
 
 ## Mensagem promocional
 
-![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional.png)
+![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
 
 Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce). Será aplicada somente nas novas NFC-e geradas.
 
