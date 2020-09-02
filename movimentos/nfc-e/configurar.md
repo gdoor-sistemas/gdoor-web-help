@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T17:17:02.955Z
+date: 2020-09-02T19:03:24.431Z
 tags: nfc-e
 editor: markdown
 ---
@@ -130,6 +130,39 @@ Nesta seção você pode informar uma mensagem a ser impressa junto com as infor
 
 ## E-mail
 
+![Configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
+
+Nesta seção você define configurações gerais sobre o envio de e-mails da NFC-e.
+
+Na primeira parte você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo GDOOR WEB. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
+
+![Aplicação do e-mail de resposta](/movimentos/nfce/nfce-configurar-email-resposta.png)
+
+As demais opções refletem no seguinte:
+
+Enviar e-mail automaticamente{.subtitle}
+
+Com esta opção marcada, após a **autorização** da NFC-e, o sistema irá enviar um e-mail para o endereço informado no [cadastro do cliente](/cadastros/pessoas#emails).
+
+Cópia para o emitente{.subtitle}
+
+Com esta opção marcada, sempre que enviar um e-mail de NFC-e, uma cópia será enviada para o endereço informado no [cadastro do emitente](/configuracoes/emitente).
+
+Anexar PDF{.subtitle}
+
+Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail — que é obrigatório — o PDF do [DANFCe](/glossario#danfce) também será anexado.
+
 ## E-mails padrão
+
+![Configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
+
+Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para notificar a autorização da NFC-e, quanto o seu cancelamento.
+
+Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para fazer as modificações. No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
+
+![Utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
+
+> Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
+{.is-success .gw .gw-tip}
 
 ## Sangria e suprimento
