@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-01T22:03:44.467Z
+date: 2020-09-02T12:15:01.382Z
 tags: nfc-e
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações. Veja em detalhes as opções:
 
-**Solicitar cliente**
+Solicitar cliente{.subtitle}
 
 Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cliente seja informado. Não será obrigatório informar, podendo a solicitação ser fechada e a venda prosseguirá normalmente. Ainda será possível informar/alterar o cliente mais tarde.
 
