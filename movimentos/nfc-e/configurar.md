@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T17:01:21.773Z
+date: 2020-09-02T17:03:47.379Z
 tags: nfc-e
 editor: markdown
 ---
@@ -118,11 +118,13 @@ Indique aqui se após a autorização da NFC-e o sistema deve automaticamente ab
 
 Nesta seção você pode escolher quais [meios de pagmento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
 
-Para adicionar tornar um meio de pagamento disponível na NFC-e, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido na imagem acima. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
+Para adicionar tornar um meio de pagamento disponível na NFC-e, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
 ![Configurar meios de pagamento na NFC-e](/movimentos/nfce/nfce-configurar-pagamentos-ordem.gif)
 
 ## Mensagem promocional
+
+![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional.png)
 
 ## E-mail
 
