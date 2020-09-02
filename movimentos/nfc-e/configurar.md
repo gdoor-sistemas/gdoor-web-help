@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T12:41:37.596Z
+date: 2020-09-02T12:59:16.305Z
 tags: nfc-e
 editor: markdown
 ---
@@ -55,7 +55,30 @@ Nesta seção, você adiciona o [certificado digital](/glossario#certificado-dig
 
 ## Ambiente da NFC-e {#ambiente}
 
+![Configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
 
+Nesta seção você configura dados para a geração da NFC-e. Abaixo, veja detalhes de cada configuração.
+
+Série da NFC-e{.subtitle}
+
+Série de emissão da NFC-e. Esta informação pode ser obtida com sua contabilidade.
+
+Ambiente de emissão{.subtitle}
+
+Aqui você determina se as suas NFC-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de produção, as NFC-e transmitidas terão valor fiscal.
+
+Nº da próxima NFC-e{.subtitle}
+
+Apenas informe um valor neste campo caso você já tenha transmitido NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. O próximo número disponível não fica gravado neste campo, ele serve apenas para informar um ponto de partida para o sistema.
+
+> Não é necessário informar o número 1, caso você esteja começando a emitir NFC-e agora. Pois naturalmente o sistema começará pelo número 1.
+{.is-info}
+
+Forma de emissão{.subtitle}
+
+Neste campo você pode configurar a forma de emissão da NFC-e para: 
+- **Normal**: emissão mais comum, sem condições específicas.
+- **Contingência offline**: emissão da NFC-e em modo offline, para quando o servidor da [SEFAZ](/glossario#sefaz) estiver indisponível. [Saiba mais](../contingencia).
 
 ## Impressão do DANFCe
 
