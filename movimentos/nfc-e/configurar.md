@@ -2,7 +2,7 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T12:59:16.305Z
+date: 2020-09-02T12:59:57.958Z
 tags: nfc-e
 editor: markdown
 ---
@@ -78,7 +78,7 @@ Forma de emissão{.subtitle}
 
 Neste campo você pode configurar a forma de emissão da NFC-e para: 
 - **Normal**: emissão mais comum, sem condições específicas.
-- **Contingência offline**: emissão da NFC-e em modo offline, para quando o servidor da [SEFAZ](/glossario#sefaz) estiver indisponível. [Saiba mais](../contingencia).
+- **Contingência offline**: emissão da NFC-e em modo offline, para quando o servidor da [SEFAZ](/glossario#sefaz) estiver indisponível. [Saiba mais](contingencia).
 
 ## Impressão do DANFCe
 
