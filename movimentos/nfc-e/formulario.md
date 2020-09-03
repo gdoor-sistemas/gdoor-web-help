@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-03T19:10:26.948Z
+date: 2020-09-03T19:13:02.636Z
 tags: nfc-e
 editor: markdown
 ---
@@ -30,6 +30,6 @@ Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e
 
 ## Criando uma NFC-e
 
-A tela de lançamento da NFC-e tem por objetivo mostrar apenas o que você precisa para lançar
+A tela de lançamento da NFC-e tem por objetivo mostrar apenas o que você precisa para lançar produtos e visualizar o que está acontecendo. Todas as ações disponíveis para o lançamento estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
 ### Vendedor
