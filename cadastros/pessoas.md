@@ -2,8 +2,8 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-08-12T15:08:20.087Z
-tags: cadastros, pessoas
+date: 2020-09-03T16:51:04.188Z
+tags: cadastros, pessoas, visão geral
 editor: markdown
 ---
 
