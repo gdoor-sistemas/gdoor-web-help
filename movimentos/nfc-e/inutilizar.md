@@ -2,7 +2,7 @@
 title: Inutilizar numeração de NFC-e
 description: Informe à SEFAZ os números que você pulou
 published: true
-date: 2020-09-03T15:05:26.064Z
+date: 2020-09-03T15:08:07.323Z
 tags: nfc-e, sefaz
 editor: markdown
 ---
