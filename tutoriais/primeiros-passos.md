@@ -2,7 +2,7 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2020-09-03T18:19:20.102Z
+date: 2020-09-03T18:34:20.911Z
 tags: primeiros passos, tutorial, gdoor web, como fazer
 editor: markdown
 ---
@@ -41,7 +41,7 @@ Para cadastrar usuários, acesse o módulo [Usuários](/configuracoes/usuarios) 
 
 ## Configuração de NF-e/NFC-e
 
-Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre as configurações da NF-e você encontra no tutorial [Emitindo uma NF-e](/tutoriais/emitindo-uma-nfe).
+Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre as configurações da NF-e você encontra no tutorial [Como emitir uma NF-e](/tutoriais/como-emitir-uma-nfe).
 
 ## Cadastros
 
