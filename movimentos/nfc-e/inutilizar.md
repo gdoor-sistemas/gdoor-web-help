@@ -2,7 +2,7 @@
 title: Inutilizar numeração de NFC-e
 description: Informe à SEFAZ os números que você pulou
 published: true
-date: 2020-09-03T14:45:39.118Z
+date: 2020-09-03T14:49:48.485Z
 tags: nfc-e, sefaz
 editor: markdown
 ---
@@ -41,4 +41,7 @@ Justificativa do pedido de inutilização{.subtitle}
 
 Com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
 
+> Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
+{.is-success .gw .gw-tip}
 
+Clicando no botão <span mat-button>Ver inutilizados</span>
