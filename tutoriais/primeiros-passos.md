@@ -2,8 +2,9 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2019-12-26T12:42:10.038Z
-tags: 
+date: 2020-09-03T18:19:20.102Z
+tags: primeiros passos, tutorial, gdoor web, como fazer
+editor: markdown
 ---
 
 # Obtive acesso ao GDOOR WEB, e agora?
@@ -38,9 +39,9 @@ Caso várias pessoas na sua empresa venham a utilizar o sistema, é ideal que ca
 
 Para cadastrar usuários, acesse o módulo [Usuários](/configuracoes/usuarios) na seção **Configurações**. Ao cadastrar um usuário, será necessário informar um e-mail para acessar o sistema e uma senha inicial, que ele poderá alterar depois. Assim que cadastrado o usuário, será necessário definir suas permissões, ou seja, o que ele pode fazer depois de logado no sistema. Você pode definir [perfis de permissões](/configuracoes/permissoes#perfis) para atribuir as mesmas a um grupo de usuários, ou defini-las uma a uma.
 
-## Configuração de NF-e
+## Configuração de NF-e/NFC-e
 
-Para iniciar a emissão de NF-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre a configuração da NF-e você encontra no tutorial [Emitindo uma NF-e](/tutoriais/emitindo-uma-nfe).
+Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre as configurações da NF-e você encontra no tutorial [Emitindo uma NF-e](/tutoriais/emitindo-uma-nfe).
 
 ## Cadastros
 
