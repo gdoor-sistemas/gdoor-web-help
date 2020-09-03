@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-09-03T17:15:53.067Z
+date: 2020-09-03T17:16:18.585Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 ---
@@ -33,39 +33,39 @@ Em todas as telas da NFC-e, você verá na área central superior uma barra que 
 
 ---
 
-# Seções
+## Seções
 
 Veja detalhes sobre cada seção de NFC-e acessando os artigos abaixo:
 
-## Formulário{.hidden}
+### Formulário{.hidden}
 - [Formulário *Entenda em detalhes a tela de geração de NFC-e*](/movimentos/nfc-e/formulario)
 {.links-list}
 
-## Lista{.hidden}
+### Lista{.hidden}
 - [Lista *Faça filtros e manipule suas NFC-e pela lista*](/movimentos/nfc-e/lista)
 {.links-list}
 
-## Inutilizar numeração{.hidden}
+### Inutilizar numeração{.hidden}
 - [Inutilizar numeração *Inutilize numeração que tenha pulado*](/movimentos/nfc-e/inutilizar)
 {.links-list}
 
-## XML do mês{.hidden}
+### XML do mês{.hidden}
 - [XML do mês *Baixe ou envie para a contabilidade*](/movimentos/nfc-e/xml-mes)
 {.links-list}
 
-## Contingência{.hidden}
+### Contingência{.hidden}
 - [Contingência *Habilite ou desabilite a NFC-e offline*](/movimentos/nfc-e/contingencia)
 {.links-list}
 
-## Sangria e suprimento{.hidden}
+### Sangria e suprimento{.hidden}
 - [Sangria/suprimento *Controle o dinheiro do seu caixa*](/movimentos/nfc-e/sangria-suprimento)
 {.links-list}
 
-## Configurações{.hidden}
+### Configurações{.hidden}
 - [Configurações *Configure o funcionamento da sua NFC-e*](/movimentos/nfc-e/configurar)
 {.links-list}
 
-## Preferências{.hidden}
+### Preferências{.hidden}
 - [Preferências *Defina preferências de comportamento da NFC-e para o seu usuário*](/movimentos/nfc-e/preferencias)
 {.links-list}
 
