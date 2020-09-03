@@ -2,12 +2,10 @@
 title: Inutilizar numeração de NFC-e
 description: Informe à SEFAZ os números que você pulou
 published: true
-date: 2020-09-03T14:25:04.335Z
+date: 2020-09-03T14:34:29.768Z
 tags: nfc-e, sefaz
 editor: markdown
 ---
-
-
 
 ## O que é a inutilização?
 
@@ -15,4 +13,8 @@ A inutilização é um processo herdado do tempo em que se faziam as notas fisca
 
 > Considerando que a nota não existe perante à SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
 
-## No GDOOR WEB
+## Como fazer no GDOOR WEB?
+
+Para inutilizar uma numeração de NFC-e no GDOOR WEB, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
+
+![Acesso à inutilização na NFC-e](/movimentos/nfce/nfce-inutilizar-acesso.png)
