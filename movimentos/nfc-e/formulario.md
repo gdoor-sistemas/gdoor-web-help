@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-03T20:27:06.338Z
+date: 2020-09-03T20:33:06.584Z
 tags: nfc-e
 editor: markdown
 ---
@@ -45,5 +45,10 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
+
+### Adicionando um serviço
+
+> Para poder adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral), e depois [cadastrar os serviços](/cadastros/servicos).
+{.is-info}
 
 ### Vendedor
