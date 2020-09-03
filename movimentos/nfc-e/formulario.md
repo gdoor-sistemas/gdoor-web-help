@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-03T19:08:55.567Z
+date: 2020-09-03T19:09:48.169Z
 tags: nfc-e
 editor: markdown
 ---
@@ -24,7 +24,9 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e:
 
-<div class=text-center></div>
+<div class=text-center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2PUfV6476j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Criando uma NFC-e
 
