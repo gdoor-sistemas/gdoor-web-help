@@ -2,12 +2,10 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-09-03T17:14:56.214Z
+date: 2020-09-03T17:15:53.067Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 ---
-
-# NFC-e
 
 ## Introdução
 
