@@ -2,10 +2,11 @@
 title: Preferências do usuário
 description: Veja como deixar o GDOOR WEB do jeito que você preferir trabalhar
 published: true
-date: 2020-01-03T19:49:59.895Z
+date: 2020-09-03T11:56:32.829Z
 tags: presonalização, usuário
+editor: markdown
 ---
 
 # Preferências do usuário
 
-Your content here
+Em breve...
