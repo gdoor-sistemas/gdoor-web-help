@@ -2,8 +2,8 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-02T19:11:46.734Z
-tags: nfc-e
+date: 2020-09-03T11:54:25.202Z
+tags: configurações, nfc-e
 editor: markdown
 ---
 
