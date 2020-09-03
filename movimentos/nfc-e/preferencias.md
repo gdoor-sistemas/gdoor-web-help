@@ -2,14 +2,14 @@
 title: Preferências da NFC-e
 description: Defina o comportamento da NFC-e para o seu usuário
 published: true
-date: 2020-09-03T12:39:26.051Z
+date: 2020-09-03T12:41:20.918Z
 tags: nfc-e, personalização
 editor: markdown
 ---
 
 # Preferências da NFC-e
 
-O objetivo do GDOOR WEB é aumentar a produtividade dos colaboradores e da empresa. Por isso as configurações de preferência foram criadas, para que o operador molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos e, dependendo de como se configura, o fluxo de trabalho pode ser totalmente diferente de um usuário para outro. Vamos ver agora em detalhes cada opção, mas se você preferir, pode ver um vídeo que exemplifica maneiras de você ajustar as suas preferências de uso da NFC-e:
+O objetivo do GDOOR WEB é aumentar a produtividade dos colaboradores e da empresa. Por isso as configurações de preferência foram criadas, elas podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos e, dependendo de como se configura, o fluxo de trabalho pode ser totalmente diferente de um usuário para outro. Vamos ver agora em detalhes cada opção, mas se você preferir, pode ver um vídeo que exemplifica maneiras de você ajustar as suas preferências de uso da NFC-e:
 
 <div class=text-center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
