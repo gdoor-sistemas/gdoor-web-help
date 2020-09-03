@@ -2,8 +2,9 @@
 title: Início
 description: Introdução à ajuda do GDOOR WEB
 published: true
-date: 2020-01-02T20:11:39.160Z
-tags: home
+date: 2020-09-03T16:49:58.501Z
+tags: visão geral
+editor: markdown
 ---
 
 # Ajuda do GDOOR WEB
