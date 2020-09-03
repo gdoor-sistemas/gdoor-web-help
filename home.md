@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do GDOOR WEB
 published: true
-date: 2020-09-03T16:49:58.501Z
+date: 2020-09-03T18:17:30.598Z
 tags: visão geral
 editor: markdown
 ---
@@ -30,7 +30,7 @@ O GDOOR WEB **não** é uma nova versão do GDOOR PRO ou do GDOOR SLIM para a we
 
 O GDOOR WEB pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
 
-- Que precisem emitir NF-e
+- Que precisem emitir NF-e ou NFC-e
 - Queiram manter controle de estoque
 - Cujos usuários do sistema não possam estar sempre na empresa
 - Cujos administradores queiram controlar o sistema e consultar relatórios à distância
