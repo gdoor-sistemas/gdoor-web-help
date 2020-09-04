@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-09-04T15:57:47.401Z
+date: 2020-09-04T15:58:00.973Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -136,3 +136,4 @@ Para editar as informações de um veículo, altere nos campos exibidos na lista
 Campo livre para preenchimento de informações adicionais.
 
 ![Quadro observações](/cadastros/pessoas/observacoes.png)
+
