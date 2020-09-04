@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-04T13:11:05.153Z
+date: 2020-09-04T13:12:27.334Z
 tags: nfc-e
 editor: markdown
 ---
@@ -59,7 +59,7 @@ Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits), você 
 
 Para poder adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral), e depois [cadastrar os serviços](/cadastros/servicos).
 
-Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (<kbd>\\</kbd> ou <kbd>/</kbd>). Se você souber o código numérico do serviço, digite-o e pressione <kbd>Enter</kbd> para carregar o serviço. Para buscar o serviço pelo nome, depois da barra digite algo e o sistema mostrará os resultados de serviços encontrados:
+Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (<kbd>\\</kbd> ou <kbd>/</kbd>). Se você souber o código numérico do serviço, digite-o e pressione <kbd>Enter</kbd> para carregar o serviço imediatamente. Caso contrário, digite caracteres não numéricos e o sistema mostrará os resultados de serviços encontrados:
 
 ![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
 
