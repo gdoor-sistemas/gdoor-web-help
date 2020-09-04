@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-04T11:23:42.987Z
+date: 2020-09-04T12:13:17.106Z
 tags: nfc-e
 editor: markdown
 ---
@@ -34,20 +34,28 @@ A imagem abaixo é a de uma NFC-e aberta com alguns itens adicionados:
 
 ![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)&nbsp;
 
-### Adicionando um produto
+### Adicionando produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
 ![Busca de produtos na NFC-e](/movimentos/nfce/nfce-busca-produtos.png)
 
-> Nesta busca, também serão considerados os kits, caso você tenha cadastrado.
+> Nesta busca, também serão considerados os kits de produtos, caso você tenha cadastrado.
 {.is-info}
 
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
 
-### Adicionando um serviço
+### Adicionando kits de produtos
+
+Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits)
+
+### Adicionando serviços
 
 Para poder adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral), e depois [cadastrar os serviços](/cadastros/servicos).
+
+Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (<kbd>\\</kbd> ou <kbd>/</kbd>). Se você souber o código numérico do serviço, digite-o e pressione <kbd>Enter</kbd> para carregar o serviço. Para buscar o serviço pelo nome, depois da barra digite algo e o sistema mostrará os resultados de serviços encontrados:
+
+![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
 
 ### Vendedor
