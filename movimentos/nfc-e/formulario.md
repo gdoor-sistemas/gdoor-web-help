@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-04T12:13:17.106Z
+date: 2020-09-04T13:05:21.912Z
 tags: nfc-e
 editor: markdown
 ---
@@ -32,7 +32,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 A imagem abaixo é a de uma NFC-e aberta com alguns itens adicionados:
 
-![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)&nbsp;
+![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)
 
 ### Adicionando produtos
 
@@ -48,7 +48,9 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 
 ### Adicionando kits de produtos
 
-Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits)
+Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits), você poderá lançar os produtos dele na NFC-e. Para isso, digite o caractere <kbd>+</kbd>. Se você souber o código numérico do kit, poderá informá-lo e pressionar <kbd>Enter</kbd> para lançar imediatamente. Caso contrário, digite caracteres não numéricos e o sistema mostrará os resultados de kits encontrados:
+
+![Busca de kits de produtos na NFC-e](/movimentos/nfce/nfce-busca-kits.png)
 
 ### Adicionando serviços
 
