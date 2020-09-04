@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-03T20:34:06.845Z
+date: 2020-09-04T11:23:42.987Z
 tags: nfc-e
 editor: markdown
 ---
@@ -32,7 +32,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 A imagem abaixo é a de uma NFC-e aberta com alguns itens adicionados:
 
-![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)
+![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)&nbsp;
 
 ### Adicionando um produto
 
