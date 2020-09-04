@@ -12,4 +12,4 @@ ou submeter [requisições de alteração](https://github.com/gdoor-sistemas/gdo
 Ao contribuir, certifique-se de estar seguindo as [diretivas de contribuição](.github/contributing.md).
 
 Para testar suas contribuições, você pode usar um editor de texto que renderize markdown ou criar uma instância do Wiki.js em seu computador para testar o resultado.
-Os arquivos com alterações no estilo e scripts estão no diretório [.wikijs/](.wikijs) ([Veja como aplicar](.wikijs/README.md)).
+Os arquivos com alterações no estilo e scripts estão no diretório `.wikijs/` — [veja como aplicar](.wikijs)).
