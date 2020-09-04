@@ -21,4 +21,4 @@ Pensando em submeter alguma _pull request_? Você pode aprender como fazer nesta
 
 Alterações nas páginas ou nas imagens podem ser submetidas por _pull requests_.
 Ao criar uma pelo GitHub, você verá um template que deve ser seguido para que a requisição seja aceita.
-O template está disponível [aqui](.github/pull_request_template.md).
+O template está disponível [aqui](pull_request_template.md).
