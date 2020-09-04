@@ -1,196 +1,239 @@
 .v-application {
-  font-family: Ubuntu,Roboto,Arial,sans-serif
+    font-family: Ubuntu, Roboto, Arial, sans-serif
 }
-.v-content__wrap .page-col-sd .v-card.v-card--flat {
-  display: none
+
+.v-main__wrap .page-col-sd .v-card.v-card--flat {
+    display: none
 }
-.v-content__wrap .page-col-sd .v-chip--link {
-  margin-bottom: 4px
+
+.v-main__wrap .page-col-sd .v-chip--link {
+    margin-bottom: 4px
 }
+
 .contents img {
-  max-width: 90%!important;
-  display: block;
-  margin: 0 auto;
-  border-radius: 3px;
-  box-shadow: 0 2px 1px -1px rgba(0,0,0,.2),0 1px 1px 0 rgba(0,0,0,.14),0 1px 3px 0 rgba(0,0,0,.12)
+    max-width: 90% !important;
+    display: block;
+    margin: 0 auto;
+    border-radius: 3px;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12)
 }
+
 .contents ul:not(.tabset-tabs).links-list li {
-  box-shadow: 0 2px 1px -1px rgba(0,0,0,.2),0 1px 1px 0 rgba(0,0,0,.14),0 1px 3px 0 rgba(0,0,0,.12)!important;
-  padding: 16px!important;
-  border-radius: 4px!important;
-  background: #fff!important;
-  border-right: none!important;
-  border-bottom: none!important
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12) !important;
+    padding: 16px !important;
+    border-radius: 4px !important;
+    background: #fff !important;
+    border-right: none !important;
+    border-bottom: none !important
 }
+
 .contents ul:not(.tabset-tabs).links-list li:hover {
-  border-left-color: #f58634!important;
-  background: #fafafa!important
+    border-left-color: #f58634 !important;
+    background: #fafafa !important
 }
+
 .theme--dark img {
-  box-shadow: 0 2px 1px -1px rgba(255,255,255,.2),0 1px 1px 0 rgba(255,255,255,.14),0 1px 3px 0 rgba(255,255,255,.12)
+    box-shadow: 0 2px 1px -1px rgba(255, 255, 255, .2), 0 1px 1px 0 rgba(255, 255, 255, .14), 0 1px 3px 0 rgba(255, 255, 255, .12)
 }
+
 .mat-button,
 [data-mat-button] {
-  background-color: #fff;
-  text-transform: uppercase;
-  font-size: 12px;
-  box-sizing: border-box;
-  position: relative;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  outline: 0;
-  border: none;
-  -webkit-tap-highlight-color: transparent;
-  display: inline-block;
-  white-space: nowrap;
-  text-decoration: none;
-  vertical-align: baseline;
-  text-align: center;
-  margin: 0 0 3px;
-  min-width: 64px;
-  line-height: 24px;
-  padding: 0 12px;
-  border-radius: 3px;
-  overflow: visible;
-  transform: translate3d(0,0,0);
-  transition: background .4s cubic-bezier(.25,.8,.25,1),box-shadow 280ms cubic-bezier(.4,0,.2,1);
-  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
+    background-color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    outline: 0;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0 0 3px;
+    min-width: 64px;
+    line-height: 24px;
+    padding: 0 12px;
+    border-radius: 3px;
+    overflow: visible;
+    transform: translate3d(0, 0, 0);
+    transition: background .4s cubic-bezier(.25, .8, .25, 1), box-shadow 280ms cubic-bezier(.4, 0, .2, 1);
+    box-shadow: 0 3px 1px -2px rgba(0, 0, 0, .2), 0 2px 2px 0 rgba(0, 0, 0, .14), 0 1px 5px 0 rgba(0, 0, 0, .12)
 }
+
 p .mat-button,
 p [data-mat-button] {
-  transform: translate3d(0,-2px,0)
+    transform: translate3d(0, -2px, 0)
 }
+
 .mat-button.mat-accent,
 [data-mat-button].mat-accent {
-  background-color: #e64a19;
-  color: #fff
+    background-color: #e64a19;
+    color: #fff
 }
+
 a {
-  text-decoration: none
+    text-decoration: none
 }
+
 span.mdi {
-  white-space: nowrap
+    white-space: nowrap
 }
+
 .v-navigation-drawer .__view,
 .v-navigation-drawer .__view .v-list {
-  background-color: #d9d9d9!important
+    background-color: #d9d9d9 !important
 }
+
 .v-navigation-drawer .__view .v-list a div {
-  color: rgba(0,0,0,.87)!important
+    color: rgba(0, 0, 0, .87) !important
 }
+
 .v-navigation-drawer .v-icon {
-  color: #f58634!important
+    color: #f58634 !important
 }
+
 .CodeMirror-lines {
-  text-align: justify
+    text-align: justify
 }
+
 .contents {
-  font-size: larger;
-  padding-right: 8px!important;
-  text-align: justify
+    font-size: larger;
+    padding-right: 8px !important
 }
+
 .contents > div > p {
-  text-indent: 1em
+    text-indent: 1em;
+    text-align: justify
 }
+
 .contents > div > p * {
-  text-indent: 0
+    text-indent: 0
 }
+
 .contents h1,
 .contents h2,
 .contents h3,
 .contents h4,
 .contents h5,
 .contents h6 {
-  clear: both
+    clear: both
 }
+
 .paragraph-set p {
-  text-indent: 1em
+    text-indent: 1em
 }
+
 .clearfix {
-  clear: both!important
+    clear: both !important
 }
+
 .contents a {
-  color: #f58634!important
+    color: #f58634 !important
 }
+
 img.inline {
-  display: inline!important;
-  margin-bottom: -4px
+    display: inline !important;
+    margin-bottom: -4px
 }
-.v-content .contents h1 {
-  color: #f58634
+
+.contents h1 {
+    color: #f58634 !important
 }
+
 ::selection {
-  background-color: rgba(245,134,52,.4)
+    background-color: rgba(245, 134, 52, .4)
 }
-.v-content .contents h1:after {
-  background: linear-gradient(90deg,#f58634,rgba(25,118,210,0))
+
+.contents h1:after {
+    background: linear-gradient(90deg, #f58634, rgba(25, 118, 210, 0)) !important
 }
+
 .contents blockquote.gw > p:first-child:before {
-  display: block;
-  font-weight: 700;
-  margin-bottom: .5em
+    display: block;
+    font-weight: 700;
+    margin-bottom: .5em
 }
+
 .contents blockquote.gw.gw-tip > p:first-child:before {
-  content: 'Dica'
+    content: 'Dica'
 }
+
 .contents blockquote.gw.gw-note > p:first-child:before {
-  content: 'Nota'
+    content: 'Nota'
 }
+
 .contents blockquote.gw.gw-important > p:first-child:before {
-  content: 'Importante'
+    content: 'Importante'
 }
+
 .contents blockquote.gw.gw-tip:before {
-  content: "\F1345"
+    content: "\F1345"
 }
+
 .contents blockquote.gw.gw-note:before {
-  content: "\F064E"
+    content: "\F064E"
 }
+
 .contents blockquote.gw.gw-important:before {
-  content: "\F0026"
+    content: "\F0026"
 }
+
 .fancybox-caption__body {
-  font-family: Ubuntu,Arial,sans-serif
+    font-family: Ubuntu, Arial, sans-serif
 }
+
 .contents .subtitle {
-  font-weight: 700;
-  text-decoration: underline;
-  margin-bottom: -16px!important
+    font-weight: 700;
+    text-decoration: underline;
+    margin-bottom: -16px !important
 }
+
 .contents .subtitle:before {
-  content: '\00BB\0020'
+    content: '\00BB\0020'
 }
+
 iframe {
-  border: none;
-  box-shadow: 0 2px 1px -1px rgba(0,0,0,.2),0 1px 1px 0 rgba(0,0,0,.14),0 1px 3px 0 rgba(0,0,0,.12);
-  margin-top: 10px
+    border: none;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
+    margin-top: 10px
 }
+
 .mr10 {
-  margin-right: 10px!important
+    margin-right: 10px !important
 }
+
 .contents kbd {
-  background-color: #fafbfc;
-  border: 1px solid #d1d5da;
-  border-bottom-color: #c6cbd1;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #c6cbd1;
-  color: #444d56;
-  display: inline-block;
-  vertical-align: middle;
-  padding: 0 5px
+    background-color: #fafbfc;
+    border: 1px solid #d1d5da;
+    border-bottom-color: #c6cbd1;
+    border-radius: 3px;
+    box-shadow: inset 0 -1px 0 #c6cbd1;
+    color: #444d56;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 5px
 }
+
 .contents kbd:before {
-  content: none
+    content: none
 }
+
 .contents kbd:after {
-  content: none
+    content: none
 }
+
 .toc-header.hidden {
-  visibility: hidden;
-  height: 0!important;
-  margin: 0!important
+    visibility: hidden;
+    height: 0 !important;
+    margin: 0 !important
 }
+
 .toc-header.hidden:after {
-  content: none
+    content: none
 }
