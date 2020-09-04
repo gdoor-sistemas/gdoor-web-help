@@ -13,5 +13,11 @@ $(document).ready(function () {
         });
 
         $('.contents a.fancybox').fancybox();
-    }, 500);
+
+        if (!document.getElementById('github')) {
+            var githubNode = $('<span id="github"> | Esta Wiki está no <a target="_blank" href="https://github.com/gdoor-sistemas/gdoor-web-wiki">GitHub</a></span>');
+            var footerSpan = $('footer .caption');
+            footerSpan.append(githubNode);
+        }
+    }, 1000);
 });
