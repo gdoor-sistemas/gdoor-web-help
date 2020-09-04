@@ -2,9 +2,10 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-04T13:12:27.334Z
+date: 2020-09-04T14:04:34.640Z
 tags: nfc-e
 editor: markdown
+dateCreated: 2020-09-02T19:49:36.155Z
 ---
 
 ## Introdução
@@ -63,4 +64,11 @@ Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (
 
 ![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
 
-### Vendedor
+### Vendedor{.tabset}
+#### Teste
+
+aoishd oiash dasd
+
+#### Teste 1
+
+oahs dahsiduaisuh diash d
