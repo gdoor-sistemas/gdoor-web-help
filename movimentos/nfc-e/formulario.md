@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-04T14:05:09.401Z
+date: 2020-09-08T12:21:30.742Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
@@ -65,3 +65,9 @@ Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (
 ![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
 
 ### Vendedor
+
+Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item. Por isso, ao adicionar um vendedor, ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
+
+Para informar o vendedor na NFC-e, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>. Na tela que abrir, basta escolher o vendedor e clicar em <span data-mat-button>Confirmar</span>.
+
+
