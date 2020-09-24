@@ -2,9 +2,10 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-01T18:57:52.730Z
+date: 2020-09-24T14:47:11.432Z
 tags: nfc-e
 editor: markdown
+dateCreated: 2020-09-01T11:47:32.566Z
 ---
 
 # Lista de NFC-e
@@ -70,7 +71,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 
 1. Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2. Nome do cliente. Será apresentada a informação "Consumidor final" quando o cliente não for informado.
-3. Número sequencial da NFC-e, modelo (sempre 65) e [série](/movimentos/nfc-e/configurar#ambiente). Também apresenta o valor total da NFC-e.
+3. Número sequencial da NFC-e, modelo (sempre 65), [série](/movimentos/nfc-e/configurar#ambiente) e data da emissão. Também apresenta o valor total da NFC-e.
 4. Chave de acesso e status da NFC-e.
 5. [Menu de ações](#acoes) a serem executadas com a NFC-e em questão. Caso a NFC-e ainda não tenha sido transmitida para a [SEFAZ](/glossario#sefaz), ao lado deste botão será exibido outro (<em class="mdi mdi-pencil"></em>) para editar a NFC-e.
 
