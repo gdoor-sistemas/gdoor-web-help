@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-04T19:23:13.755Z
+date: 2021-03-04T20:28:28.243Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
@@ -37,6 +37,19 @@ Clique no botão <span data-mat-button>Carregar arquivo</span> e selecione o arq
 ![Confirmação do proprietário dos dados](/config/ferramentas/importar-dados-confirmacao.png)
 
 Ao prosseguir, o arquivo será enviado para os servidores do GDOOR WEB onde será validado em segundo plano. Essa validação verificará a integridade do arquivo e possíveis registros duplicados. Assim que a validação for concluída, você receberá uma notificação pelo sistema informando se o arquivo está pronto para ser importado. Neste passo, você poderá analisar os registros que estão sendo importados com o status de cada um. Os status podem ser:
+
 - <i class="badge success"></i> **Ok**. O registro será importado normalmente
-- <i class="badge warning"></i> **Aviso**. O registro já existe no banco de dados e será ignorado
-- <i class="badge error"></i> **Erro**. Houveram falhas na validação que precisam ser corrigidas. O arquivo não pode ser importado quando houver falhas.
+- <i class="badge warning"></i> **Com aviso**. O registro já existe no banco de dados e será ignorado
+- <i class="badge error"></i> **Com erro**. Houveram falhas na validação que precisam ser corrigidas. O arquivo não pode ser importado quando houver falhas.
+
+![Resultado da validação do arquivo](/config/ferramentas/importar-dados-validacao.png)
+
+Para ajudar a verificar o que há de errado, você pode filtrar por status clicando no totalizador acima da tabela. Também, ao passar o ponteiro do mouse sobre o ícone do status, ou clicar sobre ele, você poderá ver detalhes da validação:
+
+![Filtros na importação de dados](/config/ferramentas/importar-dados-filtros.gif)
+
+Se estiver tudo ok, agora você pode prosseguir com a importação clicando no botão <span class="mat-button mat-accent">Processar arquivo</span>. Novamente, este processo será feito em segundo plano e você será notificado quando ele for concluído. Você poderá checar o andamento da importação na lista de importações, lá serão listadas as importações com seus status:
+
+![Lista de importações](/config/ferramentas/importar-dados-lista.png)
+
+![Lista de importações com detalhes](/config/ferramentas/importar-dados-lista-sucesso.png)
