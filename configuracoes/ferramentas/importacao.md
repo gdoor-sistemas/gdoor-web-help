@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-04T12:28:19.695Z
+date: 2021-03-04T12:32:24.227Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
@@ -35,3 +35,5 @@ Faça o login no sistema e acesse o menu **Configurações &raquo; Ferramentas**
 Clique no botão <span data-mat-button>Carregar arquivo</span> e selecione o arquivo convertido que você recebeu. Será apresentada uma confirmação com a identificação do proprietário dos dados, apenas para conferência. Neste ponto, caso o arquivo seja o incorreto, você poderá selecionar outro. Para prosseguir, clique em <span data-mat-button>Enviar arquivo<span>:
 
 ![Confirmação do proprietário dos dados](/config/ferramentas/importar-dados-confirmacao.png)
+
+a
