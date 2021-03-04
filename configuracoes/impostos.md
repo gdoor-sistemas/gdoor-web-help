@@ -2,13 +2,13 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2021-03-04T21:57:25.542Z
+date: 2021-03-04T22:03:49.109Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 editor: markdown
 dateCreated: 2020-01-03T19:45:16.736Z
 ---
 
-# Configuração de impostos
+# Introdução
 
 Nesta seção das configurações você pode configurar:
 
@@ -17,7 +17,7 @@ Nesta seção das configurações você pode configurar:
 - [Localizar regras por NCM e CEST *Localize rapidamente configurações vinculadas a uma NCM ou a um CEST*](#localizar-regras)
 {.links-list}
 
-## Regras de tributação{#regras}
+# Regras de tributação{#regras}
 
 Configuração de impostos é geralmente uma tarefa confusa, difícil de entender e muito trabalhosa. Essa parte do GDOOR WEB foi desenvolvida tendo como foco principal a praticidade, para que o usuário possa fazer isso sem muita dor de cabeça. Ainda é importante que isso seja feito com a ajuda de um responsável pela contabilidade da empresa, pois documentos com a declaração de impostos incorreta podem acarretar em pagamento de imposto indevido, multa, ou pode ser necessário depois de um tempo, pagar impostos atrasados.
 
@@ -27,15 +27,15 @@ Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configur
 
 [![Acessar configurações de impostos](/config/impostos/acessar-config-imposto.png)](/config/impostos/acessar-config-imposto.png){.fancybox}
 
-Primariamente, o sistema vem com algumas configurações, uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto é a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
+Primariamente, o sistema vem com algumas configurações pré-definidas que podem ser alteradas. Dentre elas, o sistema tem uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto pode ser a [natureza da operação](/cadastros/operacoes) ou a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
 
 ![Como é feito o vínculo entre produto e tributação do GDOOR WEB](/config/impostos/vinculo-produto-imposto.png =800x)
 
-Deste modo, as 4 configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
+Deste modo, 4 das configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
 
 De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [CEST](/glossario#cest). Esse vínculo é uma exceção para especificar a configuração de [Substituição Tributária](/glossario#icms-st).
 
-### Criando uma regra
+## Criando uma regra
 
 Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada um dos passos desse assistente, que são:
 
@@ -47,7 +47,7 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 
 ![Assistente de configuração de regra](/config/impostos/formulario.png)
 
-#### Identificação
+### Identificação
 
 No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
 
@@ -59,7 +59,7 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 > Caso o produto seja uma exceção dentro de uma faixa de NCM, é possível vinculá-lo diretamente a uma regra. Este vínculo direto é feito no cadastro do produto e tem prioridade sobre as outras operações.
 {.is-info .gw .gw-note}
 
-#### Vínculos
+### Vínculos
 
 ![Vínculos possíveis para a regra](/config/impostos/regra-vinculos.gif)
 
@@ -67,7 +67,7 @@ Neste passo você pode definir se esta regra será vinculada aos produtos por **
 
 ![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
 
-##### Exceções{#excecao}
+#### Exceções{#excecao}
 
 Quando houver uma exceção dentro de uma faixa de código, você pode adicionar essa exceção clicando no botão <span class=mat-button>Exceção</span>. Assim, o vínculo já existente será recriado contornando essa exceção. Por exemplo: Suponhamos que haja uma regra que compreenda 2 grupos de NCM consecutivos: 24 e 25. Então, a faixa de NCM seria **2400.00.00** a **2599.99.99**. Aí você adiciona uma exceção, que é o **2501.00.00**. O novo vinculo ficará com duas faixas: **2400.00.00** a **2500.99.99**, e também **2501.00.01** a **2599.99.99**.
 
@@ -83,23 +83,23 @@ Em caso de confirmação neste exemplo, o que aconteceria seria o seguinte: A **
 
 ![Exceção na faixa de NCM](/config/impostos/excecao.gif)
 
-##### Vínculo por CEST
+#### Vínculo por CEST
 
 Configurar uma regra e vincular pelo CEST é considerado uma exceção. Isso porque a tributação é definida pela NCM. O CEST é um código que especifica o produto quanto à **substituição tributária**, portanto, uma NCM pode ter vários CEST vinculados a ela. Assim sendo, quando você escolher o vínculo por CEST, apenas a configuração de ICMS ST ([veja mais abaixo](#icms-st)) será habilitada. O padrão de vínculo é o mesmo utilizado para a NCM.
 
-#### Tipo de imposto
+### Tipo de imposto
 
 ![Tipo de impostos a serem configurados nesta regra](/config/impostos/tipo-de-imposto.png)
 
 Este passo estará disponível caso você escolha o vínculo por NCM ou Sem vínculo. Nele você deve escolher quais impostos vai configurar para que o faça no próximo passo.
 
-#### Impostos
+### Impostos
 
 ![Passo onde você configura os impostos](/config/impostos/passo-impostos.png)
 
 Neste passo serão mostradas uma aba para cada imposto que você escolheu no passo anterior, ou apenas a de ICMS ST, caso tenha escolhido vínculo por CEST. Abaixo, veremos os detalhes de cada configuração.
 
-##### ICMS
+#### ICMS
 
 Primeiro, você informa o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) padrão para esta regra e com base nesse código serão apresentados os campos que podem ser preenchidos. A imagem a seguir mostra duas opções diferentes de configuração com seus respectivos campos a serem configurados:
 
@@ -112,7 +112,7 @@ A tabela de alíquotas possui uma linha para cada UF porque o cenário da tribut
 > A coluna **CFOP** não é de informação obrigatória. Na verdade, o CFOP não é definido pela regra, mas varia de acordo com a operação que estiver sendo realizada. No entanto, a configuração dele na regra facilita o preenchimento automático para que você não precise especificar o CFOP a cada item adicionado a uma NF-e, por exemplo.
 {.is-info .gw .gw-note}
 
-##### ICMS ST
+#### ICMS ST
 
 Esta aba será mostrada caso o [CST](/glossario#cst)/[CSOSN](/glossario#csosn) informado na aba **ICMS** indicar que há cobrança de ICMS por **Substituição Tributária**, ou o vínculo escolhido for o **CEST**.
 
@@ -127,7 +127,7 @@ E esta tabela pode ser alterada do mesmo modo como explicado sobre a tabela de c
 > O sistema traz alguns valores pré-preenchidos para facilitar a configuração. No entanto, é de extrema importância que você consulte a **contabilidade** da empresa para auxiliar nesse processo.
 {.is-warning .gw .gw-important}
 
-##### IPI
+#### IPI
 
 ![Campos para configuração do IPI](/config/impostos/config-ipi.png)
 
@@ -135,19 +135,19 @@ Nesta tela você configura um [CST](/glossario#cst) para as operações de entra
 
 Diferentemente do ICMS, que é um imposto **estadual**, o IPI é **federal**, portanto, é o mesmo em todo o país, não havendo necessidade de configurar por UF. Assim, é só preencher a alíquota que pode ser um percentual e que considera o valor da mercadoria, ou no caso de algumas mercadorias, usa-se a **alíquota específica**, que é um valor fixo por unidade do produto.
 
-##### PIS/COFINS
+#### PIS/COFINS
 
 ![Campos para configuração de PIS e COFINS](/config/impostos/config-pis-cofins.png)
 
 Nesta tela você configura um [CST](/glossario#cst) para as operações de entrada e outro para as operações de saída. A base de cálculo é a mesma para as duas contribuições, mas a alíquota é específica de cada uma.
 
-#### Revisão
+### Revisão
 
 O último passo contém todos os dados como você configurou nos passos anteriores. Isso pode ajudá-lo a ter uma visão geral da configuração para checar se as informações estão corretas sem ter que rever cada passo. No título de cada seção há um botão **Ajustar** que direciona você para a seção em questão para que possa ajustar alguma informação.
 
 ![Revisão da configuração da regra](/config/impostos/revisao.png)
 
-## Alíquotas do SIMPLES{#simples}
+# Alíquotas do SIMPLES{#simples}
 
 Esta opção será exibida apenas se o [emitente](/configuracoes/emitente) estiver configurado com o regime tributário SIMPLES Nacional. Nesta tela você pode informar a alíquota mensal de aproveitamento de crédito de ICMS. Esta alíquota será informada pela contabilidade da empresa.
 
@@ -157,7 +157,7 @@ O procedimento é bastante simples, basta clicar no botão <span class=mat-butto
 
 ![Diálogo para adicionar alíquota](/config/impostos/adicionar-aliquota-simples.png)
 
-## Localizar regras
+# Localizar regras
 
 Esta parte das configurações lhe ajuda a pesquisar se determinado código NCM ou CEST possui alguma configuração de tributação. Para fazer uma busca acesse o item pelo qual deseja buscar, digite o código em questão no campo de busca e vai ver se há alguma informação:
 
