@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2021-03-04T22:03:49.109Z
+date: 2021-03-04T22:07:46.034Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 editor: markdown
 dateCreated: 2020-01-03T19:45:16.736Z
@@ -34,6 +34,10 @@ Primariamente, o sistema vem com algumas configurações pré-definidas que pode
 Deste modo, 4 das configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
 
 De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [CEST](/glossario#cest). Esse vínculo é uma exceção para especificar a configuração de [Substituição Tributária](/glossario#icms-st).
+
+## Vínculo pela natureza da operação
+
+É possível vincular uma regra de tributação diretamente na [natureza da operação](/cadastros/operacoes). Quando uma natureza da operação vinculada com uma regra for utilizada em uma NF-e ou NFC-e, esta regra terá **prioridade** sobre qualquer outra quando o sistema buscar a regra automaticamente. No entanto, você ainda pode alterar manualmente a tributação de cada item.
 
 ## Criando uma regra
 
