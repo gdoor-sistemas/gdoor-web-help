@@ -2,8 +2,10 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o GDOOR WEB para calcular os impostos nos documentos fiscais
 published: true
-date: 2020-02-03T20:40:00.941Z
+date: 2021-03-04T21:57:25.542Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
+editor: markdown
+dateCreated: 2020-01-03T19:45:16.736Z
 ---
 
 # Configuração de impostos
@@ -25,7 +27,7 @@ Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configur
 
 [![Acessar configurações de impostos](/config/impostos/acessar-config-imposto.png)](/config/impostos/acessar-config-imposto.png){.fancybox}
 
-Primariamente, o sistema vem com 4 configurações, uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto é a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
+Primariamente, o sistema vem com algumas configurações, uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto é a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
 
 ![Como é feito o vínculo entre produto e tributação do GDOOR WEB](/config/impostos/vinculo-produto-imposto.png =800x)
 
