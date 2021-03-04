@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-04T12:32:24.227Z
+date: 2021-03-04T19:23:13.755Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
@@ -32,8 +32,11 @@ Faça o login no sistema e acesse o menu **Configurações &raquo; Ferramentas**
 
 ![Assistente de importação de dados](/config/ferramentas/importar-dados-assistente.png)
 
-Clique no botão <span data-mat-button>Carregar arquivo</span> e selecione o arquivo convertido que você recebeu. Será apresentada uma confirmação com a identificação do proprietário dos dados, apenas para conferência. Neste ponto, caso o arquivo seja o incorreto, você poderá selecionar outro. Para prosseguir, clique em <span data-mat-button>Enviar arquivo<span>:
+Clique no botão <span data-mat-button>Carregar arquivo</span> e selecione o arquivo convertido que você recebeu. Será apresentada uma confirmação com a identificação do proprietário dos dados, apenas para conferência. Neste ponto, caso o arquivo seja o incorreto, você poderá selecionar outro. Para prosseguir, clique em <span data-mat-button>Enviar arquivo</span>:
 
 ![Confirmação do proprietário dos dados](/config/ferramentas/importar-dados-confirmacao.png)
 
-a
+Ao prosseguir, o arquivo será enviado para os servidores do GDOOR WEB onde será validado em segundo plano. Essa validação verificará a integridade do arquivo e possíveis registros duplicados. Assim que a validação for concluída, você receberá uma notificação pelo sistema informando se o arquivo está pronto para ser importado. Neste passo, você poderá analisar os registros que estão sendo importados com o status de cada um. Os status podem ser:
+- <i class="badge success"></i> **Ok**. O registro será importado normalmente
+- <i class="badge warning"></i> **Aviso**. O registro já existe no banco de dados e será ignorado
+- <i class="badge error"></i> **Erro**. Houveram falhas na validação que precisam ser corrigidas. O arquivo não pode ser importado quando houver falhas.
