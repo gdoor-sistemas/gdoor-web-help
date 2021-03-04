@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-04T20:28:28.243Z
+date: 2021-03-04T20:50:31.057Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
@@ -53,3 +53,16 @@ Se estiver tudo ok, agora você pode prosseguir com a importação clicando no b
 ![Lista de importações](/config/ferramentas/importar-dados-lista.png)
 
 ![Lista de importações com detalhes](/config/ferramentas/importar-dados-lista-sucesso.png)
+
+Os possíveis status da importação são estes:
+
+- **Pendente**. O arquivo foi enviado e está aguardando para ser validado.
+- **Analisando**. O arquivo está sendo analisado.
+- **Pronto para importar**. A análise foi concluída e não foram encontrados erros.
+- **Falha na validação**. A análise foi concluída e houveram falhas que impedem a importação.
+- **Agendada**. A importação foi agendada e deve iniciar a qualquer instante.
+- **Em andamento**. A importação está sendo realizada neste momento.
+- **Falhou**. Houve um problema durante a importação.
+- **Finalizada**. A importação foi concluída com sucesso.
+
+Quando o status for **Falha na validação**, **Falhou** ou **Pronto para importar**, a importação poderá ser excluída. Nestes casos, será exibido um botão para excluir ao lado do item na lista.
