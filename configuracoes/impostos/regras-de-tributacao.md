@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T20:23:46.336Z
+date: 2021-03-05T20:28:11.063Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -165,3 +165,4 @@ A aplicação dos impostos é feita conforme os impostos forem encontrados nas r
 |Regra 2     |**7%**|-      |**5%** |**0%**|**0%**|
 |Regra 3     |12%   |**0%** |-      |-     |-     |
 |**Aplicado**|7%    |0%     |10%    |0%    |0%    |{.footer}
+||||||
