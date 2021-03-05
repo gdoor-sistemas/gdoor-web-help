@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-04T21:35:01.722Z
+date: 2021-03-05T14:23:59.198Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
@@ -24,7 +24,9 @@ Primeiramente é necessário converter os dados do sistema antigo e depois impor
 
 ## Gerar os dados no formato compatível
 
-O primeiro passo é enviar o banco de dados do sistema antigo para o suporte técnico da GDOOR. Este procedimento geralmente é feito pelo revendedor, uma vez que é ele quem fará a migração. Assim que concluída a conversão, o banco de dados será devolvido por e-mail no formato compatível.
+O primeiro passo é enviar o banco de dados do sistema antigo para o suporte técnico da GDOOR, direcionado para a equipe de conversão pelo e-mail conversao@gdoor.com.br. Este procedimento geralmente é feito pelo revendedor, uma vez que é ele quem fará a migração. Assim que concluída a conversão, o banco de dados será devolvido por e-mail no formato compatível.
+
+Caso você mesmo queira gerar o arquivo e tenha condições de fazer isso, consulte a [documentação da estrutura de dados](https://docs.gdoorweb.com.br/public/conversion/data-structure).
 
 ## Importar os dados no GDOOR WEB
 
