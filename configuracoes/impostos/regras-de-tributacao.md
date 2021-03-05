@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T20:36:31.985Z
+date: 2021-03-05T20:40:23.563Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -157,7 +157,7 @@ As regras são aplicadas quando você adiciona um produto na nota fiscal ou alte
     1. Operação para revenda, se estiver **desmarcada** a indicação de "Consumidor final" na nota fiscal
     1. Operação para consumo, se estiver **marcada** a indicação de "Consumidor final" na nota fiscal
 1. Regra vinculada pelo CEST do produto (somente [ICMS ST](/glossario#icms-st))
-1. Outra configuração de operação geral, caso não tenha sido encontrada configuração para o imposto nas regras anteriores
+1. Outra configuração de operação geral, caso não tenha sido encontrada configuração para o imposto nas regras anteriores. Naturalmente, somente serão consideradas operações que tenham algum vínculo com o produto, seja direto, por NCM ou pela operação da nota.
 
 A aplicação dos impostos é feita conforme os impostos forem encontrados nas regras. Como assim? Um exemplo: se você configurar apenas ICMS em uma regra e vinculá-la com a operação, o sistema aplicará o ICMS dessa regra, e os demais impostos serão buscados das outras regras aplicáveis, seguindo a ordem de prioridade listada acima. Veja isso na tabela abaixo. As linhas são as regras aplicáveis já ordenadas de acordo com a prioridade. As colunas são os impostos configurados em cada regra. A última linha é o que será aplicado no item da nota fiscal.
 
