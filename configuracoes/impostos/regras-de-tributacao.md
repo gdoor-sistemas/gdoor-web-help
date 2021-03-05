@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T15:08:56.570Z
+date: 2021-03-05T19:50:56.746Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -144,4 +144,15 @@ O último passo contém todos os dados como você configurou nos passos anterior
 
 # Como são aplicadas as regras de tributação na nota fiscal{#aplicacao}
 
-Em breve...
+Ao criar uma regra você pode determinar o tipo de operação em que ela se aplica. As opções disponíveis são as mais comuns onde o imposto pode variar. Há várias outras situações possíveis, mas configurar todas elas seria um processo muito complicado. Por isso, no GDOOR WEB você pode configurar regras que se apliquem em determinados cenários, mas ainda pode criar regras e fazer vínculos específicos para o caso de exceções.
+
+As regras são aplicadas quando você adiciona um produto na nota fiscal ou altera o cenário dela, que envolve a UF do cliente, a natureza da operação ou a indicação de consumidor final. Para cada produto, o sistema buscará todas as regras que se aplicam a ele naquela operação, e aplica os cálculos seguindo uma ordem de prioridade. A ordem de prioridade é:
+
+1. Regra vinculada com a natureza da operação
+1. Regra vinculada diretamente com o produto
+1. Regra vinculada pela NCM do produto
+	  1. Operação de produto importado, se a origem do produto for estrangeira
+    1. Operação para revenda, se estiver **desmarcada** a indicação de "Consumidor final" na nota fiscal
+    1. Operação para consumo, se estiver **marcada** a indicação de "Consumidor final" na nota fiscal
+1. Regra vinculada pelo CEST do produto (somente [ICMS ST](/glossario#icms-st))
+1. Outra configuração de operação geral, caso não tenha sido encontrada configuração para o imposto nas regras anteriores
