@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no GDOOR WEB para usar nos documentos
 published: true
-date: 2021-03-05T14:51:25.392Z
+date: 2021-03-05T15:03:31.076Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -46,4 +46,11 @@ Você pode cadastrar uma nova operação acessando o módulo de cadastro de oper
 - **Importação/Exportação**. Indica se é uma operação de comércio exterior.
 - **Operação de ajuste**. Indica se é uma operação para ser referenciada em uma [NF-e de ajuste](/movimentos/nf-e/ajuste).
 - **Operação de complemento**. Indica se é uma operação para ser referenciada em uma [NF-e de complemento](/movimentos/nf-e/complemento).
+- **Movimenta estoque**. Indica se notas feitas com esta operação devem alterar a quantidade dos produtos no estoque.
 - **Devolução**. Infica se é uma operação para ser referenciada em uma [NF-e de devolução](/movimentos/nf-e/devolucao).
+- **Saída/Entrada para consumo**. Indica se a operação será feita para consumo. Com esta opção marcada, a nota fiscal será identificada como destinada a consumidor final e a incidência da tributação pode ser diferenciada.
+- **Ativa**. Esta opção aparece apenas ao editar a operação e indica. Ao desmarcar esta opção, a operação não ficará disponível para selecionar nas notas. Você não poderá inativar uma operação se ela for a operação padrão de algum tipo de nota.
+
+### Tributação
+
+Nesta seção você pode vincular a operação a uma [regra de tributação](/configuracoes/impostos/regra-de-tributacao) cadastrada para que esta regra seja aplicada na venda selecionada. Informar a tributação na operação não é obrigatório, mas caso você informe, a regra da operação terá prioridade sobre qualquer outra regra que possa ser aplicada na venda. Para mais informações, veja [como são aplicadas as regras de tributação na nota fiscal](/configuracoes/impostos/regra-de-tributacao#como-são-aplicadas-as-regras-de-tributação).
