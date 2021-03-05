@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no GDOOR WEB para usar nos documentos
 published: true
-date: 2021-03-05T12:18:11.269Z
+date: 2021-03-05T12:34:42.063Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -31,6 +31,17 @@ As operações em **negrito** são utilizadas para controle do sistema e não po
 
 # Cadastro de operações
 
-Você pode cadastrar uma nova operação acessando o módulo de cadastro de operações e clicando no botão de inclusão no canto direito inferior da tela:
+Você pode cadastrar uma nova operação acessando o módulo de cadastro de operações e clicando no botão de inclusão no canto direito inferior da tela. Para alterar uma operação, basta clicar sobre ela na lista de operações. O formulário de cadastro de operações tem essa aparência:
 
-![Acesso para cadastrar uma nova operação](/cadastros/operacoes/cadastrar-nova-operacao.png)
+![formulario-para-cadastro-de-operacoes.png](/cadastros/operacoes/formulario-para-cadastro-de-operacoes.png)
+
+### Identificação 
+
+- **Nome da operação**. Nome identificador da operação, será utilizados nas listas de seleção.
+- **Descrição**. Descrição mais detalhada da operação. Útil para quando há várias operações com nome semelhante para você identificar mais detalhes sobre a operação.
+
+### Definições
+
+- **Entrada/Saída**. Indica se é uma operação de entrada ou saída.
+- **Importação/Exportação**. Indica se é uma operação de comércio exterior.
+- **Operação de ajuste**. Indica se é uma operação para ser utilizada em uma [NF-e de ajuste](/moviments/nf-e/ajuste).
