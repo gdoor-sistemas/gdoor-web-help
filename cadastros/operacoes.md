@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no GDOOR WEB para usar nos documentos
 published: true
-date: 2021-03-05T15:03:31.076Z
+date: 2021-03-05T15:04:03.658Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -53,4 +53,4 @@ Você pode cadastrar uma nova operação acessando o módulo de cadastro de oper
 
 ### Tributação
 
-Nesta seção você pode vincular a operação a uma [regra de tributação](/configuracoes/impostos/regra-de-tributacao) cadastrada para que esta regra seja aplicada na venda selecionada. Informar a tributação na operação não é obrigatório, mas caso você informe, a regra da operação terá prioridade sobre qualquer outra regra que possa ser aplicada na venda. Para mais informações, veja [como são aplicadas as regras de tributação na nota fiscal](/configuracoes/impostos/regra-de-tributacao#como-são-aplicadas-as-regras-de-tributação).
+Nesta seção você pode vincular a operação a uma [regra de tributação](/configuracoes/impostos/regras-de-tributacao) cadastrada para que esta regra seja aplicada na venda selecionada. Informar a tributação na operação não é obrigatório, mas caso você informe, a regra da operação terá prioridade sobre qualquer outra regra que possa ser aplicada na venda. Para mais informações, veja [como são aplicadas as regras de tributação na nota fiscal](/configuracoes/impostos/regras-de-tributacao#como-são-aplicadas-as-regras-de-tributação).
