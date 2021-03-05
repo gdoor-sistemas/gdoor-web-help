@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T20:32:28.039Z
+date: 2021-03-05T20:34:06.103Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -142,7 +142,8 @@ O último passo contém todos os dados como você configurou nos passos anterior
 
 ![Revisão da configuração da regra](/config/impostos/revisao.png)
 
-# Como são aplicadas as regras de tributação na nota fiscal{#aplicacao}
+<span id="aplicacao"></span>
+# Como são aplicadas as regras de tributação na nota fiscal
 
 Ao criar uma regra você pode determinar o tipo de operação em que ela se aplica. As opções disponíveis são as mais comuns onde o imposto pode variar. Há várias outras situações possíveis, mas configurar todas elas seria um processo muito complicado. Por isso, no GDOOR WEB você pode configurar regras que se apliquem em determinados cenários, mas ainda pode criar regras e fazer vínculos específicos para o caso de exceções.
 
