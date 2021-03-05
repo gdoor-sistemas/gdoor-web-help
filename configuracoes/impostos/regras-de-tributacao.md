@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T15:05:09.639Z
+date: 2021-03-05T15:05:51.944Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -142,4 +142,4 @@ O último passo contém todos os dados como você configurou nos passos anterior
 
 ![Revisão da configuração da regra](/config/impostos/revisao.png)
 
-## Como são aplicadas as regras de tributação na nota fiscal
+## Como são aplicadas as regras de tributação na nota fiscal{#aplicacao}
