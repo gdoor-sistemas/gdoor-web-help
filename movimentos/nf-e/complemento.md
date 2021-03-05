@@ -1,8 +1,8 @@
 ---
 title: NF-e de complemento
-description: 
+description: Entenda o que é e como gerar uma NF-e de complemento no GDOOR WEB
 published: true
-date: 2021-03-05T14:49:25.544Z
+date: 2021-03-05T14:50:03.414Z
 tags: nf-e, nota fiscal
 editor: markdown
 dateCreated: 2021-03-05T14:49:25.544Z
