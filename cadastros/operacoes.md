@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no GDOOR WEB para usar nos documentos
 published: true
-date: 2021-03-05T14:33:46.979Z
+date: 2021-03-05T14:48:30.826Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -44,4 +44,5 @@ Você pode cadastrar uma nova operação acessando o módulo de cadastro de oper
 
 - **Entrada/Saída**. Indica se é uma operação de entrada ou saída.
 - **Importação/Exportação**. Indica se é uma operação de comércio exterior.
-- **Operação de ajuste**. Indica se é uma operação para ser utilizada em uma [NF-e de ajuste](/movimentos/nf-e/ajuste).
+- **Operação de ajuste**. Indica se é uma operação para ser referenciada em uma [NF-e de ajuste](/movimentos/nf-e/ajuste).
+- **Operação de complemento**. Indica se é uma operação para ser referenciada em uma [NF-e de complemento](/movimentos/nf-e/complemento).
