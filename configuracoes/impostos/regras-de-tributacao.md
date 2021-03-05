@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-04T22:09:45.909Z
+date: 2021-03-05T15:05:09.639Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -141,3 +141,5 @@ Nesta tela você configura um [CST](/glossario#cst) para as operações de entra
 O último passo contém todos os dados como você configurou nos passos anteriores. Isso pode ajudá-lo a ter uma visão geral da configuração para checar se as informações estão corretas sem ter que rever cada passo. No título de cada seção há um botão **Ajustar** que direciona você para a seção em questão para que possa ajustar alguma informação.
 
 ![Revisão da configuração da regra](/config/impostos/revisao.png)
+
+## Como são aplicadas as regras de tributação na nota fiscal
