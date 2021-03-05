@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T20:28:11.063Z
+date: 2021-03-05T20:32:28.039Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -164,5 +164,7 @@ A aplicação dos impostos é feita conforme os impostos forem encontrados nas r
 |Regra 1     |-     |-      |**10%**|-     |-     |
 |Regra 2     |**7%**|-      |**5%** |**0%**|**0%**|
 |Regra 3     |12%   |**0%** |-      |-     |-     |
-|**Aplicado**|7%    |0%     |10%    |0%    |0%    |{.footer}
-||||||
+|**Aplicado**|7%    |0%     |10%    |0%    |0%    |
+{.has-footer}
+
+Perceba que o ICMS e o IPI estão configurados em 2 regras, mas foi aplicado o da primeira regra pela ordem de prioridade. Note também que a primeira regra na lista não possui configuração de ICMS, por isso, foi aplicada a configuração encontrada na próxima regra na ordem de prioridade.
