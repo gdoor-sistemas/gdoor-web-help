@@ -2,12 +2,13 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2020-09-03T17:16:18.585Z
+date: 2021-03-06T18:01:14.780Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
+dateCreated: 2020-08-05T19:18:19.255Z
 ---
 
-## Introdução
+# Introdução
 
 O módulo de NFC-e do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse.
 
@@ -33,39 +34,39 @@ Em todas as telas da NFC-e, você verá na área central superior uma barra que 
 
 ---
 
-## Seções
+# Seções
 
 Veja detalhes sobre cada seção de NFC-e acessando os artigos abaixo:
 
-### Formulário{.hidden}
+## Formulário{.hidden}
 - [Formulário *Entenda em detalhes a tela de geração de NFC-e*](/movimentos/nfc-e/formulario)
 {.links-list}
 
-### Lista{.hidden}
+## Lista{.hidden}
 - [Lista *Faça filtros e manipule suas NFC-e pela lista*](/movimentos/nfc-e/lista)
 {.links-list}
 
-### Inutilizar numeração{.hidden}
+## Inutilizar numeração{.hidden}
 - [Inutilizar numeração *Inutilize numeração que tenha pulado*](/movimentos/nfc-e/inutilizar)
 {.links-list}
 
-### XML do mês{.hidden}
+## XML do mês{.hidden}
 - [XML do mês *Baixe ou envie para a contabilidade*](/movimentos/nfc-e/xml-mes)
 {.links-list}
 
-### Contingência{.hidden}
+## Contingência{.hidden}
 - [Contingência *Habilite ou desabilite a NFC-e offline*](/movimentos/nfc-e/contingencia)
 {.links-list}
 
-### Sangria e suprimento{.hidden}
+## Sangria e suprimento{.hidden}
 - [Sangria/suprimento *Controle o dinheiro do seu caixa*](/movimentos/nfc-e/sangria-suprimento)
 {.links-list}
 
-### Configurações{.hidden}
+## Configurações{.hidden}
 - [Configurações *Configure o funcionamento da sua NFC-e*](/movimentos/nfc-e/configurar)
 {.links-list}
 
-### Preferências{.hidden}
+## Preferências{.hidden}
 - [Preferências *Defina preferências de comportamento da NFC-e para o seu usuário*](/movimentos/nfc-e/preferencias)
 {.links-list}
 
