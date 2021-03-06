@@ -2,13 +2,13 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2020-09-08T12:21:30.742Z
+date: 2021-03-06T18:14:47.570Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
 ---
 
-## Introdução
+# Introdução
 
 A tela de lançamento da NFC-e tem por objetivo mostrar apenas o que você precisa para lançar produtos e visualizar o que está acontecendo. Todas as ações disponíveis para o lançamento estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
@@ -18,7 +18,7 @@ Neste artigo você verá detalhes da tela de lançamento da NFC-e, tanto de uma 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2PUfV6476j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Criando uma NFC-e
+# Criando uma NFC-e
 
 Para criar uma nova NFC-e, você pode:
 
@@ -35,7 +35,7 @@ A imagem abaixo é a de uma NFC-e aberta com alguns itens adicionados:
 
 ![Tela da NFC-e aberta](/movimentos/nfce/nfce-aberta.png)
 
-### Adicionando produtos
+## Adicionando produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
@@ -47,7 +47,16 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
 
-### Adicionando kits de produtos
+### Buscando pela referência
+
+No cadastro de produtos há um campo chamado **Referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no GDOOR WEB é sequencial e inalterável.
+
+Para adicionar o produto pela referência, basta digitar um ponto (.) e o código da referência, depois pressionar <kbd>Enter</kbd>.
+
+> É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na NFC-e.
+{.is-success .gw .gw-tip}
+
+## Adicionando kits de produtos
 
 Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits), você poderá lançar seus produtos na NFC-e. Para isso, digite o caractere <kbd>+</kbd>. Se você souber o código numérico do kit, poderá informá-lo e pressionar <kbd>Enter</kbd> para lançar imediatamente. Caso contrário, digite caracteres não numéricos e o sistema mostrará os resultados de kits encontrados:
 
@@ -56,7 +65,7 @@ Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits), você 
 > Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para buscar **apenas** kits.
 {.is-success .gw .gw-tip}
 
-### Adicionando serviços
+## Adicionando serviços
 
 Para poder adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral), e depois [cadastrar os serviços](/cadastros/servicos).
 
@@ -64,7 +73,7 @@ Para adicionar serviços na NFCe, comece digitando uma barra no campo de busca (
 
 ![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
 
-### Vendedor
+## Vendedor
 
 Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item. Por isso, ao adicionar um vendedor, ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
