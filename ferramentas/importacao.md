@@ -2,7 +2,7 @@
 title: Importação de dados
 description: Veja como importar dados de outros sistemas para o GDOOR WEB
 published: true
-date: 2021-03-07T23:03:59.723Z
+date: 2021-03-07T23:04:10.732Z
 tags: cadastros, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:51:12.177Z
