@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-05T20:40:23.563Z
+date: 2021-03-07T23:48:43.438Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -106,6 +106,12 @@ A tabela de alíquotas possui uma linha para cada UF porque o cenário da tribut
 
 > A coluna **CFOP** não é de informação obrigatória. Na verdade, o CFOP não é definido pela regra, mas varia de acordo com a operação que estiver sendo realizada. No entanto, a configuração dele na regra facilita o preenchimento automático para que você não precise especificar o CFOP a cada item adicionado a uma NF-e, por exemplo.
 {.is-info .gw .gw-note}
+
+#### ICMS desonerado
+
+Dependendo do CST configurado para a regra, será habilitado um campo para configuração do cálculo do ICMS desonerado. Este é o cálculo do ICMS não pago na operação e é de informação obrigatória em alguns estados.
+
+![Configurar ICMS desonerado](/config/impostos/configurar-icms-desonerado.png)
 
 ### ICMS ST
 
