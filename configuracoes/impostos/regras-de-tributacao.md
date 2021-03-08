@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-07T23:48:43.438Z
+date: 2021-03-08T14:26:57.893Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -112,6 +112,11 @@ A tabela de alíquotas possui uma linha para cada UF porque o cenário da tribut
 Dependendo do CST configurado para a regra, será habilitado um campo para configuração do cálculo do ICMS desonerado. Este é o cálculo do ICMS não pago na operação e é de informação obrigatória em alguns estados.
 
 ![Configurar ICMS desonerado](/config/impostos/configurar-icms-desonerado.png)
+
+Os campos disponíveis para configuração são:
+
+- [x] Calcular desoneração do ICMS: Indica se o sistema deve fazer o cálculo do ICMS desonerado
+- [ ] asd
 
 ### ICMS ST
 
