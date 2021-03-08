@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-08T14:26:57.893Z
+date: 2021-03-08T18:22:02.594Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -116,7 +116,9 @@ Dependendo do CST configurado para a regra, será habilitado um campo para confi
 Os campos disponíveis para configuração são:
 
 - [x] Calcular desoneração do ICMS: Indica se o sistema deve fazer o cálculo do ICMS desonerado
-- [ ] asd
+- **Forma de cálculo**. Indica o tipo de cálculo que o sistema deve fazer, seja Base simples ou Base embutida.
+- **Cód. do benefício fiscal**. Código do benefício da desoneração na UF.
+- **Motivo da desoneração**. Selecione dentre todas as opções possíveis para informar na NF-e.
 
 ### ICMS ST
 
