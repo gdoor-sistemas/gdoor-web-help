@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-05-27T13:44:38.154Z
+date: 2021-05-27T14:40:46.150Z
 tags: produtos, movimentos, serviços
 editor: ckeditor
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -57,4 +57,34 @@ dateCreated: 2021-05-25T12:24:39.280Z
   <li><a href="https://help.gdoorweb.com.br/movimentos/nfc-e/lista#acoes">Menu de ações</a> a serem executadas com o pedido de venda em questão.</li>
 </ol>
 <h3>Ações</h3>
-<p style="text-align:justify;">Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-e selecionada. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:</p>
+<p style="text-align:justify;">Ao lado de cada item na lista, há um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:</p>
+<p style="text-align:justify;">As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:</p>
+<p style="text-align:justify;">SELECIONAR</p>
+<p style="text-align:justify;">Visível para todas NFC-e. Inicia o modo de <a href="https://help.gdoorweb.com.br/movimentos/nfc-e/lista#selecao-multipla">seleção múltipla</a>.</p>
+<p style="text-align:justify;">ATUALIZAR E TRANSMITIR</p>
+<p style="text-align:justify;">Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Aplica na NFC-e a tributação conforme as configurações, depois transmite a nota autorizada para a <a href="https://help.gdoorweb.com.br/glossario#sefaz">SEFAZ</a>.</p>
+<p style="text-align:justify;">INVALIDAR E CRIAR NOVA</p>
+<p style="text-align:justify;">Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Inutiliza a numeração atribuída a esta NFC-e e gera uma nova, com os mesmos dados da atual, com a próxima numeração disponível. A nova NFC-e gerada será aberta para edição.</p>
+<p style="text-align:justify;">TRANSMITIR</p>
+<p style="text-align:justify;">Visível para as NFC-e ainda não transmitidas. Envia o <a href="https://help.gdoorweb.com.br/glossario#xml">XML</a> da NFC-e para a SEFAZ.</p>
+<p style="text-align:justify;">CONSULTAR STATUS</p>
+<p style="text-align:justify;">Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.</p>
+<p style="text-align:justify;">COPIAR CHAVE DE ACESSO</p>
+<p style="text-align:justify;">Visível para as NFC-e que possuem chave de acesso. Copia a chave de acesso para a área de transferência.</p>
+<p style="text-align:justify;">ENVIAR POR E-MAIL</p>
+<p style="text-align:justify;">Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Envia um e-mail para o endereço do cadastro do cliente com o XML da NFC-e. Caso esteja configurado, envia também o DANFCe. <a href="https://help.gdoorweb.com.br/movimentos/nfc-e/configurar#email">Veja como configurar</a>.</p>
+<p style="text-align:justify;">VISUALIZAR DANFCE</p>
+<p style="text-align:justify;">Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no <a href="https://help.gdoorweb.com.br/dicas/visualizador-pdf">visualizador de PDF</a> do GDOOR WEB.</p>
+<p style="text-align:justify;">VISUALIZAR XML</p>
+<p style="text-align:justify;">Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o <a href="https://help.gdoorweb.com.br/glossario#xml">arquivo XML</a> gerado para a NFC-e.</p>
+<p style="text-align:justify;">PRÉ-VISUALIZAR DANFCE</p>
+<p style="text-align:justify;">Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia se como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no <a href="https://help.gdoorweb.com.br/dicas/visualizador-pdf">visualizador de PDF</a> do GDOOR WEB.</p>
+<p style="text-align:justify;">PRÉ-VISUALIZAR XML</p>
+<p style="text-align:justify;">Visível para as NFC-e ainda não transmitidas. Permite visualizar como o <a href="https://help.gdoorweb.com.br/glossario#xml">arquivo XML</a> será gerado para a NFC-e para transmissão. É só uma visualização e o arquivo sempre será gerado novamente a partir dos dados atualizados da NFC-e no momento da transmissão.</p>
+<p style="text-align:justify;">SALVAR DOCUMENTO</p>
+<p style="text-align:justify;">Visível para as NFC-e autorizadas. Possibilita download do arquivo XML da NFC-e, bem como o DANFCe em PDF.</p>
+<p style="text-align:justify;">CANCELAR NFC-E</p>
+<p style="text-align:justify;">Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante à SEFAZ.</p>
+<p style="text-align:justify;">EXLUIR NFC-E</p>
+<p style="text-align:justify;">Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela será eliminada da base de dados e não será possível recuperá-la novamente.</p>
+<p style="text-align:justify;">&nbsp;</p>
