@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-05-27T13:30:39.486Z
+date: 2021-05-27T13:44:38.154Z
 tags: produtos, movimentos, serviços
 editor: ckeditor
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -48,11 +48,13 @@ dateCreated: 2021-05-25T12:24:39.280Z
 <p style="text-align:justify;">No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os pedidos de venda em partes pra não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.</p>
 <figure class="image"><img src="/movimentos/pedidos/paginação.png"></figure>
 <p style="text-align:justify;">Em cada item da lista você pode encontrar as seguintes informações:</p>
-<figure class="image"><img src="https://help.gdoorweb.com.br/movimentos/nfce/nfce-item-lista-informacoes.png" alt="nfce-item-lista-informacoes.png"></figure>
+<figure class="image"><img src="/movimentos/pedidos/lista.png"></figure>
 <ol>
   <li>Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.</li>
-  <li>Nome do cliente. Será apresentada a informação "Consumidor final" quando o cliente não for informado.</li>
-  <li>Número sequencial da NFC-e, modelo (sempre 65), <a href="https://help.gdoorweb.com.br/movimentos/nfc-e/configurar#ambiente">série</a> e data da emissão. Também apresenta o valor total da NFC-e.</li>
-  <li>Chave de acesso e status da NFC-e.</li>
-  <li><a href="https://help.gdoorweb.com.br/movimentos/nfc-e/lista#acoes">Menu de ações</a> a serem executadas com a NFC-e em questão. Caso a NFC-e ainda não tenha sido transmitida para a <a href="https://help.gdoorweb.com.br/glossario#sefaz">SEFAZ</a>, ao lado deste botão será exibido outro () para editar a NFC-e.</li>
+  <li>Nome do cliente. Será apresentada a informação "consumidor final" quando o cliente não for informado.</li>
+  <li>Número sequencial do pedido de venda, data e hora da criação. Também apresenta o valor total do pedido.</li>
+  <li>Editar pedido. Se o pedido de venda ainda estiver com status <strong>em aberto</strong>, poderá ser editado.</li>
+  <li><a href="https://help.gdoorweb.com.br/movimentos/nfc-e/lista#acoes">Menu de ações</a> a serem executadas com o pedido de venda em questão.</li>
 </ol>
+<h3>Ações</h3>
+<p style="text-align:justify;">Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-e selecionada. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:</p>
