@@ -2,9 +2,10 @@
 title: Configurações da NFC-e
 description: Configure o funcionamento mecânico da NFC-e, como certificado digital, série, etc.
 published: true
-date: 2020-09-03T11:54:25.202Z
+date: 2021-06-02T12:12:42.012Z
 tags: configurações, nfc-e
 editor: markdown
+dateCreated: 2020-09-01T12:15:15.980Z
 ---
 
 # Configurações da NFC-e
@@ -142,7 +143,7 @@ As demais opções refletem no seguinte:
 
 Enviar e-mail automaticamente{.subtitle}
 
-Com esta opção marcada, após a **autorização** da NFC-e, o sistema irá enviar um e-mail para o endereço informado no [cadastro do cliente](/cadastros/pessoas#emails).
+Com esta opção marcada, após a **autorização** da NFC-e, o sistema enviará um e-mail para o endereço informado no [cadastro do cliente](/cadastros/pessoas#emails).
 
 Cópia para o emitente{.subtitle}
 
