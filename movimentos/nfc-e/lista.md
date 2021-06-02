@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2021-06-02T11:40:18.990Z
+date: 2021-06-02T11:43:52.792Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-01T11:47:32.566Z
@@ -101,7 +101,7 @@ Visível para as NFC-e ainda não transmitidas. Envia o [XML](/glossario#xml) da
 
 <span class="mat-button mdi mdi-refresh-circle"> Consultar status</span>
 
-Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante à SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
+Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante a SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
 
 <span class="mat-button mdi mdi-content-copy"> Copiar chave de acesso</span>
 
@@ -133,9 +133,9 @@ Visível para as NFC-e autorizadas. Possibilita download do arquivo XML da NFC-e
 
 <span class="mat-button mdi mdi-cancel"> Cancelar NFC-e</span>
 
-Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante à SEFAZ.
+Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante a SEFAZ.
 
-<span class="mat-button mdi mdi-delete"> Exluir NFC-e</span>
+<span class="mat-button mdi mdi-delete"> Excluir NFC-e</span>
 
 Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela será eliminada da base de dados e não será possível recuperá-la novamente.
 
