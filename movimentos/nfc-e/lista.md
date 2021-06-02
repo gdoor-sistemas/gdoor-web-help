@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2020-09-24T14:47:11.432Z
+date: 2021-06-02T11:40:18.990Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-01T11:47:32.566Z
@@ -50,9 +50,9 @@ Mostra todos os vendedores referenciados em itens da NFC-e. Ao aplicar este filt
 - **Status**
 Mostra todos os status das NFC-e. Esse status é o que aparece colorido na lista, representa a situação atual da NFC-e. Ao aplicar este filtro, serão exibidas apenas as NFC-e com o status selecionado.
 - **Data inicial**
-Filtro por perído. Para exibir apenas NFC-e geradas a partir de uma data específica, aplique este filtro.
+Filtro por período. Para exibir apenas NFC-e geradas a partir de uma data específica, aplique este filtro.
 - **Data final**
-Filtro por perído. Para exibir apenas NFC-e geradas até uma data específica, aplique este filtro.
+Filtro por período. Para exibir apenas NFC-e geradas até uma data específica, aplique este filtro.
 
 Para aplicar um filtro, clique no botão <span class=mat-button>Aplicar</span>, no canto direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em <span class=mat-button>Limpar filtros</span>:
 
