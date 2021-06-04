@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T18:23:29.228Z
+date: 2021-06-04T18:48:08.122Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -120,27 +120,27 @@ Para remover um filtro padrão, clique neste botão (<span class="mdi mdi-filter
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado, você verá o botão de filtro na cor laranja, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
 > 
 > ![nfce-filtro-aplicado.png](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
 
--   Cliente/Fornecedor  
+-   **Cliente/Fornecedor**
     Mostra todos os pedidos efetuados para o cliente/fornecedor informado. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda efetuados para o cliente/fornecedor indicado.
--   Usuário  
+-   **Usuário**  
     Mostra todos os usuários que já gravaram algum pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda salvos pelo usuário selecionado.
--   Vendedor  
+-   **Vendedor**  
     Mostra todos os vendedores referenciados em itens do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda que o vendedor selecionado está referenciado em ao menos 1 item.
--   Status  
+-   **Status**  
     Mostra todos os status dos pedidos de venda. O status representa a situação atual do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda com o status selecionado.
--   Data inicial  
+-   **Data inicial**  
     Filtro por período. Para exibir apenas pedidos de venda gerados a partir de uma data específica, aplique este filtro.
--   Data final  
+-   **Data final**  
     Filtro por período. Para exibir apenas pedidos de venda gerados até uma data específica, aplique este filtro.
 
-Para aplicar um filtro, clique no botão “aplicar” no lado direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em “limpar filtros”:
+Para aplicar um filtro, clique no botão “**APLICAR**” no lado direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em “**LIMPAR FILTROS**”:
 
 ![](/movimentos/pedidos/limpar_filtro.png)
 
@@ -153,16 +153,19 @@ No quadro da lista, na barra superior, você encontra o controle de paginação,
 Em cada item da lista você pode encontrar as seguintes informações:
 
 ![](/movimentos/pedidos/lista.png)
-
 1.  Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2.  Nome do cliente. Será apresentada a informação "consumidor final" quando o cliente não for informado.
 3.  Número sequencial do pedido de venda, data e hora da criação. Também apresenta o valor total do pedido de venda.
 4.  Editar pedido. Se o pedido de venda ainda estiver com status em aberto, poderá ser editado.
 5.  [Menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) a serem executadas com o pedido de venda em questão.
 
+### Editar pedido
+Para os pedidos da lista que ainda não foram faturados, há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
+
+
 ### Ações
 
-Ao lado de cada item na lista, há um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
+Ao lado de cada item na lista, há um botão para edição um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
 
 <span class="mat-button mdi mdi-check"> Selecionar</span>
 
