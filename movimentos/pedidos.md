@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T17:31:12.151Z
+date: 2021-06-04T18:00:30.214Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -24,8 +24,8 @@ Por padrão, ao acessar o módulo de pedidos de venda, você verá a seguinte te
 
 Para criar um pedido de venda, você pode:
 
--   Clicar no botão de adição () no canto direito inferior da tela inicial do pedido de venda;
--   Clicar no botão de adição ao lado do acesso à lista, no painel lateral do pedido de venda.
+-   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do pedido de venda;
+-   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do pedido de venda.
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
@@ -37,7 +37,7 @@ A imagem abaixo é de um novo pedido de venda:
 
 ## Cabeçalho
 
-No cabeçalho constam data e hora de “emissão” do pedido de venda, data e hora de “entrega” e "vendedor".
+No cabeçalho constam data e hora de “**emissão**” do pedido de venda, data e hora de “**entrega**” e "**vendedor**".
 
 ### Vendedor
 
@@ -49,16 +49,16 @@ Para informar o vendedor no pedido de venda, basta selecionar o desejado no cabe
 
 ## Cliente
 
-Informar o cliente no pedido de venda é opcional, caso nenhum cliente seja informado, será indicado automaticamente "consumidor final".   
-Para indicar um cliente é possível buscá-lo por nome, CPF/CNPJ, código, telefone ou e-mail.
+Informar o cliente no pedido de venda é opcional, caso nenhum cliente seja informado, será indicado automaticamente "**consumidor final**".   
+Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, telefone** ou **e-mail**.
 
 ## Mercadorias
 
-Você pode adicionar um produto clicando no ícone laranja conforme demonstrado na imagem abaixo ou utilizando a tecla "insert" do teclado. É possível lançar um produto informando o código, código de barras ou buscando pela descrição. 
+Você pode adicionar um produto clicando no ícone laranja conforme demonstrado na imagem abaixo ou utilizando a tecla <span class="mat-button mdi "> insert</span> do teclado. É possível lançar um produto informando o **código, código de barras** ou buscando pela **descrição**. 
 
 ![](/movimentos/pedidos/mercadorias.png)
 
-É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão de engrenagem “mais opções para os produtos”, em seguida em “colunas” e marque/desmarque e mova os campos para a ordem que desejar.
+É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão (<em class="mdi mdi-cog"></em>)  “mais opções para os produtos”, em seguida em “colunas” e marque/desmarque e mova os campos para a ordem que desejar.
 
 ![](/movimentos/pedidos/opções_produtos.png)
 
