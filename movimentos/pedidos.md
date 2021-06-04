@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T13:26:31.720Z
+date: 2021-06-04T14:53:02.050Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -164,7 +164,7 @@ Ao lado de cada item na lista, há um botão com ações de contexto para o pedi
 
 Visível para todos os pedidos de venda. Inicia o modo de [seleção múltipla](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#sele%C3%A7%C3%A3o-m%C3%BAltipla).
 
-<span class="mat-button mdi mdi-printer"> GERAR NF-e</span>
+<span class="mat-button mdi mdi-"> GERAR NF-e</span>
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
@@ -172,7 +172,7 @@ Visível para os pedidos de venda com status aberto. Direciona para geração de
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e/formulario#criando-uma-nfc-e).
 
-DUPLICAR
+<span class="mat-button mdi mdi-content-duplicate"> duplicar</span>
 
 Visível para todos os pedidos de venda: com status aberto ou faturado. Possibilita duplicar, efetuar uma cópia do pedido de venda em questão.
 
@@ -184,7 +184,7 @@ Visível para todos os pedidos de venda com status aberto ou faturado. Envia um 
 
 Visível para todos os pedidos de venda com status aberto ou faturado. Permite visualizar o pedido de venda em PDF no [visualizador de PDF](https://help.gdoorweb.com.br/dicas/visualizador-pdf) do GDOOR WEB e imprimi-lo se desejar.
 
-EXCLUIR
+<span class="mat-button mdi mdi-delete"> excluir</span>
 
 Visível para os pedidos de venda com status aberto. Possibilita a exclusão do pedido de venda. Ele será eliminado da base de dados e não será possível recuperá-lo novamente.
 
@@ -192,7 +192,7 @@ VER NF-e
 
 Visível apenas para NF-e faturadas. Possibilita a visualização da NF-e.
 
-VER NFC-e
+<span class="mat-button mdi mdi-qrcode"> ver NFC-e</span>
 
 Visível apenas para NFC-e faturadas. Possibilita a visualização da NFC-e.
 
