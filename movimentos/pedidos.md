@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T19:50:36.584Z
+date: 2021-06-04T19:52:43.599Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -24,8 +24,8 @@ Por padrão, ao acessar o módulo de pedidos de venda, você verá a seguinte te
 
 Para criar um pedido de venda, você pode:
 
--   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do pedido de venda;
--   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do pedido de venda.
+-   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto **direito inferior** da tela inicial do pedido de venda;
+-   Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no **painel lateral** do pedido de venda, ao lado do acesso à lista.
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
