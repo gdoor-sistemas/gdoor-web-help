@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2021-06-02T11:37:26.425Z
+date: 2021-06-04T17:35:26.614Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
@@ -23,7 +23,7 @@ Neste artigo você verá detalhes da tela de lançamento da NFC-e, tanto de uma 
 Para criar uma nova NFC-e, você pode:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial da NFC-e;
-- Clicar no botão de adição ao lado do acesso à lista, no painel lateral da NFC-e;
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral da NFC-e;
 - Clicando na opção no meio da tela inicial;
 - Pressionando a tecla <kbd>F2</kbd>.
 
