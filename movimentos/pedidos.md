@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T18:48:08.122Z
+date: 2021-06-04T18:58:48.906Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -156,16 +156,16 @@ Em cada item da lista você pode encontrar as seguintes informações:
 1.  Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2.  Nome do cliente. Será apresentada a informação "consumidor final" quando o cliente não for informado.
 3.  Número sequencial do pedido de venda, data e hora da criação. Também apresenta o valor total do pedido de venda.
-4.  Editar pedido. Se o pedido de venda ainda estiver com status em aberto, poderá ser editado.
+4.  [Editar pedido](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#editar-pedido). Se o pedido de venda ainda estiver com status em aberto, poderá ser editado.
 5.  [Menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) a serem executadas com o pedido de venda em questão.
 
 ### Editar pedido
-Para os pedidos da lista que ainda não foram faturados, há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
+Para os pedidos da lista que ainda não foram faturados (com status aberto), há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
 
 
 ### Ações
 
-Ao lado de cada item na lista, há um botão para edição um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
+Ao lado de cada item na lista, há um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
 
 <span class="mat-button mdi mdi-check"> Selecionar</span>
 
@@ -206,8 +206,8 @@ Visível apenas para NFC-e faturadas. Possibilita a visualização da NFC-e.
 
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: gerar NF-e e gerar NFC-e.  
-Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) do pedido de venda na opção “selecionar”, ou no caso de dispositivos de toque, dar um toque longo no item.
+O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span> e <span class="mat-button mdi "> gerar nfc-e</span>.  
+Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) do pedido de venda na opção <span class="mat-button mdi mdi-check"> Selecionar</span>, ou no caso de dispositivos de toque, dar um toque longo no item.
 
 ![](/movimentos/pedidos/selecionar.png)
 
