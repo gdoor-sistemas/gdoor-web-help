@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T18:00:30.214Z
+date: 2021-06-04T18:09:56.580Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -58,7 +58,7 @@ Você pode adicionar um produto clicando no ícone laranja conforme demonstrado 
 
 ![](/movimentos/pedidos/mercadorias.png)
 
-É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão (<em class="mdi mdi-cog"></em>)  “mais opções para os produtos”, em seguida em “colunas” e marque/desmarque e mova os campos para a ordem que desejar.
+É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão (<em class="mdi mdi-cog"></em>)  “**mais opções para os produtos**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
 ![](/movimentos/pedidos/opções_produtos.png)
 
@@ -66,11 +66,12 @@ Você pode adicionar um produto clicando no ícone laranja conforme demonstrado 
 
 Para poder adicionar serviços no pedido de venda, você precisa habilitar o uso de serviços no sistema nas [configurações](https://help.gdoorweb.com.br/configuracoes/geral), e depois [cadastrar os serviços](https://help.gdoorweb.com.br/cadastros/servicos).
 
-Para adicionar serviços no pedido de venda, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo ou utilizar as teclas “shift+insert” no teclado. É possível lançar um serviço pelo código numérico do serviço, digitando uma barra no campo de busca (\\ ou /) para que o sistema mostre os serviços encontrados ou digitando a descrição do serviço desejado.
+Para adicionar serviços no pedido de venda, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo ou utilizar as teclas <span class="mat-button mdi "> shift</span> + <span class="mat-button mdi "> insert</span> no teclado.
+É possível lançar um serviço pelo código numérico do serviço, digitando uma barra no campo de busca (\\ ou /) para que o sistema mostre os serviços encontrados ou digitando a descrição do serviço desejado.
 
 ![](/movimentos/pedidos/serviços.png)
 
-É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão de engrenagem “mais opções para os serviços”, em seguida em “colunas” e marque/desmarque e mova os campos para a ordem que desejar.
+Para personalizar a ordem e os campos para visualização em tela, para isso clique no botão de engrenagem (<em class="mdi mdi-cog"></em>)  “**mais opções para os serviços**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
 ![](/movimentos/pedidos/opções_serviços.png)
 
