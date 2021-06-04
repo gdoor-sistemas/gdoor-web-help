@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-02T12:16:25.448Z
+date: 2021-06-04T13:26:31.720Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -93,14 +93,14 @@ Na tela de lista, você visualiza os pedidos de venda efetuados e pode fazer uma
 
 ## Busca
 
-Para localizar um pedido de venda, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão limpar a busca (`<em class="mdi mdi-close"></em>`) que fica no final do campo de busca. Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) aprimorados, clique no botão filtrar (). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão atualizar lista () à direita.
+Para localizar um pedido de venda, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar" a busca (<em class="mdi mdi-close"></em>) que fica no final do campo de busca. Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) aprimorados, clique no botão filtrar (<em class="mdi mdi-filter"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão atualizar lista (<em class="mdi mdi-refresh"></em>) à direita.
 
 ![](/movimentos/pedidos/busca.png)
 
-Dica  
-O que você digitar será buscado entre as seguintes informações do pedido de venda:  
-Campos numéricos: código de barras e código do produto, número da nota;  
-Campos textuais: razão social e nome fantasia do cliente e nome dos produtos.
+> O que você digitar será buscado entre as seguintes informações do pedido de venda:  
+> Campos numéricos: código de barras e código do produto, número da nota;  
+> Campos textuais: razão social e nome fantasia do cliente e nome dos produtos.
+{.is-success .gw .gw-tip}
 
 ## Filtros
 
@@ -110,15 +110,16 @@ Os filtros podem ser definidos como padrão para que sempre que você abrir a li
 
 No painel de filtros destacado na imagem acima, no lado superior direito temos:
 
-: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nos pedidos de venda, por exemplo, o filtro usuário só vai mostrar os usuários que registraram pedidos de venda. Assim, caso você precise atualizar as opções disponíveis, clique neste botão.
+<span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nos pedidos de venda, por exemplo, o filtro usuário só vai mostrar os usuários que registraram pedidos de venda. Assim, caso você precise atualizar as opções disponíveis, clique neste botão.
 
-: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em definir como padrão. Para remover um filtro padrão, clique neste botão, depois em remover padrão. A imagem abaixo mostra essas opções:
+<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em definir como padrão. Para remover um filtro padrão, clique neste botão, depois em remover padrão. A imagem abaixo mostra essas opções:
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado, você verá o botão de filtro na cor laranja, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
 > 
 > ![nfce-filtro-aplicado.png](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+{.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
 
@@ -159,15 +160,15 @@ Em cada item da lista você pode encontrar as seguintes informações:
 
 Ao lado de cada item na lista, há um botão com ações de contexto para o pedido selecionado. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
 
-SELECIONAR
+<span class="mat-button mdi mdi-check"> Selecionar</span>
 
 Visível para todos os pedidos de venda. Inicia o modo de [seleção múltipla](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#sele%C3%A7%C3%A3o-m%C3%BAltipla).
 
-GERAR NF-e
+<span class="mat-button mdi mdi-printer"> GERAR NF-e</span>
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
-GERAR NFC-e
+<span class="mat-button mdi mdi-qrcode"> gerar NFC-e</span>
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e/formulario#criando-uma-nfc-e).
 
@@ -175,11 +176,11 @@ DUPLICAR
 
 Visível para todos os pedidos de venda: com status aberto ou faturado. Possibilita duplicar, efetuar uma cópia do pedido de venda em questão.
 
-ENVIAR POR E-MAIL
+<span class="mat-button mdi mdi-email"> Enviar por e-mail</span>
 
 Visível para todos os pedidos de venda com status aberto ou faturado. Envia um e-mail para o endereço do cadastro do cliente com o pedido de venda.
 
-IMPRIMIR
+<span class="mat-button mdi mdi-printer"> imprimir</span>
 
 Visível para todos os pedidos de venda com status aberto ou faturado. Permite visualizar o pedido de venda em PDF no [visualizador de PDF](https://help.gdoorweb.com.br/dicas/visualizador-pdf) do GDOOR WEB e imprimi-lo se desejar.
 
