@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T18:58:48.906Z
+date: 2021-06-04T19:20:26.060Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -211,15 +211,16 @@ Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](h
 
 ![](/movimentos/pedidos/selecionar.png)
 
-Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou desmarcar. Só é possível marcar pedidos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros).
+Depois de selecionar um pedido de venda, você poderá clicar em outros para marcar ou desmarcar. Só é possível marcar pedidos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros).
 
 ![](/movimentos/pedidos/selecionar_ações.png)
 
 As ações disponíveis conforme indicado na imagem acima são:  
-1- Caixa que permite marcar/desmarcar todos os pedidos de venda em exibição na página;  
-2- Gerar NF-e para os pedidos de venda selecionados;  
-3- Gerar NFC-e para os pedidos de venda selecionados;  
-4- Desmarcar todos e fechar o modo de seleção múltipla.  
+1. Caixa que permite marcar/desmarcar todos os pedidos de venda em exibição na página;  
+2. Gerar NF-e para os pedidos de venda selecionados;  
+3. Gerar NFC-e para os pedidos de venda selecionados;  
+4. Desmarcar todos e fechar o modo de seleção múltipla.  
+
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todos os pedidos de venda selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar um pedido de venda faturado e outro em aberto, as ações não estarão disponíveis.
 
 # Configurações do pedido de venda
@@ -230,7 +231,7 @@ Neste tópico você verá o que pode ser configurado no pedido de venda.
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações.
 
-Sugerir vendedor: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
+**Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
 
 ![](/movimentos/pedidos/comportamento.png)
 
