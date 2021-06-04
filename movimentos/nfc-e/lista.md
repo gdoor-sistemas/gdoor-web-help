@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2021-06-02T12:05:23.959Z
+date: 2021-06-04T13:08:16.512Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-01T11:47:32.566Z
@@ -33,9 +33,9 @@ No painel de filtros destacado na imagem acima, você encontra, no canto direito
 
 <span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nas NFC-e, por exemplo, o filtro **Usuário** só vai mostrar os usuários que registraram NFC-e, para facilitar o filtro. Assim, caso você precise atualizar as opções disponíveis, clique neste botão.
 
-![Opções do filtro](/movimentos/nfce/opcoes-filtro-nfce.png =200x){.float-right}
-
 <span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em **Definir como padrão**. Para remover um filtro padrão, clique neste botão, depois em **Remover padrão**. A imagem ao lado mostra essas opções:
+
+![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado, assim, se algumas NFC-e não estiverem aparecendo na lista, você poderá facilmente saber se um filtro está aplicado:
 ![nfce-filtro-aplicado.png](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
