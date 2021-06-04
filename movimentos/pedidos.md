@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T15:11:29.511Z
+date: 2021-06-04T17:22:19.225Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -10,9 +10,11 @@ dateCreated: 2021-05-25T12:24:39.280Z
 
 # Introdução
 
-O pedido de venda é um módulo auxiliar de vendas, utilizado para registrar os pedidos de venda efetuados para os clientes, os mesmos podem ser impressos ou enviados ao cliente via e-mail.
+O pedido de venda é uma operação  importante para gerenciamento das vendas, nele constam as intenções de compra do cliente, e por ser um documento que antecede a venda, não é necessário que todos os dados do cliente estejam cadastrados, podendo ser emitido também para consumidor final.
 
-Os pedidos de venda poderão ser importados para faturamento nos módulos de [NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e/formulario#criando-uma-nfc-e) ou [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
+No pedido de venda você pode indicar o cliente e vendedor para comercialização de produtos e serviços, as formas de pagamento negociadas e informações adicionais.
+
+Os pedidos de venda podem ser impressos ou enviados para o cliente via e-mail. Quando houver a confirmação da compra, o pedido de venda poderá ser enviado diretamente para faturamento e geração de [NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e/formulario#criando-uma-nfc-e) ou [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
 Por padrão, ao acessar o módulo de pedidos de venda, você verá a seguinte tela:
 
