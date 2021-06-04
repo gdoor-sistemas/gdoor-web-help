@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: false
-date: 2021-06-04T14:53:02.050Z
+date: 2021-06-04T15:05:27.795Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -164,7 +164,8 @@ Ao lado de cada item na lista, há um botão com ações de contexto para o pedi
 
 Visível para todos os pedidos de venda. Inicia o modo de [seleção múltipla](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#sele%C3%A7%C3%A3o-m%C3%BAltipla).
 
-<span class="mat-button mdi mdi-"> GERAR NF-e</span>
+<span class="mat-button ![br-map.png](/movimentos/pedidos/br-map.png)"> GERAR NF-e</span> 
+
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
@@ -188,7 +189,7 @@ Visível para todos os pedidos de venda com status aberto ou faturado. Permite v
 
 Visível para os pedidos de venda com status aberto. Possibilita a exclusão do pedido de venda. Ele será eliminado da base de dados e não será possível recuperá-lo novamente.
 
-VER NF-e
+<span class="mat-button ![br-map.png](/movimentos/pedidos/br-map.png)"> ver NF-e</span> 
 
 Visível apenas para NF-e faturadas. Possibilita a visualização da NF-e.
 
