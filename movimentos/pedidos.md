@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: true
-date: 2021-06-04T20:25:38.113Z
+date: 2021-06-07T12:15:35.615Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -18,7 +18,7 @@ Os pedidos de venda podem ser **impressos** ou enviados para o cliente via **e-m
 
 Por padrão, ao acessar o módulo de pedidos de venda, você verá a seguinte tela:
 
-![](/movimentos/pedidos/tela_inicial.png)
+![tela_inicial_2.png](/movimentos/pedidos/tela_inicial_2.png)
 
 # Novo pedido de venda
 
@@ -29,11 +29,11 @@ Para criar um pedido de venda, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![](/movimentos/pedidos/novo_pedido.png)
+![novo_pedido_2.png](/movimentos/pedidos/novo_pedido_2.png)
 
 A imagem abaixo é de um novo pedido de venda:
 
-![](/movimentos/pedidos/novo.png)
+![novo2.png](/movimentos/pedidos/novo2.png)
 
 ## Cabeçalho
 
