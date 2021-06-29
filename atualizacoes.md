@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-06-29T20:27:04.489Z
+date: 2021-06-29T20:32:48.477Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -15,7 +15,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 ## Ajustes 
 - Corrigido para abrir a edição dos detalhes do seviço na NFC-e.
-- Padronizada a nomenclatura Produtos no sistema. Alterado para todos os locais que se refiram a Produtos possuam a identificação "Produto".
+- Padronizada a nomenclatura Produtos no sistema. Alguns locais no sistema apresentava a nomenclatura "Itens" ou "Mercadorias" para se referir a produtos e foi alterado para que todos os locais que se refiram a Produtos tenham a nomenclatura "Produtos".
 - Impedida a exclusão de usuário que importou dados. 
 - Criada limpeza automática para arquivos de importação antigos. Dessa forma, quando o arquivo de importação estiver no sistema a 14 dias, ele ficará indisponível.
 
