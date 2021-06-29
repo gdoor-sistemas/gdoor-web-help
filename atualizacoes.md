@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-06-29T17:55:52.324Z
+date: 2021-06-29T20:27:04.489Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 29/06/2021
+
+## Novidades
+- Adicionada possibilidade para desfazer uma importação de dados. Essa funcionalidade permite reverter a importação e excluir os registros importados nela.
+
+## Ajustes 
+- Corrigido para abrir a edição dos detalhes do seviço na NFC-e.
+- Padronizada a nomenclatura Produtos no sistema. Alterado para todos os locais que se refiram a Produtos possuam a identificação "Produto".
+- Impedida a exclusão de usuário que importou dados. 
+- Criada limpeza automática para arquivos de importação antigos. Dessa forma, quando o arquivo de importação estiver no sistema a 14 dias, ele ficará indisponível.
 
 # 28/06/2021
 
