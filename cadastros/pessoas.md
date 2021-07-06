@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-06T20:28:21.929Z
+date: 2021-07-06T20:32:05.601Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -104,9 +104,11 @@ Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estive
 
 ![Quadro Vendedor](/cadastros/pessoas/campos-vendedor.png)
 
-### Intermediador
+### Intermediador/Marketplace
 
-Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver marcado. 
+Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado, disponível apenas para cadastro de **pessoa jurídica**. 
+
+![intermediador.png](/cadastros/pessoas/intermediador.png)
 
 
 ### Endereços{#enderecos}
