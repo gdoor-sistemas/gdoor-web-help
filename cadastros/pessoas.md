@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-06T20:15:46.793Z
+date: 2021-07-06T20:28:21.929Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -80,9 +80,14 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Transportador**: Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
 - **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção, é necessário que seja selecionada a opção **pessoa jurídica**.
 
-Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
+Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
+Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. 
+Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. 
+Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
 
-À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. Você também identifica a pessoa como **física** ou **jurídica**, ou seja, uma pessoa real ou uma empresa, respectivamente. Se preferir, no caso de pessoa física, especifique o **gênero**. Também pode inativar um cadastro desmarcando a caixa **Ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: Ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
+À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. 
+Você também identifica a pessoa como **física** ou **jurídica**, ou seja, uma pessoa real ou uma empresa, respectivamente. Se preferir, no caso de pessoa física, especifique o **gênero**. 
+Também é possível inativar um cadastro desmarcando a caixa **Ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
 
 > Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [Imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
@@ -98,6 +103,11 @@ Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver m
 Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
 
 ![Quadro Vendedor](/cadastros/pessoas/campos-vendedor.png)
+
+### Intermediador
+
+Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver marcado. 
+
 
 ### Endereços{#enderecos}
 
