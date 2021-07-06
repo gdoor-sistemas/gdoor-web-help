@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-06T20:01:08.622Z
+date: 2021-07-06T20:02:03.569Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -65,8 +65,6 @@ O formulário de cadastro será exibido quando você for **criar** ou **atualiza
 ### Identificação
 
 Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
-
-![Quadro Identificação](/cadastros/pessoas/identificacao.png)
 
 ![quadro_identificação.png](/cadastros/pessoas/quadro_identificação.png)
 
