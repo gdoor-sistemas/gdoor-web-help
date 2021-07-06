@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2020-09-04T17:13:35.131Z
+date: 2021-07-06T19:47:10.852Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras** e **vendedores**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **intermediador**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
 ## Lista
 
@@ -34,7 +34,7 @@ Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de ediç�
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
 
-Ao clicar sobre um item dessa lista, você verá uma pré-visualização do cadastro com algumas informações chave:
+Ao clicar sobre um item dessa lista, você terá uma pré-visualização do cadastro com algumas informações chave:
 
 ![Pré-visualização de pessoas](/cadastros/pessoas/preview.png)
 
@@ -46,7 +46,7 @@ A tela de detalhes possibilita ter uma visão completa do cadastro:
 
 ![Detalhes do cadastro](/cadastros/pessoas/detalhes.png)
 
-No cabeçalho dessa tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direiro, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
+No cabeçalho dessa tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
 
 - Acesse a tela de edição do cadastro;
 - Abra a [tela de NF-e](/movimentos/nf-/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**.
@@ -55,7 +55,7 @@ No cabeçalho dessa tela, você encontra algumas informações básicas do cadas
 
 Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. Sempre que você abrir a tela de detalhes, a aba identificação, que contém os dados de cadastro da pessoa, virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema.
 
-> Veja detalhes sobre esta seção no tópico [Histórico](/cadastros/pessoas/historico).
+> Veja detalhes sobre esta seção no tópico [histórico](/cadastros/pessoas/historico).
 {.is-info}
 
 ## Formulário
