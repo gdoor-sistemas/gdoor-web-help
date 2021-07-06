@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2021-06-04T17:35:26.614Z
+date: 2021-07-06T18:18:17.758Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
@@ -86,3 +86,9 @@ Informar o cliente na NFC-e é opcional. Além disso, se você quiser informar o
 Para informar o cliente na NFC-e, pressione a tecla <kbd>F7</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-account">Informar cliente</span>. Na tela que abrir, você pode buscar um cliente ou apenas informar o CPF. Ao pressionar <kbd>Enter</kbd> ou clicar em <span data-mat-button>Confirmar</span> e for um CPF válido, o sistema tentará encontrar esse CPF no cadastro e se não encontrar, poderá informar mesmo assim. Também é possível informar o nome do cliente opcionalmente.
 
 ![Informar CPF do cliente na NFC-e](/movimentos/nfce/informar-cpf-na-nfce.png)
+
+## Intermediador da operação
+
+Quando a venda ocorrer pela internet (operação não presencial), e houver intermédio de alguma plataforma de terceiro, como marketplaces e deliverys é necessário indicar o intermeador da operação para acompanhamento da SEFAZ
+
+
