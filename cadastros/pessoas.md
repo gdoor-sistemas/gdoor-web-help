@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-06T19:47:10.852Z
+date: 2021-07-06T19:48:03.345Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -60,7 +60,7 @@ Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. S
 
 ## Formulário
 
-O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, você clica no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
+O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, clique no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
 
 ### Identificação
 
