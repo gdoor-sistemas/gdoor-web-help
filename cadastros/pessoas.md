@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-06T20:02:03.569Z
+date: 2021-07-06T20:15:46.793Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -74,10 +74,11 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 ![Atributos](/cadastros/pessoas/atributos.png)
 
-- **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e) de saída;
+- **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/nfc-e) e [pedido de venda](/movimentos/pedidodevenda);
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [Vendedor](#vendedor);
 - **Transportador**: Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
+- **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção, é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
 
