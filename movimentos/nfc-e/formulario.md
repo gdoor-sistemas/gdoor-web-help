@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2021-07-07T20:20:37.571Z
+date: 2021-07-07T20:22:26.392Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
@@ -94,7 +94,7 @@ Quando a venda ocorrer pela internet (operação não presencial), e houver inte
 O código contendo a identificação do intermediador/marketplace deve constar no seu respectivo cadastro de pessoa com atributo  [intermediador](/cadastros/pessoas#intermediador).
 
 Para informar o intermediador na NFC-e, utilize a tecla <kbd>F8</kbd> ou clique em (<em class="mdi mdi-dots-vertical"></em>) seguido de (<em class="mdi mdi-dots-horizontal"></em> Outras opções).
-No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"></em>), selecione o intermediador desejado e clique em <span data-mat-button>Confirmar</span>.
+No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"></em>), selecione o intermediador desejado e clique em <span data-mat-button>Confirmar</span>, desta forma será gerada a tag no arquivo XML.
 
 ![outras_opções.png](/movimentos/nfce/outras_opções.png)
 
