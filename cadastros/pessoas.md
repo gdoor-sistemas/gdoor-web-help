@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-07T17:31:33.274Z
+date: 2021-07-07T20:29:10.245Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **intermediador da operação**. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no GDOOR WEB é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
 ## Lista
 
@@ -106,7 +106,7 @@ Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estive
 
 ### Intermediador
 
-Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. Deve ser preenchido com o código de identificação do intermeadiador/marketplace, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
+Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. Deve ser preenchido com o código de identificação do intermediador/marketplace, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
 ![intermediador.png](/cadastros/pessoas/intermediador.png)
 
