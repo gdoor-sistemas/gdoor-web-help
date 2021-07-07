@@ -2,7 +2,7 @@
 title: Formulário de NFC-e
 description: Veja em detalhes como gerar suas NFC-e
 published: true
-date: 2021-07-06T19:41:44.653Z
+date: 2021-07-07T18:43:36.814Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-02T19:49:36.155Z
@@ -89,9 +89,9 @@ Para informar o cliente na NFC-e, pressione a tecla <kbd>F7</kbd> ou acesse o me
 
 ## Intermediador da operação
 
-Quando a venda ocorrer pela internet (operação não presencial), e houver intermédio de alguma plataforma de terceiro, como marketplaces e deliverys é necessário indicar o intermeador da operação para acompanhamento da SEFAZ.
+Quando a venda ocorrer pela internet (operação não presencial), e houver intermédio de alguma plataforma de terceiro como marketplaces e deliverys, é necessário indicar o intermediador da operação para acompanhamento da SEFAZ.
 
-No cadastro de pessoas
+O código contendo a indentificação do intermediador/marketplace deve constar no seu respectivo cadastrado de pessoa com atributo intermediador [intermediador](#intermediador).
 
 > Caracteriza-se uma operação **sem intermediador** quando efetuada via site ou plataforma própria, sem envolver outra pessoa jurídica.
 {.is-info}
