@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-07T11:44:55.913Z
+date: 2021-07-07T12:06:55.191Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -77,7 +77,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/nfc-e) e [pedido de venda](/movimentos/pedidodevenda);
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [Vendedor](#vendedor);
-- **Transportador**: Indica que esta pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
+- **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
 - **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção, é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
@@ -106,9 +106,12 @@ Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estive
 
 ### Intermediador/Marketplace
 
-Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado, disponível apenas para cadastro de **pessoa jurídica**. 
+Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. Deve ser preenchido com o código de identificação do intermeadiador/marketplace, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
 ![intermediador.png](/cadastros/pessoas/intermediador.png)
+
+> Disponível apenas para cadastro de **pessoa jurídica**.
+{.is-info .gw .gw-note}
 
 
 ### Endereços{#enderecos}
