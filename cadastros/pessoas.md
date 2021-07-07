@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-07T17:25:25.158Z
+date: 2021-07-07T17:26:18.071Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -78,7 +78,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [Vendedor](#vendedor);
 - **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
-- **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
+- **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [intermediador/marletplace](#intermediador/marketiplace), é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
 Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. 
