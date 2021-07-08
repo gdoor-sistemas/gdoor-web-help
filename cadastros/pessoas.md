@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-07T20:29:10.245Z
+date: 2021-07-08T13:13:29.326Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -82,7 +82,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
 Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. 
-Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Nome do responsável** e **CPF do responsável**. 
+Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Intermediador/Marketplace**, **Nome do responsável** e **CPF do responsável**. 
 Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
 
 À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. 
@@ -106,13 +106,10 @@ Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estive
 
 ### Intermediador
 
-Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. Deve ser preenchido com o código de identificação do intermediador/marketplace, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
+Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. 
+O cadastro da pessoa jurídica deve ser preenchido com todas as informações do intermediador (razão social, CNPJ...) e no quadro indicado na imagem abaixo, inserir o código de identificação do **intermediador/marketplace**, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
 ![intermediador.png](/cadastros/pessoas/intermediador.png)
-
-> Disponível apenas para cadastro de **pessoa jurídica**.
-{.is-info .gw .gw-note}
-
 
 ### Endereços{#enderecos}
 
