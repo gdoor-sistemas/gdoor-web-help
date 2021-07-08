@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o GDOOR WEB
 published: true
-date: 2021-07-08T13:13:29.326Z
+date: 2021-07-08T14:45:22.068Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -46,7 +46,7 @@ A tela de detalhes possibilita ter uma visão completa do cadastro:
 
 ![Detalhes do cadastro](/cadastros/pessoas/detalhes.png)
 
-No cabeçalho dessa tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
+No cabeçalho desta tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
 
 - Acesse a tela de edição do cadastro;
 - Abra a [tela de NF-e](/movimentos/nf-/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**.
@@ -134,7 +134,7 @@ Além do e-mail principal e do site, você pode adicionar ao cadastro outros end
 
 ### Veículos{#veiculos}
 
-Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar veículos.
+Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar os veículos.
 
 ![Quadro veículos](/cadastros/pessoas/campos-transportador.png)
 
