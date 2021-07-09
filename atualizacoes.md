@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-06-29T20:36:14.077Z
+date: 2021-07-09T11:14:02.259Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 09/07/2021
+
+## Ajustes
+- Ajustada a importação de dados para não aceitar arquivos que possuam somente serviços. Essa validação é necessária pois o sistema não importa serviços.
 
 # 29/06/2021
 
