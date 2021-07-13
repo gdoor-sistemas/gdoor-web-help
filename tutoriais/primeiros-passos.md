@@ -2,7 +2,7 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2021-07-13T17:02:51.005Z
+date: 2021-07-13T18:38:44.885Z
 tags: primeiros passos, tutorial, gdoor web, como fazer
 editor: markdown
 dateCreated: 2019-12-23T13:46:41.107Z
@@ -12,11 +12,11 @@ dateCreated: 2019-12-23T13:46:41.107Z
 
 O GDOOR WEB foi desenvolvido pensando em facilitar a vida do usuário, possuindo configurações prontas e permitindo que o uso efetivo possa ser iniciado com agilidade. No entanto, nem todas as empresas possuem o mesmo cenário e alguns ajustes precisam ser feitos para que o serviço, de fato, automatize muitos processos para a empresa.
 
-Nos tópicos abaixo, apresentamos um passo a passo de uma configuração ideal, para que todos os módulos estejam prontos para trabalhar em conjunto e agilizar o processo, principalmente, de emissão de NF-e. Você pode acessar um tópico específico, clicando no nome dele no Índice à esquerda deste artigo.
+Nos tópicos abaixo, apresentamos um passo a passo de uma configuração ideal, para que todos os módulos estejam prontos para trabalhar em conjunto e agilizar o processo, principalmente, de emissão de NF-e e NFC-e. Você pode acessar um tópico específico, clicando no nome dele no Índice à esquerda deste artigo.
 
 ## Cadastro do emitente
 
-O cadastro do emitente contempla os dados da sua empresa, e são necessários em vários módulos, como a emissão de NF-e, por exemplo. Neste caso, os campos abaixo são **obrigatórios**:
+O cadastro do emitente contempla os dados da sua empresa, e são necessários em vários módulos, como a emissão de NF-e e NFC-e, por exemplo. Neste caso, os campos abaixo são **obrigatórios**:
 
 - Nome
 - CNPJ
@@ -42,11 +42,11 @@ Para cadastrar usuários, acesse o módulo [Usuários](/configuracoes/usuarios) 
 
 ## Configuração de NF-e/NFC-e
 
-Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre as configurações da NF-e você encontra no tutorial [Como emitir uma NF-e](/tutoriais/como-emitir-uma-nfe).
+Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossario#certificado-digital) é necessário ser cadastrado. Mais detalhes sobre as configurações da NF-e você encontra no tutorial [como emitir uma NF-e](/tutoriais/como-emitir-uma-nfe).
 
 ## Cadastros
 
-Os cadastros aqui referem-se a [pessoas](/cadastros/pessoas) e [produtos](/cadastros/produtos), que são necessários, por exemplo, para a emissão de NF-e. Falando em pessoas, você pode cadastrar seus clientes, fornecedores, transportadoras e seus vendedores. No cadastro de produtos, você lista as mercadorias com as quais sua empresa trabalha.
+Os cadastros aqui referem-se a [pessoas](/cadastros/pessoas) e [produtos](/cadastros/produtos), que são necessários, por exemplo, para a emissão de NF-e e NFC-e. Falando em pessoas, você pode cadastrar seus clientes, fornecedores, transportadoras e seus vendedores. No cadastro de produtos, você lista as mercadorias com as quais sua empresa trabalha.
 
 > Seus cadastros podem ser facilitados por meio da [importação do XML](/movimentos/compras/importar-xml) de compra, que cadastra automaticamente pessoas e produtos não existentes no seu sistema.
 {.is-success .gw .gw-tip}
