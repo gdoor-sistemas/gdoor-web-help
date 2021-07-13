@@ -2,16 +2,17 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2020-09-03T18:34:20.911Z
+date: 2021-07-13T17:02:51.005Z
 tags: primeiros passos, tutorial, gdoor web, como fazer
 editor: markdown
+dateCreated: 2019-12-23T13:46:41.107Z
 ---
 
 # Obtive acesso ao GDOOR WEB, e agora?
 
 O GDOOR WEB foi desenvolvido pensando em facilitar a vida do usuário, possuindo configurações prontas e permitindo que o uso efetivo possa ser iniciado com agilidade. No entanto, nem todas as empresas possuem o mesmo cenário e alguns ajustes precisam ser feitos para que o serviço, de fato, automatize muitos processos para a empresa.
 
-Nos tópicos abaixo, apresentamos um passo-a-passo de uma configuração ideal, para que todos os módulos estejam prontos para trabalhar em conjunto e agilizar o processo, principalmente, de emissão de NF-e. Você pode acessar um tópico específico, clicando no nome dele no Índice à esquerda deste artigo.
+Nos tópicos abaixo, apresentamos um passo a passo de uma configuração ideal, para que todos os módulos estejam prontos para trabalhar em conjunto e agilizar o processo, principalmente, de emissão de NF-e. Você pode acessar um tópico específico, clicando no nome dele no Índice à esquerda deste artigo.
 
 ## Cadastro do emitente
 
