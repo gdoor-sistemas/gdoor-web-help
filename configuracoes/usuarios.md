@@ -2,7 +2,7 @@
 title: Cadastro de usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-14T15:00:12.736Z
+date: 2021-07-14T15:00:27.219Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
