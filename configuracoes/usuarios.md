@@ -1,8 +1,8 @@
 ---
-title: Cadastro de usuários
+title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-14T18:59:40.120Z
+date: 2021-07-14T19:10:24.696Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -51,3 +51,10 @@ Ao clicar, será direcionado para a página do GDOOR WEB, onde terá a "**confir
 Clique em "**entrar**" para acessar o sistema.
 
 ![5_confirmação.png](/config/usuários/5_confirmação.png)
+
+# Multilogin
+
+Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresas que utilizam o GDOOR WEB.
+
+Para isso, o administrador da empresa deve [cadastrar o usuário](configuracoes/usuarios#cadastrar) de quem deseja conceder acesso, seguindo
+
