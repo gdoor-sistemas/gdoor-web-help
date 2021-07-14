@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-14T20:29:21.421Z
+date: 2021-07-14T20:58:46.398Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -58,10 +58,23 @@ Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresa
 
 Para isso, o administrador da empresa deve [cadastrar o usuário](configuracoes/usuarios#cadastrar) que deseja conceder o acesso.
 
-Após efetuar o cadastro e confirmação do mesmo, ao acessar com seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso. Basta selecionar e acessar.
+Após efetuar o cadastro e confirmação do mesmo, ao acessar com seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso. Basta selecionar a desejada e acessar.
 
 ![8_selecionar_conta.png](/config/usuários/8_selecionar_conta.png)
 
 ## Conectar-se a outra conta
 
-Para trocar de conta, clique no ícone (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta
+Para trocar de conta e acessar outras empresas que estiver vinculado, clique no ícone localizado ao lado do emitente (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta.
+
+Abrirá a tela para selecionar conta.
+Verifique no exemplo abaixo, onde há 3 contas vinculadas ao mesmo cadastro (e-mail).
+
+![9_outra_conta_enterprise.png](/config/usuários/9_outra_conta_enterprise.png)
+
+Basta clicar em (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta.
+
+![10_outra_conta_cakes.png](/config/usuários/10_outra_conta_cakes.png)
+
+E assim sucessivamente para alternar entre as empresas desejadas.
+
+![11_outra_conta_gdoor.png](/config/usuários/11_outra_conta_gdoor.png)
