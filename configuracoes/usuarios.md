@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-14T19:12:43.806Z
+date: 2021-07-14T20:29:21.421Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -33,7 +33,7 @@ Será possível "**aplicar um perfil**" já configurado em [permissões](/config
 
 Para personalizar as permissões do usuário, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" e marque as opções desejadas.
 
-Clique em "salvar".
+Clique em "**salvar**".
 
 ![2_permissoes.png](/config/usuários/2_permissoes.png)
 
@@ -48,7 +48,7 @@ Para confirmar o cadastro, o usuário deve acessar e-mail informado e clicar em 
 ![4_email_confirmação.png](/config/usuários/4_email_confirmação.png)
 
 Ao clicar, será direcionado para a página do GDOOR WEB, onde terá a "**confirmação do vínculo**".
-Clique em "**entrar**",  para acessar o sistema.
+Clique em "**entrar**", informe o e-mail e cadastre a senha para acessar o sistema.
 
 ![5_confirmação.png](/config/usuários/5_confirmação.png)
 
@@ -58,3 +58,10 @@ Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresa
 
 Para isso, o administrador da empresa deve [cadastrar o usuário](configuracoes/usuarios#cadastrar) que deseja conceder o acesso.
 
+Após efetuar o cadastro e confirmação do mesmo, ao acessar com seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso. Basta selecionar e acessar.
+
+![8_selecionar_conta.png](/config/usuários/8_selecionar_conta.png)
+
+## Conectar-se a outra conta
+
+Para trocar de conta, clique no ícone (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta
