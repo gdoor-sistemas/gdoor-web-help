@@ -2,7 +2,7 @@
 title: Cadastro de usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-14T17:54:08.829Z
+date: 2021-07-14T17:57:49.326Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -28,8 +28,9 @@ Preencha os campos com o **nome** e **e-mail** do usuário que deseja cadastrar 
 
 ### Permissões do usuário
 
-Após salvar, a lista de permissões para o usário que está sendo cadastrado será aberta.
-Será possível aplicar um perfil já configurado em [permissões](/configuracoes/permissoes), ou conceder todas as permissões clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou removê-las clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
-Também pode-se personalizar as permissões, 
+Após salvar, a tela de permissões para o usário que está sendo cadastrado será aberta.
+Será possível **aplicar um perfil** já configurado em [permissões](/configuracoes/permissoes), ou conceder todas as permissões clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> e também removê-las clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
+
+Para personalizar as permissões, 
 
 ![2_permissoes.png](/config/usuários/2_permissoes.png)
