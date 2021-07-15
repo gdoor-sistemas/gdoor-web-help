@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T19:40:56.420Z
+date: 2021-07-15T19:42:47.357Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -49,7 +49,7 @@ Para confirmar o cadastro, o usuário deve acessar o e-mail informado e clicar e
 
 ![4_email_confirmação.png](/config/usuários/4_email_confirmação.png)
 
-Haverá o direcionamento para a página do GDOOR WEB com a "**confirmação do vínculo**".
+Haverá o direcionamento para a página do GDOOR WEB para a "**confirmação do vínculo**".
 Clique em "**entrar**", informe o e-mail e cadastre uma senha para acessar o sistema.
 
 ![5_confirmação.png](/config/usuários/5_confirmação.png)
