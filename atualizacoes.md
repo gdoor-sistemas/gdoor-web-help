@@ -2,11 +2,21 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-09T11:14:02.259Z
+date: 2021-07-15T12:57:07.971Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 15/07/2021
+
+## Novidades
+- Adicionada a funcionalidade multi-login. Essa funcionalidade permite utilizar um mesmo e-mail acesse várias empresas. 
+- Adicionado o modo escuro ao sistema. Ao utilizar o modo escuro, o sistema terá seu tema alterado para cores escuras.
+
+## Ajustes 
+- Ajustado o campo CNAE do cadastro de pessoas para permitir apagar a informação do campo. Dessa forma após apagado o CNAE de um cadastro, será possível salvar a pessoa normalmente.
+- Ajustados os campos de porcentagem de base de cálculo e alíquota na NF-e para não permitir salvar a nota com os campos sem informação. Como não é possível emitir uma nota em que esses campos não contenham valor, foi adicionada a validação que não permite que isso ocorra. 
 
 # 09/07/2021
 
