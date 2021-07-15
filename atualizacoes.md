@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-15T12:57:07.971Z
+date: 2021-07-15T13:46:31.354Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,6 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 ## Novidades
 - Adicionada a funcionalidade multi-login. Essa funcionalidade permite utilizar um mesmo e-mail acesse várias empresas. 
+<div class=text-center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2Vzhu-ogFxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=true></iframe>
+</div>
 - Adicionado o modo escuro ao sistema. Ao utilizar o modo escuro, o sistema terá seu tema alterado para cores escuras.
 
 ## Ajustes 
