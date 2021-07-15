@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T17:56:43.780Z
+date: 2021-07-15T17:57:37.671Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -21,7 +21,7 @@ Ao clicar em "**configurações**", seguido de "**usuários**", será exibida a 
 
 ## Cadastrar novo usuário
 
-No canto **direito inferior** da [lista de usuários](/configuracoes/usuarios#lista) há o botão de adição (<em class="mdi mdi-plus"></em>) para "**cadastrar novo usuário**".
+No canto **direito inferior** da [lista de usuários](/configuracoes/usuarios/listadeusuarios) há o botão de adição (<em class="mdi mdi-plus"></em>) para "**cadastrar novo usuário**".
 Preencha os campos com o "**nome**" e "**e-mail**" do usuário que deseja cadastrar e clique em "**salvar**".
 
 ![1_novo_usuario.png](/config/usuários/1_novo_usuario.png)
