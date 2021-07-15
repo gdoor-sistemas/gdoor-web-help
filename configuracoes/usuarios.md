@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T18:37:05.946Z
+date: 2021-07-15T18:42:12.576Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -58,9 +58,9 @@ Clique em "**entrar**", informe o e-mail e cadastre uma senha para acessar o sis
 
 Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresas que utilizam o GDOOR WEB.
 
-Para isso, o administrador da empresa deve [cadastrar o usuário](/configuracoes/usuarios) que deseja conceder o acesso.
+Para isso, o administrador da empresa deve [cadastrar o usuário](/configuracoes/usuarios#cadastrar-novo-usuário) que deseja conceder o acesso.
 
-Após efetuar o cadastro e confirmação do mesmo, ao acessar com seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso. Basta selecionar a desejada e acessar.
+Após [confirmar o cadastro](/configuracoes/usuarios#confirmar-cadastro), após informar seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso, basta selecionar a desejada.
 
 ![8_selecionar_conta.png](/config/usuários/8_selecionar_conta.png)
 
