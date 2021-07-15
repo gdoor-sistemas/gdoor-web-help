@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T18:25:05.424Z
+date: 2021-07-15T18:26:45.163Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -41,7 +41,7 @@ Clique em "**salvar**".
 
 ## Confirmar cadastro	
 
-Depois de cadastrar o novo usuário, um e-mail para confirmação do cadastro será enviado a ele e na lista de usuários constará a mensagem de "**confirmação pendente**".
+Depois de cadastrar o [novo usuário](/configuracoes/usuarios#cadastrar-novo-usuário), um e-mail para confirmação do cadastro será enviado a ele e na lista de usuários constará a mensagem de "**confirmação pendente**".
 
 ![3_lista.png](/config/usuários/3_lista.png)
 
