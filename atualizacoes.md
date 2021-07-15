@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-15T13:46:31.354Z
+date: 2021-07-15T14:03:10.308Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,11 +11,16 @@ dateCreated: 2021-06-28T18:13:29.393Z
 # 15/07/2021
 
 ## Novidades
-- Adicionada a funcionalidade multi-login. Essa funcionalidade permite utilizar um mesmo e-mail acesse várias empresas. 
+- Adicionada a funcionalidade multi-login 🎉. Essa funcionalidade permite utilizar um mesmo e-mail acesse várias empresas. 
+  Para facilitar a troca entre contas, o visual da parte superior do menu principal foi modificado para facilmente identificar a conta atual, inclusive mostrando a logomarca configurada no cadastro do emitente.
+  Veja um vídeo do Marcelo explicando mais detalhes sobre esta nova funcionalidade do GDOOR WEB:
 <div class=text-center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2Vzhu-ogFxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=true></iframe>
 </div>
-- Adicionado o modo escuro ao sistema. Ao utilizar o modo escuro, o sistema terá seu tema alterado para cores escuras.
+
+- Adicionado o modo escuro 🎉. O modo escuro, além de ser mais elegante, pode ajudar quem trabalha em ambientes escuros, forçando menos a visão 👀, além de economizar energia em alguns dispositivos🔋.
+
+![Pré-visualização do tema escuro](/dicas/tema-escuro-preview.png)
 
 ## Ajustes 
 - Ajustado o campo CNAE do cadastro de pessoas para permitir apagar a informação do campo. Dessa forma após apagado o CNAE de um cadastro, será possível salvar a pessoa normalmente.
