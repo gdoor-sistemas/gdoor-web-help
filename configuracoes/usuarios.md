@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T18:42:12.576Z
+date: 2021-07-15T18:45:05.998Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -66,10 +66,9 @@ Após [confirmar o cadastro](/configuracoes/usuarios#confirmar-cadastro), após 
 
 ## Conectar-se a outra conta
 
-Para trocar de conta e acessar outras empresas que estiver vinculado, clique no ícone localizado ao lado do emitente (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta.
+Para trocar de conta e acessar outras empresas que possuir vínculo, clique no ícone localizado ao lado do emitente (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta.
 
-Abrirá a tela para selecionar conta.
-Verifique no exemplo abaixo, onde há 3 contas vinculadas ao mesmo cadastro (e-mail).
+Verifique no exemplo abaixo, onde há 3 contas vinculadas ao mesmo usuário (e-mail).
 
 ![9_outra_conta_enterprise.png](/config/usuários/9_outra_conta_enterprise.png)
 
