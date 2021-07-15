@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-15T14:11:24.103Z
+date: 2021-07-15T22:55:47.548Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,7 +11,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 # 15/07/2021
 
 ## Novidades
-- Adicionada a funcionalidade multi-login 🎉. Essa funcionalidade permite que um mesmo e-mail acesse várias empresas. 
+- Adicionada a funcionalidade multilogin 🎉. Essa funcionalidade permite que um mesmo e-mail acesse várias empresas. 
   Para facilitar a troca entre contas, o visual da parte superior do menu principal foi modificado para facilmente identificar a conta atual, inclusive mostrando a logomarca configurada no cadastro do emitente.
   Veja um vídeo do Marcelo explicando mais detalhes sobre esta nova funcionalidade do GDOOR WEB:
 <div class=text-center>
