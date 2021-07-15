@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T19:33:35.707Z
+date: 2021-07-15T19:36:51.592Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -11,7 +11,7 @@ dateCreated: 2020-01-03T19:51:56.610Z
 # Introdução
 
 É possível [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](/configuracoes/usuarios#permissões-do-usuário) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), será concedido o acesso ao sistema.
-Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizem o GDOOR WEB.
+Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizam o GDOOR WEB.
 
 # Lista de usuários
 
