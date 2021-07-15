@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T18:11:56.066Z
+date: 2021-07-15T18:15:49.163Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -27,10 +27,13 @@ No canto **direito inferior** da [lista de usuários](/configuracoes/usuarios#li
 
 ## Permissões do usuário
 
-Após salvar, a tela de permissões para o usuário cadastrado será aberta.
-Será possível "**aplicar um perfil**" já configurado em [permissões](/configuracoes/permissoes), ou conceder todas as permissões clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou também removê-las clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
+Em seguida, a tela de permissões para o usuário cadastrado será aberta.
 
-Para personalizar as permissões do usuário, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" e marque as opções desejadas.
+- Será possível "**aplicar um perfil**" já configurado em [permissões](/configuracoes/permissoes).
+
+- Também pode-se conceder **todas as permissões** clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou também **removê-las** clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
+
+- Para **personalizar as permissões** do usuário, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" e marque/desmarque as opções desejadas.
 
 Clique em "**salvar**".
 
