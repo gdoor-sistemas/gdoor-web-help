@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-15T22:55:47.548Z
+date: 2021-07-16T13:12:51.745Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/07/2021
+
+## Ajustes
+- Ajustada a validação do campo número do endereço para permitir o caractere "/". Dessa forma quando um endereço não tiver número, será possível informar "S/N".
 
 # 15/07/2021
 
