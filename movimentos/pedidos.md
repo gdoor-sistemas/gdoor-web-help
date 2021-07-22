@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no GDOOR WEB
 published: true
-date: 2021-06-07T12:15:35.615Z
+date: 2021-07-22T17:44:22.589Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -240,3 +240,8 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 Nesta seção você pode inserir uma mensagem padrão que aparecerá no campo de informações adicionais do pedido de venda. Ao efetuar um pedido de venda, a informação adicional pode ser editada ou apagada manualmente.
 
 ![](/movimentos/pedidos/inf_adicionais_2.png)
+
+## Vídeo
+
+<div class=text-center>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9PmgTQ6XW88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
