@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu GDOOR WEB
 published: true
-date: 2021-07-15T19:44:16.568Z
+date: 2021-07-22T17:27:53.677Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -79,3 +79,9 @@ Basta clicar em (<em class="mdi mdi-home-import-outline"></em>) para conectar-se
 E assim sucessivamente para alternar entre as empresas desejadas.
 
 ![11_outra_conta_gdoor.png](/config/usuários/11_outra_conta_gdoor.png)
+
+## Vídeo
+
+<div class=text-center>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2Vzhu-ogFxc&t" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
