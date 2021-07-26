@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-26T18:59:45.533Z
+date: 2021-07-26T19:04:19.542Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,6 +12,11 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 ## Ajustes
 - Ajustada informação do valor aproximado dos tributos quando a NF-e não é destinada a consumidor final. Agora a informação não será passada para o XML da NF-e quando não estiver marcada a opção "Consumidor final".
+
+# 23/07/2021
+
+## Ajustes
+- Corrigido erro na geração do relatório "Movimentos (Completo)".
 
 # 16/07/2021
 
