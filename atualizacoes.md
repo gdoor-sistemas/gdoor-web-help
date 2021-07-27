@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-26T20:56:05.649Z
+date: 2021-07-27T19:25:30.981Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/07/2021
+
+## Ajustes
+- Melhoradas mensagens de validação de campos da Declaração de Importação no preenchimento de uma NF-e de importação. Agora é possível identificar qual item possui erro de preenchimento.
+- Restringido o preenchimento dos campos numéricos da D.I. para ser possível informar apenas números. Antes era possível preencher outras informações e não era possível salvar a nota assim.
+- Corrigida falha pontual ao salvar pedido.
+- Melhorado feedback de login quando o servidor não responde.
+- Corrigida geração das configurações quando habilitado o módulo de NF-e em uma conta que já possuía NFC-e.
 
 # 26/07/2021
 
