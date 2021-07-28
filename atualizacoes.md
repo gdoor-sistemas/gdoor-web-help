@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-28T17:51:31.759Z
+date: 2021-07-28T17:51:53.160Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 - Corrigido carregamento das informações adicionais ao editar um pedido.
 - Corrigida validação que impedia importação de XML na compra.
 - Aumentado tempo de validade do link de verificação de e-mail para 12 horas. Frequentemente os usuários não conseguiam fazer a verificação dentro de 1 hora, que era o tempo de validade anterior. Também foi adicionada essa informação no corpo do e-mail.
-- Corrigido falha que impedia adição/edição de itens na NFe
+- Corrigida falha que impedia adição/edição de itens na NFe
 
 # 27/07/2021
 
