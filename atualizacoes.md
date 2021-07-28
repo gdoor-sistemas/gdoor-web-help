@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-07-28T11:40:16.935Z
+date: 2021-07-28T12:47:47.596Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,6 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Ajustes
 - Corrigida falha que impossibilitava a inclusão de itens no pedido.
 - Corrigido carregamento das informações adicionais ao editar um pedido.
+- Corrigida validação que impedia importação de XML na compra.
 
 # 27/07/2021
 
