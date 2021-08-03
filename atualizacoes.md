@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-03T14:33:37.399Z
+date: 2021-08-03T14:44:57.248Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -10,7 +10,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 # 03/08/2021
 ## Ajustes
-- Corrigida falha que utilizava alíquota incorreta no ICMS de produtos importados em operações interestaduais na NFe
+- Ajustada geração da alíquota interestadual do ICMS para produtos importados. Anteriormente não era considerada a origem do produto para gerar a alíquota.
 
 # 28/07/2021
 ## Ajustes
