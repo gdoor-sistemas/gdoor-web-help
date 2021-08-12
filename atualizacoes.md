@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-09T15:00:42.466Z
+date: 2021-08-12T19:01:28.959Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 12/08/2021
+## Ajustes
+- Ajustado a remoção de vínculos na compra. Anteriormente ao importar um XML e vincular um item a outro préviamente cadastrado no sistema, não estava sendo possível remover o vínculo.
+- Ajustada a edição de pagamentos nos pedidos. Anteriormente quando era editado um pedido que não tinha forma de pagamento informada, não era possível inserir um pagamento para o mesmo.
 
 # 09/08/2021
 ## Ajustes
