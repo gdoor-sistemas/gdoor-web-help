@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-12T21:03:11.955Z
+date: 2021-08-18T18:12:58.245Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -10,13 +10,13 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 # 12/08/2021
 ## Ajustes
-- Ajustado a remoção de vínculos na compra. Anteriormente ao importar um XML e vincular um item a outro préviamente cadastrado no sistema, não estava sendo possível remover o vínculo.
-- Ajustada a edição de pagamentos nos pedidos. Anteriormente quando era editado um pedido que não tinha forma de pagamento informada, não era possível inserir um pagamento para o mesmo.
-- Ajustada a função XML do mês. Não estava sendo possível baixar ou enviar por e-mail os XML do mês.
+- Ajustada a remoção de vínculos na importação de XML na compra. Anteriormente, ao importar um XML e vincular um item a outro previamente cadastrado no sistema, não era possível remover o vínculo.
+- Ajustada a edição de pagamentos nos pedidos. Quando era editado um pedido que não tinha forma de pagamento informada, não era possível inserir um novo pagamento.
+- Ajustada a exportação dos XML do mês. Não era possível baixar ou enviar por e-mail os XML do mês.
 
 # 09/08/2021
 ## Ajustes
-- Ajustada a emissão de NFC-e com produtos combustíveis. Anteriormente quando o produto tinha ANP não estava sendo possível transmitir a NFC-e.
+- Ajustada a emissão de NFC-e com produtos combustíveis. Anteriormente, quando o produto tinha ANP não era possível transmitir a NFC-e.
 
 # 03/08/2021
 ## Ajustes
