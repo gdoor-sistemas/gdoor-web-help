@@ -2,11 +2,15 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-18T18:16:28.928Z
+date: 2021-08-26T20:21:53.913Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 26/08/2021
+## Ajustes
+- Ajustada a para não aparecer no relatório "Movimentos NFC-e" os valores das notas canceladas. Anteriormente, quando havia NFC-e cancelada, os valores das mesmas estavam somando no relatório. 
 
 # 12/08/2021
 ## Ajustes
