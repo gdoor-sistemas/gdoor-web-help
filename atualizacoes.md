@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-27T12:26:02.998Z
+date: 2021-08-27T19:50:12.980Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,6 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 # 27/08/2021
 ## Ajustes
 - Ajustado para gerar o grupo do ICMS para UF de Destino nas notas interestaduais para destinatário "Não Contribuinte". Quando era transmitida uma NF-e para outro estado e o destinatário não fosse contribuinte, estava ocorrendo a rejeição 694, indicando que faltava o grupo ICMSUFDest no XML.
+- Corrigido o cálculo do ICMS para UF de Destino. Estava ocorrendo a rejeição 815 quando havia diferença entre a alíquota interna e a alíquota de destino.
+- Ajustado para não gerar o grupo do ICMS para UF de Destino quando o destinatário possuir Inscição Estadual (IE). 
 
 # 26/08/2021
 ## Ajustes
