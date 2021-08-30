@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-30T10:03:33.792Z
+date: 2021-08-30T10:04:18.229Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -10,7 +10,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 # 27/08/2021
 ## Ajustes
-- Corrigidas insonsistências na geração do ICMS para UF de destino na NF-e. 
+- Corrigidas inconsistências na geração do ICMS para UF de destino na NF-e. 
 
 # 26/08/2021
 ## Ajustes
