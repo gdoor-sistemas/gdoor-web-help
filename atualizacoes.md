@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-30T10:09:38.380Z
+date: 2021-08-30T10:10:24.680Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
