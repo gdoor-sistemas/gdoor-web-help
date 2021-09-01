@@ -2,11 +2,15 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-08-30T10:12:16.148Z
+date: 2021-09-01T13:48:53.022Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 01/09/2021
+## Ajustes
+- Ajustada a exclusão de compras para ser aplicada a todos os itens . Anteriormente estava removendo do estoque e excluindo a movimentação somente do 1º item da compra.
 
 # 27/08/2021
 ## Ajustes
