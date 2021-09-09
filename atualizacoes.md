@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-09-09T13:37:46.483Z
+date: 2021-09-09T14:09:45.211Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,11 +11,11 @@ dateCreated: 2021-06-28T18:13:29.393Z
 # 08/09/2021
 
 ## Novidades
-- Possibilitado o cadastro pessoas onde são referenciadas. Dessa forma pode-se cadastrar um cliente por dentro das notas. 
-- Implementada tentativas de consulta da nota após trasmissão. Em alguns casos em que havia instabilidade na SEFAZ, era necessário consultar a nota manualmente diversas vezes, agora o sistema irá tentar efetuar a consulta 5 vezes antes de habilitar a consulta manual.
--  As funcionalidades novas pedidos e modo escuro foram retiradas da fase beta 🎉.
-- Adicionadas funcionalidades a ferramenta de importação.
-	Para facilitar a imporação de arquivos no sistema, foi possibilitada a importação de bases que tenham registros com falha na validação, não importando esses registros falhos **e** criado um arquivo CSV com os registros com falhas, que pode ser baixado antes de processar a importação.
+- Possibilitado o cadastro "Pessoas" onde são referenciadas. Dessa forma não é mais necesário ter o cadastro prévio. 
+- Implementada tentativas de consulta da nota após trasmissão. Em alguns casos em que havia instabilidade na SEFAZ, era necessário consultar a nota manualmente diversas vezes, agora o sistema irá efetuar a consulta 5 vezes antes de habilitar a consulta manual.
+- As funcionalidades: "Pedidos de venda" e "Modo escuro" foram retiradas da fase beta 🎉.
+- Foram adicionadas novas funcionalidades a ferramenta de importação:
+	Para facilitar a imporação de arquivos no sistema, foi possibilitada a importação de bases que tenham registros com falha na validação, ignorando esses registros falhos **e** criado um arquivo CSV contendo os registros com falhas, que pode ser baixado antes de processar a importação.
   Além disso, foi adicionada a possibilidade de importar serviços. 
 
 
