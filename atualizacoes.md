@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-09-09T14:22:28.634Z
+date: 2021-09-09T14:27:24.343Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -15,7 +15,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 - Implementada tentativas de consulta da nota após trasmissão. Em alguns casos em que havia instabilidade na SEFAZ, era necessário consultar a nota manualmente diversas vezes, agora o sistema irá efetuar a consulta 5 vezes antes de habilitar a consulta manual.
 - As funcionalidades: "Pedidos de venda" e "Modo escuro" foram retiradas da fase beta 🎉.
 - Foram adicionadas novas funcionalidades a ferramenta de importação:
-	Para facilitar a imporação de arquivos no sistema, foi possibilitada a importação de bases que tenham registros com falha na validação, ignorando esses registros falhos **e** gerado um arquivo CSV contendo os registros com falhas, que pode ser baixado antes de processar a importação.
+	Para facilitar a importação de arquivos no sistema, foi possibilitada a importação de bases que tenham registros com falha na validação, ignorando esses registros falhos **e** gerado um arquivo CSV contendo os registros com falhas, que pode ser baixado antes de processar a importação.
   Além disso, foi adicionada a possibilidade de importar serviços. 
 
 
