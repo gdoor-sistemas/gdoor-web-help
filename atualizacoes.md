@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-09-09T14:31:02.913Z
+date: 2021-09-09T14:34:56.148Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -20,10 +20,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 ## Ajustes 
-- Melhoradas as mensagens que aparecem quando não é possível pré visualizar a DANFE ou XML. Antes estava gerando uma mensagem genérica, agora irá apontar onde está o problema.
-- Ajustada a "lista das notas", "XML do mês" e "Relatórios" para somente aparecer notas referentes ao ambiente atual da nota. Ou seja, caso a nota esteja configurada para o ambiente de produção, não irá aparecer na lista, relatórios e XML do mês as notas feitas quando o sistema estava em homologação.
+- Melhoradas as mensagens que aparecem quando não é possível pré-visualizar a DANFE ou XML. Anteriormente estava gerando uma mensagem genérica, agora irá apontar onde está o problema.
+- Ajustada a "lista das notas", "XML do mês" e "Relatórios" para somente aparecer notas referentes ao ambiente atual. Ou seja, caso a nota esteja configurada para o ambiente de produção, não irá aparecer na lista, relatórios e XML do mês as notas feitas quando o sistema estava em homologação.
 - Ajustadas as regras de tributação para permitir informar os digitos necessários para cada campo. Alguns campos estavam aceitando somente 2 casas após a vírgula e deveriam aceitar 4.
-- Ajuste na importação do XML para quando for removido um vínculo com um produto do sistema que tem imagem, remover também a imagem na tela da compra.
+- Ajuste na importação do XML para quando for removido um vínculo de um produto do sistema que tem imagem, remover também a imagem na tela da compra.
 - Otimizado o carregamento na lista de kits
 
 # 02/09/2021
