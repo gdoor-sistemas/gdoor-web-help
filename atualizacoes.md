@@ -2,11 +2,29 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-09-02T14:47:07.716Z
+date: 2021-09-09T13:37:46.483Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/09/2021
+
+## Novidades
+- Possibilitado o cadastro pessoas onde são referenciadas. Dessa forma pode-se cadastrar um cliente por dentro das notas. 
+- Implementada tentativas de consulta da nota após trasmissão. Em alguns casos em que havia instabilidade na SEFAZ, era necessário consultar a nota manualmente diversas vezes, agora o sistema irá tentar efetuar a consulta 5 vezes antes de habilitar a consulta manual.
+-  As funcionalidades novas pedidos e modo escuro foram retiradas da fase beta 🎉.
+- Adicionadas funcionalidades a ferramenta de importação.
+	Para facilitar a imporação de arquivos no sistema, foi possibilitada a importação de bases que tenham registros com falha na validação, não importando esses registros falhos **e** criado um arquivo CSV com os registros com falhas, que pode ser baixado antes de processar a importação.
+  Além disso, foi adicionada a possibilidade de importar serviços. 
+
+
+## Ajustes 
+- Melhoradas as mensagens que aparecem quando não é possível pré visualizar a DANFE ou XML. Antes estava gerando uma mensagem genérica, agora irá apontar onde está o problema.
+- Ajustada a "lista das notas", "XML do mês" e "Relatórios" para somente aparecer notas referentes ao ambiente atual da nota. Ou seja, caso a nota esteja configurada para o ambiente de produção, não irá aparecer na lista, relatórios e XML do mês as notas feitas quando o sistema estava em homologação.
+- Ajustadas as regras de tributação para permitir informar os digitos necessários para cada campo. Alguns campos estavam aceitando somente 2 casas após a vírgula e deveriam aceitar 4.
+- Ajuste na importação do XML para quando for removido um vínculo com um produto do sistema que tem imagem, remover também a imagem na tela da compra.
+- Otimizado o carregamento na lista de kits
 
 # 02/09/2021
 ## Ajustes
