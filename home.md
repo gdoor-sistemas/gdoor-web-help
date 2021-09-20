@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do GDOOR WEB
 published: true
-date: 2021-07-13T17:00:31.586Z
+date: 2021-09-20T17:16:05.915Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -40,4 +40,4 @@ Obtive acesso ao GDOOR WEB, e agora? [Clique aqui](/tutoriais/primeiros-passos) 
 
 ## Atualizações
 
-O GDOOR WEB é um sistema que está em constante espansão e aprimoramento. Vejas as últimas atualizações publicadas [clicando aqui](/atualizacoes).
+O GDOOR WEB é um sistema que está em constante expansão e aprimoramento. Vejas as últimas atualizações publicadas [clicando aqui](/atualizacoes).
