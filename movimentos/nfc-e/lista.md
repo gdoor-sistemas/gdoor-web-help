@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2021-06-04T13:08:16.512Z
+date: 2021-09-30T11:21:46.757Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-01T11:47:32.566Z
@@ -139,7 +139,8 @@ Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante a SEFAZ
 
 Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela será eliminada da base de dados e não será possível recuperá-la novamente.
 
-### Seleção múltipla{#selecao-multipla}
+<a id="selecao-multipla"></a>
+### Seleção múltipla
 
 O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: transmitir e excluir. Você pode ativar o modo de seleção múltipla por usar o [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
