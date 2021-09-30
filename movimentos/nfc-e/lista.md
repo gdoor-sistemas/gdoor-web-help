@@ -2,7 +2,7 @@
 title: Lista de NFC-e
 description: Veja como filtrar e manipular suas NFC-e pela lista
 published: true
-date: 2021-09-30T11:21:46.757Z
+date: 2021-09-30T13:04:30.559Z
 tags: nfc-e
 editor: markdown
 dateCreated: 2020-09-01T11:47:32.566Z
@@ -142,15 +142,15 @@ Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela s
 <a id="selecao-multipla"></a>
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: transmitir e excluir. Você pode ativar o modo de seleção múltipla por usar o [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
+O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla por usar o [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
 ![Seleção múltipla na lista de NFC-e](/movimentos/nfce/nfce-selecao-multipla.png)
 
 Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou desmarcar. Só é possível marcar as NFC-e sendo exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](#filtros).
 
-![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png){.float-right}
+![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png){.float-right .ml8}
 
-As ações disponíveis conforme indicado na imagem ao lado são: 1) **transmitir** as NFC-e selecionadas, 2) **excluir** as NFC-e selecionadas e 3) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
+As ações disponíveis conforme indicado na imagem ao lado são: 1) **consultar** o status das NFC-e na [SEFAZ](/glossario#sefaz), 2) **transmitir** as NFC-e selecionadas, 3) **excluir** as NFC-e selecionadas e 4) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todas as NFC-e selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar uma NFC-e **Pendente** e outra **Autorizada**, as ações não estarão disponíveis.
 
 > Utilizando a transmissão pelo modo de seleção múltipla, as NFC-e serão enviadas para uma fila de processamento em segundo plano e poderão demorar alguns minutos para serem transmitidas. Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
