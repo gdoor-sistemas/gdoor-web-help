@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-09-29T18:11:22.476Z
+date: 2021-09-30T11:18:24.657Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 30/09/2021
+
+## Novidades
+- Possibilitada a consulta de várias NFC-e. Assim como era possível selecionar várias para transmitir, agora é possível também consultar.
 
 # 29/09/2021
 
