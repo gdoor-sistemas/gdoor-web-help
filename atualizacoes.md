@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-10-01T12:56:01.279Z
+date: 2021-10-22T20:06:09.242Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/10/2021
+
+## Ajustes
+- Corrigida a edição do campo "ANP" no cadastro do produto. Anteriormete, não estava sendo salvas alterações nesse campo.
 
 # 01/10/2021
 
