@@ -2,11 +2,25 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-10-22T20:10:35.969Z
+date: 2021-10-27T20:17:59.283Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/10/2021
+
+## Ajustes
+
+- Ajustado para não aparecer meios de pagamentos excluídos na NFC-e. Antigamente quando excluía um meio de pagamento que estava ativo para NFC-e, o mesmo continuava aparecendo na nota.
+- Ajustada a visualização das configurações da NF-e e NFC-e em telas menores.
+- Corrigido para trazer os produtos de cada nota nos detalhes do cadastro de pessoa, na guia "Histórico", "Vendas(Cliente)".
+- Corrigida a emissão de notas com “ICMS desonerado”. Anteriormente não era possível transmitir notas com desoneração.
+- Ajustada a validação do e-mail em casos que um e-mail vinculado a uma conta cancelada é utilizado em uma nova conta. Antes, quando um e-mail estava vinculado a uma conta cancelada e era criada uma nova conta com o mesmo, não era possível logar na conta.
+- Ajustado o cálculo do “ICMS diferido” quando há valores com muitas casas decimais. Devido ao arredondamento, em alguns casos estava ocorrendo rejeição ao emitir notas.
+- Possibilitada a visualização do DANFE para notas que contenham os caracteres “<” e “>” nas informações complementares.
+- Ajustada a “importação de XML” para permitir a importação de notas sem destinatário destacado.
+- Padronizadas as mensagens de confirmação ao sair de formulários. Anteriormente ao sair de uma tela com formulário para outra tela, as mensagens apresentadas eram diferentes.
 
 # 22/10/2021
 
