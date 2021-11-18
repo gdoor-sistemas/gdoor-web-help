@@ -2,11 +2,25 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-10T13:00:12.414Z
+date: 2021-11-18T11:59:09.731Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/11/2021
+
+## Novidades
+- Criado o campo informações adicionais nos relatórios, no qual, informamos algumas características do relatório. Tal campo pode ser visualizado por exemplo, no relatório "Produtos vendidos por tipo de imposto".
+- Incluso na impressão do pedido de venda, os vendedores que se encontram vinculados a ele. Antigamente não era possível visualizar de forma unificada os vendedores que efetuaram o pedido, era necessário abrir item por item.
+- Adicionado no relatório "Auditoria" a coluna "Detalhes", a qual informa o número, série e modelo das notas. Permitindo assim melhor visualização de quem executou cada ação em cada nota.
+- Adicionado o relatório "Auditoria de numeração de notas", esse relatório mostra o que foi efetuado com cada numero de nota.
+
+
+## Ajustes
+- Ajustado o cálculo do “ICMS diferido” quando há valores com muitas casas decimais. Devido ao arredondamento, em alguns casos estava ocorrendo rejeição ao emitir notas.
+- Ajustadas as abas "Produtos vendidos (Vendedor)" **e** "Compras (Fornecedor)" do histórico da "Pessoa" para buscar corretamente os dados.
+- Ajustadas as notas criadas em contingência e emitidas em ambiente normal, para gerar a tag tpemis correta. Antes estava dando rejeição 832 ao tentar transmitir essas notas.
 
 # 10/11/2021
 
