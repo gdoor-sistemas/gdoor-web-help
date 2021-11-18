@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-18T11:59:09.731Z
+date: 2021-11-18T12:34:49.303Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 - Criado o campo informações adicionais nos relatórios, no qual, informamos algumas características do relatório. Tal campo pode ser visualizado por exemplo, no relatório "Produtos vendidos por tipo de imposto".
 - Incluso na impressão do pedido de venda, os vendedores que se encontram vinculados a ele. Antigamente não era possível visualizar de forma unificada os vendedores que efetuaram o pedido, era necessário abrir item por item.
 - Adicionado no relatório "Auditoria" a coluna "Detalhes", a qual informa o número, série e modelo das notas. Permitindo assim melhor visualização de quem executou cada ação em cada nota.
-- Adicionado o relatório "Auditoria de numeração de notas", esse relatório mostra o que foi efetuado com cada numero de nota.
+- Adicionado o relatório "Auditoria de numeração de notas", esse relatório mostra o que foi efetuado com cada número de nota.
 
 
 ## Ajustes
