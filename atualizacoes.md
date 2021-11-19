@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-19T15:12:58.053Z
+date: 2021-11-19T18:00:03.929Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 19/11/2021
+
+## Novidades
+- Adicionas as colunas "Preço de Custo (Atual)", "Preço de Venda (Atual)" **e** "Última Compra" ao relatório "Inventário de estoque". 
+
+## Ajustes
+- Ajustado o cálculo do “ICMS diferido” que em alguns casos específicos, estava dando uma diferença de arredondamento entre o valor calculado e o valor informado.
 
 # 18/11/2021
 
