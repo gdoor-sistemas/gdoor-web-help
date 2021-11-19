@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-19T11:44:29.859Z
+date: 2021-11-19T11:45:48.967Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -20,8 +20,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Ajustes
 - Ajustado o cálculo do “ICMS diferido” quando há valores com muitas casas decimais. Devido ao arredondamento, em alguns casos estava ocorrendo rejeição ao emitir notas.
 - Ajustadas as abas "Produtos vendidos (Vendedor)" **e** "Compras (Fornecedor)" do histórico da "Pessoa" para buscar corretamente os dados.
-- Ajustadas as notas criadas em contingência e emitidas em ambiente normal, para gerar a tag tpemis correta. Antes estava dando rejeição 832 ao tentar transmitir essas notas.
-- Ajustado o cálculo do valor do ICMS Interestadual para UF de Destino (vICMSUFDEST). Anteriormente, nos casos em que essa tag é utilizada, ocorria rejeição.
+- Ajustadas as notas criadas em contingência e emitidas em ambiente normal, para gerar a tag `tpEmis` corretamente. Antes estava retornando a rejeição 832 ao tentar transmitir essas notas.
+- Ajustado o cálculo do valor do ICMS Interestadual para UF de Destino (vICMSUFDEST). Anteriormente, nos casos em que essa tag era gerada, ocorria rejeição.
 
 # 10/11/2021
 
