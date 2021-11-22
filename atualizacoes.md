@@ -2,18 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-22T14:08:49.039Z
+date: 2021-11-22T17:00:10.461Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 22/11/2021
+b2.4.3, f1.14.3 {.versions}
 
 ## Ajustes
 - Ajustada falha na transmissão automática em segundo plano das NF-e com erro de timeout.
 
 # 19/11/2021
+b2.4.2, f1.14.1 {.versions}
 
 ## Novidades
 - Adicionas as colunas "Preço de Custo (Atual)", "Preço de Venda (Atual)" **e** "Última Compra" ao relatório "Inventário de estoque". 
