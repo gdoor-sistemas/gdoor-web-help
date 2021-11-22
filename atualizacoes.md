@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-19T18:00:03.929Z
+date: 2021-11-22T14:08:49.039Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/11/2021
+
+## Ajustes
+- Ajustada falha na transmissão automática em segundo plano das NF-e com erro de timeout.
 
 # 19/11/2021
 
