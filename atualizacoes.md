@@ -2,11 +2,21 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-11-22T17:00:20.694Z
+date: 2021-12-06T11:01:18.943Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/11/2021
+b2.5.1, f1.15.0 {.versions}
+
+## Novidades
+- Adicionado o relatório "Produtos por vendedor". Nesse relatório é possível verificar quais produtos foram movimentados por cada vendedor, o tipo de movimentação efetuada e sua data, entre outras informações.
+- Adicionadas os CFOP de remessa para bonificação (1.936 e 5.936) na lista de CFOP. A partir de 01/01/2021, os CFOP de remessa para bonificação entram em vigor e a lista já estará atualizada com eles.
+
+## Ajustes
+- Ajustado o filtro de pedido por vendedor. Anteriormente quando mais de um produto tinha o mesmo vendedor, a nota aparecia duplicada na lista.
 
 # 22/11/2021
 b2.4.3 {.versions}
