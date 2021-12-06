@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-12-06T11:07:19.095Z
+date: 2021-12-06T17:20:10.153Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -17,6 +17,7 @@ b2.5.1, f1.15.0 {.versions}
 
 ## Ajustes
 - Ajustado o filtro de pedido por vendedor. Anteriormente quando mais de um produto tinha o mesmo vendedor, a nota aparecia duplicada na lista.
+- Ajustado para não aparecer mensagem de erro no banco de dados ao enviar o e-mail para redefinir a senha. 
 
 # 22/11/2021
 b2.4.3 {.versions}
