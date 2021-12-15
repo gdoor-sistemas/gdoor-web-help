@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-12-06T17:20:10.153Z
+date: 2021-12-15T11:09:20.077Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/11/2021
+f1.15.1 {.versions}
+
+## Ajustes
+- Ajustada a criação de categrias de produtos. A tela estava aparecendo em branco, sem as informações do formulário.
+- Corrigido o menu das notas de devolução para aparecer a opção de crta de correção. Anteriormente não era possível fazer uma carta de correção de uma nota de devolução, devido a opção não aparecer no menu.
 
 # 22/11/2021
 b2.5.1, f1.15.0 {.versions}
