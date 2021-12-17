@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-12-15T11:09:27.827Z
+date: 2021-12-17T16:37:46.612Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/12/2021
+
+## Ajustes
+- Ajustado relatório de pagamentos da NFC-e, onde alguns meios de pagamento apareciam como (vazio).
 
 # 22/11/2021
 f1.15.1 {.versions}
