@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:42:46.694Z
+date: 2021-12-22T18:43:55.859Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -93,10 +93,11 @@ Os filtros podem ser definidos como padrão para que sempre que você abrir a li
 
 ![6_filtro.png](/receitas/6_filtro.png)
 
-Ordenar
-Opção para ordenar as receitas por “nº documento”, “valor”, “emissão”, “vencimento” e “finalizada” (receitas já recebidas). A opção selecionada aparecerá no topo da listagem.
+### Ordenar
 
+Opção para ordenar as receitas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (receitas já recebidas). A opção selecionada aparecerá no topo da listagem.
 
+![7_ordenar.png](/receitas/7_ordenar.png)
 
 AUXILIARES
 Logo abaixo dos acessos, podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
