@@ -2,7 +2,7 @@
 title: Contas
 description: 
 published: true
-date: 2021-12-22T13:07:40.171Z
+date: 2021-12-22T13:17:57.055Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -21,59 +21,53 @@ Insira os “**dados da conta**” como: “**nome da conta**”, "**saldo**'' e
 
 ![2_nova_conta.png](/contas/2_nova_conta.png)
 
-> As “tags” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
+> As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
 Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
 {.is-success .gw .gw-tip}
 
-
-
-Dica: as “tags” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
-Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
-
-
-
-
-ACESSOS
+# Acessos
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
 
-Lista
-Clicando em “lista” serão apresentadas todas as contas cadastradas. Clicando no botão de adição (+) é possível cadastrar uma nova conta.
+## Lista
+Clicando em “**lista**” serão apresentadas todas as contas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova conta.
 
+![3_lista.png](/contas/3_lista.png)
 
+Na **listagem**, ao clicar sobre uma conta, os “**detalhes da conta**” serão exibidos, sendo possível "**editar**" ou “**excluir**” a conta. 
 
-Na listagem, ao clicar sobre uma conta, os “detalhes da conta” serão exibidos, sendo possível "editar" ou “excluir” a conta. 
+![4_detalhes.png](/contas/4_detalhes.png)
 
+No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
+### Busca
+Para localizar uma conta, digite no campo de “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-No cabeçalho há a opção de paginação, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+![5_busca.png](/contas/5_busca.png)
 
-Busca
-Para localizar uma conta, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
+### Filtros
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
 
+![6_filtros.png](/contas/6_filtros.png)
 
-Filtros
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" () ao lado do campo de busca e será exibido o painel de filtros:
-
-
-
-Movimentações
+## Movimentações
 Este quadro mostra todas as movimentações financeiras realizadas. É possível cadastrar as saídas e entradas de acordo com os pagamentos e recebíveis.
 
-
+![7_movimentações.png](/contas/7_movimentações.png)
 
 Ao clicar em uma movimentação, pode-se verificar alguns detalhes como: 
 
- - Data e horário que ocorreu a movimentação;
- - Valor: quantia a ser recebido ou pago;
- - Conta: destino em que aconteceu o movimento;
- - Tipo: se foi uma entrada ou saída;
- - Descrição: detalhes da movimentação.
+ - **Data e horário** que ocorreu a movimentação;
+ - **Valor**: quantia a ser recebido ou pago;
+ - **Conta**: destino em que aconteceu o movimento;
+ - **Tipo**: se foi uma entrada ou saída;
+ - **Descrição**: detalhes da movimentação.
 
 
-AUXILIARES
-Logo abaixo dos acessos, podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
+# Auxiliares
+Logo abaixo dos acessos [acessos](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
+[filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros)
 Planos de contas 
 
 
