@@ -2,7 +2,7 @@
 title: Contas
 description: 
 published: true
-date: 2021-12-22T17:24:22.092Z
+date: 2021-12-22T17:26:35.011Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -75,9 +75,9 @@ O plano de contas é uma ferramenta de organização, com a finalidade de **iden
 
 Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-**Nome**: nome do plano de contas, exemplo: aluguel;
-**Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-**Tipo**: se é entrada ou saída.
+- **Nome**: nome do plano de contas, exemplo: aluguel;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
 ![8_planos_de_contas.png](/contas/8_planos_de_contas.png)
 
@@ -88,9 +88,9 @@ Para facilitar a análise financeira da empresa, é possível cadastrar os centr
 
 Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-**Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
-**Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-**Tipo**: se é entrada ou saída.
+- **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
 ![9_centros_de_custos.png](/contas/9_centros_de_custos.png)
 
@@ -100,11 +100,11 @@ Para facilitar o processo de movimentação financeira, é possível registrar a
 
 Para adicionar uma nova transferência, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-**Valor**: quantia a ser transferida;
-**Data**: que ocorreu a transferência;
-**Conta origem**: de onde ‘saiu’ o dinheiro;
-**Conta destino**: conta que recebeu o dinheiro;
-**Descrição**: detalhes da transferência.
+- **Valor**: quantia a ser transferida;
+- **Data**: que ocorreu a transferência;
+- **Conta origem**: de onde ‘saiu’ o dinheiro;
+- **Conta destino**: conta que recebeu o dinheiro;
+- **Descrição**: detalhes da transferência.
 
 ![10_transferencias.png](/contas/10_transferencias.png)
 
