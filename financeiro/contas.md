@@ -2,7 +2,7 @@
 title: Contas
 description: 
 published: true
-date: 2021-12-22T13:18:40.105Z
+date: 2021-12-22T13:22:16.355Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -65,11 +65,10 @@ Ao clicar em uma movimentação, pode-se verificar alguns detalhes como:
 
 
 # Auxiliares
-Logo abaixo dos acessos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/contas#acessos), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
+Logo abaixo dos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/contas#acessos), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
-[filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros)
-Planos de contas 
-
+ 
+## Plano de contas
 
 O plano de contas é uma ferramenta de organização, com a finalidade de identificar as contas da empresa, facilitando os registros de entradas e saídas.
 
@@ -81,7 +80,7 @@ Tipo: se é entrada ou saída.
 
 
 
-Centros de custos
+## Centros de custos
 
 Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são unidades dentro de um plano de contas. Exemplo: o aluguel é um plano de conta, mas o aluguel da sala 01 e da sala 02 são exemplos de centro de custos.
 
