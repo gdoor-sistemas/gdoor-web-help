@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:26:28.781Z
+date: 2021-12-22T18:33:19.380Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -22,40 +22,42 @@ Tela para cadastro da receita:
 
 ![2_nova_receita.png](/receitas/2_nova_receita.png)
 
-Dados da receita:
-
+## Dados da receita
 
 Nos dados da receita, temos por padrão as seguintes informações:
-Valor: quantia que entrará na conta;
-Emissão: data em que a receita foi cadastrada;
-Vencimento: data de vencimento da receita.
 
-Atenção!
-Ao marcar o checkbox “recebida” localizado ao lado do valor, indica que a receita está paga. 
+- **Valor**: quantia que entrará na conta;
+- **Emissão**: data em que a receita foi cadastrada;
+- **Vencimento**: data de vencimento da receita.
 
-Dados da movimentação
-
-
-Ao marcar a receita como “recebida”, o campo para informar os “dados da movimentação” será exibido:
-Conta destino: informe para qual conta o recurso irá (bancária, caixa, cofre, etc);
-Espécie: informe a forma de pagamento;
-Descrição: campo opcional para registrar a movimentação na conta.
+> Atenção!
+Ao marcar o **checkbox** “**recebida**” localizado ao lado do valor, indica que a receita está paga. 
+{.is-warning}
 
 
-Cliente
+## Dados da movimentação
+
+
+Ao marcar a receita como “**recebida**”, o campo para informar os “**dados da movimentação**” será exibido:
+
+- **Conta destino**: informe para qual conta o recurso irá (bancária, caixa, cofre, etc);
+- **Espécie**: informe a forma de pagamento;
+- **Descrição**: campo opcional para registrar a movimentação na conta.
+
+# Cliente
 
 Ao clicar em cliente, inicia-se a busca em todos os clientes cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
 Para adicionar um novo cliente, basta clicar no sinal de adição (<em class="mdi mdi-plus"></em>). 
 
-Identificação
+## Identificação
 
-Para adicionar uma receita através do número de identificação, basta clicar em “documento” e escolher o código identificador (pode ser através de letras, números e/ou caracteres).
-No campo “descrição” é possível incluir detalhes da movimentação.
+Para adicionar uma receita através do número de identificação, basta clicar em “**documento**” e escolher o código identificador (pode ser através de letras, números e/ou caracteres).
+No campo “**descrição**” é possível incluir detalhes da movimentação.
 
-Vínculos
+## Vínculos
 
-No campo “plano de contas” serão mostrados os planos cadastrados em CONTAS. Sendo possível escolher o plano de acordo com o tipo da receita.
-No campo “centro de custos” é possível incluir o centro de custos.
+No campo “**plano de contas**” serão mostrados os planos cadastrados em CONTAS. Sendo possível escolher o plano de acordo com o tipo da receita.
+No campo “**centro de custos**” é possível incluir o centro de custos.
 
 Tags
 
