@@ -2,7 +2,7 @@
 title: Contas
 description: 
 published: true
-date: 2021-12-22T17:26:35.011Z
+date: 2021-12-22T17:46:48.726Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -47,7 +47,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 ![5_busca.png](/contas/5_busca.png)
 
 ### Filtros
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
 ![6_filtros.png](/contas/6_filtros.png)
 
