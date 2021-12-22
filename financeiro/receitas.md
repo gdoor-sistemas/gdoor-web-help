@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:00:22.586Z
+date: 2021-12-22T18:26:28.781Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -10,19 +10,17 @@ dateCreated: 2021-12-22T11:36:46.680Z
 
 # Introdução
 
-RECEITAS
+No quadro de receitas, é possível registrar todas as **entradas** relativas à administração da empresa, finalizadas e futuras. Como por exemplo: vendas.
 
-No quadro de receitas, é possível registrar todas as entradas relativas à administração da empresa, finalizadas e futuras. Como por exemplo: vendas.
+![1_receitas.png](/receitas/1_receitas.png)
 
-Nova receita
+# Nova receita
 
-Para adicionar uma nova receita, clique no botão de adição (+) no canto inferior esquerdo.
-
-
+Para adicionar uma nova receita, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto inferior esquerdo.
 
 Tela para cadastro da receita:
 
-
+![2_nova_receita.png](/receitas/2_nova_receita.png)
 
 Dados da receita:
 
@@ -47,7 +45,7 @@ Descrição: campo opcional para registrar a movimentação na conta.
 Cliente
 
 Ao clicar em cliente, inicia-se a busca em todos os clientes cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
-Para adicionar um novo cliente, basta clicar no sinal de adição (+). 
+Para adicionar um novo cliente, basta clicar no sinal de adição (<em class="mdi mdi-plus"></em>). 
 
 Identificação
 
@@ -69,7 +67,7 @@ ACESSOS
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
 Lista
-Clicando em “lista” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (+) é possível cadastrar uma nova receita.
+Clicando em “lista” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova receita.
 
 
 
@@ -104,7 +102,7 @@ Planos de contas
 
 O plano de contas é uma ferramenta de organização, com a finalidade de identificação, facilitando os registros de entradas.
 
-Para adicionar um novo plano de contas, você pode clicar no botão (+) e informar:
+Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
 Nome: nome do plano de contas;
 Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
@@ -117,7 +115,7 @@ Centros de custos
 Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são unidades dentro de um plano de contas.
 
 
-Para adicionar um novo centro de custos, você pode clicar no botão (+) e informar:
+Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
 Nome: nome do centro de custos;
 Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
