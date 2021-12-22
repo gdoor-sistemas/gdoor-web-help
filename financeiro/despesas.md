@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T13:26:44.441Z
+date: 2021-12-22T17:32:46.316Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -16,41 +16,35 @@ No quadro de despesas, é possível registrar todas as **saídas** relativas à 
 
 # Nova despesa 
 
-
 Para adicionar uma nova despesa, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto inferior esquerdo.
-
-
 
 Tela para cadastro da despesa:
 
+![2_nova_despesa.png](/despesas/2_nova_despesa.png)
 
-
-
-
-Dados da despesa:
-
+## Dados da despesa
 
 Nos dados da despesa, temos por padrão as seguintes informações:
-Valor: quantia do gasto efetuado;
-Emissão: data em que a despesa foi cadastrada;
-Vencimento: data de vencimento da despesa.
+- **Valor**: quantia do gasto efetuado;
+- **Emissão**: data em que a despesa foi cadastrada;
+- **Vencimento**: data de vencimento da despesa.
 
-Atenção!
-Ao marcar o checkbox “paga” localizado ao lado do valor, indica que a despesa está paga. 
+> Atenção!
+Ao marcar o **checkbox** “**paga**” localizado ao lado do valor, indica que a despesa está paga. 
+{.is-warning}
 
-Dados da movimentação
+## Dados da movimentação
 
-
-Ao marcar a despesa como “paga”, o campo para informar os “dados da movimentação” será exibido:
-Conta destino: informe de qual conta o recurso saiu (bancária, caixa, cofre, etc);
-Espécie: informe a forma de pagamento;
-Descrição: campo opcional para registrar a movimentação na conta.
+Ao marcar a despesa como “**paga**”, o campo para informar os “**dados da movimentação**” será exibido:
+- **Conta destino**: informe de qual conta o recurso saiu (bancária, caixa, cofre, etc);
+- **Espécie**: informe a forma de pagamento;
+- **Descrição**: campo opcional para registrar a movimentação na conta.
 
 
 ### Fornecedor 
 
 Ao clicar em fornecedor, inicia-se a busca em todos os fornecedores cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
-Para adicionar um novo fornecedor, basta clicar no sinal de adição (+). 
+Para adicionar um novo fornecedor, basta clicar no sinal de adição (<em class="mdi mdi-plus"></em>). 
 
 
 Identificação
