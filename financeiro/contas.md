@@ -2,7 +2,7 @@
 title: Contas
 description: 
 published: true
-date: 2021-12-22T13:17:57.055Z
+date: 2021-12-22T13:18:40.105Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -65,7 +65,7 @@ Ao clicar em uma movimentação, pode-se verificar alguns detalhes como:
 
 
 # Auxiliares
-Logo abaixo dos acessos [acessos](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
+Logo abaixo dos acessos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/contas#acessos), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
 [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros)
 Planos de contas 
