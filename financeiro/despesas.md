@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T18:36:42.553Z
+date: 2021-12-22T18:38:08.730Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -54,7 +54,7 @@ No campo “**descrição**” é possível incluir detalhes da movimentação.
 
 ## Vínculos
 
-No campo “**plano de contas**” serão mostrados os planos cadastrados em [contas](https://help.gdoorweb.com.br/pt-br/financeiro/contas#acessos##planosdecontas). Sendo possível escolher o plano de acordo com o tipo de despesa.
+No campo “**plano de contas**” serão mostrados os planos cadastrados em [contas](https://help.gdoorweb.com.br/pt-br/financeiro/contas#planos-de-contas). Sendo possível escolher o plano de acordo com o tipo de despesa.
 No campo “**centro de custos**” é possível incluir o centro de custos.
 
 ## Tags
