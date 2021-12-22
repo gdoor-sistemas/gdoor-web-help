@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:33:19.380Z
+date: 2021-12-22T18:38:53.520Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -56,7 +56,7 @@ No campo “**descrição**” é possível incluir detalhes da movimentação.
 
 ## Vínculos
 
-No campo “**plano de contas**” serão mostrados os planos cadastrados em CONTAS. Sendo possível escolher o plano de acordo com o tipo da receita.
+No campo “**plano de contas**” serão mostrados os planos cadastrados em [contas](https://help.gdoorweb.com.br/pt-br/financeiro/contas#planos-de-contas). Sendo possível escolher o plano de acordo com o tipo da receita.
 No campo “**centro de custos**” é possível incluir o centro de custos.
 
 Tags
