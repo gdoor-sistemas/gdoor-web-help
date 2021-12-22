@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T17:32:46.316Z
+date: 2021-12-22T17:34:57.126Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -41,32 +41,30 @@ Ao marcar a despesa como “**paga**”, o campo para informar os “**dados da 
 - **Descrição**: campo opcional para registrar a movimentação na conta.
 
 
-### Fornecedor 
+## Fornecedor 
 
 Ao clicar em fornecedor, inicia-se a busca em todos os fornecedores cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
 Para adicionar um novo fornecedor, basta clicar no sinal de adição (<em class="mdi mdi-plus"></em>). 
 
 
-Identificação
+## Identificação
 
-Para adicionar uma despesa através do número de identificação, basta clicar em “documento” e escolher o código identificador (pode ser através de letras, números e/ou caracteres).
-No campo “descrição” é possível incluir detalhes da movimentação.
+Para adicionar uma despesa através do número de identificação, basta clicar em “**documento**” e escolher o código identificador (pode ser através de letras, números e/ou caracteres).
+No campo “**descrição**” é possível incluir detalhes da movimentação.
 
-Vínculos
+## Vínculos
 
-No campo “plano de contas” serão mostrados os planos cadastrados em CONTAS. Sendo possível escolher o plano de acordo com o tipo de despesa.
-No campo “centro de custos” é possível incluir o centro de custos.
+No campo “**plano de contas**” serão mostrados os planos cadastrados em CONTAS. Sendo possível escolher o plano de acordo com o tipo de despesa.
+No campo “**centro de custos**” é possível incluir o centro de custos.
 
-Tags
+## Tags
 
 É possível buscar entre as tags cadastradas ou criar uma nova, para isso basta digitar o nome e pressionar a tecla enter.
 
-Após preencher os campos mencionados acima, clique em “salvar”.
+Após preencher os campos mencionados acima, clique em “**salvar**”.
 
+# Acessos
 
-
-
-ACESSOS
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
 Lista
