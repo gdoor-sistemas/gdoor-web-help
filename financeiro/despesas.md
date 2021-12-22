@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T17:42:42.530Z
+date: 2021-12-22T17:45:23.009Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -105,25 +105,23 @@ Logo abaixo dos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/despesas
 
 O plano de contas é uma ferramenta de organização, com a finalidade de **identificação**, facilitando os registros de **saídas**.
 
-Para adicionar um novo plano de contas, você pode clicar no botão (+) e informar:
+Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-Nome: nome do plano de contas, exemplo: aluguel;
-Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-Tipo: se é entrada ou saída.
+- **Nome**: nome do plano de contas, exemplo: aluguel;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
+![8_plano_de_contas.png](/despesas/8_plano_de_contas.png)
 
+## Centros de custos
 
-Centros de custos
-
-Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são unidades dentro de um plano de contas. Exemplo: o aluguel é um plano de conta, mas o aluguel da sala 01 e da sala 02 são exemplos de centro de custos.
-
-
-Para adicionar um novo centro de custos, você pode clicar no botão (+) e informar:
-
-Nome: nome do centro de custos, exemplo: aluguel da sala 02;
-Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-Tipo: se é entrada ou saída.
+Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são **unidades dentro de um plano de contas**. Exemplo: o aluguel é um plano de conta, mas o aluguel da sala 01 e da sala 02 são exemplos de centro de custos.
 
 
+Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
+- **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
+![9_centros_de_custos.png](/despesas/9_centros_de_custos.png)
