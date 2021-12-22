@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T18:38:08.730Z
+date: 2021-12-22T18:57:45.646Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
