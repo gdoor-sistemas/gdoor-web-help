@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:47:05.245Z
+date: 2021-12-22T18:48:44.004Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -44,7 +44,7 @@ Ao marcar a receita como “**recebida**”, o campo para informar os “**dados
 - **Espécie**: informe a forma de pagamento;
 - **Descrição**: campo opcional para registrar a movimentação na conta.
 
-# Cliente
+## Cliente
 
 Ao clicar em cliente, inicia-se a busca em todos os clientes cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
 Para adicionar um novo cliente, basta clicar no sinal de adição (<em class="mdi mdi-plus"></em>). 
@@ -99,7 +99,7 @@ Opção para ordenar as receitas por “**nº documento**”, “**valor**”, �
 
 ![7_ordenar.png](/receitas/7_ordenar.png)
 
-## Auxiliares
+# Auxiliares
 
 Logo abaixo dos acessos, podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
