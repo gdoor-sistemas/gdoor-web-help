@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T17:37:29.174Z
+date: 2021-12-22T17:42:42.530Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -79,30 +79,31 @@ Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” s
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
-## Busca
+### Busca
 
 Para localizar uma despesa, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
 ![5_busca.png](/despesas/5_busca.png)
 
-Filtros
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" () ao lado do campo de busca e será exibido o painel de filtros:
+### Filtros
 
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
+![6_filtros.png](/despesas/6_filtros.png)
 
-Ordenar
-Opção para ordenar as despesas por “nº documento”, “valor”, “emissão”, “vencimento” e “finalizada” (despesas já pagas). A opção selecionada aparecerá no topo da listagem.
+### Ordenar
+Opção para ordenar as despesas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (despesas já pagas). A opção selecionada aparecerá no topo da listagem.
 
+![7_ordenar.png](/despesas/7_ordenar.png)
 
+# Auxiliares
 
-AUXILIARES
-Logo abaixo dos acessos, podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
+Logo abaixo dos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/despesas#acessos), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
-Planos de contas 
+## Planos de contas 
 
-
-O plano de contas é uma ferramenta de organização, com a finalidade de identificação, facilitando os registros de saídas.
+O plano de contas é uma ferramenta de organização, com a finalidade de **identificação**, facilitando os registros de **saídas**.
 
 Para adicionar um novo plano de contas, você pode clicar no botão (+) e informar:
 
