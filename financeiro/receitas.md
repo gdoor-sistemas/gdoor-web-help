@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:38:53.520Z
+date: 2021-12-22T18:40:48.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -59,27 +59,28 @@ No campo “**descrição**” é possível incluir detalhes da movimentação.
 No campo “**plano de contas**” serão mostrados os planos cadastrados em [contas](https://help.gdoorweb.com.br/pt-br/financeiro/contas#planos-de-contas). Sendo possível escolher o plano de acordo com o tipo da receita.
 No campo “**centro de custos**” é possível incluir o centro de custos.
 
-Tags
+## Tags
 
 É possível buscar entre as tags cadastradas ou criar uma nova, para isso basta digitar o nome e pressionar a tecla enter.
 
-Após preencher os campos mencionados acima, clique em “salvar”.
+Após preencher os campos mencionados acima, clique em “**salvar**”.
 
-ACESSOS
+# Acessos
+
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
-Lista
-Clicando em “lista” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova receita.
+## Lista
+Clicando em “**lista**” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova receita.
 
+![3_lista.png](/receitas/3_lista.png)
 
+Na listagem, ao clicar sobre uma receita, os “**detalhes da receita**” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**," ou "**excluir**" a receita.
 
-Na listagem, ao clicar sobre uma receita, os “detalhes da receita” serão exibidos. Sendo possível clicar em mais detalhes para “pagar”, "editar," ou "excluir" a receita.
+![4_detalhes_da_receita.png](/receitas/4_detalhes_da_receita.png)
 
+No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
-
-No cabeçalho há a opção de paginação, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
-
-Busca
+### Busca
 Para localizar uma receita, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
 
 
