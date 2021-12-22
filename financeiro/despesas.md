@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T13:23:15.652Z
+date: 2021-12-22T13:26:44.441Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -10,12 +10,14 @@ dateCreated: 2021-12-22T11:36:03.597Z
 
 # Introdução
 
-No quadro de despesas, é possível registrar todas as saídas relativas à administração da empresa, finalizadas e futuras. Como por exemplo: contas de água, luz e internet.
+No quadro de despesas, é possível registrar todas as **saídas** relativas à administração da empresa, finalizadas e futuras. Como por exemplo: contas de água, luz e internet.
 
-Nova despesa 
+![1_despesas.png](/despesas/1_despesas.png)
+
+# Nova despesa 
 
 
-Para adicionar uma nova despesa, clique no botão de adição (+) no canto inferior esquerdo.
+Para adicionar uma nova despesa, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto inferior esquerdo.
 
 
 
@@ -45,7 +47,7 @@ Espécie: informe a forma de pagamento;
 Descrição: campo opcional para registrar a movimentação na conta.
 
 
-Fornecedor 
+### Fornecedor 
 
 Ao clicar em fornecedor, inicia-se a busca em todos os fornecedores cadastrados. Também é possível efetuar a busca por CPF/CNPJ, código, nome, e-mail e telefone clicando no ícone lupa.
 Para adicionar um novo fornecedor, basta clicar no sinal de adição (+). 
@@ -75,18 +77,18 @@ Na barra lateral direita há um menu padrão que integra o quadro de contas, des
 
 Lista
 
-Clicando em “lista” serão apresentadas todas as despesas cadastradas. Clicando no botão de adição (+) é possível cadastrar uma nova despesa.
+Clicando em “lista” serão apresentadas todas as despesas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova despesa.
 
 
 
-Na listagem, ao clicar sobre uma despesa, os “detalhes da despesa” serão exibidos. Sendo possível clicar em mais detalhes para “pagar”, "editar," ou "excluir" a despesa.
+Na listagem, ao clicar sobre uma despesa, os “detalhes da despesa” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**", ou "**excluir**" a despesa.
 
 
 
 No cabeçalho há a opção de paginação, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
 Busca
-Para localizar uma despesa, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
+Para localizar uma despesa, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
 
 
 Filtros
