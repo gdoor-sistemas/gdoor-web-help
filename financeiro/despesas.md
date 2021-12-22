@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2021-12-22T17:34:57.126Z
+date: 2021-12-22T17:37:29.174Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -67,21 +67,24 @@ Após preencher os campos mencionados acima, clique em “**salvar**”.
 
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
-Lista
+## Lista
 
-Clicando em “lista” serão apresentadas todas as despesas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova despesa.
+Clicando em “**lista**” serão apresentadas todas as despesas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova despesa.
 
+![3_lista.png](/despesas/3_lista.png)
 
+Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**", ou "**excluir**" a despesa.
 
-Na listagem, ao clicar sobre uma despesa, os “detalhes da despesa” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**", ou "**excluir**" a despesa.
+![4_detalhe.png](/despesas/4_detalhe.png)
 
+No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
+## Busca
 
-No cabeçalho há a opção de paginação, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+Para localizar uma despesa, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-Busca
-Para localizar uma despesa, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
-
+![5_busca.png](/despesas/5_busca.png)
 
 Filtros
 Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" () ao lado do campo de busca e será exibido o painel de filtros:
