@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:43:55.859Z
+date: 2021-12-22T18:47:05.245Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -99,35 +99,30 @@ Opção para ordenar as receitas por “**nº documento**”, “**valor**”, �
 
 ![7_ordenar.png](/receitas/7_ordenar.png)
 
-AUXILIARES
+## Auxiliares
+
 Logo abaixo dos acessos, podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
-Planos de contas 
+## Planos de contas 
 
-
-O plano de contas é uma ferramenta de organização, com a finalidade de identificação, facilitando os registros de entradas.
+O plano de contas é uma ferramenta de organização, com a finalidade de **identificação**, facilitando os registros de **entradas**.
 
 Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-Nome: nome do plano de contas;
-Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-Tipo: se é entrada ou saída.
+- **Nome**: nome do plano de contas;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
+![8_planos_de_contas.png](/receitas/8_planos_de_contas.png)
 
+## Centros de custos
 
-Centros de custos
-
-Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são unidades dentro de um plano de contas.
-
+Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são **unidades dentro de um plano de contas**.
 
 Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
 
-Nome: nome do centro de custos;
-Código: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-Tipo: se é entrada ou saída.
+- **Nome**: nome do centro de custos;
+- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída.
 
-
-
-
-
-
+![9_centros_de_custos.png](/receitas/9_centros_de_custos.png)
