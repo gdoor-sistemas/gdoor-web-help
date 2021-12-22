@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:40:48.681Z
+date: 2021-12-22T18:42:46.694Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -70,6 +70,7 @@ Após preencher os campos mencionados acima, clique em “**salvar**”.
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
 
 ## Lista
+
 Clicando em “**lista**” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova receita.
 
 ![3_lista.png](/receitas/3_lista.png)
@@ -81,16 +82,16 @@ Na listagem, ao clicar sobre uma receita, os “**detalhes da receita**” serã
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
 ### Busca
-Para localizar uma receita, digite no campo de “busca” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "limpar a busca" (). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" ().
 
+Para localizar uma receita, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
+![5_busca.png](/receitas/5_busca.png)
 
-Filtros
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" () ao lado do campo de busca e será exibido o painel de filtros:
+### Filtros
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
-
-
-
+![6_filtro.png](/receitas/6_filtro.png)
 
 Ordenar
 Opção para ordenar as receitas por “nº documento”, “valor”, “emissão”, “vencimento” e “finalizada” (receitas já recebidas). A opção selecionada aparecerá no topo da listagem.
