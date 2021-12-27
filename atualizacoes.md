@@ -2,11 +2,25 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-12-17T16:37:46.612Z
+date: 2021-12-27T19:48:04.670Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/12/2021
+b2.5.3, f1.15.2 {.versions}
+
+## Novidades
+- Adicionada legenda ao incluir produto na "NF-e" **e** "Pedidos de venda" indicando que o caractere "." é utilizado para buscar produto por referência.
+- Adicionada legenda na NFC-e para indicar que ao informar um CPF não cadastrado no sistema e clicar "Enter", será incluso somente o CPF na nota.
+- Adicionado CNPJ do emitente no cabeçalho do pedido de venda.
+
+## Ajustes
+- Ajustada a data de vencimento na "NF-e" **e** "Pedidos de venda" ao utilizar um parcelamento com o período "Dias". Anteriormente, não estava calculando corretamente a data de vencimento.
+- Corrigido para permitir editar uma nota de complemento.
+- Ajustado o redirecionamento da tela após criar uma nota de ajuste, direcionando agora para os detalhes da nota criada.
+- Ajustado o relatório "Total de vendas por meio de pagamento" para não constar o valor do troco.
 
 # 16/12/2021
 
