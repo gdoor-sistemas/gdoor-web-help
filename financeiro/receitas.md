@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-01-02T17:17:15.435Z
+date: 2022-01-02T17:22:44.854Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -75,7 +75,7 @@ Clicando em “**lista**” serão apresentadas todas as receitas cadastradas. C
 
 ![3_lista.png](/receitas/3_lista.png)
 
-Na listagem, ao clicar sobre uma receita, os “**detalhes da receita**” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**," ou "**excluir**" a receita.
+Na **listagem**, ao clicar sobre uma receita, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para visualizar mais informações e executar operações como “**receber**” ou "**editar**" a receita.
 
 ![4_detalhes_da_receita.png](/receitas/4_detalhes_da_receita.png)
 
