@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2022-01-02T17:14:40.785Z
+date: 2022-01-02T17:16:44.612Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -113,7 +113,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 
 ![8_plano_de_contas.png](/despesas/8_plano_de_contas.png)
 
-> Ao acessar a lista de planos de contas pelo módulo de despesas, serão exibidos somente os planos de contas de saídas, pois são relavantes às despesas.{.gw .gw-note .is-info}
+> Ao acessar a lista de planos de contas pelo módulo de despesas, serão exibidos somente os planos de contas de saída, pois são relevantes neste módulo. Para listar todos os planos de contas, acesse pelo módulo **Financeiro** &raquo; **Contas**.{.gw .gw-note .is-info}
 
 ## Centros de custos
 
