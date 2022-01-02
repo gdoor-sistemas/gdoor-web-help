@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-01-02T19:16:09.484Z
+date: 2022-01-02T19:34:43.775Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 b2.6.0, f1.16.0 {.versions}
 
 ## Novidades
-- O módulo financeiro foi liberado 🎉.
+- O módulo financeiro foi liberado 🎉. Conheça esta funcionalidade fresquinha no GDOOR WEB [aqui](/tutoriais/financeiro).
 - Adicionada dica para busca de produto pelo campo **Referência** na tela de adição de produto. É possível buscar um produto diretamente pelo valor desse campo se na busca você digitar "." (ponto).
 - Adicionada indicação de limitação do tamanho do texto na criação de uma carta de correção eletrônica.
 - Adicionada altenativa para geração do inventário quando há muitos produtos cadastrados.
