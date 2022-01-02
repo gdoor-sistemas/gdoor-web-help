@@ -2,11 +2,23 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2021-12-27T19:48:04.670Z
+date: 2022-01-02T19:16:09.484Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 02/01/2022
+b2.6.0, f1.16.0 {.versions}
+
+## Novidades
+- O módulo financeiro foi liberado 🎉.
+- Adicionada dica para busca de produto pelo campo **Referência** na tela de adição de produto. É possível buscar um produto diretamente pelo valor desse campo se na busca você digitar "." (ponto).
+- Adicionada indicação de limitação do tamanho do texto na criação de uma carta de correção eletrônica.
+- Adicionada altenativa para geração do inventário quando há muitos produtos cadastrados.
+
+## Ajustes
+- Corrigida a geração do inventário quando solicitada a geração com produtos de uso e consumo e ativo imobilizado. Esses itens não apareciam no inventário mesmo com as opções marcadas.
 
 # 27/12/2021
 b2.5.3, f1.15.2 {.versions}
