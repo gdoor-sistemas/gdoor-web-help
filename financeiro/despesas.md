@@ -2,7 +2,7 @@
 title: Despesas
 description: 
 published: true
-date: 2022-01-02T17:16:44.612Z
+date: 2022-01-02T17:21:51.675Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -73,7 +73,7 @@ Clicando em “**lista**” serão apresentadas todas as despesas cadastradas. C
 
 ![3_lista.png](/despesas/3_lista.png)
 
-Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para “**pagar**”, "**editar**", ou "**excluir**" a despesa.
+Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para visualizar mais informações e executar operações como “**pagar**” ou "**editar**" a despesa.
 
 ![4_detalhe.png](/despesas/4_detalhe.png)
 
