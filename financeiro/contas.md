@@ -1,8 +1,8 @@
 ---
 title: Contas
-description: 
+description: Veja como identificar a localização do dinheiro da empresa no GDOOR WEB
 published: true
-date: 2021-12-22T17:46:48.726Z
+date: 2022-01-02T19:32:11.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
