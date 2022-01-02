@@ -1,8 +1,8 @@
 ---
 title: Despesas
-description: 
+description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-01-02T17:21:51.675Z
+date: 2022-01-02T19:33:17.525Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
