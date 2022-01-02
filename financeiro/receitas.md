@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2021-12-22T18:48:44.004Z
+date: 2022-01-02T17:17:15.435Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -114,6 +114,8 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 - **Tipo**: se é entrada ou saída.
 
 ![8_planos_de_contas.png](/receitas/8_planos_de_contas.png)
+
+> Ao acessar a lista de planos de contas pelo módulo de receitas, serão exibidos somente os planos de contas de entrada, pois são relevantes neste módulo. Para listar todos os planos de contas, acesse pelo módulo **Financeiro** &raquo; **Contas**.{.gw .gw-note .is-info}
 
 ## Centros de custos
 
