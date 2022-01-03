@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-01-03T12:59:51.304Z
+date: 2022-01-03T13:03:09.308Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -75,7 +75,7 @@ Clicando em “**lista**” serão apresentadas todas as despesas cadastradas. C
 
 Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para visualizar mais informações e executar operações como “**pagar**” ou "**editar**" a despesa.
 
-![detalhes](/despesas/4_detalhe.png)
+![detalhes da despesa](/despesas/4_detalhe.png)
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
