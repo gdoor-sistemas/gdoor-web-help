@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-01-02T19:33:17.525Z
+date: 2022-01-03T12:59:51.304Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -12,7 +12,7 @@ dateCreated: 2021-12-22T11:36:03.597Z
 
 No quadro de despesas, é possível registrar todas as **saídas** relativas à administração da empresa, finalizadas e futuras. Como por exemplo: contas de água, luz e internet.
 
-![1_despesas.png](/despesas/1_despesas.png)
+![despesas](/despesas/1_despesas.png)
 
 # Nova despesa 
 
@@ -20,7 +20,7 @@ Para adicionar uma nova despesa, clique no botão de adição (<em class="mdi md
 
 Tela para cadastro da despesa:
 
-![2_nova_despesa.png](/despesas/2_nova_despesa.png)
+![nova despesa](/despesas/2_nova_despesa.png)
 
 ## Dados da despesa
 
@@ -71,11 +71,11 @@ Na barra lateral direita há um menu padrão que integra o quadro de contas, des
 
 Clicando em “**lista**” serão apresentadas todas as despesas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova despesa.
 
-![3_lista.png](/despesas/3_lista.png)
+![lista](/despesas/3_lista.png)
 
 Na **listagem**, ao clicar sobre uma despesa, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para visualizar mais informações e executar operações como “**pagar**” ou "**editar**" a despesa.
 
-![4_detalhe.png](/despesas/4_detalhe.png)
+![detalhes](/despesas/4_detalhe.png)
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
@@ -84,18 +84,18 @@ No cabeçalho há a opção de **paginação**, que permite escolher a quantidad
 Para localizar uma despesa, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![5_busca.png](/despesas/5_busca.png)
+![buscar](/despesas/5_busca.png)
 
 ### Filtros
 
 Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
-![6_filtros.png](/despesas/6_filtros.png)
+![filtros](/despesas/6_filtros.png)
 
 ### Ordenar
 Opção para ordenar as despesas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (despesas já pagas). A opção selecionada aparecerá no topo da listagem.
 
-![7_ordenar.png](/despesas/7_ordenar.png)
+![ordenar](/despesas/7_ordenar.png)
 
 # Auxiliares
 
@@ -111,7 +111,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![8_plano_de_contas.png](/despesas/8_plano_de_contas.png)
+![planos de contas](/despesas/8_plano_de_contas.png)
 
 > Ao acessar a lista de planos de contas pelo módulo de despesas, serão exibidos somente os planos de contas de saída, pois são relevantes neste módulo. Para listar todos os planos de contas, acesse pelo módulo **Financeiro** &raquo; **Contas**.{.gw .gw-note .is-info}
 
@@ -126,4 +126,4 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![9_centros_de_custos.png](/despesas/9_centros_de_custos.png)
+![centros de custos](/despesas/9_centros_de_custos.png)
