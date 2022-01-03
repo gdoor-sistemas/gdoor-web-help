@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no GDOOR WEB
 published: true
-date: 2022-01-02T19:32:11.779Z
+date: 2022-01-03T13:04:46.541Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -12,14 +12,14 @@ dateCreated: 2021-12-22T11:34:11.932Z
 
 Para efetuar o controle financeiro, é necessário que as contas sejam cadastradas de acordo com a realidade financeira da empresa. Cada “**conta” caracteriza a localização do dinheiro**, por exemplo: cofre, conta bancária, caixa e outras.
 
-![1_contas.png](/contas/1_contas.png)
+![contas](/contas/1_contas.png)
 
 # Nova conta
 Para cadastrar uma nova conta, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto inferior direito da tela principal. 
 
 Insira os “**dados da conta**” como: “**nome da conta**”, "**saldo**'' e ''**tags**” para especificar o destino de cada capital e clique em “**salvar**”.
 
-![2_nova_conta.png](/contas/2_nova_conta.png)
+![nova_conta](/contas/2_nova_conta.png)
 
 > As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
 Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
@@ -32,11 +32,11 @@ Na barra lateral direita há um menu padrão que integra o quadro de contas, des
 ## Lista
 Clicando em “**lista**” serão apresentadas todas as contas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova conta.
 
-![3_lista.png](/contas/3_lista.png)
+![lista](/contas/3_lista.png)
 
 Na **listagem**, ao clicar sobre uma conta, os “**detalhes da conta**” serão exibidos, sendo possível "**editar**" ou “**excluir**” a conta. 
 
-![4_detalhes.png](/contas/4_detalhes.png)
+![detalhes da conta](/contas/4_detalhes.png)
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
@@ -44,17 +44,17 @@ No cabeçalho há a opção de **paginação**, que permite escolher a quantidad
 Para localizar uma conta, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![5_busca.png](/contas/5_busca.png)
+![buscar](/contas/5_busca.png)
 
 ### Filtros
 Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
-![6_filtros.png](/contas/6_filtros.png)
+![filtros](/contas/6_filtros.png)
 
 ## Movimentações
 Este quadro mostra todas as movimentações financeiras realizadas. É possível cadastrar as saídas e entradas de todas as contas
 
-![7_movimentações.png](/contas/7_movimentações.png)
+![movimentações](/contas/7_movimentações.png)
 
 Ao clicar em uma movimentação, pode-se verificar alguns detalhes como: 
 
@@ -79,7 +79,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![8_planos_de_contas.png](/contas/8_planos_de_contas.png)
+![planos de contas](/contas/8_planos_de_contas.png)
 
 ## Centros de custos
 
@@ -92,7 +92,7 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![9_centros_de_custos.png](/contas/9_centros_de_custos.png)
+![centros de custos](/contas/9_centros_de_custos.png)
 
 ## Transferências
 
@@ -106,7 +106,7 @@ Para adicionar uma nova transferência, você pode clicar no botão (<em class="
 - **Conta destino**: conta que recebeu o dinheiro;
 - **Descrição**: detalhes da transferência.
 
-![10_transferencias.png](/contas/10_transferencias.png)
+![transferencias](/contas/10_transferencias.png)
 
 
 
