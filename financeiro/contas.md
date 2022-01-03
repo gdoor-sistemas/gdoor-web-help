@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no GDOOR WEB
 published: true
-date: 2022-01-03T13:04:46.541Z
+date: 2022-01-03T13:05:09.177Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -19,7 +19,7 @@ Para cadastrar uma nova conta, clique no botão de adição (<em class="mdi mdi-
 
 Insira os “**dados da conta**” como: “**nome da conta**”, "**saldo**'' e ''**tags**” para especificar o destino de cada capital e clique em “**salvar**”.
 
-![nova_conta](/contas/2_nova_conta.png)
+![nova conta](/contas/2_nova_conta.png)
 
 > As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
 Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
