@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-01-02T17:22:44.854Z
+date: 2022-01-03T12:58:06.897Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -12,7 +12,7 @@ dateCreated: 2021-12-22T11:36:46.680Z
 
 No quadro de receitas, é possível registrar todas as **entradas** relativas à administração da empresa, finalizadas e futuras. Como por exemplo: vendas.
 
-![1_receitas.png](/receitas/1_receitas.png)
+![receitas](/receitas/1_receitas.png)
 
 # Nova receita
 
@@ -20,7 +20,7 @@ Para adicionar uma nova receita, clique no botão de adição (<em class="mdi md
 
 Tela para cadastro da receita:
 
-![2_nova_receita.png](/receitas/2_nova_receita.png)
+![nova receita](/receitas/2_nova_receita.png)
 
 ## Dados da receita
 
@@ -73,11 +73,11 @@ Na barra lateral direita há um menu padrão que integra o quadro de contas, des
 
 Clicando em “**lista**” serão apresentadas todas as receitas cadastradas. Clicando no botão de adição (<em class="mdi mdi-plus"></em>) é possível cadastrar uma nova receita.
 
-![3_lista.png](/receitas/3_lista.png)
+![lista](/receitas/3_lista.png)
 
 Na **listagem**, ao clicar sobre uma receita, os “**detalhes da despesa**” serão exibidos. Sendo possível clicar em mais detalhes para visualizar mais informações e executar operações como “**receber**” ou "**editar**" a receita.
 
-![4_detalhes_da_receita.png](/receitas/4_detalhes_da_receita.png)
+![detalhes da receita](/receitas/4_detalhes_da_receita.png)
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
@@ -86,18 +86,18 @@ No cabeçalho há a opção de **paginação**, que permite escolher a quantidad
 Para localizar uma receita, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![5_busca.png](/receitas/5_busca.png)
+![buscar](/receitas/5_busca.png)
 
 ### Filtros
 Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Para fazer um filtro aprimorado na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo busca e será exibido o painel de filtros:
 
-![6_filtro.png](/receitas/6_filtro.png)
+![filtrar](/receitas/6_filtro.png)
 
 ### Ordenar
 
 Opção para ordenar as receitas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (receitas já recebidas). A opção selecionada aparecerá no topo da listagem.
 
-![7_ordenar.png](/receitas/7_ordenar.png)
+![ordenar](/receitas/7_ordenar.png)
 
 # Auxiliares
 
@@ -113,7 +113,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![8_planos_de_contas.png](/receitas/8_planos_de_contas.png)
+![planos de contas](/receitas/8_planos_de_contas.png)
 
 > Ao acessar a lista de planos de contas pelo módulo de receitas, serão exibidos somente os planos de contas de entrada, pois são relevantes neste módulo. Para listar todos os planos de contas, acesse pelo módulo **Financeiro** &raquo; **Contas**.{.gw .gw-note .is-info}
 
@@ -127,4 +127,4 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
 - **Tipo**: se é entrada ou saída.
 
-![9_centros_de_custos.png](/receitas/9_centros_de_custos.png)
+![centros de custos](/receitas/9_centros_de_custos.png)
