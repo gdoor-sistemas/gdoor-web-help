@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-01-10T12:22:33.825Z
+date: 2022-01-10T12:23:35.661Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,7 +13,7 @@ b2.7.0, f1.17.0 {.versions}
 
 ## Novidades
 - Adicionada a opção de exportação de CSV nos relatórios. Agora, além de imprimir será possível exportar diversos relatórios em formato CSV.
-- Adicionadao o botão de **vínculos financeiros** nos detalhes da "NF-e", "NFC-e" e "Compras". Na parte de pagamentos das notas e compras, foi adicionado um botão no qual é possível verificar as "receitas" ou "despesas" criadas pela movimentação.
+- Adicionado o botão de **vínculos financeiros** nos detalhes da "NF-e", "NFC-e" e "Compras". Na parte de pagamentos das notas e compras, foi adicionado um botão no qual é possível verificar as "receitas" ou "despesas" criadas pela movimentação.
 
 ## Ajustes
 - Alterado o ambiente de emissão da NF-e de **CE** para a Sefaz Virtual do Rio Grande do Sul (SVRS).
