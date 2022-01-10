@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-01-10T12:23:35.661Z
+date: 2022-01-10T17:31:16.501Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 09/01/2022
-b2.7.0, f1.17.0 {.versions}
+b2.7.0, f1.17.1 {.versions}
 
 ## Novidades
 - Adicionada a opção de exportação de CSV nos relatórios. Agora, além de imprimir será possível exportar diversos relatórios em formato CSV.
@@ -20,6 +20,7 @@ b2.7.0, f1.17.0 {.versions}
 - Ajustado o cálculo do custo do produto, ao efetuar uma compra, quando o mesmo possui fator de conversão. Anteriormente, o fator de conversão não era considerado no cálculo do custo do produto.
 - Alterado o valor apresentado na listagem de transações financeiras ("receita" **e** "despesa") para mostrar o valor que falta ser pago. Anteriormente, era mostrado o valor original da transação, desconsiderando valores já pagos.
 - Ajustada a responsividade das telas de detalhes das transações financeiras ("receita" **e** "despesa"). Para melhor se adequar a todos os tamanhos de tela, foram efetuados pequenos ajustes no layout das transações financeiras.
+- Ajustada a exportação do relarório "inventário de estoque" quando o mesmo possui rodapé ou cabeçalho. Não estava sendo possível exportar o relatório nessa situação.
 
 # 02/01/2022
 b2.6.0, f1.16.0 {.versions}
