@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-01-10T17:33:57.043Z
+date: 2022-01-13T12:51:46.770Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 13/01/2022
+b2.7.1, f1.17.2{.versions}
+
+## Novidades
+- Implementado o recibo no financeiro. Possibilitando assim gerar um comprovante de recebimento para as contas a receber. 
+
+## Ajustes
+- Ajustados os status da nota de compra. Anteriormente o status não estava atualizando de pendente para processada no caso de importação de XML.
 
 # 10/01/2022
 f1.17.1 {.versions} 
