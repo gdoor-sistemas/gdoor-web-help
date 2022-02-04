@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T19:00:51.645Z
+date: 2022-02-04T19:16:32.195Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -81,11 +81,11 @@ Em receitas, as parcelas desejadas podem ser selecionadas de duas formas:
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e selecionar a opção (<em class="mdi mdi-sync"></em>)  **renegociar**.
 
-Nesta tela você verá as informações das parcelas renegociadas, como o **documento**, **vencimento**, **situação** e o **valores**. 
+Nesta tela você verá as informações das parcelas renegociadas, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
-Ao lado do **valor total da renegociação** e do **nº de parcelas**, é possível informar o **plano de contas** e **centro de custos**.
+O sistema somara **valor total da renegociação** e do **nº de parcelas**, é possível informar o **plano de contas** e **centro de custos**.
 
-![3.jpg](/renegociação/3.jpg)
+![3_nova.png](/renegociação/3_nova.png)![3_nova.png](/renegociação/3_nova.png)
 
 Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como **data de emissão**, **vencimento da parcela**, **dia do cancelamento** e **informações gerais do cliente**.
 
@@ -99,10 +99,13 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 - Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - Atualizar - atualiza os dados após uma ação.
 
-> No exemplo abaixo, foi escolhido um intervalo de 2 em 2 meses para os pagamentos da renegociação, o sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
-{.is-info}
+
+
 
 ![4_gerar_parcelas.png](/renegociação/4_gerar_parcelas.png)
+
+> No exemplo acima, foi escolhido um intervalo de 2 em 2 meses para os pagamentos da renegociação, o sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
+{.is-info}
 
 Após essas configurações, clique em gerar renegociação, no canto inferior direito. 
 
