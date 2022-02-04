@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T18:24:26.040Z
+date: 2022-02-04T18:33:55.799Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -87,20 +87,16 @@ Ao lado do **valor total da renegociação** e do **nº de parcelas**, é possí
 
 ![3.jpg](/renegociação/3.jpg)![3.jpg](/renegociação/3.jpg)
 
-Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como data de emissão, vencimento da parcela, dia do cancelamento e informações gerais do cliente.
-
-
+Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como **data de emissão**, **vencimento da parcela**, **dia do cancelamento** e **informações gerais do cliente**.
 
 No cabeçalho dos detalhes da receita, você encontra algumas opções:
 
-imagem detalhes receita
+![detalhes_receita.png](/renegociação/detalhes_receita.png)
 
-
-- Editar - edita todos os dados dessa receita
-- Receber - efetiva o recebimento dessa parcela
-- Renegociar - faz um novo parcelamento dos valores pendentes
-- Abandonar - as parcelas vencidas ficam abandonadas e saem da listagem, mas ainda podem ser recebidas
-- Excluir - as parcelas são excluídas e não podem mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’.
+- Editar - edita todos os dados dessa receita;
+- Receber - efetiva o recebimento dessa parcela;
+- Renegociar - faz um novo parcelamento dos valores pendentes;
+- Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - Atualizar - atualiza os dados após uma ação.
 
 NOTA - No exemplo abaixo, a renegociação teve intervalo de 2 em 2 meses, o sistema gera automático para as datas escolhidas, mas esses campos são editáveis.
