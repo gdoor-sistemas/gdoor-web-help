@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T19:50:12.018Z
+date: 2022-02-04T19:51:17.292Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -86,7 +86,7 @@ Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em cl
 Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
 O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
-No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, e ao lado é possível informar o **plano de contas** e **centro de custos**.
+No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
 
 ![3_nova.png](/renegociação/3_nova.png)
 
