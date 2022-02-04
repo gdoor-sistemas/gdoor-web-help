@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T16:47:33.792Z
+date: 2022-02-04T16:51:41.542Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -84,8 +84,7 @@ Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em cl
 Nessa página você encontrará as informações das parcelas que constarão na negociação, como o vencimento de cada uma, a situação e o valor. 
 Ao lado do valor total do acordo, é possível incluir o plano de contas e centro de custos, assim o gerenciamento financeiro fica cada vez mais organizado. 
 
-![3_renegociação.jpg](/renegociação/renegociação/3_renegociação.jpg)
-
+imagem 3
 
 # Acessos
 
