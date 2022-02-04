@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-01-03T12:58:06.897Z
+date: 2022-02-04T13:32:21.909Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -64,6 +64,28 @@ No campo “**centro de custos**” é possível incluir o centro de custos.
 É possível buscar entre as tags cadastradas ou criar uma nova, para isso basta digitar o nome e pressionar a tecla enter.
 
 Após preencher os campos mencionados acima, clique em “**salvar**”.
+
+# Renegociação de parcelas
+
+Ao efetuar um acordo financeiro com seu cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonando as parcelas antigas.
+
+Em receitas, selecione as parcelas desejadas, que podem ser selecionadas de duas formas:
+
+- Clicando no checkbox ao lado do valor e escolher quais são as parcelas que farão parte da renegociação
+
+![1_renegociação.png](/renegociação/1_renegociação.png)
+
+- A outra opção é clicar nos três pontinhos, ao lado do status da parcela. Você pode clicar na primeira opção disponível: marcar e selecionar todas que você deseja. 
+
+![2_renegociação_web.jpg](/renegociação/2_renegociação_web.jpg)
+
+Depois de selecionar as parcelas que deseja renegociar, basta clicar nos três pontinhos localizados na lateral direita e selecionar a opção renegociar.
+
+Nessa página você encontrará as informações das parcelas que constarão na negociação, como o vencimento de cada uma, a situação e o valor. 
+Ao lado do valor total do acordo, é possível incluir o plano de contas e centro de custos, assim o gerenciamento financeiro fica cada vez mais organizado. 
+
+FOTO 03 RENEGOCIAÇÃO WEB
+
 
 # Acessos
 
