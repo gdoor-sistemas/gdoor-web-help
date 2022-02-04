@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T13:32:21.909Z
+date: 2022-02-04T13:37:59.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -71,11 +71,11 @@ Ao efetuar um acordo financeiro com seu cliente, você tem a facilidade do geren
 
 Em receitas, selecione as parcelas desejadas, que podem ser selecionadas de duas formas:
 
-- Clicando no checkbox ao lado do valor e escolher quais são as parcelas que farão parte da renegociação
+- Clicando no checkbox ao lado do valor e marcando as parcelas que farão parte da renegociação
 
 ![1_renegociação.png](/renegociação/1_renegociação.png)
 
-- A outra opção é clicar nos três pontinhos, ao lado do status da parcela. Você pode clicar na primeira opção disponível: marcar e selecionar todas que você deseja. 
+- A outra opção é clicar no botão mdi-dots-vertical. Você pode clicar na primeira opção disponível: marcar e selecionar todas que você deseja. 
 
 ![2_renegociação_web.jpg](/renegociação/2_renegociação_web.jpg)
 
