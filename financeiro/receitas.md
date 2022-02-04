@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T17:24:38.555Z
+date: 2022-02-04T18:24:26.040Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -73,33 +73,35 @@ Em receitas, as parcelas desejadas podem ser selecionadas de duas formas:
 
 - Clicando no ícone de "imagem" ao lado das informações da receita:
 
-![1_reneg![1_renegociação.png](/renegociação/renegociação/1_renegociação.png)ociação.png](/renegociação/1_renegociação.png)
+![1_renegociação.png](/renegociação/1_renegociação.png)
 
 - Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você deseja:
 
 ![2_renegociação_web.jpg](/renegociação/2_renegociação_web.jpg)
 
-Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e selecionar a opção **renegociar**.
+Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e selecionar a opção (<em class="mdi mdi-sync"></em>)  **renegociar**.
 
-Nesta tela você verá as informações das parcelas renegociadas, como o **documento**, **vencimento** de cada uma, a **situação** e o **valor**. 
-
-Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como data de emissão, vencimento da parcela, dia do cancelamento e informações gerais do cliente.
+Nesta tela você verá as informações das parcelas renegociadas, como o **documento**, **vencimento**, **situação** e o **valores**. 
 
 Ao lado do **valor total da renegociação** e do **nº de parcelas**, é possível informar o **plano de contas** e **centro de custos**.
 
-imagem 3
+![3.jpg](/renegociação/3.jpg)![3.jpg](/renegociação/3.jpg)
 
-No cabeçalho desta tela, você encontra algumas opções:
-
-
- Editar - edita todos os dados dessa receita
- Receber - efetiva o recebimento dessa parcela
- Renegociar - faz um novo parcelamento dos valores pendentes
-Abandonar - as parcelas vencidas ficam abandonadas e saem da listagem, mas ainda podem ser recebidas
-Excluir - as parcelas são excluídas e não podem mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’.
+Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como data de emissão, vencimento da parcela, dia do cancelamento e informações gerais do cliente.
 
 
-Atualizar - atualiza os dados após uma ação.
+
+No cabeçalho dos detalhes da receita, você encontra algumas opções:
+
+imagem detalhes receita
+
+
+- Editar - edita todos os dados dessa receita
+- Receber - efetiva o recebimento dessa parcela
+- Renegociar - faz um novo parcelamento dos valores pendentes
+- Abandonar - as parcelas vencidas ficam abandonadas e saem da listagem, mas ainda podem ser recebidas
+- Excluir - as parcelas são excluídas e não podem mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’.
+- Atualizar - atualiza os dados após uma ação.
 
 NOTA - No exemplo abaixo, a renegociação teve intervalo de 2 em 2 meses, o sistema gera automático para as datas escolhidas, mas esses campos são editáveis.
 
