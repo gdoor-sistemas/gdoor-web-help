@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T19:16:32.195Z
+date: 2022-02-04T19:47:08.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -67,29 +67,36 @@ Após preencher os campos mencionados acima, clique em “**salvar**”.
 
 # Renegociação de parcelas
 
-Ao efetuar um acordo financeiro com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
+Ao efetuar um renegociação financeira com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
 
-Em receitas, as parcelas desejadas podem ser selecionadas de duas formas:
+Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
 
 - Clicando no ícone de "imagem" ao lado das informações da receita:
 
 ![1_renegociação.png](/renegociação/1_renegociação.png)
 
-- Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você deseja:
+- Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você desejar:
 
 ![2_renegociação_web.jpg](/renegociação/2_renegociação_web.jpg)
 
-Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e selecionar a opção (<em class="mdi mdi-sync"></em>)  **renegociar**.
+Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
 
-Nesta tela você verá as informações das parcelas renegociadas, como o **documento**, **vencimento**, **situação** e os **valores**. 
+![selecionar.png](/renegociação/selecionar.png)
 
-O sistema somara **valor total da renegociação** e do **nº de parcelas**, é possível informar o **plano de contas** e **centro de custos**.
+Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
-![3_nova.png](/renegociação/3_nova.png)![3_nova.png](/renegociação/3_nova.png)
+O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
+No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, e ao lado é possível informar o **plano de contas** e **centro de custos**.
 
-Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como **data de emissão**, **vencimento da parcela**, **dia do cancelamento** e **informações gerais do cliente**.
+![3_nova.png](/renegociação/3_nova.png)
 
-No cabeçalho dos detalhes da receita, você encontra algumas opções:
+> No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
+{.is-info}
+
+![parcelamento.png](/renegociação/parcelamento.png)
+
+Para ver os detalhes da receita original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
+No cabeçalho desta tela, você encontra algumas opções:
 
 ![detalhes_receita.png](/renegociação/detalhes_receita.png)
 
@@ -98,14 +105,6 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 - Renegociar - faz um novo parcelamento dos valores pendentes;
 - Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - Atualizar - atualiza os dados após uma ação.
-
-
-
-
-![4_gerar_parcelas.png](/renegociação/4_gerar_parcelas.png)
-
-> No exemplo acima, foi escolhido um intervalo de 2 em 2 meses para os pagamentos da renegociação, o sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
-{.is-info}
 
 Após essas configurações, clique em gerar renegociação, no canto inferior direito. 
 
