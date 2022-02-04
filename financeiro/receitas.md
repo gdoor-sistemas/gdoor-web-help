@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T13:37:59.803Z
+date: 2022-02-04T14:19:33.076Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -69,13 +69,13 @@ Após preencher os campos mencionados acima, clique em “**salvar**”.
 
 Ao efetuar um acordo financeiro com seu cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonando as parcelas antigas.
 
-Em receitas, selecione as parcelas desejadas, que podem ser selecionadas de duas formas:
+Em receitas, as parcelas desejada podem ser selecionadas de duas formas:
 
-- Clicando no checkbox ao lado do valor e marcando as parcelas que farão parte da renegociação
+- Clicando no ícone de "imagem" ao lado das informações da receita:
 
 ![1_renegociação.png](/renegociação/1_renegociação.png)
 
-- A outra opção é clicar no botão mdi-dots-vertical. Você pode clicar na primeira opção disponível: marcar e selecionar todas que você deseja. 
+- A outra opção é clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e clicar em **marcar** e selecionar todas que você deseja. 
 
 ![2_renegociação_web.jpg](/renegociação/2_renegociação_web.jpg)
 
