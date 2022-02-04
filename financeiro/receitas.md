@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T16:51:41.542Z
+date: 2022-02-04T17:06:00.259Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -81,10 +81,10 @@ Em receitas, as parcelas desejadas podem ser selecionadas de duas formas:
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-dots-vertical"></em>) e selecionar a opção **renegociar**.
 
-Nessa página você encontrará as informações das parcelas que constarão na negociação, como o vencimento de cada uma, a situação e o valor. 
-Ao lado do valor total do acordo, é possível incluir o plano de contas e centro de custos, assim o gerenciamento financeiro fica cada vez mais organizado. 
+Nesta tela você verá as informações das parcelas renegociadas, como o vencimento de cada uma, a situação e o valor. 
+Ao lado do valor total do acordo, é possível incluir o plano de contas e centro de custos.
 
-imagem 3
+imagem 3![3.jpg](/renegociação/renegociação/3.jpg)
 
 # Acessos
 
