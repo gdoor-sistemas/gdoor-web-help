@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T18:33:55.799Z
+date: 2022-02-04T19:00:51.645Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -85,7 +85,7 @@ Nesta tela você verá as informações das parcelas renegociadas, como o **docu
 
 Ao lado do **valor total da renegociação** e do **nº de parcelas**, é possível informar o **plano de contas** e **centro de custos**.
 
-![3.jpg](/renegociação/3.jpg)![3.jpg](/renegociação/3.jpg)
+![3.jpg](/renegociação/3.jpg)
 
 Clicando no botão (<em class="mdi mdi-launch"></em>) você verá os detalhes da receita original como **data de emissão**, **vencimento da parcela**, **dia do cancelamento** e **informações gerais do cliente**.
 
@@ -99,8 +99,37 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 - Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - Atualizar - atualiza os dados após uma ação.
 
-NOTA - No exemplo abaixo, a renegociação teve intervalo de 2 em 2 meses, o sistema gera automático para as datas escolhidas, mas esses campos são editáveis.
+> No exemplo abaixo, foi escolhido um intervalo de 2 em 2 meses para os pagamentos da renegociação, o sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
+{.is-info}
 
+![4_gerar_parcelas.png](/renegociação/4_gerar_parcelas.png)
+
+Após essas configurações, clique em gerar renegociação, no canto inferior direito. 
+
+
+
+Na listagem inicial podemos ver todas as entradas finalizadas e futuras, de acordo com o status. 
+As parcelas provenientes de uma renegociação, aparecem como pendentes e clicando em cima é possível visualizar as parcelas vinculadas ao acordo, onde é exibido um detalhamento das parcelas novas e antigas
+
+FOTO 07 DETALHAMENTO RENEGOCIAÇÃO 
+
+ Ao clicar nos três pontinhos ao lado do status da parcela, podemos executar algumas ações:
+
+Marcar: Seleciona uma ou mais parcelas
+Ver detalhes: Será exibido detalhes da receita
+
+
+Editar: Ao editar a receita, você pode marcar como recebida. Nesse caso pode incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação. 
+
+Receber: Ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo Recebido, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais. Mais abaixo, tem a opção de definir a conta, ou seja, para onde esse valor será registrado. 
+
+FOTO 06 RECEBER PARCELA
+
+Renegociar: Você pode renegociar os valores que constam pendentes. Tanto no módulo de Receitas quanto no módulo Despesas
+
+Excluir: Ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas
+
+Abandonar: Ao abandonar uma parcela, esta ficará inativada, mas poderá ser quitada ou excluída posteriormente. Utilizamos esse recurso, quando a parcela já está a bastante tempo vencida e queremos tirar listagem de receitas pendentes.
 # Acessos
 
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
