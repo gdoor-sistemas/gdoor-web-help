@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T19:51:17.292Z
+date: 2022-02-04T19:52:18.610Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -96,7 +96,7 @@ No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, a
 ![parcelamento.png](/renegociação/parcelamento.png)
 
 Para ver os detalhes da receita original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
-No cabeçalho desta tela, você encontra algumas opções:
+No cabeçalho dos detalhes da receita, você encontra algumas opções:
 
 ![detalhes_receita.png](/renegociação/detalhes_receita.png)
 
