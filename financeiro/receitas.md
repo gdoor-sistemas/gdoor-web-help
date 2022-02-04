@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T19:52:18.610Z
+date: 2022-02-04T19:53:52.414Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -67,7 +67,7 @@ Após preencher os campos mencionados acima, clique em “**salvar**”.
 
 # Renegociação de parcelas
 
-Ao efetuar um renegociação financeira com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
+Ao efetuar uma renegociação financeira com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
 
 Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
 
