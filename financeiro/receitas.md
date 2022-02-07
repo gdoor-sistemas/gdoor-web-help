@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T20:06:27.297Z
+date: 2022-02-07T20:47:05.890Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -178,11 +178,11 @@ Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
 
 - Clicando no ícone de "imagem" ao lado das informações da receita:
 
-![Marcar parcelas](/renegociação/1_renegociação.png)
+![marcar parcelas](/renegociação/1_renegociação.png)
 
 - Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você desejar:
 
-![Marcar parcelas](/renegociação/2_renegociação_web.jpg)
+![marcar parcelas](/renegociação/2_renegociação_web.jpg)
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
 
@@ -205,11 +205,11 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 
 ![detalhes da receita](/renegociação/detalhes_receita.png)
 
-- Editar - edita todos os dados dessa receita;
-- Receber - efetiva o recebimento dessa parcela;
-- Renegociar - faz um novo parcelamento dos valores pendentes;
-- Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
-- Atualizar - atualiza os dados após uma ação.
+- **Editar** - edita todos os dados dessa receita;
+- **Receber** - efetiva o recebimento dessa parcela;
+- **Renegociar** - faz um novo parcelamento dos valores pendentes;
+- **Excluir** - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
+- **Atualizar** - atualiza os dados após uma ação.
 
 Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
 
