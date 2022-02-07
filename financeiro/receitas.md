@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:23:01.833Z
+date: 2022-02-07T17:32:30.814Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -29,10 +29,8 @@ Nos dados da receita, temos por padrão as seguintes informações:
 - **Valor**: quantia que entrará na conta;
 - **Emissão**: data em que a receita foi cadastrada;
 - **Vencimento**: data de vencimento da receita.
-
-> Atenção!
-Ao marcar o **checkbox** “**recebida**” localizado ao lado do valor, indica que a receita está paga. 
-{.is-warning}
+- **Recebida**: ao marcar o **checkbox** “**recebida**” localizado ao lado do valor, indica que a receita está **paga**. 
+- **Parcelamento**: ao marcar o **checkbox** “**parcelamento**”,  a aba para **parcelamento da conta** será exibida. Nela será possível **parcelar valor** ou **repetir valor**, além de informar o **nº de parcelas**, **intervalo** e **período** da receita.
 
 ![parcelamento](/receitas/parcelamento.png)
 
