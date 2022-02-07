@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:48:18.159Z
+date: 2022-02-07T19:49:56.135Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -116,7 +116,7 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as aç
 - **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 - **Renegociar**: você pode renegociar os valores que constam pendentes. 
-- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la.
 - **Abandonar**: ao abandonar uma parcela, esta ficará inativa, mas poderá ser quitada ou excluída posteriormente. Utilizamos esse recurso, quando a parcela já está a bastante tempo vencida e queremos tirar listagem de receitas pendentes.
 
 ### Vence hoje
@@ -126,7 +126,7 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as aç
 - **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 - **Renegociar**: você pode renegociar os valores que constam pendentes.
-- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la.
 
 ### Pendente
 
@@ -135,7 +135,7 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as aç
 - **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 - **Renegociar**: você pode renegociar os valores que constam pendentes. 
-- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la.
 
 ### Recebida
 
@@ -160,7 +160,7 @@ Ficarão com status **devolvida**, parcelas devolvidas **manualmente**.
 - **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 - **Renegociar**: você pode renegociar os valores que constam pendentes.
-- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la.
 
 ### Excluída
 
