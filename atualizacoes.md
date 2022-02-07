@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-07T12:09:54.967Z
+date: 2022-02-07T17:41:37.460Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 07/02/2022
-b2.7.4, f1.17.3{.versions}
+b2.9.1, f1.19.0{.versions}
 
 ## Novidades
 - Criadas as funcionalidades **excluir**, **abandonar**, **estornar**, **renegociar** e **devolver** movimentações financeiras. 
@@ -40,6 +40,8 @@ b2.7.4, f1.17.3{.versions}
 - Ajustado o componente de pesquisa de CNPJ para apresentar mensagem quando há indisponibilidade para o cliente. Anteriormente a tela de pesquisa ficava em branco.
 
 - Ajustada a busca do estado do veículo na emissão da NF-e. Antes só era possível buscar estado pela lista de estados, agora está possibilitando digitar o estado para buscar na lista.
+
+- Ajustada geração da NF-e quanto à tag `indTot` para serviços, pois indica que eles não compões o total de produtos da NF-e. Estava ocasionando falha quando a NF-e era gerada sem produtos, apenas serviços.
 
 # 13/01/2022
 b2.7.1, f1.17.2{.versions}
