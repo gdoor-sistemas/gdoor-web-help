@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:32:30.814Z
+date: 2022-02-07T17:35:40.214Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -35,7 +35,6 @@ Nos dados da receita, temos por padrão as seguintes informações:
 ![parcelamento](/receitas/parcelamento.png)
 
 ## Dados da movimentação
-
 
 Ao marcar a receita como “**recebida**”, o campo para informar os “**dados da movimentação**” será exibido:
 
