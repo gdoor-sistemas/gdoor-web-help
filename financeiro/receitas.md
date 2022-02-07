@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:49:56.135Z
+date: 2022-02-07T19:57:51.956Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -20,7 +20,7 @@ Para adicionar uma nova receita, clique no botão de adição (<em class="mdi md
 
 Tela para cadastro da receita:
 
-![nova receita](/receitas/nova_receita.png)
+![nova_receita.png](/receitas/nova_receita.png)
 
 ## Dados da receita
 
