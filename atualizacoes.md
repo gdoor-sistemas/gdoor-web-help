@@ -2,11 +2,44 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-01-13T12:51:46.770Z
+date: 2022-02-07T12:09:54.967Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 07/02/2022
+b2.7.4, f1.17.3{.versions}
+
+## Novidades
+- Criadas as funcionalidades **excluir**, **abandonar**, **estornar**, **renegociar** e **devolver** movimentações financeiras. 
+
+- Acrescentadas as colunas **juros**, **taxas**, **descontos**, **acréscimos** e **total pago** nos relatórios "Contas a pagar" e "Contas a receber".
+
+- Implementada a soma automática dos valores de **juros**, **taxas**, **descontos** e **acréscimos** na efetivação da transação financeira. Agora, ao efetuar um pagamento ou recebimento, será calculado no total da transação os valores adicionais.
+
+- Criada a tag `<infAdProd></infAdProd>` no campo Observações do produto para informar descrições do produto que devem aparecer no DANFE. Agora o que estiver escrito entre meio essa tag aparecerá no documento. 
+
+- Possibilitado o cadastro de formas de pagamento com intervalo maior que 30 dias. Anteriormente caso o pagamento tivesse mais de 30 dias de intervalo só era possível informar o intervalo na NF-e.
+
+- Separado por pastas os XML de compras e vendas na exportação de base. Agora os movimentos exportados estarão divididos em pasta de compra e venda.
+
+## Ajustes
+- Ajustado erro na base de dados que ocorria ao utilizar um pagamento a vista e outro a prazo na NFC-e.
+
+- Ajustada a forma de pagamento a prazo com período mês para jogar a primeira parcela sempre para o mês seguinte. Antes a primeira parcela era gerada pro dia seguinte.
+
+- Removida a exclusão de compras processadas no sistema. Devido a inúmeros vínculos financeiros e de estoque que são criados ao processar uma compra, foi removida a possibilidade de excluir compras com essa situação.
+
+- Corrigido para utilizar a quantidade informada ao incluir um produto pela referência na NFC-e. Antes quando utilizado o * para informar a quantidade estava trazendo sempre 1.
+
+- Ajustado erro ao carregar os meios de pagamento da NF-e e NFC-e que ocorria ao alterar os pagamentos.
+
+- Ajustado o cálculo do desconto dos produtos com fator de conversão na importação de XML. Antes quando um produto tinha fator de conversão e desconto, em alguns casos o sistema estava deixando o valor do produto negativo e impossibilitando salvar a compra.
+
+- Ajustado o componente de pesquisa de CNPJ para apresentar mensagem quando há indisponibilidade para o cliente. Anteriormente a tela de pesquisa ficava em branco.
+
+- Ajustada a busca do estado do veículo na emissão da NF-e. Antes só era possível buscar estado pela lista de estados, agora está possibilitando digitar o estado para buscar na lista.
 
 # 13/01/2022
 b2.7.1, f1.17.2{.versions}
