@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:46:23.021Z
+date: 2022-02-07T19:47:20.248Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -193,7 +193,7 @@ Na tela seguinte você verá as informações das parcelas marcadas para renegoc
 O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
 No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
 
-![Renegocição](/renegociação/3_nova.png)
+![Renegociação](/renegociação/3_nova.png)
 
 > No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
 {.is-info}
