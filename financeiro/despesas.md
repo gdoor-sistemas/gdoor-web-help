@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:41:01.006Z
+date: 2022-02-07T20:41:46.234Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -112,6 +112,12 @@ Em despesas, as parcelas desejadas podem ser selecionadas de duas formas:
 - Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de marcar e selecionar todas as parcelas que você desejar:
 
 ![marcar parcelas](/despesas/marcar_parcelas_2.png)
+
+Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
+
+
+
+
 
 # Auxiliares
 
