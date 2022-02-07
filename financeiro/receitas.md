@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:29:28.926Z
+date: 2022-02-07T19:32:52.891Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -149,7 +149,8 @@ Opção para ordenar as receitas por “**nº documento**”, “**valor**”, �
 
 ## Status
 
-Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
+Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status: **vencida**, **vence hoje**, **pendente**, **recebida**, **devolvida**, **abandonada** e **excluída**. 
+Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
 
 ![capturar.png](/receitas/capturar.png)
 
