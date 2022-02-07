@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:41:01.145Z
+date: 2022-02-07T19:44:48.927Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -62,56 +62,6 @@ No campo “**centro de custos**” é possível incluir o centro de custos.
 É possível buscar entre as tags cadastradas ou criar uma nova, para isso basta digitar o nome e pressionar a tecla enter.
 
 Após preencher os campos mencionados acima, clique em “**salvar**”.
-
-# Renegociação de parcelas
-
-Ao efetuar uma renegociação financeira com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
-
-Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
-
-- Clicando no ícone de "imagem" ao lado das informações da receita:
-
-![Marcar parcelas](/renegociação/1_renegociação.png)
-
-- Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você desejar:
-
-![Marcar parcelas](/renegociação/2_renegociação_web.jpg)
-
-Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
-
-![Renegociar](/renegociação/selecionar.png)
-
-Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
-
-O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
-No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
-
-![Renegocição](/renegociação/3_nova.png)
-
-> No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
-{.is-info}
-
-![Parcelamento](/renegociação/parcelamento.png)
-
-Para ver os detalhes da receita original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
-No cabeçalho dos detalhes da receita, você encontra algumas opções:
-
-![Detalhes da receita](/renegociação/detalhes_receita.png)
-
-- Editar - edita todos os dados dessa receita;
-- Receber - efetiva o recebimento dessa parcela;
-- Renegociar - faz um novo parcelamento dos valores pendentes;
-- Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
-- Atualizar - atualiza os dados após uma ação.
-
-Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
-
-![Gerar renegociação](/renegociação/gerar_renegociação.png)
-
-Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. 
-As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
-
-![Detalhamento](/renegociação/7_detalhamento_renegociação.jpg) 
 
 # Acessos
 
@@ -219,6 +169,56 @@ Ficarão com status **excluída**, parcelas oriundas de **nota fiscal cancelada*
 - **Marcar**: seleciona uma ou mais parcelas.
 - **Ver detalhes**: será exibido detalhes da receita.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
+
+# Renegociação de parcelas
+
+Ao efetuar uma renegociação financeira com o cliente, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
+
+Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
+
+- Clicando no ícone de "imagem" ao lado das informações da receita:
+
+![Marcar parcelas](/renegociação/1_renegociação.png)
+
+- Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de **marcar** e selecionar todas as parcelas que você desejar:
+
+![Marcar parcelas](/renegociação/2_renegociação_web.jpg)
+
+Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
+
+![Renegociar](/renegociação/selecionar.png)
+
+Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
+
+O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
+No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
+
+![Renegocição](/renegociação/3_nova.png)
+
+> No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
+{.is-info}
+
+![Parcelamento](/renegociação/parcelamento.png)
+
+Para ver os detalhes da receita original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
+No cabeçalho dos detalhes da receita, você encontra algumas opções:
+
+![Detalhes da receita](/renegociação/detalhes_receita.png)
+
+- Editar - edita todos os dados dessa receita;
+- Receber - efetiva o recebimento dessa parcela;
+- Renegociar - faz um novo parcelamento dos valores pendentes;
+- Excluir - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
+- Atualizar - atualiza os dados após uma ação.
+
+Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
+
+![Gerar renegociação](/renegociação/gerar_renegociação.png)
+
+Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. 
+As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
+
+![Detalhamento](/renegociação/7_detalhamento_renegociação.jpg) 
 
 # Auxiliares
 
