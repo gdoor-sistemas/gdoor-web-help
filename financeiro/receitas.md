@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:53:50.206Z
+date: 2022-02-07T18:04:59.949Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -129,19 +129,6 @@ Na **listagem**, ao clicar sobre uma receita, os “**detalhes da despesa**” s
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
-## Status
-
-Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
-
-### Vencida
-
-- **Marcar**: seleciona uma ou mais parcelas
-- **Ver detalhes**: será exibido detalhes da receita
-- **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação 
-- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
-
-
-
 ### Busca
 
 Para localizar uma receita, digite no campo “**busca**” no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
@@ -159,6 +146,31 @@ Os filtros podem ser definidos como padrão para que sempre que você abrir a li
 Opção para ordenar as receitas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (receitas já recebidas). A opção selecionada aparecerá no topo da listagem.
 
 ![ordenar](/receitas/7_ordenar.png)
+
+## Status
+
+Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
+
+### Vencida
+
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da receita.
+- **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
+- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
+
+### A vencer
+
+* **Renegociar**: você pode renegociar os valores que constam pendentes. 
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+- **Abandonar**: ao abandonar uma parcela, esta ficará inativa, mas poderá ser quitada ou excluída posteriormente. Utilizamos esse recurso, quando a parcela já está a bastante tempo vencida e queremos tirar listagem de receitas pendentes.
+
+### Recebida
+
+- **Estornar**: ao estornar um recebimento, o valor voltará a ficar pendente. Importante lembrar que após esse processo a movimentação dessa parcela não poderá mais ser desfeita.
+- **Devolver**: essa opção traz a possibilidade de devolver um valor que já foi recebido. Após a devolução o status da parcela mudará e ficará como devolvida. Depois dessa alteração de status, você só poderá marcar, visualizar detalhes da movimentação e imprimir o recibo.
+- **Imprimir recibo**: será gerado o recibo de pagamento para impressão da parcela recebida.
+
+
 
 # Auxiliares
 
