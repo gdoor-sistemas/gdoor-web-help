@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:07:19.940Z
+date: 2022-02-07T20:09:36.080Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -96,6 +96,8 @@ Os filtros podem ser definidos como padrão para que sempre que você abrir a li
 Opção para ordenar as despesas por “**nº documento**”, “**valor**”, “**emissão**”, “**vencimento**” e “**finalizada**” (despesas já pagas). A opção selecionada aparecerá no topo da listagem.
 
 ![ordenar](/despesas/7_ordenar.png)
+
+## Status
 
 # Auxiliares
 
