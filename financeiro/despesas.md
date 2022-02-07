@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:04:36.304Z
+date: 2022-02-07T20:07:19.940Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -20,7 +20,7 @@ Para adicionar uma nova despesa, clique no botão de adição (<em class="mdi md
 
 Tela para cadastro da despesa:
 
-![nova_despesa.png](/despesas/nova_despesa.png)
+![nova despesa](/despesas/nova_despesa.png)
 
 ## Dados da despesa
 
@@ -31,9 +31,7 @@ Nos dados da despesa, temos por padrão as seguintes informações:
 - **Recebida**: ao marcar o **checkbox** “**paga**” localizado ao lado do valor, indica que a despesa está paga. 
 - **Parcelamento**: ao marcar o **checkbox “parcelamento”**, a aba para **parcelamento da despesa** será exibida. Nela será possível **parcelar valor** ou **repetir valor**, além de informar o **nº de parcelas**, **intervalo** e **período** de vencimento da despesa.
 
-> Atenção!
-
-{.is-warning}
+![parcelamento](/despesas/parcelamento.png)
 
 ## Dados da movimentação
 
