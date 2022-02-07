@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:48:38.986Z
+date: 2022-02-07T17:53:50.206Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -132,6 +132,13 @@ No cabeçalho há a opção de **paginação**, que permite escolher a quantidad
 ## Status
 
 Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
+
+### Vencida
+
+- **Marcar**: seleciona uma ou mais parcelas
+- **Ver detalhes**: será exibido detalhes da receita
+- **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação 
+- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 
 
 
