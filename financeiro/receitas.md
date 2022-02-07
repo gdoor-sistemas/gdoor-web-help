@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-04T20:37:01.688Z
+date: 2022-02-07T14:32:26.390Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -110,21 +110,10 @@ Após informar todos os dados, clique em gerar renegociação, no canto inferior
 
 ![gerar_renegociação.png](/renegociação/gerar_renegociação.png)
 
-## Listagem
-
 Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. 
-As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver  parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
+As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
 ![7_detalhamento_renegociação.jpg](/renegociação/7_detalhamento_renegociação.jpg) 
-
-Na listagem das receitas, ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) ao lado do status da parcela **vencida**, podemos executar algumas ações:
-
-- Marcar: Seleciona uma ou mais parcelas
-- Ver detalhes: Será exibido detalhes da receita
-- Editar: Ao editar a receita, você pode marcar como recebida. Nesse caso pode incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação. 
-- Receber: Ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo Recebido, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais. Mais abaixo, tem a opção de definir a conta, ou seja, para onde esse valor será registrado. 
-
-6 RECEBER PARCELA
 
 # Acessos
 
