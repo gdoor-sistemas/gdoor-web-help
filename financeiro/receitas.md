@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T18:04:59.949Z
+date: 2022-02-07T18:14:48.225Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -169,6 +169,16 @@ Na tela inicial das receitas podemos visualizar a listagem com todas as receitas
 - **Estornar**: ao estornar um recebimento, o valor voltará a ficar pendente. Importante lembrar que após esse processo a movimentação dessa parcela não poderá mais ser desfeita.
 - **Devolver**: essa opção traz a possibilidade de devolver um valor que já foi recebido. Após a devolução o status da parcela mudará e ficará como devolvida. Depois dessa alteração de status, você só poderá marcar, visualizar detalhes da movimentação e imprimir o recibo.
 - **Imprimir recibo**: será gerado o recibo de pagamento para impressão da parcela recebida.
+
+### Excluída
+
+Ficarão com status **excluída**, parcelas excluídas **manualmente** ou parcelas oriundas de nota fiscal **cancelada/devolvida**.
+As parcelas excluídas não aparecerão na listagem, para visualizá-las é necessário **filtrar** as parcelas com status de ”excluídas”.
+
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da receita.
+- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
+
 
 
 
