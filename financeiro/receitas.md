@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T20:53:26.625Z
+date: 2022-02-07T20:59:35.889Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -107,8 +107,6 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as aç
 
 > Parcelas com status "**excluídas**" e "**abandonadas**" não aparecerão na listagem, para visualizá-las é necessário **filtrar** as parcelas conforme o status desejado.
 {.is-warning}
-
-{.is-info}
 
 ### Vencida
 
