@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:48:06.991Z
+date: 2022-02-07T20:49:35.355Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -140,7 +140,12 @@ tela
 - **Excluir** - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - **Atualizar** - atualiza os dados após uma ação.
 
-Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
+Após informar todos os dados, clique em "**gerar renegociação**", no canto inferior direito. 
+
+tela
+
+Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status. 
+As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
 tela
 
