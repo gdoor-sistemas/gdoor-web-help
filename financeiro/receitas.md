@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T18:41:43.116Z
+date: 2022-02-07T18:42:40.332Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -160,6 +160,8 @@ Na tela inicial das receitas podemos visualizar a listagem com todas as receitas
 - **Renegociar**: você pode renegociar os valores que constam pendentes. 
 - **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
 - **Abandonar**: ao abandonar uma parcela, esta ficará inativa, mas poderá ser quitada ou excluída posteriormente. Utilizamos esse recurso, quando a parcela já está a bastante tempo vencida e queremos tirar listagem de receitas pendentes.
+
+### Abandonadas
 
 ### A vencer
 
