@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:35:40.214Z
+date: 2022-02-07T17:48:38.986Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -128,6 +128,12 @@ Na **listagem**, ao clicar sobre uma receita, os “**detalhes da despesa**” s
 ![detalhes da receita](/receitas/4_detalhes_da_receita.png)
 
 No cabeçalho há a opção de **paginação**, que permite escolher a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+
+## Status
+
+Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as ações dos menus ficarão disponíveis de acordo com o status dela:
+
+
 
 ### Busca
 
