@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:47:20.248Z
+date: 2022-02-07T19:48:18.159Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -186,24 +186,24 @@ Em **receitas**, as parcelas desejadas podem ser selecionadas de duas formas:
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
 
-![Renegociar](/renegociação/selecionar.png)
+![renegociar](/renegociação/selecionar.png)
 
 Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
 O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
 No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
 
-![Renegociação](/renegociação/3_nova.png)
+![renegociação](/renegociação/3_nova.png)
 
 > No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
 {.is-info}
 
-![Parcelamento](/renegociação/parcelamento.png)
+![parcelamento](/renegociação/parcelamento.png)
 
 Para ver os detalhes da receita original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
 No cabeçalho dos detalhes da receita, você encontra algumas opções:
 
-![Detalhes da receita](/renegociação/detalhes_receita.png)
+![detalhes da receita](/renegociação/detalhes_receita.png)
 
 - Editar - edita todos os dados dessa receita;
 - Receber - efetiva o recebimento dessa parcela;
@@ -213,12 +213,12 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 
 Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
 
-![Gerar renegociação](/renegociação/gerar_renegociação.png)
+![gerar renegociação](/renegociação/gerar_renegociação.png)
 
 Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. 
 As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
-![Detalhamento](/renegociação/7_detalhamento_renegociação.jpg) 
+![detalhamento](/renegociação/7_detalhamento_renegociação.jpg) 
 
 # Auxiliares
 
