@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:44:39.858Z
+date: 2022-02-07T20:48:06.991Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -121,6 +121,30 @@ Na tela seguinte você verá as informações das parcelas marcadas para renegoc
 
 O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
 No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
+
+tela
+
+> No exemplo acima, foi escolhido um intervalo de **2 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
+{.is-info}
+
+tela
+
+Para ver os detalhes da despesa original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
+No cabeçalho dos detalhes da despesa, você encontra algumas opções:
+
+tela
+
+- **Editar** - edita todos os dados dessa despesa;
+- **Receber** - efetiva o recebimento dessa parcela;
+- **Renegociar** - faz um novo parcelamento dos valores pendentes;
+- **Excluir** - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
+- **Atualizar** - atualiza os dados após uma ação.
+
+Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
+
+tela
+
+
 
 # Auxiliares
 
