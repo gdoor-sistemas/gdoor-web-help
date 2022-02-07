@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T20:47:05.890Z
+date: 2022-02-07T20:49:22.369Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -211,7 +211,7 @@ No cabeçalho dos detalhes da receita, você encontra algumas opções:
 - **Excluir** - as parcelas serão excluídas e não poderão mais ter movimentação. Aparecerão somente se filtrar as parcelas com status de ‘excluídas’;
 - **Atualizar** - atualiza os dados após uma ação.
 
-Após informar todos os dados, clique em gerar renegociação, no canto inferior direito. 
+Após informar todos os dados, clique em **gerar renegociação**, no canto inferior direito. 
 
 ![gerar renegociação](/renegociação/gerar_renegociação.png)
 
