@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:49:35.355Z
+date: 2022-02-07T20:58:41.485Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -99,6 +99,27 @@ Opção para ordenar as despesas por “**nº documento**”, “**valor**”, �
 
 ## Status
 
+Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status: **vencida**, **vence hoje**, **pendente**, **recebida**, **devolvida**, **abandonada** e **excluída**. 
+
+Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da despesa, as ações dos menus ficarão disponíveis de acordo com o status dela:
+
+tela
+
+> Parcelas com status "**excluídas**" e "**abandonadas**" não aparecerão na listagem, para visualizá-las é necessário **filtrar** as parcelas conforme o status desejado.
+{.is-warning}
+
+### Vencida
+
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da despesa.
+- **Editar**: edita as informações da parcela.
+- **Pagar**: você quita essa parcela, podendo escolher data, valor, acrescentar taxas e juros e definir a conta (de qual banco ou lugar, foi debitado esse valor).
+- **Renegociar**: temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
+- **Excluir**: ao excluir a despesa, não há mais possibilidade de movimentá-la.
+- **Abandonar**: a parcela ficará inativa, mas poderá ser quitada ou excluída posteriormente. 
+
+### Vence hoje
+
 # Renegociação de parcelas
 
 Ao efetuar uma renegociação financeira com o fornecedor, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
@@ -142,14 +163,12 @@ tela
 
 Após informar todos os dados, clique em "**gerar renegociação**", no canto inferior direito. 
 
-tela
+tela gerar
 
 Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status. 
 As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
-tela
-
-
+tela detalhes
 
 # Auxiliares
 
