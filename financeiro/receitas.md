@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T14:33:43.680Z
+date: 2022-02-07T14:34:29.354Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -113,7 +113,7 @@ Após informar todos os dados, clique em gerar renegociação, no canto inferior
 Na tela inicial das receitas podemos visualizar a listagem com todas as receitas e seus respectivos status. 
 As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
-![7_detalhamento_renegociação.jpg](detalhamento) 
+![Detalhamento](/renegociação/7_detalhamento_renegociação.jpg) 
 
 # Acessos
 
