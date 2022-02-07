@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T18:14:48.225Z
+date: 2022-02-07T18:19:42.321Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -179,7 +179,14 @@ As parcelas excluídas não aparecerão na listagem, para visualizá-las é nece
 - **Ver detalhes**: será exibido detalhes da receita.
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 
+### Vence hoje
 
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da receita.
+- **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
+- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
+- **Renegociar**: você pode renegociar os valores que constam pendentes.
+- **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
 
 
 # Auxiliares
