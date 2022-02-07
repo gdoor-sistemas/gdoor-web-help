@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:19:16.901Z
+date: 2022-02-07T17:20:02.320Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
