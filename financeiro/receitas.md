@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T18:33:06.520Z
+date: 2022-02-07T18:37:10.441Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -161,15 +161,20 @@ Na tela inicial das receitas podemos visualizar a listagem com todas as receitas
 
 ### A vencer
 
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da receita.
+- **Editar**: ao editar a receita, você pode marcar como recebida, incluir os dados da movimentação, como a conta destino do valor, a espécie de pagamento e caso deseje descrever a movimentação.
+- **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 * **Renegociar**: você pode renegociar os valores que constam pendentes. 
 - **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
 
-
 ### Recebida
 
-- **Estornar**: ao estornar um recebimento, o valor voltará a ficar pendente. Importante lembrar que após esse processo a movimentação dessa parcela não poderá mais ser desfeita.
-- **Devolver**: essa opção traz a possibilidade de devolver um valor que já foi recebido. Após a devolução o status da parcela mudará e ficará como devolvida. Depois dessa alteração de status, você só poderá marcar, visualizar detalhes da movimentação e imprimir o recibo.
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da receita.
 - **Imprimir recibo**: será gerado o recibo de pagamento para impressão da parcela recebida.
+- **Devolver**: essa opção traz a possibilidade de devolver um valor que já foi recebido. Após a devolução o status da parcela mudará e ficará como devolvida. Depois dessa alteração de status, você só poderá marcar, visualizar detalhes da movimentação e imprimir o recibo.
+- **Estornar**: ao estornar um recebimento, o valor voltará a ficar pendente. Importante lembrar que após esse processo a movimentação dessa parcela não poderá mais ser desfeita.
 
 ### Excluída
 
@@ -188,6 +193,8 @@ As parcelas excluídas não aparecerão na listagem, para visualizá-las é nece
 - **Receber**: ao efetivar o recebimento da receita, você define a data do recebimento, taxas, juros e acréscimos. A espécie de recebimento também é uma opção para ser incluída. Já no campo **recebido**, você escolhe o valor que deu entrada, com esse procedimento você pode receber valores parciais, e a opção definir conta, para onde esse valor será registrado.
 - **Renegociar**: você pode renegociar os valores que constam pendentes.
 - **Excluir**: ao excluir a receita, não há mais possibilidade de movimentá-la. Para visualizar as parcelas excluídas, é necessário realizar um filtro de parcelas com status: excluídas.
+
+
 
 
 # Auxiliares
