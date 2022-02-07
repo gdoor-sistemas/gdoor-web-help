@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:58:41.485Z
+date: 2022-02-07T21:00:15.090Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -114,7 +114,7 @@ tela
 - **Ver detalhes**: será exibido detalhes da despesa.
 - **Editar**: edita as informações da parcela.
 - **Pagar**: você quita essa parcela, podendo escolher data, valor, acrescentar taxas e juros e definir a conta (de qual banco ou lugar, foi debitado esse valor).
-- **Renegociar**: temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
+- **Renegociar**: possibilidade de efetuar um parcelamento de todos os valores pendentes ou vencendo hoje.
 - **Excluir**: ao excluir a despesa, não há mais possibilidade de movimentá-la.
 - **Abandonar**: a parcela ficará inativa, mas poderá ser quitada ou excluída posteriormente. 
 
