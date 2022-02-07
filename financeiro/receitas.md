@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T19:37:26.601Z
+date: 2022-02-07T19:41:01.145Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -197,7 +197,7 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da receita, as aç
 
 ### Devolvida
 
-Ficarão com status **devolvida**, parcelas oriundas de **nota fiscal cancelada**.
+Ficarão com status **devolvida**, parcelas devolvidas **manualmente**.
 
 - **Marcar**: seleciona uma ou mais parcelas.
 - **Ver detalhes**: será exibido detalhes da receita.
@@ -214,7 +214,7 @@ Ficarão com status **devolvida**, parcelas oriundas de **nota fiscal cancelada*
 
 ### Excluída
 
-Ficarão com status **excluída**, parcelas oriundas de **nota fiscal cancelada**.
+Ficarão com status **excluída**, parcelas oriundas de **nota fiscal cancelada** ou **exclusão de parcela manual**.
 
 - **Marcar**: seleciona uma ou mais parcelas.
 - **Ver detalhes**: será exibido detalhes da receita.
