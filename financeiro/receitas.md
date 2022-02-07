@@ -2,7 +2,7 @@
 title: Receitas
 description: 
 published: true
-date: 2022-02-07T17:20:02.320Z
+date: 2022-02-07T17:23:01.833Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -34,6 +34,7 @@ Nos dados da receita, temos por padrão as seguintes informações:
 Ao marcar o **checkbox** “**recebida**” localizado ao lado do valor, indica que a receita está paga. 
 {.is-warning}
 
+![parcelamento](/receitas/parcelamento.png)
 
 ## Dados da movimentação
 
