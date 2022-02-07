@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:41:46.234Z
+date: 2022-02-07T20:44:39.858Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -115,9 +115,12 @@ Em despesas, as parcelas desejadas podem ser selecionadas de duas formas:
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
 
+![renegociar.png](/despesas/renegociar.png)
 
+Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
-
+O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
+No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
 
 # Auxiliares
 
