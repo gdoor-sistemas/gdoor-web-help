@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-07T20:09:36.080Z
+date: 2022-02-07T20:41:01.006Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -98,6 +98,20 @@ Opção para ordenar as despesas por “**nº documento**”, “**valor**”, �
 ![ordenar](/despesas/7_ordenar.png)
 
 ## Status
+
+# Renegociação de parcelas
+
+Ao efetuar uma renegociação financeira com o fornecedor, você tem a facilidade do gerenciamento do módulo financeiro para gerar as novas parcelas referentes a renegociação e abandonar as parcelas antigas.
+
+Em despesas, as parcelas desejadas podem ser selecionadas de duas formas:
+
+- Clicando no ícone de "imagem" ao lado das informações da despesa:
+
+![marcar parcelas](/despesas/marcar_parcelas.png)
+
+- Ou clicar no botão (<em class="mdi mdi-dots-vertical"></em>), seguido de marcar e selecionar todas as parcelas que você desejar:
+
+![marcar parcelas](/despesas/marcar_parcelas_2.png)
 
 # Auxiliares
 
