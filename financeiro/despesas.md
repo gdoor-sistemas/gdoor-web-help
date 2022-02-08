@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-08T11:33:43.008Z
+date: 2022-02-08T11:34:25.623Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -136,24 +136,24 @@ Em despesas, as parcelas desejadas podem ser selecionadas de duas formas:
 
 Depois de selecionar as parcelas para renegociar, basta clicar no botão (<em class="mdi mdi-sync"></em>) **renegociar** localizado no menu superior.
 
-![renegociar.png](/despesas/renegociar.png)
+![renegociar](/despesas/renegociar.png)
 
 Na tela seguinte você verá as informações das parcelas marcadas para renegociação, como o **documento**, **vencimento**, **situação** e os **valores**. 
 
 O sistema somará os valores das parcelas indicadas e trará o **valor total da renegociação** que pode ser editado. 
 No campo abaixo informe o **nº de parcelas** desejadas para a renegociação, ao lado é possível informar o **plano de contas** e **centro de custos**.
 
-![renegociação.png](/despesas/renegociação.png)
+![renegociação](/despesas/renegociação.png)
 
 > No exemplo acima, foi escolhido um intervalo de **3 meses** para os pagamentos da renegociação. O sistema gera os vencimentos  automaticamente, mas eles podem ser editados.
 {.is-info}
 
-![parcelamento.png](/despesas/parcelamento.png)
+![parcelamento](/despesas/parcelamento.png)
 
 Para ver os detalhes da despesa original, basta clicar no botão (<em class="mdi mdi-launch"></em>) ao lado de cada parcela.
 No cabeçalho dos detalhes da despesa, você encontra algumas opções:
 
-![detalhes_da_despesa.png](/despesas/detalhes_da_despesa.png)
+![detalhes da despesa](/despesas/detalhes_da_despesa.png)
 
 - **Editar** - edita todos os dados dessa despesa;
 - **Receber** - efetiva o recebimento dessa parcela;
@@ -163,12 +163,12 @@ No cabeçalho dos detalhes da despesa, você encontra algumas opções:
 
 Após informar todos os dados, clique em "**gerar renegociação**", no canto inferior direito. 
 
-![gerar_renegociação.png](/despesas/gerar_renegociação.png)
+![gerar renegociação](/despesas/gerar_renegociação.png)
 
 Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status. 
 As parcelas provenientes de uma renegociação, aparecem com status de **pendentes**. Ao clicar em uma delas, seguido de "**ver parcelas vinculadas**" será exibido o **detalhamento** da renegociação, com as parcelas novas e antigas.
 
-![detalhamento.png](/despesas/detalhamento.png)
+![detalhamento](/despesas/detalhamento.png)
 
 # Auxiliares
 
