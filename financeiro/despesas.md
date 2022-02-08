@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-08T11:34:25.623Z
+date: 2022-02-08T11:40:30.830Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -99,7 +99,7 @@ Opção para ordenar as despesas por “**nº documento**”, “**valor**”, �
 
 ## Status
 
-Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status: **vencida**, **vence hoje**, **pendente**, **recebida**, **devolvida**, **abandonada** e **excluída**. 
+Na tela inicial das despesas podemos visualizar a listagem com todas as despesas e seus respectivos status: **vencida**, **vence hoje**, **pendente**, **paga**, **devolvida**, **abandonada** e **excluída**. 
 
 Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da despesa, as ações dos menus ficarão disponíveis de acordo com o status dela:
 
@@ -119,6 +119,33 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da despesa, as aç
 - **Abandonar**: a parcela ficará inativa, mas poderá ser quitada ou excluída posteriormente. 
 
 ### Vence hoje
+
+- **Marcar:** seleciona uma ou mais parcelas.
+- **Ver detalhes:** será exibido detalhes da despesa.
+- **Editar:** ao editar a despesa, você pode marcar como paga, incluir os dados da movimentação, como a conta origem do valor, a espécie de pagamento e caso deseje, descrever a movimentação.
+- **Pagar:** ao efetivar o pagamento da despesa, você define a data do pagamento, taxas, juros, acréscimos e a forma de pagamento, além de definir de onde o valor foi debitado.
+- **Renegociar:** você pode renegociar as despesas que constam pendentes.
+- **Excluir:** ao excluir a despesa, não há mais possibilidade de movimentá-la. 
+
+### Pendente
+
+- **Marcar:**  seleciona uma ou mais parcelas.
+- **Ver detalhes:**  mostra todos os detalhes da despesa.
+- **Editar:**  edita as informações da parcela.
+- **Pagar:** você quita essa parcela, podendo escolher data, valor, acrescentar taxas e juros e definir a conta (de qual banco ou lugar, foi debitado esse valor).
+- ** Renegociar:**  temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
+- **Excluir:** ao excluir, você não poderá mais recuperar essa parcela. Ela só aparece na listagem de filtros, como excluída.
+
+### Paga
+
+- **Marcar:** seleciona uma ou mais parcelas.
+- **Ver detalhes:** mostra todos os detalhes da despesa e dados do respectivo pagamento
+- **Devolver:** pode ocorrer a devolução de um pagamento já efetuado.
+- **Estonar:** a movimentação do pagamento será estornada e a parcela voltará ao seu status original.
+
+
+
+
 
 # Renegociação de parcelas
 
