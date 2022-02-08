@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no GDOOR WEB
 published: true
-date: 2022-02-08T11:40:30.830Z
+date: 2022-02-08T11:46:06.352Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -133,7 +133,7 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da despesa, as aç
 - **Ver detalhes:**  mostra todos os detalhes da despesa.
 - **Editar:**  edita as informações da parcela.
 - **Pagar:** você quita essa parcela, podendo escolher data, valor, acrescentar taxas e juros e definir a conta (de qual banco ou lugar, foi debitado esse valor).
-- ** Renegociar:**  temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
+- **Renegociar:**  temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
 - **Excluir:** ao excluir, você não poderá mais recuperar essa parcela. Ela só aparece na listagem de filtros, como excluída.
 
 ### Paga
@@ -143,8 +143,21 @@ Ao clicar no botão (<em class="mdi mdi-dots-vertical"></em>) da despesa, as aç
 - **Devolver:** pode ocorrer a devolução de um pagamento já efetuado.
 - **Estonar:** a movimentação do pagamento será estornada e a parcela voltará ao seu status original.
 
+### Devolvida
 
+Ficarão com status devolvida, pagamentos devolvidos manualmente.
 
+- **Marcar:** seleciona uma ou mais parcelas.
+- **Ver detalhes:** mostra todos os detalhes da despesa devolvida, inclusive as parcelas que estão vinculadas à devolução e ao pagamento anterior.
+
+### Abandonada
+
+- **Marcar**: seleciona uma ou mais parcelas.
+- **Ver detalhes**: será exibido detalhes da despesa.
+- **Editar**: editar a despesa.
+- **Pagar**: você quita essa parcela, podendo escolher data, valor, acrescentar taxas e juros e definir a conta (de qual banco ou lugar, foi debitado esse valor).
+- **Renegociar**: temos a possibilidade de efetuar um novo parcelamento de todos os valores pendentes ou vencendo hoje.
+- **Excluir**: ao excluir, você não poderá mais recuperar essa parcela. Ela só aparece na listagem de filtros, como excluída.
 
 
 # Renegociação de parcelas
