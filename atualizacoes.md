@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-24T13:31:17.086Z
+date: 2022-02-24T13:31:49.157Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,7 +23,7 @@ b2.10.0, f2.20.1{.versions}
 
 - Ajustado o cálculo do valor de parcelas quando alterado manualmente o valor de uma parcela. Em alguns casos, estava gerando uma parcela negativa.
 
-- Alterado o texto de statua da transação financeira de "Pendente" para "A vencer", dessa forma o status fica mais claro.
+- Alterado o texto de status da transação financeira de "Pendente" para "A vencer", dessa forma o status fica mais claro.
 
 - Corrigida a edição das "Despesas" e "Receitas" para permitir remover "Plano de contas" e "Centro de custos".
 
