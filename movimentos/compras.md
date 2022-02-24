@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-24T20:12:57.393Z
+date: 2022-02-24T20:17:27.196Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -50,30 +50,50 @@ Clique no botão  (<em class="mdi mdi-refresh"></em>) para que as opções de a�
 imagem 4 VAI MUDAR
 
 Será possível:
-**Marcar**, podendo selecionar até 50 notas para manifestar juntamente;
-**Copiar chave de acesso** da nota em questão;
-**Manifestar-se**, a tela para informar o evento será aberta;
-**Download do XML** para baixar o arquivo;
-**Importar XML** para a nota de compra;
-**Consultar SEFAZ**, será direcionado para o site para verificação;
-**Ignorar NF-e**
-**Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
-##Eventos
-###Confirmação da Operação
+- **Marcar**, podendo selecionar até 50 notas para manifestar juntamente;
+- **Copiar chave de acesso** da nota em questão;
+- **Manifestar-se**, a tela para informar o evento será aberta;
+- **Download do XML** para baixar o arquivo;
+- **Importar XML** para a nota de compra;
+- **Consultar SEFAZ**, será direcionado para o site para verificação;
+- **Ignorar NF-e**
+- **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
+
+## Eventos
+
+São quatro eventos:
+
+### Confirmação da Operação
+
 Confirma a operação e o recebimento da mercadoria (para as operações com circulação de mercadoria).
+
 Caso ocorra devolução total ou parcial das mercadorias, além da Nota Fiscal de devolução, poderá ser efetuado o evento de “Confirmação da Operação”, possibilitando assim, a empresa efetuar o download da NF-e conforme especificado no “Serviço de Download da NF-e Confirmada”.
-Observação: após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
-###Desconhecimento da Operação
+
+> Após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
+{.is-success}
+
+
+### Desconhecimento da Operação
+
 Tem como finalidade possibilitar ao destinatário se manifestar quanto a utilização indevida de sua Inscrição Estadual, por parte do emitente da NF-e, para acobertar operações fraudulentas de remessas de mercadorias para destinatário diverso. Este evento protege o destinatário de passivos tributários envolvendo o uso indevido de sua Inscrição Estadual/CNPJ.
-###Operação não Realizada
+
+### Operação não Realizada
+
 Este evento será informado pelo destinatário, quando por algum motivo, a operação legalmente acordada entre as partes não se realizou (devolução sem entrada física da mercadoria no estabelecimento do destinatário, sinistro da carga durante seu transporte entre outros).
-###Ciência da Operação
+
+### Ciência da Operação
+
 Registra na NF-e a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido que o destinatário efetue o download do arquivo XML.
 Este evento não representa a manifestação do destinatário sobre a operação, tem como finalidade a obtenção do arquivo XML. Ele registra na NF-e que o destinatário tem conhecimento que o documento foi emitido, mas ainda não expressou uma manifestação conclusiva para a operação.
-##Manifestar-se
+
+## Manifestar-se
+
 Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, informe a operação e clique em “**confirmar**”.
  
+
+
+
 
 
 # Importar XML
