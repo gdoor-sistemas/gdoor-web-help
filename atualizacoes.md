@@ -2,11 +2,36 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-07T17:41:37.460Z
+date: 2022-02-24T13:20:21.101Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 24/02/2022
+b2.10.0, f2.20.1{.versions}
+
+## Novidades
+- Implentado o recebimento de PIX via QRCode. Agora é possível cadastrar os dados necessários para o pix na conta financeira, vincular a uma forma de pagamento e dessa forma gerar um QRCode ao finalizar uma compra com PIX.
+
+- Implemtnada a exportação de dados do financeiro.
+
+- Alterada a mensagem gerada pelo sistema quando não há contas disponíveis pala login. Anteriormente, apresentava a mensagem "Não informada conta para login" e a partir de agora será apresentada a mensagem "Não foi encontrada uma conta ativa para este usuário".
+
+## Ajustes
+- Ajustada a NFC-e para permitir efetuar notas com serviços. Antes ao fazer uma nota com serviço ocorria a rejeição 774. 
+
+- Ajustada a criação de usuários com e-mails repetidos.
+
+- Ajustado o cálculo do valor de parcelas quando alterado manualmente o valor de uma parcela. Em alguns casos, estava gerando uma parcela negativa.
+
+- Alterado o texto de statua da transação financeira de "Pendente" para "A vencer", dessa forma o status fica mais claro.
+
+- Corrigida a edição das "Despesas" e "Receitas" para permitir remover "Plano de contas" e "Centro de custos".
+
+- Melhorada a apresentação dos arquivos ao carregar certificado digital. Agora serão apresentados somente arquivos .pfx (extensão dos certficados).
+
+- Ajustada a transmissão de notas com valor **zero**. Anteriormente ao transmitir nota com valor zero, estava gerando financeiro e ocorria um erro.
 
 # 07/02/2022
 b2.9.1, f1.19.0{.versions}
