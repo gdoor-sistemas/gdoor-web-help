@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-24T13:32:11.665Z
+date: 2022-02-24T13:32:46.220Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -29,7 +29,7 @@ b2.10.0, f2.20.1{.versions}
 
 - Melhorada a apresentação dos arquivos ao carregar certificado digital. Agora serão apresentados somente arquivos .pfx (extensão dos certificados).
 
-- Alterada a mensagem gerada pelo sistema quando não há contas disponíveis pala login. Anteriormente, apresentava a mensagem "Não informada conta para login" e a partir de agora será apresentada a mensagem "Não foi encontrada uma conta ativa para este usuário".
+- Alterada a mensagem gerada pelo sistema quando não há contas disponíveis para login. Anteriormente, apresentava a mensagem "Não informada conta para login" e a partir de agora será apresentada a mensagem "Não foi encontrada uma conta ativa para este usuário".
 
 - Ajustada a transmissão de notas com valor **zero**. Anteriormente ao transmitir nota com valor zero, estava gerando financeiro e ocorria um erro.
 
