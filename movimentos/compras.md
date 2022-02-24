@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-24T20:21:37.065Z
+date: 2022-02-24T20:25:26.711Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -57,7 +57,7 @@ Será possível:
 - **Download do XML** para baixar o arquivo;
 - **Importar XML** para a nota de compra;
 - **Consultar SEFAZ**, será direcionado para o site para verificação;
-- **Ignorar NF-e**
+- **Ignorar NF-e** retira da lista uma nota que não deseja importar;
 - **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
 ## Eventos
