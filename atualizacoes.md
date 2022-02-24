@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-24T13:23:52.749Z
+date: 2022-02-24T13:25:19.691Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -16,10 +16,6 @@ b2.10.0, f2.20.1{.versions}
 
 - Implemtnada a exportação de dados do financeiro.
 
-- Alterada a mensagem gerada pelo sistema quando não há contas disponíveis pala login. Anteriormente, apresentava a mensagem "Não informada conta para login" e a partir de agora será apresentada a mensagem "Não foi encontrada uma conta ativa para este usuário".
-
-- Ajustada a transmissão de notas com valor **zero**. Anteriormente ao transmitir nota com valor zero, estava gerando financeiro e ocorria um erro.
-
 ## Ajustes
 - Ajustada a NFC-e para permitir efetuar notas com serviços. Antes ao fazer uma nota com serviço ocorria a rejeição 774. 
 
@@ -32,6 +28,10 @@ b2.10.0, f2.20.1{.versions}
 - Corrigida a edição das "Despesas" e "Receitas" para permitir remover "Plano de contas" e "Centro de custos".
 
 - Melhorada a apresentação dos arquivos ao carregar certificado digital. Agora serão apresentados somente arquivos .pfx (extensão dos certficados).
+
+- Alterada a mensagem gerada pelo sistema quando não há contas disponíveis pala login. Anteriormente, apresentava a mensagem "Não informada conta para login" e a partir de agora será apresentada a mensagem "Não foi encontrada uma conta ativa para este usuário".
+
+- Ajustada a transmissão de notas com valor **zero**. Anteriormente ao transmitir nota com valor zero, estava gerando financeiro e ocorria um erro.
 
 # 07/02/2022
 b2.9.1, f1.19.0{.versions}
