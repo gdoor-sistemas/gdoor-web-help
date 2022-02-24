@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-02-24T13:27:38.434Z
+date: 2022-02-24T13:31:17.086Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 b2.10.0, f2.20.1{.versions}
 
 ## Novidades
-- Implentado o recebimento de PIX via QRCode. Agora é possível cadastrar os dados necessários para o pix na conta financeira, vincular a uma forma de pagamento e dessa forma gerar um QRCode ao finalizar uma compra com PIX.
+- Implementado o recebimento de PIX via QRCode. Agora é possível cadastrar os dados necessários para o pix na conta financeira, vincular a uma forma de pagamento e dessa forma gerar um QRCode ao finalizar uma compra com PIX.
 
-- Implemtnada a exportação de dados do financeiro.
+- Implementada a exportação de dados do financeiro.
 
 ## Ajustes
 - Ajustada a NFC-e para permitir efetuar notas com serviços. Antes ao fazer uma nota com serviço ocorria a rejeição 774. 
