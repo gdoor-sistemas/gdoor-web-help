@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T19:45:51.086Z
+date: 2022-02-25T19:52:11.581Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -62,13 +62,13 @@ Será possível:
 - <em class="mdi mdi-cancel"></em> **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
 - <em class="mdi mdi-printer"></em> **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
-Para visualizar apenas dados pertinentes ao que você precisa, é possível efetuar uma **busca**, (<em class="mdi mdi-filter"></em>) **filtrar** e (<em class="mdi mdi-sort"></em>) **ordenar** as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
+Para visualizar apenas dados pertinentes ao que você necessita, é possível efetuar uma **busca**, **filtrar** (<em class="mdi mdi-filter"></em>) e **ordenar** (<em class="mdi mdi-sort"></em>) as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
 
 ![buscar.png](/compras/manifestação/7_buscar.png)
 
 ### Filtrar
 
-Os filtros também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
+Os filtros (<em class="mdi mdi-filter"></em>) também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
 
 ![filtros.png](/compras/manifestação/8_filtros.png)
 
@@ -80,11 +80,11 @@ Opções de filtros:
 - **Emissão final**: filtrar por data de emissão, informe a data de término;
 - **Tipo do evento**: filtrar pelo evento manifestado: **confirmação da operação**, **ciência da operação**, **desconhecimento da operação** ou **operação não realizada**.
 
-Após informar o filtro desejado, basta clicar em "**aplicar**".
+Após informar o filtro desejado, basta clicar em <span class="mat-button mdi "> APLICAR</span>.
 
 ### Ordenar 
 
-Ordene a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
+Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
 
 ![ordenar.png](/compras/manifestação/9_ordenar.png)
 
@@ -121,7 +121,7 @@ Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, inf
  
 ![informar evento.png](/compras/manifestação/5_manifestar-se.png)
 
-Após informar o evento basta clicar em “**confirmar**”.
+Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar</span>.
 
 ![confirmar manifestação.png](/compras/manifestação/6.png)
 
