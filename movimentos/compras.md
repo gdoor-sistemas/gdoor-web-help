@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T18:51:50.320Z
+date: 2022-02-25T18:53:06.628Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -53,14 +53,14 @@ Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções
 
 Será possível:
 
-- <em class="mdi mdi-checkbox-marked"></em>  **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
-- **Copiar chave de acesso** da nota em questão;
-- **Manifestar-se**, abrirá a tela para informar o evento;
-- **Download XML** para baixar o arquivo;
-- **Importar XML** para a nota de compra;
-- **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
-- **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
-- **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
+- mdi-content-copy **Copiar chave de acesso** da nota em questão;
+- <em class="mdi mdi-content-copy"></em> **Manifestar-se**, abrirá a tela para informar o evento;
+- <em class="mdi mdi-checkbox-marked"></em> **Download XML** para baixar o arquivo;
+- <em class="mdi mdi-checkbox-marked"></em> **Importar XML** para a nota de compra;
+- <em class="mdi mdi-checkbox-marked"></em> **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
+- <em class="mdi mdi-checkbox-marked"></em> **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
+- <em class="mdi mdi-checkbox-marked"></em> **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
 Para visualizar apenas dados pertinentes ao que você precisa, é possível efetuar uma **busca**, **filtrar** e **ordenar** as notas listadas. Clicando no botão a **lista é atualizada**.
 
