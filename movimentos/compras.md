@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T18:47:17.668Z
+date: 2022-02-25T18:51:50.320Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -36,7 +36,7 @@ Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação el
 
 ## Consultar 
 
-Para verificar se há notas para manifestar, clique no botão  (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no canto inferior direito da tela.
+Para verificar se há notas para manifestar, clique no botão (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no **canto inferior direito da tela**.
 
 ![consultar.png](/compras/manifestação/2_manifestação.png)
 
@@ -53,7 +53,7 @@ Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções
 
 Será possível:
 
-- **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
+- <em class="mdi mdi-checkbox-marked"></em>  **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
 - **Copiar chave de acesso** da nota em questão;
 - **Manifestar-se**, abrirá a tela para informar o evento;
 - **Download XML** para baixar o arquivo;
