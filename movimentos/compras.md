@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T19:32:05.524Z
+date: 2022-02-25T19:45:51.086Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -62,7 +62,7 @@ Será possível:
 - <em class="mdi mdi-cancel"></em> **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
 - <em class="mdi mdi-printer"></em> **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
-Para visualizar apenas dados pertinentes ao que você precisa, é possível efetuar uma **busca**, **filtrar** e **ordenar** as notas listadas. Clicando no botão a **lista é atualizada**.
+Para visualizar apenas dados pertinentes ao que você precisa, é possível efetuar uma **busca**, (<em class="mdi mdi-filter"></em>) **filtrar** e (<em class="mdi mdi-sort"></em>) **ordenar** as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
 
 ![buscar.png](/compras/manifestação/7_buscar.png)
 
