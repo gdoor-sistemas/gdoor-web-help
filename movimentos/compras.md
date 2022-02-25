@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T12:04:33.563Z
+date: 2022-02-25T12:41:14.616Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -47,17 +47,17 @@ Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se 
 
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
-imagem 4 VAI MUDAR
+![opções.png](/compras/manifestação/4_menu.png)
 
 Será possível:
 
-- **Marcar**, podendo selecionar até 50 notas para manifestar juntamente;
+- **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
 - **Copiar chave de acesso** da nota em questão;
-- **Manifestar-se**, a tela para informar o evento será aberta;
-- **Download do XML** para baixar o arquivo;
+- **Manifestar-se**, abrirá a tela para informar o evento;
+- **Download XML** para baixar o arquivo;
 - **Importar XML** para a nota de compra;
-- **Consultar SEFAZ**, será direcionado para o site para verificação;
-- **Ignorar NF-e** retira da lista uma nota que não deseja importar;
+- **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
+- **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
 - **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
 
 ## Eventos
@@ -72,7 +72,6 @@ Caso ocorra devolução total ou parcial das mercadorias, além da Nota Fiscal d
 
 > Após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
 {.is-success}
-
 
 ### Desconhecimento da Operação
 
