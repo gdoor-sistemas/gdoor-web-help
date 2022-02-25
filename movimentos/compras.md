@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T17:27:26.695Z
+date: 2022-02-25T18:21:56.851Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -45,6 +45,8 @@ Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se 
 
 ![lista notas.png](/compras/manifestação/3_notas.png)
 
+### Opções
+
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
 ![opções.png](/compras/manifestação/4_menu.png)
@@ -59,6 +61,32 @@ Será possível:
 - **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
 - **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
 - **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
+
+Para visualizar apenas dados pertinentes ao que você precisa, é possível efetuar uma **busca**, **filtrar** e **ordenar** as notas listadas. Clicando no botão a **lista é atualizada**.
+
+![buscar.png](/compras/manifestação/7_buscar.png)
+
+### Filtrar
+
+Os filtros também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
+
+![filtros.png](/compras/manifestação/8_filtros.png)
+
+Opções de filtros:
+
+- **Situação**: filtrar por notas “**manifestadas**” e “**não manifestadas**”;
+- **Status**: por notas “**ignoradas**”, “**importadas**” para o compras e “**não importadas**”;
+- **Emissão inicial**: filtrar por data de emissão, informe a data de início;
+- **Emissão final**: filtrar por data de emissão, informe a data de término;
+- **Tipo do evento**: filtrar pelo evento manifestado: **confirmação da operação**, **ciência da operação**, **desconhecimento da operação** ou **operação não realizada**.
+
+Após informar o filtro desejado, basta clicar em "**aplicar**".
+
+### Ordenar 
+
+Ordene a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
+
+![ordenar.png](/compras/manifestação/9_ordenar.png)
 
 ## Eventos
 
