@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T17:16:54.141Z
+date: 2022-02-25T17:27:26.695Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -96,6 +96,7 @@ Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, inf
 Após informar o evetno basta clicar em “**confirmar**”.
 
 ![confirmar manifestação.png](/compras/manifestação/6.png)
+
 
 
 # Importar XML
