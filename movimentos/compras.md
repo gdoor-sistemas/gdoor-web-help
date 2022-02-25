@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T18:38:31.794Z
+date: 2022-02-25T18:38:59.904Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -14,7 +14,7 @@ O módulo de compras fará a movimentação de entrada da mercadoria no estoque 
 
 # Lista
 
-Em breve
+Em breve...
 
 # Manifestação do Destinatário eletrônica (MD-e)
 
@@ -127,8 +127,8 @@ Após informar o evetno basta clicar em “**confirmar**”.
 
 # Importar XML
 
-Em breve
+Em breve...
 
 # Configurações
 
-Em breve
+Em breve...
