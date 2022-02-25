@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T19:52:11.581Z
+date: 2022-02-25T19:53:03.841Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -92,7 +92,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 São quatro eventos disponíveis:
 
-### Ciência da Operação
+### Ciência da operação
 
 Utilizado quando no retorno da consulta tiver apenas o "**resumo da NF-e**". Ele registra a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido o download do arquivo XML.
 
@@ -100,18 +100,18 @@ Utilizado quando no retorno da consulta tiver apenas o "**resumo da NF-e**". Ele
 {.is-warning}
 
 
-### Confirmação da Operação
+### Confirmação da operação
 
 Confirma a operação e o recebimento da mercadoria (para operações com circulação de mercadoria).
 
 > Após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
 {.is-success}
 
-### Operação não Realizada
+### Operação não realizada
 
 Este evento será informado pelo destinatário, quando por algum motivo, a operação legalmente acordada entre as partes não se realizou (devolução sem entrada física da mercadoria no estabelecimento do destinatário, sinistro da carga durante seu transporte entre outros).
 
-### Desconhecimento da Operação
+### Desconhecimento da operação
 
 Tem como finalidade possibilitar ao destinatário se manifestar quanto a utilização indevida de sua Inscrição Estadual, por parte do emitente da NF-e, para acobertar operações fraudulentas de remessas de mercadorias para destinatário diverso. Este evento protege o destinatário de passivos tributários envolvendo o uso indevido de sua Inscrição Estadual/CNPJ.
 
