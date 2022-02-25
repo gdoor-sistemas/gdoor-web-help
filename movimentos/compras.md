@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T12:41:14.616Z
+date: 2022-02-25T12:43:33.246Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -62,7 +62,12 @@ Será possível:
 
 ## Eventos
 
-São quatro eventos:
+São quatro eventos disponíveis:
+
+### Ciência da Operação
+
+Registra na NF-e a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido que o destinatário efetue o download do arquivo XML.
+Este evento não representa a manifestação do destinatário sobre a operação, tem como finalidade a obtenção do arquivo XML. Ele registra na NF-e que o destinatário tem conhecimento que o documento foi emitido, mas ainda não expressou uma manifestação conclusiva para a operação.
 
 ### Confirmação da Operação
 
@@ -81,10 +86,7 @@ Tem como finalidade possibilitar ao destinatário se manifestar quanto a utiliza
 
 Este evento será informado pelo destinatário, quando por algum motivo, a operação legalmente acordada entre as partes não se realizou (devolução sem entrada física da mercadoria no estabelecimento do destinatário, sinistro da carga durante seu transporte entre outros).
 
-### Ciência da Operação
 
-Registra na NF-e a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido que o destinatário efetue o download do arquivo XML.
-Este evento não representa a manifestação do destinatário sobre a operação, tem como finalidade a obtenção do arquivo XML. Ele registra na NF-e que o destinatário tem conhecimento que o documento foi emitido, mas ainda não expressou uma manifestação conclusiva para a operação.
 
 ## Manifestar-se
 
