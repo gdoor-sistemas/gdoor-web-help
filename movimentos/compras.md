@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T18:40:33.069Z
+date: 2022-02-25T18:47:17.668Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -18,7 +18,7 @@ Em breve...
 
 # Manifestação do Destinatário eletrônica (MD-e)
 
-A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa confirme ou recuse sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
+A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa **confirme** ou **recuse** sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
 
 Através do módulo de “**compras**” no Gweb é possível informar sobre o andamento da operação na NF-e e confirmar a veracidade das informações contidas na nota.
 
@@ -30,13 +30,13 @@ Para efetuar a manifestação é necessário ter um “**certificado digital vá
 Caso utilize apenas NFC-e, basta aplicar as mesmas configurações para a NF-e.
 {.is-info}
 
-Para acessar o MD-e, no módulo de compras, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
+Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
 
 ![compras.png](/compras/manifestação/1_compras.png)
 
 ## Consultar 
 
-Para verificar se há notas para manifestar, clique no botão “**consultar novas notas**” localizado no canto inferior direito da tela.
+Para verificar se há notas para manifestar, clique no botão  (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no canto inferior direito da tela.
 
 ![consultar.png](/compras/manifestação/2_manifestação.png)
 
