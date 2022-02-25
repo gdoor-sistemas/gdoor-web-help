@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-24T20:25:26.711Z
+date: 2022-02-25T12:04:33.563Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -32,18 +32,18 @@ Caso utilize apenas NFC-e, basta aplicar as mesmas configurações para a NF-e.
 
 Para acessar o MD-e, no módulo de compras, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
 
-imagem 1
+![compras.png](/compras/manifestação/1_compras.png)
 
 ## Consultar 
 
 Para verificar se há notas para manifestar, clique no botão “**consultar novas notas**” localizado no canto inferior direito da tela.
 
-imagem 2
+![consultar.png](/compras/manifestação/2_manifestação.png)
 
 Ao clicar para consultar, observe que no canto superior direito aparecerá a mensagem “**consultando novos documentos**”, isso poderá levar alguns segundos. 
 Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se houverem notas para manifestar, elas serão listadas na tela.
 
-imagem 3
+![lista notas.png](/compras/manifestação/3_notas.png)
 
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
