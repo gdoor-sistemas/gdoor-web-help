@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o GDOOR WEB ainda mais robusto e funcional
 published: true
-date: 2022-03-02T17:35:58.584Z
+date: 2022-03-02T17:36:38.269Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,7 @@ b2.11.0, f1.21.3{.versions}
 ## Novidades
 - Adicionada a funcionalidade de Manifestação do Destinatário 🎉. Conheça mais sobre esta novidade no GDOOR WEB [clicando aqui](/movimentos/compras#manifesta%C3%A7%C3%A3o-do-destinat%C3%A1rio-eletr%C3%B4nica-md-e).
 
-[teste](07/02/2022)
+[teste](h-07022022)
 
 - Criada uma configuração geral que desativa/ativa a verificação de IP durante a autenticação no sistema.
 > Esta configuração pode gerar riscos à segurança dos dados. Utilize somente em caso de desconexões frequentes. {.is-warning}
