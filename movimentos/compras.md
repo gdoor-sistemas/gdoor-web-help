@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-02T13:20:04.600Z
+date: 2022-03-02T20:05:35.262Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -81,6 +81,12 @@ Opções de filtros:
 - **Tipo do evento**: filtrar pelo evento manifestado: **confirmação da operação**, **ciência da operação**, **desconhecimento da operação** ou **operação não realizada**.
 
 Após informar o filtro desejado, basta clicar em <span class="mat-button mdi "> APLICAR</span>.
+
+### Tags
+
+De acordo com as etapas e eventos realizados, tags serão adicionadas as notas.
+
+![tags.png](/compras/manifestação/tags.png)
 
 ### Ordenar 
 
