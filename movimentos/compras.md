@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-02-25T19:53:03.841Z
+date: 2022-03-02T13:20:04.600Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -49,7 +49,7 @@ Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se 
 
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
-![opções.png](/compras/manifestação/4_menu.png)
+![opções.png](/compras/manifestação/opções.png)
 
 Será possível:
 
