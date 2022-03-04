@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no GDOOR WEB
 published: true
-date: 2022-03-04T20:13:15.669Z
+date: 2022-03-04T20:15:28.636Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -27,6 +27,8 @@ A tela para identificação da forma de pagamento será aberta:
 - **Tipo de pagamento**: selecione entre as opções disponíveis (campo obrigatório);
 - **Referência na NF-e**: selecione entre as opções disponíveis (campo obrigatório);
 - **Conta financeira**: selecione uma conta financeira já cadastrada para ser associada a este meio de pagamento.
+
+[conta](/financeiro/contas)
 
 
 Após a inserção das informações clique em <span class="mat-button mdi "> salvar</span>
