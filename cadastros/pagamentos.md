@@ -1,12 +1,13 @@
 ---
-title: Cadastro de formas de pagamento
+title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no GDOOR WEB
 published: true
-date: 2020-09-03T16:53:30.052Z
+date: 2022-03-04T19:33:48.052Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
+dateCreated: 2020-01-03T19:30:35.400Z
 ---
 
-# Cadastro de formas de pagamento
+# Pagamentos
 
 Em breve...
