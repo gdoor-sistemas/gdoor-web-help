@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no GDOOR WEB
 published: true
-date: 2022-01-03T13:05:09.177Z
+date: 2022-03-04T19:32:41.902Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -17,13 +17,20 @@ Para efetuar o controle financeiro, é necessário que as contas sejam cadastrad
 # Nova conta
 Para cadastrar uma nova conta, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto inferior direito da tela principal. 
 
-Insira os “**dados da conta**” como: “**nome da conta**”, "**saldo**'' e ''**tags**” para especificar o destino de cada capital e clique em “**salvar**”.
+Insira os “**dados da conta**” como “**nome da conta**” e "**saldo**".
 
-![nova conta](/contas/2_nova_conta.png)
+![nova conta.png](/contas/nova_nova.png)
 
-> As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. 
-Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
+Ao marcar a opção "**conta bancária**", o menu abaixo será exibido para inclusão dos dados bancários:
+
+![dados_bancários.png](/contas/dados_bancários.png)
+
+Informe o "**banco**", "**número da conta**", "**agência**", "**tipo da conta**" e também é possível incluir uma "**chave PIX**" para geração de "**QR code na NFC-e**".
+
+As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
 {.is-success .gw .gw-tip}
+
+Clique em <span class="mat-button mdi "> salvar</span>.
 
 # Acessos
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
@@ -34,7 +41,7 @@ Clicando em “**lista**” serão apresentadas todas as contas cadastradas. Cli
 
 ![lista](/contas/3_lista.png)
 
-Na **listagem**, ao clicar sobre uma conta, os “**detalhes da conta**” serão exibidos, sendo possível "**editar**" ou “**excluir**” a conta. 
+Na **listagem**, ao clicar sobre uma conta, os “**detalhes da conta**” serão exibidos, sendo possível <span class="mat-button mdi "> editar</span> a conta ou <span class="mat-button mdi "> fechar</span>. 
 
 ![detalhes da conta](/contas/4_detalhes.png)
 
