@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T12:33:18.696Z
+date: 2022-03-07T12:36:51.966Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -108,6 +108,10 @@ No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"><
 
 > Caracteriza-se uma operação **sem intermediador** quando a venda for efetuada via site ou plataforma própria, sem envolver outra pessoa jurídica.
 {.is-info}
+
+## Finalizar venda
+
+
 
 # Lista
 
