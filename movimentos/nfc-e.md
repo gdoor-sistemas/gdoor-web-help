@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T12:36:51.966Z
+date: 2022-03-07T13:09:10.068Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -99,7 +99,7 @@ Para informar o cliente na NFC-e, pressione a tecla <kbd>F7</kbd> ou acesse o me
 
 Quando a venda ocorrer pela internet (operação não presencial), e houver intermédio de alguma plataforma de terceiro como marketplaces e deliverys, é necessário indicar o intermediador da operação para geração da tag no XML e acompanhamento da SEFAZ.
 
-O código contendo a identificação do intermediador/marketplace deve constar no seu respectivo cadastro de pessoa jurídica com atributo  [intermediador](/cadastros/pessoas#intermediador).
+O código contendo a identificação do intermediador/marketplace deve constar no seu respectivo cadastro de pessoa jurídica com atributo [intermediador](/cadastros/pessoas#intermediador).
 
 Para informar o intermediador na NFC-e, utilize a tecla <kbd>F8</kbd> ou clique em (<em class="mdi mdi-dots-vertical"></em>) seguido de (<em class="mdi mdi-dots-horizontal"></em> Outras opções).
 No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"></em>), selecione o intermediador desejado e clique em <span data-mat-button>Confirmar</span>.
@@ -110,6 +110,13 @@ No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"><
 {.is-info}
 
 ## Finalizar venda
+
+Ao clicar em "**finalizar**" a venda, a tela abaixo será exibida:
+
+![finalizar venda.png](/movimentos/nfce/fina_venda.png)
+
+Os pagamentos disponíveis aparecerão de acordo com os  [meios de pagamento configurados](/movimentações/nfc-e#configuraçõesdanfc-e).
+
 
 
 
