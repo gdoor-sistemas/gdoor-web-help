@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2021-03-06T18:01:14.780Z
+date: 2022-03-07T11:25:16.832Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -17,8 +17,6 @@ Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-
 <div class=text-center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtTr046tMpDsgQ9YIG1F3UEUSG7LX9w7Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-> É importante notar que, devido ao sistema ser uma página da web, há limitações normais quanto ao uso, como por exemplo, para poder imprimir o cupom da NFC-e, é necessário usar o diálogo de impressão do navegador.
   
 Por padrão, ao entrar no módulo de NFC-e, você verá a seguinte tela:
 
