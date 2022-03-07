@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T11:52:12.144Z
+date: 2022-03-07T12:00:33.751Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -10,21 +10,17 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 # Introdução
 
-O módulo de NFC-e do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse.
+O módulo de NFC-e do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
+
+Em todas as telas da NFC-e, você verá na área central superior uma barra que contém: na esquerda, o título da tela que identifica onde você está; na direita, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
+
+![Barra superior da NFC-e](/movimentos/nfce/barra-superior-nfce.png)
 
 Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-e:
 
 <div class=text-center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtTr046tMpDsgQ9YIG1F3UEUSG7LX9w7Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Na tela inicial você pode rapidamente acessar funções básicas como: **abrir** uma venda, acessar a **lista** de NFC-e, fazer uma **sangria** ou **suprimento** ou ainda, acessar as **configurações**. Você também pode personalizar a tela inicial, de modo que ao entrar no módulo de NFC-e, outra tela seja aberta por primeiro, como a lista ou uma nova venda ([Veja como fazer](/movimentos/nfc-e/preferencias)).
-
-O módulo de NFC-e foi tratado para se adaptar ao modo **tela cheia**, assim, ao usar PDV, o operador pode ficar sem distrações. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
-
-Em todas as telas da NFC-e, você verá na área central superior uma barra que contém: na esquerda, o título da tela que identifica onde você está; na direita, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
-
-![Barra superior da NFC-e](/movimentos/nfce/barra-superior-nfce.png)
 
 # Nova NFC-e
 
@@ -61,7 +57,7 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 
 ### Buscando pela referência
 
-No cadastro de produtos há um campo chamado **Referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no GDOOR WEB é sequencial e inalterável.
+No cadastro de produtos há o campo **referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no GDOOR WEB é sequencial e inalterável.
 
 Para adicionar o produto pela referência, basta digitar um ponto (.) e o código da referência, depois pressionar <kbd>Enter</kbd>.
 
@@ -87,7 +83,7 @@ Para adicionar serviços na NFC-e, comece digitando uma barra no campo de busca 
 
 ## Vendedor
 
-Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item. Por isso, ao adicionar um vendedor, ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
+Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item,  ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
 Para informar o vendedor na NFC-e, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>. Na tela que abrir, basta escolher o vendedor e clicar em <span data-mat-button>Confirmar</span>.
 
