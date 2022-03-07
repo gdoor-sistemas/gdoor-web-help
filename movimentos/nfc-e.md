@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T13:12:40.972Z
+date: 2022-03-07T13:37:04.857Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -111,13 +111,22 @@ No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"><
 
 ## Finalizar venda
 
-Ao clicar em "**finalizar**" a venda, a tela abaixo será exibida:
+Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida:
 
 ![finalizar venda.png](/movimentos/nfce/fina_venda.png)
 
-Os pagamentos disponíveis aparecerão de acordo com os  [meios de pagamento configurados](/movimentos/nfc-e#configuraçõesdanfc-e).
+As formas de pagamentos [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os  [meios de pagamento configurados na NFC-e](/movimentos/nfc-e#configuraçõesdanfc-e), basta selecionar a desejada.
 
+Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
+![venda_2.png](/movimentos/nfce/venda_2.png)
+
+Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respetivo valor da venda.
+
+![venda_3.png](/movimentos/nfce/venda_3.png)
+
+> A opção de **pagamento PIX com geração de QR code** para leitura trata-se de um facilitador para agilizar a venda, **não é integrada com a conta**, sendo assim, **não haverá confirmação do recebimento na tela**.
+{.is-warning}
 
 
 # Lista
