@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T13:51:41.173Z
+date: 2022-03-07T13:59:58.752Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -121,7 +121,7 @@ Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
 ![venda_2.png](/movimentos/nfce/venda_2.png)
 
-Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respetivo valor da venda.
+Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectivo valor da venda.
 
 ![venda_3.png](/movimentos/nfce/venda_3.png)
 
@@ -182,7 +182,7 @@ Para aplicar um filtro, clique no botão <span class=mat-button>Aplicar</span>, 
 
 ## Lista
 
-No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar as NFC-e em partes pra não carregar todas de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar as NFC-e em partes para não carregar todas de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
 ![Controle de paginação](/movimentos/nfce/nfce-paginacao.png)
 
@@ -242,7 +242,7 @@ Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou dene
 
 <span class="mat-button mdi mdi-file-eye"> Pré-visualizar DANFCe</span>
 
-Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia se como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
+Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia de como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
 
 <span class="mat-button mdi mdi-file-code"> Pré-visualizar XML</span>
 
@@ -264,7 +264,7 @@ Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela s
 
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla por usar o [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
+O modo de seleção múltipla permite que você seleciona várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
 ![Seleção múltipla na lista de NFC-e](/movimentos/nfce/nfce-selecao-multipla.png)
 
@@ -287,7 +287,7 @@ As ações disponíveis no modo de seleção múltipla estarão visíveis apenas
 
 # Inutilizar numeração
 
-A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz) esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. 
+A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz), esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. 
 
 No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora e tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
 
@@ -432,7 +432,7 @@ Neste campo você pode configurar a forma de emissão da NFC-e para:
 
 Token ID{.subtitle}
 
-ID do token gerado para sua geração do QRCode a ser impresso no [DANFCe](/glossario#danfce). A informação de como obter este código pode ser obtida com sua contabilidade.
+ID do token gerado para sua geração do QR Code a ser impresso no [DANFCe](/glossario#danfce). A informação de como obter este código pode ser obtida com sua contabilidade.
 
 Código CSC{.subtitle}
 
@@ -473,7 +473,7 @@ Informe a "**conta**" padrão para geração da movimentação, **plano de conta
 
 ## Meios de pagamento
 
-Nesta seção você pode escolher quais [meios de pagmento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
+Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
 
 Para tornar um meio de pagamento disponível na NFC-e, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
@@ -491,7 +491,7 @@ Nesta seção você pode informar uma mensagem a ser impressa junto com as infor
 
 Nesta seção você define configurações gerais sobre o envio de e-mails da NFC-e.
 
-Na primeira parte você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
+Na primeira parte, você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
 
 ![Aplicação do e-mail de resposta](/movimentos/nfce/nfce-configurar-email-resposta.png)
 
