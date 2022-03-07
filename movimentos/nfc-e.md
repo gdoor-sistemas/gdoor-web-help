@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T12:00:33.751Z
+date: 2022-03-07T12:09:56.439Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -167,7 +167,7 @@ No quadro da lista, na barra superior, você encontra o controle de paginação,
 
 Em cada item da lista você pode encontrar as seguintes informações:
 
-![nfce-item-lista-informacoes.png](/movimentos/nfce/nfce-item-lista-informacoes.png){.float-right}
+![nfce-item-lista-informacoes.png](/movimentos/nfce/nfce-item-lista-informacoes.png)
 
 1. Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2. Nome do cliente. Será apresentada a informação "Consumidor final" quando o cliente não for informado.
@@ -175,7 +175,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 4. Chave de acesso e status da NFC-e.
 5. [Menu de ações](#acoes) a serem executadas com a NFC-e em questão. Caso a NFC-e ainda não tenha sido transmitida para a [SEFAZ](/glossario#sefaz), ao lado deste botão será exibido outro (<em class="mdi mdi-pencil"></em>) para editar a NFC-e.
 
-### Ações{#acoes}
+### Ações
 
 Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-e selecionada. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
 
@@ -249,9 +249,14 @@ O modo de seleção múltipla permite que você selecione várias NFC-e para exe
 
 Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou desmarcar. Só é possível marcar as NFC-e sendo exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](#filtros).
 
-![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png){.float-right .ml8}
+![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png)
 
-As ações disponíveis conforme indicado na imagem ao lado são: 1) **consultar** o status das NFC-e na [SEFAZ](/glossario#sefaz), 2) **transmitir** as NFC-e selecionadas, 3) **excluir** as NFC-e selecionadas e 4) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
+As ações disponíveis conforme indicado na imagem ao lado são: 
+1) **consultar** o status das NFC-e na [SEFAZ](/glossario#sefaz);
+2) **transmitir** as NFC-e selecionadas;
+3) **excluir** as NFC-e selecionadas;
+4) desmarcar todas e **fechar** o modo de seleção múltipla. Ainda, na esquerda você conta com uma caixa que lhe permite marcar todas as NFC-e em exibição na página.
+
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todas as NFC-e selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar uma NFC-e **Pendente** e outra **Autorizada**, as ações não estarão disponíveis.
 
 > Utilizando a transmissão pelo modo de seleção múltipla, as NFC-e serão enviadas para uma fila de processamento em segundo plano e poderão demorar alguns minutos para serem transmitidas. Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
@@ -261,11 +266,13 @@ As ações disponíveis no modo de seleção múltipla estarão visíveis apenas
 
 # Inutilizar numeração
 
-A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz) esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora e tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
+A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz) esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. 
+
+No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora e tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
 
 > Considerando que a nota não existe perante a SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
 
-## Como fazer no GDOOR WEB?
+## Como inutilizar numeração
 
 Para inutilizar uma numeração de NFC-e no GDOOR WEB, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
 
@@ -273,7 +280,7 @@ Para inutilizar uma numeração de NFC-e no GDOOR WEB, clique no botão <span cl
 
 ---
 
-![nfce-modal-inutilizacao.png](/movimentos/nfce/nfce-modal-inutilizacao.png){.align-right}
+![nfce-modal-inutilizacao.png](/movimentos/nfce/nfce-modal-inutilizacao.png)
 
 Será aberta a tela apresentada ao lado, os campos a serem preenchidos são:
 
@@ -305,10 +312,9 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 > Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
 
-
 # XML do mês
 
-Algumas contabilidades pedem que as empresas enviem no início do mês, todos os arquivos XML de notas emitidas no mês anterior. Pensando nisso, o GDOOR WEB possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
+O GDOOR WEB possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
 
 ## Compactando arquivos
 
@@ -319,7 +325,6 @@ Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> n
 Na tela que abrir o sistema carregará todos os meses em que você emitiu NFC-e pelo GDOOR WEB. Selecione o mês e se você quer **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
-
 
 # Contingência
 
@@ -345,7 +350,7 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 ## Comportamento
 
-![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x){.float-left .mr10}
+![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x)
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações. Veja em detalhes as opções:
 
@@ -357,7 +362,7 @@ Após o primeiro item{.subtitle}
 
 Esta opção estará visível apenas se a anterior estiver marcada. Marcando esta opção, o sistema solicitará o cliente somente após o lançamento do primeiro item. Isso pode ser útil em casos onde o operador deixa sempre uma nova venda em aberto, assim, não será necessário informar o cliente logo na abertura da venda.
 
-*Exigir* cliente após valor{.subtitle}
+Exigir cliente após valor{.subtitle}
 
 Com esta opção marcada, caso o valor da NFC-e seja maior do que o valor configurado aqui, será **obrigatório** informar o cliente para salvar a venda. Se você preencher o campo com o valor 0 (zero), será obrigatório informar o cliente sempre.
 
