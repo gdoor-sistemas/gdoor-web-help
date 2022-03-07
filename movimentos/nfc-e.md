@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T12:09:56.439Z
+date: 2022-03-07T12:15:23.620Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -10,7 +10,7 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 # Introdução
 
-O módulo de NFC-e do GDOOR WEB é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
+O módulo de NFC-e do Gweb é o recurso que o sistema tem para ser usado como PDV. É totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
 
 Em todas as telas da NFC-e, você verá na área central superior uma barra que contém: na esquerda, o título da tela que identifica onde você está; na direita, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
 
@@ -57,7 +57,7 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 
 ### Buscando pela referência
 
-No cadastro de produtos há o campo **referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no GDOOR WEB é sequencial e inalterável.
+No cadastro de produtos há o campo **referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no Gweb é sequencial e inalterável.
 
 Para adicionar o produto pela referência, basta digitar um ponto (.) e o código da referência, depois pressionar <kbd>Enter</kbd>.
 
@@ -213,7 +213,7 @@ Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou dene
 
 <span class="mat-button mdi mdi-file-pdf"> Visualizar DANFCe</span>
 
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
 
 <span class="mat-button mdi mdi-xml"> Visualizar XML</span>
 
@@ -221,7 +221,7 @@ Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou dene
 
 <span class="mat-button mdi mdi-file-eye"> Pré-visualizar DANFCe</span>
 
-Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia se como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do GDOOR WEB.
+Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia se como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
 
 <span class="mat-button mdi mdi-file-code"> Pré-visualizar XML</span>
 
@@ -274,7 +274,7 @@ No entanto, ainda há situações que fazem necessário informar uma quebra na n
 
 ## Como inutilizar numeração
 
-Para inutilizar uma numeração de NFC-e no GDOOR WEB, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
+Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
 
 ![Acesso à inutilização na NFC-e](/movimentos/nfce/nfce-inutilizar-acesso.png)
 
@@ -314,7 +314,7 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 # XML do mês
 
-O GDOOR WEB possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
+O Gweb possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
 
 ## Compactando arquivos
 
@@ -322,7 +322,7 @@ Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> n
 
 ![Compactar XML do mês da NFC-e](/movimentos/nfce/nfce-xml-do-mes.png)
 
-Na tela que abrir o sistema carregará todos os meses em que você emitiu NFC-e pelo GDOOR WEB. Selecione o mês e se você quer **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+Na tela que abrir o sistema carregará todos os meses em que você emitiu NFC-e pelo Gweb. Selecione o mês e se você quer **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
 
@@ -368,7 +368,7 @@ Com esta opção marcada, caso o valor da NFC-e seja maior do que o valor config
 
 Transmitir após salvar a NFC-e{.subtitle}
 
-Esta configuração permite escolher o que o sistema deve fazer — em relação à transmissão — quando você salvar uma NFC-e. Você pode fazer com que o GDOOR WEB:
+Esta configuração permite escolher o que o sistema deve fazer — em relação à transmissão — quando você salvar uma NFC-e. Você pode fazer com que o Gweb:
 - Transmita automaticamente
 - Não transmita
 - Pergunte o que fazer a cada NFC-e
@@ -379,7 +379,7 @@ Esta configuração permite escolher o que o sistema deve fazer — em relação
 
 Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Na imagem acima você vê as 3 aparências desta seção. Primeiro, você seleciona o arquivo do certificado digital A1. Depois informa a senha do certificado. Por fim, depois de enviar o arquivo, será exibido o nome da empresa para quem o certificado foi emitido e a data de validade, apenas para consulta. Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
-> Você pode ficar tranquilo ao enviar seu certificado digital, pois ele será armazenado nos servidores do GDOOR WEB sob camadas de segurança.
+> Você pode ficar tranquilo ao enviar seu certificado digital, pois ele será armazenado nos servidores do Gweb sob camadas de segurança.
 {.is-info}
 
 ## Ambiente da NFC-e {#ambiente}
@@ -463,7 +463,7 @@ Nesta seção você pode informar uma mensagem a ser impressa junto com as infor
 
 Nesta seção você define configurações gerais sobre o envio de e-mails da NFC-e.
 
-Na primeira parte você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo GDOOR WEB. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
+Na primeira parte você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
 
 ![Aplicação do e-mail de resposta](/movimentos/nfce/nfce-configurar-email-resposta.png)
 
