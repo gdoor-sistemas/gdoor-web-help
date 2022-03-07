@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T13:09:10.068Z
+date: 2022-03-07T13:09:57.352Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -115,7 +115,7 @@ Ao clicar em "**finalizar**" a venda, a tela abaixo será exibida:
 
 ![finalizar venda.png](/movimentos/nfce/fina_venda.png)
 
-Os pagamentos disponíveis aparecerão de acordo com os  [meios de pagamento configurados](/movimentações/nfc-e#configuraçõesdanfc-e).
+Os pagamentos disponíveis aparecerão de acordo com os  [meios de pagamento configurados](/movimentos/nfc-e#configuraçõesdanfc-e##meiosdepagamento).
 
 
 
