@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no GDOOR WEB
 published: true
-date: 2022-03-07T12:15:23.620Z
+date: 2022-03-07T12:23:31.678Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -442,6 +442,13 @@ Imprimir depois de autorizar{.subtitle}
 Indique aqui se após a autorização da NFC-e o sistema deve automaticamente abrir a janela para impressão do DANFCe.
 
 > Atualmente o sistema não tem como enviar a impressão do DANFCe direto para uma impressora, pois isso é uma limitação comum de uma página da Web. No entanto, a impressão pode ser realizada normalmente por meio do diálogo de impressão que o navegador abrirá.
+
+## Financeiro
+
+Para informação dos vínculos financeiros padrão.
+Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
+
+![financeiro.png](/movimentos/nfce/financeiro.png)
 
 ## Meios de pagamento
 
