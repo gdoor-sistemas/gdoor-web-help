@@ -2,30 +2,30 @@
 title: Início
 description: Introdução à ajuda do GDOOR WEB
 published: true
-date: 2021-09-20T17:16:05.915Z
+date: 2022-03-14T20:09:19.881Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
 ---
 
-# Ajuda do GDOOR WEB
+# Ajuda do Gweb
 
-Seja bem-vindo(a) à ajuda do GDOOR WEB. 
+Seja bem-vindo(a) à ajuda do Gweb. 
 
 Aqui você vai encontrar ajuda para executar algumas tarefas no sistema, bem como a descrição e explicação de funções existentes.
 
 > Esta documentação está em construção. Portanto, pode apresentar páginas incompletas ou faltantes.
 {.is-warning}
 
-## O que é o GDOOR WEB?
+## O que é o Gweb?
 
-O GDOOR WEB é um sistema on-line para automação comercial, destinado a empresas de pequeno e médio porte.
+O Gweb é um sistema on-line para automação comercial, destinado a empresas de pequeno e médio porte.
 
 Possui emissão de documentos fiscais, pedido de venda, além dos cadastros e controles auxiliares, como o cadastro de pessoas, produtos e configurações pertinentes. Ao passar do tempo, novas funcionalidades serão adicionadas.
 
-## Para quem é indicado o GDOOR WEB?
+## Para quem é indicado o Gweb?
 
-O GDOOR WEB pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
+O Gweb pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
 
 - Que precisem emitir NF-e ou NFC-e;
 - Queiram manter controle de estoque;
@@ -35,9 +35,9 @@ O GDOOR WEB pode ser usado em vários tipos de empresas de comércio de médio e
 
 ## Primeiros passos
 
-Obtive acesso ao GDOOR WEB, e agora? [Clique aqui](/tutoriais/primeiros-passos) e veja um tutorial explicativo de como iniciar a configuração do seu sistema e o modo ideal de começar a utilizar o GDOOR WEB. Você também pode ver outros tutoriais passo a passo acessando [este tópico](/tutoriais).
+Obtive acesso ao Gweb, e agora? [Clique aqui](/tutoriais/primeiros-passos) e veja um tutorial explicativo de como iniciar a configuração do seu sistema e o modo ideal de começar a utilizar o Gweb. Você também pode ver outros tutoriais passo a passo acessando [este tópico](/tutoriais).
 
 
 ## Atualizações
 
-O GDOOR WEB é um sistema que está em constante expansão e aprimoramento. Vejas as últimas atualizações publicadas [clicando aqui](/atualizacoes).
+O Gweb é um sistema que está em constante expansão e aprimoramento. Vejas as últimas atualizações publicadas [clicando aqui](/atualizacoes).
