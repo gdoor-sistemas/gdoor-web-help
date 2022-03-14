@@ -1,8 +1,8 @@
 ---
 title: Pagamentos
-description: Veja como cadastrar e usar as formas de pagamento no GDOOR WEB
+description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2022-03-04T20:18:12.177Z
+date: 2022-03-14T20:17:36.196Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
