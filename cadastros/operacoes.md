@@ -1,8 +1,8 @@
 ---
 title: Cadastro de operações
-description: Veja como cadastrar naturezas de operações no GDOOR WEB para usar nos documentos
+description: Veja como cadastrar naturezas de operações no Gweb para usar nos documentos
 published: true
-date: 2021-03-07T23:05:28.696Z
+date: 2022-03-14T20:17:10.977Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -10,13 +10,13 @@ dateCreated: 2020-01-03T19:29:43.125Z
 
 # Introdução
 
-Este módulo permite que você cadastre previamente as naturezas de operação que serão utilizadas na emissão de [NF-e](/movimentos/nf-e) e [NFC-e](/movimentos/nfc-e) e para referência na [compras](/movimentos/compras). Apesar de no [XML](/glossario#xml) da NF-e a natureza da operação ser somente um campo textual para descrição, dentro do GDOOR WEB essas naturezas de operação determinam o tipo de operação sendo realizada e podem determinar também a tributação dessa operação.
+Este módulo permite que você cadastre previamente as naturezas de operação que serão utilizadas na emissão de [NF-e](/movimentos/nf-e) e [NFC-e](/movimentos/nfc-e) e para referência na [compras](/movimentos/compras). Apesar de no [XML](/glossario#xml) da NF-e a natureza da operação ser somente um campo textual para descrição, dentro do Gweb essas naturezas de operação determinam o tipo de operação sendo realizada e podem determinar também a tributação dessa operação.
 
 Para visualizar e alterar o cadastro de operações, acesse no menu principal: **Cadastros &raquo; Operações**:
 
 ![Acessar o módulo de operações](/cadastros/operacoes/acessar-operacoes.png)
 
-O GDOOR WEB vem com as operações mais comuns já cadastradas, prontas para serem utilizadas. As operações são:
+O Gweb vem com as operações mais comuns já cadastradas, prontas para serem utilizadas. As operações são:
 
 - **Venda de mercadorias**
 - **Devolução de venda de mercadorias**
