@@ -1,8 +1,8 @@
 ---
 title: Início
-description: Introdução à ajuda do GDOOR WEB
+description: Introdução à ajuda do Gweb
 published: true
-date: 2022-03-14T20:09:19.881Z
+date: 2022-03-14T20:10:47.993Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
