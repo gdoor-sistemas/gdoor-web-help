@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-17T13:43:07.041Z
+date: 2022-03-17T13:46:43.840Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -26,7 +26,9 @@ A tela para "**novo cadastro**" será aberta:
 
 ## Identificação
 
-Nesta aba temos os campos:
+Seção para identificação do produto.
+
+![Identificação.png](/produtos/3_identificação.png)
 
 - **Nome**:
 - **Unidade de medida**:
@@ -36,10 +38,7 @@ Nesta aba temos os campos:
 - **Observações**:
 - **Imagem**:
 - **Grade**:
-
-
-
-![Identificação.png](/produtos/3_identificação.png)
+- **Nº de série**:
 
 ## Categorias
 
