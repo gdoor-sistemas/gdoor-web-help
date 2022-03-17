@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-03-14T20:11:35.846Z
+date: 2022-03-17T12:03:11.302Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 b2.11.0, f1.21.3{.versions}
 
 ## Novidades
-- Adicionada a funcionalidade de Manifestação do Destinatário 🎉. Conheça mais sobre esta novidade no GDOOR WEB [clicando aqui](/movimentos/compras#manifesta%C3%A7%C3%A3o-do-destinat%C3%A1rio-eletr%C3%B4nica-md-e).
+- Adicionada a funcionalidade de Manifestação do Destinatário 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/compras#manifesta%C3%A7%C3%A3o-do-destinat%C3%A1rio-eletr%C3%B4nica-md-e).
 
 - Criada uma configuração geral que desativa/ativa a verificação de IP durante a autenticação no sistema.
 > Esta configuração pode gerar riscos à segurança dos dados. Utilize somente em caso de desconexões frequentes. {.is-warning}
@@ -113,7 +113,7 @@ b2.7.0, f1.17.0 {.versions}
 b2.6.0, f1.16.0 {.versions}
 
 ## Novidades
-- O módulo financeiro foi liberado 🎉. Conheça esta funcionalidade fresquinha no GDOOR WEB [aqui](/tutoriais/financeiro).
+- O módulo financeiro foi liberado 🎉. Conheça esta funcionalidade fresquinha no Gweb [aqui](/tutoriais/financeiro).
 - Adicionada dica para busca de produto pelo campo **Referência** na tela de adição de produto. É possível buscar um produto diretamente pelo valor desse campo se na busca você digitar "." (ponto).
 - Adicionada indicação de limitação do tamanho do texto na criação de uma carta de correção eletrônica.
 - Adicionada alternativa para geração do inventário quando há muitos produtos cadastrados.
