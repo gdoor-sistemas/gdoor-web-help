@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-17T14:15:06.351Z
+date: 2022-03-17T18:27:33.613Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -10,9 +10,9 @@ dateCreated: 2020-01-03T19:26:26.647Z
 
 # Introdução
 
-Este módulo permite que você cadastre os produtos que serão utilizados nas vendas de NF-e e NFC-e, assim como para referência nas movimentações de compras.
+Este módulo permite que você cadastre os produtos que serão utilizados nas vendas de NF-e e NFC-e, assim como nas movimentações de compras.
 
-Para visualizar e alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
+Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
 
 ![Tela inicial do módulo.png](/produtos/1_novo.png)
 
@@ -30,16 +30,21 @@ Seção para identificação do produto.
 
 ![Identificação.png](/produtos/3_identificação.png)
 
-- **Nome**: informe a descrição do produto;
-- **Unidade de medida**: informe ou adicione mais uma unidade de medida (<em class="mdi mdi-plus"></em>);
+- **Nome**: informe o nome do produto;
+- **Unidade de medida**: indique a unidade desejada ou clique em (<em class="mdi mdi-plus"></em>) para utilizar **unidades de medida adicionais** e **fator de conversão**;
 - **IPPT**: informe se é produção **própria** ou de **terceiros**;
 - **Tipo de mercadoria**: informe se é **mercadoria para revenda**, **material de uso e consumo** entre outros;
-- **Comissão**: comissão do produto;
+- **Comissão**: porcentagem de comissão do produto;
 - **Observações**: informação adicional para o produto, se adicionada entre as tags também irá para a NF-e;
 - **Imagem**: selecione um arquivo ou tire uma foto do produto;
 - **Grade**: ao marcar o checkbox a seção para **seleção da grade** será mostrada:
 
 ![grade.png](/produtos/grade.png)
+
+> As [grades](#grades) precisam estar cadastradas
+{.is-info}
+
+
 - **Nº de série**: ao marcar o checkbox a seção para **gerenciar números de série** será mostrada:
 
 ![números de série.png](/produtos/número_serie.png)
