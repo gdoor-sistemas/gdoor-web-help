@@ -1,10 +1,11 @@
 ---
 title: Preferências do usuário
-description: Veja como deixar o GDOOR WEB do jeito que você preferir trabalhar
+description: Veja como deixar o Gweb do jeito que você preferir trabalhar
 published: true
-date: 2020-09-03T16:57:32.028Z
+date: 2022-03-17T12:25:49.234Z
 tags: personalização, visão geral
 editor: markdown
+dateCreated: 2020-01-03T19:49:59.895Z
 ---
 
 # Preferências do usuário
