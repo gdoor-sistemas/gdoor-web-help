@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-17T20:11:17.554Z
+date: 2022-03-17T20:12:14.058Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -27,7 +27,7 @@ São quatro eventos possíveis: **confirmação da operação**, **desconhecimen
 Para efetuar a manifestação é necessário ter um “**certificado digital válido**” e estar em “**ambiente de produção**”.
 
 > As configurações para a Manifestação do Destinatário eletrônica são as mesmas utilizadas nas “**configurações da NF-e**”. 
-Caso utilize apenas NFC-e, não é possível utilizar a função de manifestação, pois ela trabalha em conjunto a NF-e.
+Caso utilize apenas NFC-e, não será possível utilizar a função de manifestação, pois ela trabalha em conjunto a NF-e.
 {.is-info}
 
 Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
