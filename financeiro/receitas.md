@@ -1,8 +1,8 @@
 ---
 title: Receitas
-description: 
+description: Identifique as contas a receber da empresa no Gweb
 published: true
-date: 2022-02-08T11:49:37.323Z
+date: 2022-03-17T12:16:37.064Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
