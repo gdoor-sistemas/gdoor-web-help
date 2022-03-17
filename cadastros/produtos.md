@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-17T19:06:33.904Z
+date: 2022-03-17T19:14:02.601Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -96,9 +96,11 @@ Identifique a categoria como desejar e clique em <span class="mat-button mdi "> 
 
 # Grades
 
-A grade de produtos é um conceito utilizado para cadastrar um produto com características diferentes apenas uma vez no estoque. Podemos imaginar uma “tabela”, onde as variáveis são as linhas e colunas iniciais.
+A grade de produtos é um conceito utilizado para cadastrar **apenas um produto** com características diferentes no estoque. Podemos imaginar uma “tabela”, onde as variáveis são as linhas e colunas iniciais.
 
-Por exemplo, uma camiseta pode ser P, M ou G e ser das cores amarelo, azul ou branco. 
+> Por exemplo, pode-se ter um modelo de camiseta nos tamanhos **P**, **M**, **G** e nas cores **laranja**, **preta** e **branca**.
+{.is-success}
+
 
 
 # Kits
