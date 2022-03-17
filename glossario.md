@@ -2,9 +2,10 @@
 title: Glossário
 description: Definição de alguns nomes e siglas usados nas páginas desta ajuda
 published: true
-date: 2020-09-02T13:07:55.349Z
+date: 2022-03-17T12:26:58.673Z
 tags: 
 editor: markdown
+dateCreated: 2019-11-22T17:53:25.624Z
 ---
 
 # Glossário
@@ -15,7 +16,7 @@ Em vários locais nesta ajuda são utilizadas siglas, abreviações e nomes que 
 
 Do mesmo modo que a assinatuta de alguém serve para autenticar um documento impresso, o certificado digital é usado para autenticar documentos eletrônicos. No contexto do GDOOR WEB, a Nota Fiscal eletrônica.
 
-O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo GDOOR WEB é o **A1**.
+O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo Gweb é o **A1**.
 
 ## CEST
 
@@ -76,7 +77,7 @@ Para saber qual é a NCM de uma mercadoria que sua empresa comercializa, consult
 
 De modo abrangente, WebService é um serviço que permite integração entre dois ou mais sistemas. Por ser Web, é um serviço na nuvem, que permite que os sistemas conectados sejam fisicamente independentes. 
 
-No contexto do GDOOR WEB, geralmente estará se referindo aos WebServices da [SEFAZ](/glossario/sefaz/), que são os servidores que recebem as NF-e enviadas pelos contribuintes, além de outros serviços fornecidos.
+No contexto do Gweb, geralmente estará se referindo aos WebServices da [SEFAZ](/glossario/sefaz/), que são os servidores que recebem as NF-e enviadas pelos contribuintes, além de outros serviços fornecidos.
 
 ## XML
 
