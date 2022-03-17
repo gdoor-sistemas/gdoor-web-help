@@ -1,8 +1,8 @@
 ---
 title: Usuários
-description: Veja como controlar quem tem acesso ao seu GDOOR WEB
+description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2021-07-22T17:42:46.101Z
+date: 2022-03-17T12:24:20.707Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -11,7 +11,7 @@ dateCreated: 2020-01-03T19:51:56.610Z
 # Introdução
 
 É possível [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](/configuracoes/usuarios#permissões-do-usuário) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), será concedido o acesso ao sistema.
-Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizam o GDOOR WEB.
+Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizam o Gweb.
 
 # Lista de usuários
 
@@ -49,14 +49,14 @@ Para confirmar o cadastro, o usuário deve acessar o e-mail informado e clicar e
 
 ![4_email_confirmação.png](/config/usuários/4_email_confirmação.png)
 
-Haverá o direcionamento para a página do GDOOR WEB para a "**confirmação do vínculo**".
+Haverá o direcionamento para a página do Gweb para a "**confirmação do vínculo**".
 Clique em "**entrar**", informe o e-mail e cadastre uma senha para acessar o sistema.
 
 ![5_confirmação.png](/config/usuários/5_confirmação.png)
 
 # Multilogin
 
-Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresas que utilizam o GDOOR WEB.
+Com apenas um e-mail e senha cadastrados é possível acessar diferentes empresas que utilizam o Gweb.
 
 Para isso, o administrador da empresa deve [cadastrar o usuário](/configuracoes/usuarios#cadastrar-novo-usuário) que deseja conceder o acesso.
 
