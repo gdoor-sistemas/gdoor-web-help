@@ -1,8 +1,8 @@
 ---
 title: Pedidos de venda
-description: Veja como registrar seus pedidos de venda no GDOOR WEB
+description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2021-07-22T17:44:22.589Z
+date: 2022-03-17T12:08:24.747Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -190,7 +190,7 @@ Visível para todos os pedidos de venda com status aberto ou faturado. Envia um 
 
 <span class="mat-button mdi mdi-printer"> imprimir</span>
 
-Visível para todos os pedidos de venda com status aberto ou faturado. Permite visualizar o pedido de venda em PDF no [visualizador de PDF](https://help.gdoorweb.com.br/dicas/visualizador-pdf) do GDOOR WEB e imprimi-lo se desejar.
+Visível para todos os pedidos de venda com status aberto ou faturado. Permite visualizar o pedido de venda em PDF no [visualizador de PDF](https://help.gdoorweb.com.br/dicas/visualizador-pdf) do Gweb e imprimi-lo se desejar.
 
 <span class="mat-button mdi mdi-delete"> excluir</span>
 
