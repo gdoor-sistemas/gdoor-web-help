@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-17T13:46:43.840Z
+date: 2022-03-17T14:13:33.457Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -30,15 +30,19 @@ Seção para identificação do produto.
 
 ![Identificação.png](/produtos/3_identificação.png)
 
-- **Nome**:
-- **Unidade de medida**:
-- **IPPT**:
-- **Tipo de mercadoria**:
-- **Comissão**:
-- **Observações**:
-- **Imagem**:
-- **Grade**:
-- **Nº de série**:
+- **Nome**: informe a descrição do produto;
+- **Unidade de medida**: informe ou adicione mais uma unidade de medida (<em class="mdi mdi-plus"></em>);
+- **IPPT**: informe se é produção **própria** ou de **terceiros**;
+- **Tipo de mercadoria**: informe se é **mercadoria para revenda**, **material de uso e consumo** entre outros;
+- **Comissão**: comissão do produto;
+- **Observações**: informação adicional para o produto, se adicionada entre as tags também irá para a NF-e;
+- **Imagem**: selecione um arquivo ou tire uma foto do produto;
+- **Grade**: ao marcar o checkbox a seção para **seleção da grade** será mostrada:
+
+![grade.png](/produtos/grade.png)
+- **Nº de série**: ao marcar o checkbox a seção para **gerenciar números de série** será mostrada:
+
+![números de série.png](/produtos/número_serie.png)
 
 ## Categorias
 
