@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-17T18:51:42.568Z
+date: 2022-03-17T18:52:08.205Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -58,7 +58,7 @@ Você pode selecionar na lista de [categorias](#categorias) já cadastradas ou d
 
 ![Categorias.png](/produtos/4_categorias.png)
 
-> Produtos cosméticos por exemplo, podem ser divididos em categorias de maquiagem, perfumaria, tratamento, cabelos, entre outras.
+> Produtos **cosméticos** por exemplo, podem ser divididos em categorias de: maquiagem, perfumaria, tratamento, cabelos, entre outras.
 {.is-success}
 
 
