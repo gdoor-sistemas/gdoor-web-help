@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T18:35:01.949Z
+date: 2022-03-18T19:21:52.662Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -61,7 +61,6 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 > Produtos **cosméticos** por exemplo, podem ser divididos em categorias de: maquiagem, perfumaria, tratamento, cabelos, entre outras.
 {.is-success}
 
-
 ## Detalhes
 
 Seção para informar os detalhes do produto.
@@ -70,14 +69,14 @@ Seção para informar os detalhes do produto.
 
 - **Descrição adicional**: descrição adicional do produto;
 - **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi ">adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi ">confirmar</span>;
-- **Referência**: codigo proprio para busca (nf-e e nfc-e)
+- **Referência**: neste campo um **código próprio** pode ser informado. Esse código poderá ser utilizado para busca do produto na NF-e e NFC-e;
 - **Peso líquido**: peso em quilogramas por unidade do produto;
 - **Peso bruto**: peso total do produto (soma do peso do produto e o peso da embalagem);
 - **Quantidade em estoque**: quantidade atual do produto presente no estoque;
 - **Quantidade mínima**: informe a quantidade ideal para o produto em questão. Com a informação deste campo, é possível gerar um relatório de **produtos na quantidade limite**;
 - **Custo de compra**: custo da última compra do produto;
-- **Custo médio**: manualmente
-- **Margem de lucro bruto**: manual
+- **Custo médio**: pode ser informado manualmente;
+- **Margem de lucro bruto**: pode ser informado manualmente;
 - **Preço de venda**: informe o preço de venda para a comercialização do produto.
 
 ## Informações tributárias
@@ -90,10 +89,14 @@ Seção para informações tributárias do produto.
 - **NCM**: a Nomenclatura Comum do MERCOSUL é o código fiscal que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como NFC-e e NF-e. Ao clicar na "lupa" ao lado do campo é possível **procurar NCM** pelo código ou pela descrição;
 - **CEST**: o Código Especificador da Substituição Tributária possui 7 dígitos e dece ser preenchido de acordo com cada produto. Ao clicar na "lupa" ao lado do campo é possível **procurar CEST** pelo código ou pela descrição; 
 - **ANP**: código a ser informado em produtos lubrificantes, combustíveis e derivados do petróleo;
+No cadastro de **gás de cozinha (GLP)**, ao informar o código ANP, a seção abaixo será habilitada para inclusão das informações de "**perc. GLP**", "**perc. GLGNn**", "**perc. GLGNi**" e "**valor de partida**":
+
+![anp.png](/produtos/anp.png)
+
 - **Escala relevante**: indique se o produto é:
 **Produzido em escala relevante**: bens e mercadorias sujeitas a Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
 **Produzido em escala *não* relevante**: produção realizada por empresas optantes pelo Simples Nacional, constituídas por um único estabelecimento e que tenham auferido nos últimos 12 meses, receita bruta de até R$ 180 mil. Neste caso, na entrada de mercadoria o produto não possuirá o Cálculo do ST e para as saídas não serão destacadas as substituições tributárias.
-- **CNPJ do fabricante**: obrigatório informar quando o produto for **produzido em escala não relevante**.
+- **CNPJ do fabricante**: obrigatório informar o CNPJ do fabricante quando o produto for **produzido em escala não relevante**.
 
 ## Tributação
 
@@ -104,9 +107,13 @@ Seção para vincular regras de tributação para o produto.
 
 ![Tributação](/produtos/7_tributação.png)
 
-Clique no botão <span class="mat-button mdi ">vincular regra</span> e selecione uma regra para vinculação, em seguida clique em <span class="mat-button mdi ">confirmar</span>.
+Para vincular uma regra, clique no botão <span class="mat-button mdi ">vincular regra</span> e selecione a desejada, em seguida clique em <span class="mat-button mdi ">confirmar</span>.
 
-![vincular_regra.png](/produtos/vincular_regra.png)
+![Vincular_ regra](/produtos/vincular_regra.png)
+
+Ao clicar no botão (<em class="mdi mdi-eye"></em>) é possível visualizar os detalhes da regra vinculada.
+
+![Detalhes da regra](/produtos/detalhes_da_regra.png)
 
 # Categorias
 
