@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T17:14:12.081Z
+date: 2022-03-18T17:39:35.215Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -14,7 +14,7 @@ Este módulo permite que você cadastre os produtos que serão utilizados nas ve
 
 Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
 
-![Tela inicial do módulo.png](/produtos/1_novo.png)
+![Tela inicial do módulo](/produtos/1_novo.png)
 
 # Produtos
 
@@ -22,13 +22,13 @@ Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: *
 
 A tela para "**novo cadastro**" será aberta:
 
-![Tela novo cadastro de produto.png](/produtos/2_novo.png)
+![Novo cadastro de produto](/produtos/2_novo.png)
 
 ## Identificação
 
 Seção para identificação do produto.
 
-![Identificação.png](/produtos/3_identificação.png)
+![Identificação](/produtos/3_identificação.png)
 
 - **Nome**: informe o nome do produto;
 - **Unidade de medida**: indique a unidade desejada ou clique em (<em class="mdi mdi-plus"></em>) para utilizar **unidades de medida adicionais** e **fator de conversão**;
@@ -39,14 +39,14 @@ Seção para identificação do produto.
 - **Imagem**: selecione um arquivo ou tire uma foto do produto;
 - **Grade**: ao marcar o checkbox a seção para "**seleção da grade**" será mostrada:
 
-![grade.png](/produtos/grade.png)
+![Grade](/produtos/grade.png)
 
 > A [grade](#grades) já precisa estar cadastrada.
 {.is-info}
 
 - **Nº de série**: ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
 
-![números de série.png](/produtos/número_serie.png)
+![Números de série](/produtos/número_serie.png)
 
 Para adicionar clique em <span class="mat-button mdi "> gerenciar números de série</span> e em seguida em <span class="mat-button mdi "> adicionar nº de série</span>. Informe o número e clique em <span class="mat-button mdi "> confirmar</span>.
 
@@ -56,7 +56,7 @@ As categorias de produtos são uma forma de classificar e organizar as mercadori
 
 Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastradas ou digitar o nome da categoria e pressionar <span class="mat-button mdi "> enter</span> para **criar uma nova**.
 
-![Categorias.png](/produtos/4_categorias.png)
+![Categorias](/produtos/4_categorias.png)
 
 > Produtos **cosméticos** por exemplo, podem ser divididos em categorias de: maquiagem, perfumaria, tratamento, cabelos, entre outras.
 {.is-success}
@@ -64,7 +64,7 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Detalhes
 
-![Detalhes.png](/produtos/5_detalhes.png)
+![Detalhes](/produtos/5_detalhes.png)
 
 - **Descrição adicional**: descrição adicional do produto;
 - **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi ">adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi ">confirmar</span>;
@@ -80,7 +80,7 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Informações tributárias
 
-![Informações tributárias.png](/produtos/6_informações_tributárias.png)
+![Informações tributárias](/produtos/6_informações_tributárias.png)
 
 - **Origem**: indique a origem do produto, se é **nacional** ou **estrangeira**;
 - **NCM**: a Nomenclatura Comum do MERCOSUL é o código fiscal que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como NFC-e e NF-e. Ao clicar na "lupa" ao lado do campo é possível **procurar NCM** pelo código ou pela descrição;
@@ -93,7 +93,7 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Tributação
 
-![Tributação.png](/produtos/7_tributação.png)
+![Tributação](/produtos/7_tributação.png)
 
 
 # Categorias
@@ -102,7 +102,7 @@ As categorias de produtos são uma forma de classificar e organizar as mercadori
 
 Para adicionar uma categoria basta clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso categorias, no painel lateral da página.
 
-![nova_categoria.png](/produtos/nova_categoria.png)
+![Nova categoria](/produtos/nova_categoria.png)
 
 Identifique a categoria como desejar e clique em <span class="mat-button mdi "> salvar</span>.
 
@@ -120,8 +120,12 @@ Para **adicionar uma grade**, clique no botão de adição (<em class="mdi mdi-p
 
 Digite o "**nome**" da grade, um "**título para as linhas**" e outro "**título para as colunas**". Utilize os botões (<em class="mdi mdi-plus"></em>) para adicionar linhas e colunas, insira o nome e clique em <span class="mat-button mdi "> confirmar</span>.
 
-![nova_grade.png](/produtos/nova_grade.png)
+![Nova grade](/produtos/nova_grade.png)
 
 Após a inclusão das linhas e colunas desejadas, basta clicar para <span class="mat-button mdi "> salvar</span> a grade.
+
+Lista com as grades cadastradas:
+
+![Lista de grades](/produtos/lista_grades.png)
 
 # Kits
