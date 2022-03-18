@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T17:02:56.049Z
+date: 2022-03-18T17:14:12.081Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -41,7 +41,7 @@ Seção para identificação do produto.
 
 ![grade.png](/produtos/grade.png)
 
-> A [grade](#grades) precisa estar cadastrada.
+> A [grade](#grades) já precisa estar cadastrada.
 {.is-info}
 
 - **Nº de série**: ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
@@ -89,11 +89,9 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 - **Escala relevante**: indique se o produto é:
 **Produzido em escala relevante**: bens e mercadorias sujeitas a Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
 **Produzido em escala *não* relevante**: produção realizada por empresas optantes pelo Simples Nacional, constituídas por um único estabelecimento e que tenham auferido nos últimos 12 meses, receita bruta de até R$ 180 mil. Neste caso, na entrada de mercadoria o produto não possuirá o Cálculo do ST e para as saídas não serão destacadas as substituições tributárias.
-- **CNPJ do fabricante**: obrigatório quando o produto for produzido em **escala não relevante**.
+- **CNPJ do fabricante**: obrigatório informar quando o produto for **produzido em escala não relevante**.
 
 ## Tributação
-
-
 
 ![Tributação.png](/produtos/7_tributação.png)
 
