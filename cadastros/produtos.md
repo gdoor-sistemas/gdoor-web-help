@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T20:03:26.800Z
+date: 2022-03-18T20:06:39.190Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -39,7 +39,7 @@ Seção para identificação do produto.
 - **Imagem**: selecione um arquivo ou tire uma foto do produto;
 - **Grade**: ao marcar o checkbox a seção para "**seleção da grade**" será mostrada:
 
-![Grade](/produtos/grade.png)
+![Selecione a grade](/produtos/grade_1.png)
 
 > A [grade](#grades) já precisa estar cadastrada.
 {.is-info}
