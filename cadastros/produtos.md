@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T18:09:19.297Z
+date: 2022-03-18T18:27:42.767Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -70,14 +70,14 @@ Seção para informar os detalhes do produto.
 
 - **Descrição adicional**: descrição adicional do produto;
 - **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi ">adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi ">confirmar</span>;
-- **Referência**:
+- **Referência**: codigo proprio para busca (nf-e e nfc-e)
 - **Peso líquido**: peso em quilogramas por unidade do produto;
 - **Peso bruto**: peso total do produto (soma do peso do produto e o peso da embalagem);
 - **Quantidade em estoque**: quantidade atual do produto presente no estoque;
 - **Quantidade mínima**: informe a quantidade ideal para o produto em questão. Com a informação deste campo, é possível gerar um relatório de **produtos na quantidade limite**;
 - **Custo de compra**: custo da última compra do produto;
-- **Custo médio**: campo calculado pelo sistema, faz uma média entre os valores de todas as compras;
-- **Margem de lucro bruto**: percentual de valor a ser aplicado sobre o preço de custo de compra para gerar o preço de venda;
+- **Custo médio**: manualmente
+- **Margem de lucro bruto**: manual
 - **Preço de venda**: informe o preço de venda para a comercialização do produto.
 
 ## Informações tributárias
