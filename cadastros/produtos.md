@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T18:27:42.767Z
+date: 2022-03-18T18:35:01.949Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -120,6 +120,8 @@ Identifique a categoria como desejar e clique em <span class="mat-button mdi "> 
 
 > Produtos de **vestuário** por exemplo, podem ser divididos em categorias de: blazers, blusas, camisetas, calças, jaquetas, vestidos entre outras.
 {.is-success}
+
+Após ser indicada em um produto, não será mais possivel adicionar linhas ou colunas.
 
 # Grades
 
