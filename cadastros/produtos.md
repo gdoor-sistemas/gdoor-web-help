@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T14:14:37.507Z
+date: 2022-03-18T14:31:53.455Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -82,9 +82,12 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ![Informações tributárias.png](/produtos/6_informações_tributárias.png)
 
-Código NCM: a Nomenclatura Comum do MERCOSUL é um código fiscal que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como NFC-e e NF-e. Ao clicar 
-
-Código CEST: CEST – Código Especificador da Substituição Tributária – 7 dígitos que deverão ser preenchidos de acordo com cada produto. Nas notas de entrada este código também será apresentado, qualquer dúvida será necessário verificar com seu contador.
+- **Origem**: indique a origem do produto, se é **nacional** ou **estrangeira**;
+- **NCM**: a Nomenclatura Comum do MERCOSUL é o código fiscal que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como NFC-e e NF-e. Ao clicar na "lupa" ao lado do campo é possível **procurar NCM** pelo código ou pela descrição;
+- **CEST**: o Código Especificador da Substituição Tributária possui 7 dígitos e dece ser preenchido de acordo com cada produto. Ao clicar na "lupa" ao lado do campo é possível **procurar CEST** pelo código ou pela descrição; 
+- **ANP**: código a ser informado em produtos lubrificantes, combustíveis e derivados do petróleo;
+- **Escala relevante**: indique se o produto é produzido em **escala relevante** (bens e mercadorias que podem não se submeter ao regime de Substituição Tributária) ou **escala não relevante** (produção realizada por empresas optantes pelo Simples Nacional, constituídas por um único estabelecimento e que tenham auferido nos últimos 12 meses, receita bruta de até R$ 180 mil);
+- **CNPJ do fabricante**:
 
 ## Tributação
 
