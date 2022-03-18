@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T13:04:22.520Z
+date: 2022-03-18T13:51:08.480Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -66,23 +66,25 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ![Detalhes.png](/produtos/5_detalhes.png)
 
-- **Descrição adicional**:
-- **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi "> adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi "> confirmar</span>;
+- **Descrição adicional**: descrição adicional do produto;
+- **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi ">adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi ">confirmar</span>;
 - **Referência**:
-- **Peso líquido**:
-- **Peso bruto**:
-- **Quantidade em estoque**:
-- **Quantidade mínima**:
-- **Custo de compra**:
-- **Custo médio**:
-- **Margem de lucro bruto**:
-- **Preço de venda**:
+- **Peso líquido**: peso em quilogramas por unidade do produto;
+- **Peso bruto**: peso total do produto (soma do peso do produto e o peso da embalagem);
+- **Quantidade em estoque**: quantidade atual do produto presente no estoque;
+- **Quantidade mínima**: informe a quantidade ideal para o produto em questão. Com a informação deste campo, é possível gerar um relatório de **produtos na quantidade limite**;
+- **Custo de compra**: custo da última compra do produto;
+- **Custo médio**: campo calculado pelo sistema, faz uma média entre os valores de todas as compras;
+- **Margem de lucro bruto**: percentual de valor a ser aplicado sobre o preço de custo de compra para gerar o preço de venda;
+- **Preço de venda**: informe o preço de venda para a comercialização do produto.
 
 ## Informações tributárias
 
-
-
 ![Informações tributárias.png](/produtos/6_informações_tributárias.png)
+
+Código NCM: Código fiscal denominado NCM (Nomenclatura Comum do MERCOSUL). É o código que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como cupom fiscal e NF-e. O GDOOR possui uma tabela interna de códigos NCM (com mais de 11 mil códigos), que pode ser acessada clicando no botão a esquerda do campo.
+
+Código CEST: CEST – Código Especificador da Substituição Tributária – 7 dígitos que deverão ser preenchidos de acordo com cada produto. Nas notas de entrada este código também será apresentado, qualquer dúvida será necessário verificar com seu contador.
 
 ## Tributação
 
