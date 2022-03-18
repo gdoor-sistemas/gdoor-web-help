@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T17:39:35.215Z
+date: 2022-03-18T18:09:19.297Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -64,6 +64,8 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Detalhes
 
+Seção para informar os detalhes do produto.
+
 ![Detalhes](/produtos/5_detalhes.png)
 
 - **Descrição adicional**: descrição adicional do produto;
@@ -80,6 +82,8 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Informações tributárias
 
+Seção para informações tributárias do produto.
+
 ![Informações tributárias](/produtos/6_informações_tributárias.png)
 
 - **Origem**: indique a origem do produto, se é **nacional** ou **estrangeira**;
@@ -93,8 +97,16 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 ## Tributação
 
+Seção para vincular regras de tributação para o produto.
+
+> Para saber mais sobre a configuração de impostos e [regras de tributacao clique aqui](/configuracoes/impostos/regras-de-tributacao).
+{.is-info}
+
 ![Tributação](/produtos/7_tributação.png)
 
+Clique no botão <span class="mat-button mdi ">vincular regra</span> e selecione uma regra para vinculação, em seguida clique em <span class="mat-button mdi ">confirmar</span>.
+
+![vincular_regra.png](/produtos/vincular_regra.png)
 
 # Categorias
 
