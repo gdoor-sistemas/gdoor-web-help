@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2021-03-08T18:22:02.594Z
+date: 2022-03-18T17:57:13.590Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -10,17 +10,20 @@ dateCreated: 2021-03-04T22:09:45.909Z
 
 # Introdução
 
-Configuração de impostos é geralmente uma tarefa confusa, difícil de entender e muito trabalhosa. Essa parte do GDOOR WEB foi desenvolvida tendo como foco principal a praticidade, para que o usuário possa fazer isso sem muita dor de cabeça. Ainda é importante que isso seja feito com a ajuda de um responsável pela contabilidade da empresa, pois documentos com a declaração de impostos incorreta podem acarretar em pagamento de imposto indevido, multa, ou pode ser necessário depois de um tempo, pagar impostos atrasados.
+A configuração de impostos no Gweb foi desenvolvida com foco na praticidade, para que o usuário possa fazer isso facilmente.
+É importante que isso seja feito com a ajuda de um responsável pela contabilidade da empresa.
 
-O GDOOR WEB já vem com uma configuração genérica pré-definida, que pode ser alterada e/ou incrementada. Os impostos abrangidos pelo serviço, são os incidentes sobre a circulação de mercadorias: [ICMS](/glossario#icms), [ICMS ST](/glossario#icms-st), [FCP](/glossario#fcp), [IPI](/glossario#ipi), [PIS](/glossario#pis) e [COFINS](/glossario#cofins).
+O Gweb já possui uma configuração  pré-definida, que pode ser alterada e/ou incrementada. Os impostos abrangidos pelo serviço, são os incidentes sobre a circulação de mercadorias: [ICMS](/glossario#icms), [ICMS ST](/glossario#icms-st), [FCP](/glossario#fcp), [IPI](/glossario#ipi), [PIS](/glossario#pis) e [COFINS](/glossario#cofins).
 
 Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configurações** no menu principal do sistema:
 
 [![Acessar configurações de impostos](/config/impostos/acessar-config-imposto.png)](/config/impostos/acessar-config-imposto.png){.fancybox}
 
-Primariamente, o sistema vem com algumas configurações pré-definidas que podem ser alteradas. Dentre elas, o sistema tem uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. O vínculo entre a configuração de imposto e o produto pode ser a [natureza da operação](/cadastros/operacoes) ou a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
+O Gweb possui algumas configurações pré-definidas que podem ser alteradas. Dentre elas, o sistema tem uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. 
 
-![Como é feito o vínculo entre produto e tributação do GDOOR WEB](/config/impostos/vinculo-produto-imposto.png =800x)
+O vínculo entre a configuração de imposto e o produto pode ser a [natureza da operação](/cadastros/operacoes) ou a [NCM](/glossario#ncm), você informa a faixa de NCM que a regra abrange, e os produtos cuja NCM estiverem dentro dessa faixa, serão vinculados a esta regra. O gráfico abaixo representa como o vínculo é feito: há 3 regras disponíveis, cada uma abrangendo uma faixa de NCM e o produto possui uma NCM que está dentro da faixa abrangida por uma regra.
+
+![Como é feito o vínculo entre produto e tributação do Gweb](/config/impostos/vinculo-produto-imposto.png =800x)
 
 Deste modo, 4 das configurações iniciais abrangem todos os produtos que forem cadastrados com NCM, pois elas abrangem a faixa de NCM de **0000.00.01** a **9999.99.99**.
 
@@ -32,7 +35,7 @@ De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [
 
 # Criando uma regra
 
-Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O GDOOR WEB possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada um dos passos desse assistente, que são:
+Para criar uma regra personalizada de tributação, clique no botão de adição no canto inferior direito da tela e será direcionado para o formulário de adição de regra. O Gweb possui um assistente para criação de regras para facilitar esse processo, abaixo iremos detalhar cada um dos passos desse assistente, que são:
 
 - [Identificação](#identificacao)
 - [Vínculos](#vinculos)
@@ -44,7 +47,8 @@ Para criar uma regra personalizada de tributação, clique no botão de adição
 
 ## Identificação
 
-No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar; é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
+No primeiro passo você precisa definir um **nome** para identificar a regra e o tipo de **operação** que ela vai abranger. 
+No campo **descrição** você pode detalhar o objetivo da regra e em que tipo de situação ela vai se encaixar, é um campo opcional e apenas informativo. As opções de operação são aplicáveis nas seguintes situações, em sua respectiva ordem de prioridade:
 
 - **Produtos importados**: Quando o produto tem origem estrangeira. Isto é indicado pelo campo **Origem** no [cadastro do produto](/cadastros/produtos).
 - **Consumidor final**: Quando a NF-e está marcada como operação para consumidor final.
@@ -58,17 +62,20 @@ No primeiro passo você precisa definir um **nome** para identificar a regra e o
 
 ![Vínculos possíveis para a regra](/config/impostos/regra-vinculos.gif)
 
-Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, caso você escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span> e, no diálogo que aparecer, informe o código específico ou a faixa de NCM.
+Neste passo você pode definir se esta regra será vinculada aos produtos por **NCM**, por **CEST** ou se vai deixar **sem vínculo**. 
+Em qualquer uma das 3 opções, a regra ainda pode ser vinculada diretamente ao produto. Caso você escolha vínculo por NCM ou CEST, deve informar quais NCM/CEST vão direcionar para esta regra. Por exemplo, caso você escolha o vínculo por NCM, clique no botão <span class=mat-button>Vincular NCM</span> e, no diálogo que aparecer, informe o código específico ou a faixa de NCM.
 
 ![Adicionar vínculo por NCM](/config/impostos/modal-vinculo-ncm.png =400x)
 
 ### Exceções{#excecao}
 
-Quando houver uma exceção dentro de uma faixa de código, você pode adicionar essa exceção clicando no botão <span class=mat-button>Exceção</span>. Assim, o vínculo já existente será recriado contornando essa exceção. Por exemplo: Suponhamos que haja uma regra que compreenda 2 grupos de NCM consecutivos: 24 e 25. Então, a faixa de NCM seria **2400.00.00** a **2599.99.99**. Aí você adiciona uma exceção, que é o **2501.00.00**. O novo vinculo ficará com duas faixas: **2400.00.00** a **2500.99.99**, e também **2501.00.01** a **2599.99.99**.
+Quando houver uma exceção dentro de uma faixa de código, você pode adicionar essa exceção clicando no botão <span class=mat-button>Exceção</span>. Assim, o vínculo já existente será recriado contornando essa exceção. 
+Por exemplo: Suponhamos que haja uma regra que compreenda 2 grupos de NCM consecutivos: 24 e 25. Então, a faixa de NCM seria **2400.00.00** a **2599.99.99**. Aí você adiciona uma exceção, que é o **2501.00.00**. O novo vinculo ficará com duas faixas: **2400.00.00** a **2500.99.99**, e também **2501.00.01** a **2599.99.99**.
 
 ![Adicionar exceção](/config/impostos/excecao.png)
 
-Ao adicionar um código ou faixa para o vínculo – seja NCM ou CEST – o sistema verificará se não há conflito com outra regra para a mesma operação. Por exemplo: supondo que a **Regra 1**, para operações com **produtos importados** abrangesse a faixa de NCM **0101.00.00** até **0201.99.99**. E a **Regra 2**, também para **produtos importados** abrangesse de **0200.00.00** até **0299.99.99**. Se um determinado produto tivesse a NCM **0200.01.01**, o sistema não saberia qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
+Ao adicionar um código ou faixa para o vínculo – seja NCM ou CEST – o sistema verificará se não há conflito com outra regra para a mesma operação. 
+Por exemplo: supondo que a **Regra 1**, para operações com **produtos importados** abrangesse a faixa de NCM **0101.00.00** até **0201.99.99**. E a **Regra 2**, também para **produtos importados** abrangesse de **0200.00.00** até **0299.99.99**. Se um determinado produto tivesse a NCM **0200.01.01**, o sistema não saberia qual regra aplicar porque há duas conflitando. Por este motivo, o sistema não pode aceitar que duas regras para a mesma operação dentro da mesma faixa de NCM.
 
 Assim, se duas faixas em regras diferentes para uma mesma operação se interceptarem, será mostrada uma confirmação para adicionar exceção na outra regra, para que não haja conflito. No caso do exemplo citado acima, a mensagem seria assim:
 
@@ -80,7 +87,8 @@ Em caso de confirmação neste exemplo, o que aconteceria seria o seguinte: A **
 
 ### Vínculo por CEST
 
-Configurar uma regra e vincular pelo CEST é considerado uma exceção. Isso porque a tributação é definida pela NCM. O CEST é um código que especifica o produto quanto à **substituição tributária**, portanto, uma NCM pode ter vários CEST vinculados a ela. Assim sendo, quando você escolher o vínculo por CEST, apenas a configuração de ICMS ST ([veja mais abaixo](#icms-st)) será habilitada. O padrão de vínculo é o mesmo utilizado para a NCM.
+Configurar uma regra e vincular pelo CEST é considerado uma exceção. Isso porque a tributação é definida pela NCM. O CEST é um código que especifica o produto quanto à **substituição tributária**, portanto, uma NCM pode ter vários CEST vinculados a ela. 
+Assim sendo, quando você escolher o vínculo por CEST, apenas a configuração de ICMS ST ([veja mais abaixo](#icms-st)) será habilitada. O padrão de vínculo é o mesmo utilizado para a NCM.
 
 ## Tipo de imposto
 
@@ -159,9 +167,10 @@ O último passo contém todos os dados como você configurou nos passos anterior
 
 # Como são aplicadas as regras de tributação na nota fiscal
 
-Ao criar uma regra você pode determinar o tipo de operação em que ela se aplica. As opções disponíveis são as mais comuns onde o imposto pode variar. Há várias outras situações possíveis, mas configurar todas elas seria um processo muito complicado. Por isso, no GDOOR WEB você pode configurar regras que se apliquem em determinados cenários, mas ainda pode criar regras e fazer vínculos específicos para o caso de exceções.
+No Gweb você pode configurar regras que se apliquem em determinados cenários, mas ainda pode criar regras e fazer vínculos específicos para o caso de exceções.
 
-As regras são aplicadas quando você adiciona um produto na nota fiscal ou altera o cenário dela, que envolve a UF do cliente, a natureza da operação ou a indicação de consumidor final. Para cada produto, o sistema buscará todas as regras que se aplicam a ele naquela operação, e aplica os cálculos seguindo uma ordem de prioridade. A ordem de prioridade é:
+As regras são aplicadas quando você adiciona um produto na nota fiscal ou altera o cenário dela, que envolve a UF do cliente, a natureza da operação ou a indicação de consumidor final. 
+Para cada produto, o sistema buscará todas as regras que se aplicam a ele naquela operação, e aplica os cálculos seguindo uma ordem de prioridade. A ordem de prioridade é:
 
 1. Regra vinculada com a natureza da operação
 1. Regra vinculada diretamente com o produto
@@ -172,7 +181,8 @@ As regras são aplicadas quando você adiciona um produto na nota fiscal ou alte
 1. Regra vinculada pelo CEST do produto (somente [ICMS ST](/glossario#icms-st))
 1. Outra configuração de operação geral, caso não tenha sido encontrada configuração para o imposto nas regras anteriores. Naturalmente, somente serão consideradas operações que tenham algum vínculo com o produto, seja direto, por NCM ou pela operação da nota.
 
-A aplicação dos impostos é feita conforme os impostos forem encontrados nas regras. Como assim? Um exemplo: se você configurar apenas ICMS em uma regra e vinculá-la com a operação, o sistema aplicará o ICMS dessa regra, e os demais impostos serão buscados das outras regras aplicáveis, seguindo a ordem de prioridade listada acima. Veja isso na tabela abaixo. As linhas são as regras aplicáveis já ordenadas de acordo com a prioridade. As colunas são os impostos configurados em cada regra. A última linha é o que será aplicado no item da nota fiscal.
+A aplicação dos impostos é feita conforme os impostos forem encontrados nas regras. Por exemplo: se você configurar apenas ICMS em uma regra e vinculá-la com a operação, o sistema aplicará o ICMS dessa regra, e os demais impostos serão buscados das outras regras aplicáveis, seguindo a ordem de prioridade listada acima. Veja isso na tabela abaixo. 
+As linhas são as regras aplicáveis já ordenadas de acordo com a prioridade. As colunas são os impostos configurados em cada regra. A última linha é o que será aplicado no item da nota fiscal.
 
 |Regra       |ICMS  |ICMS ST|IPI    |PIS   |COFINS|
 |------------|:----:|:-----:|:-----:|:----:|:----:|
