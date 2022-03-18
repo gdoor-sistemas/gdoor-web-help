@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T19:36:29.023Z
+date: 2022-03-18T19:38:05.363Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -94,7 +94,7 @@ Seção para informações tributárias do produto.
 ![anp.png](/produtos/anp.png)
 
 - **Escala relevante**: indique se o produto é:
-**» Produzido em escala relevante**: bens e mercadorias sujeitas a Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
+**» Produzido em escala relevante**: bens e mercadorias sujeitas à Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
 **» Produzido em escala *não* relevante**: produção realizada por empresas optantes pelo Simples Nacional, constituídas por um único estabelecimento e que tenham auferido nos últimos 12 meses, receita bruta de até R$ 180 mil. Neste caso, na entrada de mercadoria o produto não possuirá o Cálculo do ST e para as saídas não serão destacadas as substituições tributárias.
 - **CNPJ do fabricante**: obrigatório informar o CNPJ do fabricante quando o produto for **produzido em escala não relevante**.
 
@@ -102,7 +102,7 @@ Seção para informações tributárias do produto.
 
 Seção para vincular regras de tributação para o produto.
 
-> Para saber mais sobre a configuração de impostos e [regras de tributacao clique aqui](/configuracoes/impostos/regras-de-tributacao).
+> Para saber mais sobre a configuração de impostos e [regras de tributação clique aqui](/configuracoes/impostos/regras-de-tributacao).
 {.is-info}
 
 ![Tributação](/produtos/7_tributação.png)
@@ -125,7 +125,7 @@ Para adicionar uma categoria basta clicar no botão de adição (<em class="mdi 
 
 Identifique a categoria como desejar e clique em <span class="mat-button mdi "> salvar</span>.
 
-> Produtos de **vestuário** por exemplo, podem ser divididos em categorias de: blazers, blusas, camisetas, calças, jaquetas, vestidos entre outras.
+> Produtos de **vestuário**, por exemplo, podem ser divididos em categorias de: blazers, blusas, camisetas, calças, jaquetas, vestidos entre outras.
 {.is-success}
 
 # Grades
