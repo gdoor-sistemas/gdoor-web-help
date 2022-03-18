@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T19:38:05.363Z
+date: 2022-03-18T20:03:26.800Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -43,6 +43,10 @@ Seção para identificação do produto.
 
 > A [grade](#grades) já precisa estar cadastrada.
 {.is-info}
+
+Selecione a grade desejada
+Clique em editar "**propriedades da grade**"
+Escolha a "**informação a ser editada**", coloque as quantidades e clique em salvar
 
 - **Nº de série**: ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
 
@@ -135,7 +139,7 @@ A grade de produtos é um conceito utilizado para cadastrar **apenas um produto*
 > Por exemplo, pode-se ter um modelo de camiseta nos tamanhos **P**, **M**, **G** e nas cores **laranja**, **preta** e **branca**.
 {.is-success}
 
-Para **adicionar uma grade**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades, no painel lateral da página.
+Para **adicionar uma grade**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
 
 Digite o "**nome**" da grade, um "**título para as linhas**" e outro "**título para as colunas**". Utilize os botões (<em class="mdi mdi-plus"></em>) para adicionar linhas e colunas, insira o nome e clique em <span class="mat-button mdi "> confirmar</span>.
 
@@ -151,3 +155,5 @@ Lista com as grades cadastradas:
 {.is-warning}
 
 # Kits
+
+Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
