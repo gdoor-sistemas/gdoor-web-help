@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-21T14:06:41.454Z
+date: 2022-03-21T14:11:45.177Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -56,14 +56,13 @@ Escolha a "**informação a ser editada**", neste caso queremos editar a **quant
 
 ![Editar produto na grade](/produtos/grade_3.png)
 
-Ao visualizar <span class="mat-button mdi ">mais detalhes</span> do produto cadastrado no estoque, observe que cada tamanho/cor gerou um "**subitem**", com seu respectivo código (#1, #2, #3...).
-Ao clicar no código, é possível visualizar as quantidades de cada item da grade:
+Ao visualizar <span class="mat-button mdi ">mais detalhes</span> do produto cadastrado no estoque, observe que cada tamanho/cor gerou um "**subitem**", com seu respectivo código (#1, #2, #3...). Ao clicar no código, é possível visualizar as quantidades de cada item da grade:
 
 ![animação.gif](/produtos/animação.gif) 
 
 <em class="mdi mdi-check-box-outline"></em> **Nº de série**
 
-Ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
+Ao marcar o checkbox, a seção para "**gerenciar números de série**" será mostrada:
 
 ![Números de série](/produtos/número_serie.png)
 
@@ -133,6 +132,8 @@ Para vincular uma regra, clique no botão <span class="mat-button mdi ">vincular
 Ao clicar no botão (<em class="mdi mdi-eye"></em>) é possível visualizar os detalhes da regra vinculada.
 
 ![Detalhes da regra](/produtos/detalhes_da_regra.png)
+
+Após inserir todas as informações, clique em <span class="mat-button mdi ">salvar</span> para que o produto seja adicionado ao estoque.
 
 # Categorias
 
