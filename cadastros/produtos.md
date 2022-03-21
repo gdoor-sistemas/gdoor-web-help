@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-18T20:16:43.568Z
+date: 2022-03-21T11:37:13.177Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -16,7 +16,7 @@ Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: *
 
 ![Tela inicial do módulo](/produtos/1_novo.png)
 
-# Produtos
+# Cadastrar produto
 
 É possível cadastrar um novo produto clicando no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial, ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso produtos, no painel lateral da página conforme a imagem acima.
 
