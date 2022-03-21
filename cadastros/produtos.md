@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-21T12:28:33.590Z
+date: 2022-03-21T14:06:41.454Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -37,21 +37,33 @@ Seção para identificação do produto.
 - **Comissão**: porcentagem de comissão do produto;
 - **Observações**: informação adicional para o produto, se adicionada entre as tags também irá para a NF-e;
 - **Imagem**: selecione um arquivo ou tire uma foto do produto;
-- **Grade**: ao marcar o checkbox a seção para "**seleção da grade**" será mostrada:
+
+
+<em class="mdi mdi-check-box-outline"></em> **Grade**
+
+Ao marcar o checkbox, a seção para "**seleção da grade**" será mostrada:
+
+![Selecione a grade](/produtos/grade_1.png)
 
 > A [grade](#grades) já precisa estar cadastrada.
 {.is-info}
 
-![Selecione a grade](/produtos/grade_1.png)
+**Selecione a grade** desejada e clique em "**editar propriedades na grade**":
 
-Selecione a grade desejada
-Clique em editar "**propriedades da grade**"
-Escolha a "**informação a ser editada**", coloque as quantidades e clique em salvar
-codigo do produto na grade...gif
+![Propriedades da grade](/produtos/grade_2.png)
 
+Escolha a "**informação a ser editada**", neste caso queremos editar a **quantidade atual** no estoque. Coloque as **quantidades desejadas para cada tamanho e cor** e clique em <span class="mat-button mdi ">salvar</span>.
 
+![Editar produto na grade](/produtos/grade_3.png)
 
-- **Nº de série**: ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
+Ao visualizar <span class="mat-button mdi ">mais detalhes</span> do produto cadastrado no estoque, observe que cada tamanho/cor gerou um "**subitem**", com seu respectivo código (#1, #2, #3...).
+Ao clicar no código, é possível visualizar as quantidades de cada item da grade:
+
+![animação.gif](/produtos/animação.gif) 
+
+<em class="mdi mdi-check-box-outline"></em> **Nº de série**
+
+Ao marcar o checkbox a seção para "**gerenciar números de série**" será mostrada:
 
 ![Números de série](/produtos/número_serie.png)
 
