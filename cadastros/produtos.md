@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-21T14:12:25.439Z
+date: 2022-03-21T14:23:04.147Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -173,3 +173,7 @@ Lista das grades cadastradas:
 # Kits
 
 Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
+
+Digite o "**nome**" do kit
+
+clique em <span class="mat-button mdi "> confirmar</span>.
