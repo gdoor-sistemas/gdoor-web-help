@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-21T14:11:45.177Z
+date: 2022-03-21T14:12:25.439Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -163,7 +163,7 @@ Digite o "**nome**" da grade, um "**título para as linhas**" e outro "**título
 
 Após a inclusão das linhas e colunas desejadas, basta clicar para <span class="mat-button mdi "> salvar</span> a grade.
 
-Lista com as grades cadastradas:
+Lista das grades cadastradas:
 
 ![Lista de grades](/produtos/lista_grades.png)
 
