@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-22T14:24:08.940Z
+date: 2022-03-22T14:37:43.283Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:26:26.647Z
 
 # Introdução
 
-Este módulo permite que você cadastre os produtos que serão utilizados nas vendas de NF-e e NFC-e, assim como nas movimentações de compras.
+Este módulo permite que você cadastre os produtos e kits, que serão utilizados nas vendas de NF-e e NFC-e, assim como nas movimentações de compras.
 
 Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
 
@@ -55,6 +55,9 @@ Ao marcar o checkbox, a seção para "**seleção da grade**" será mostrada:
 Escolha a "**informação a ser editada**", neste caso queremos editar a **quantidade atual** no estoque. Coloque as **quantidades desejadas para cada tamanho e cor** e clique em <span class="mat-button mdi ">salvar</span>.
 
 ![Editar produto na grade](/produtos/grade_3.png)
+
+> Outras **informações podem ser editadas pela grade**, como: quantidade mínima, preço de custo, preço de venda, descrição, peso, NCM entre outras...
+{.is-success}
 
 Ao visualizar <span class="mat-button mdi ">mais detalhes</span> do produto cadastrado no estoque, observe que cada tamanho/cor gerou um "**subitem**", com seu respectivo código (#1, #2, #3...). Ao clicar no código, é possível visualizar as quantidades de cada item da grade:
 
