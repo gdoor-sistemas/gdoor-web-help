@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-22T14:13:40.241Z
+date: 2022-03-22T14:17:56.566Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -186,15 +186,12 @@ Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi
 
 ![Novo kit](/produtos/novo_kit.png)
 
-Busque os "**produtos**" desejados pelo **código** ou **descrição**:
-
-![Itens](/produtos/2.png)
-
-Insira a "**quantidade**" e se necessário é possível alterar o **valor unitário** deste produto no kit. Clique em <span class="mat-button mdi "> confirmar</span>.
+Busque os "**produtos**" desejados pelo **código** ou **descrição**. 
+Insira a "**quantidade**" e se preferir, é possível alterar o **valor unitário** desse produto no kit. Clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![Iten do kit](/produtos/3.png)
 
-Após incluir os itens, basta clicar para <span class="mat-button mdi "> salvar</span> o kit.
+Após incluir os itens que irão compor o kit, basta clicar em <span class="mat-button mdi "> salvar</span>.
 
 ![Salvar](/produtos/4.png)
 
