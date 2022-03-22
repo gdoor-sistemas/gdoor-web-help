@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-22T13:47:41.800Z
+date: 2022-03-22T14:10:45.208Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -171,6 +171,14 @@ Lista das grades cadastradas:
 {.is-warning}
 
 # Kits
+
+Kit é um conjunto diversos produtos em um único pacote, como um kit de material escolar, um kit de manicure, um kit de maquiagem, etc. 
+Geralmente, são oferecidas condições especiais para a compra do kit, como um valor mais baixo do que se os produtos fossem adquiridos separadamente.
+
+O kit configura um **único produto**, que contém vários itens dentro dele. Isso possibilita uma venda rápida e prática, pois ao lançar o kit na venda, todos os produtos contidos nele serão inclusos.
+
+> Para trabalhar em conformidade com a legislação, é importante ter cuidado para que o seu kit de produtos não se enquadre como uma *venda casada*. Para evitar essa situação, lembre-se de sempre oferecer também a opção do consumidor levar os itens do kit separadamente.
+{.is-info}
 
 Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
 
