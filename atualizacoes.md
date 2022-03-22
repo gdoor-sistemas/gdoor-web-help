@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-03-22T14:19:58.734Z
+date: 2022-03-22T14:20:40.279Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,7 @@ b2.11.3, f1.21.1 {.versions}
 ## Ajustes
 - Atualizada lista de municípios do sistema. Ao informar o CEP e pressionar "enter", alguns municípios não estavam sendo localizados.
 
-- Ajustado o cadastro de clientes do exterior para o país, UF e cidade fique gravados nos campos correspondentes.
+- Ajustado o cadastro de clientes do exterior para que o país, UF e cidade fique gravados nos campos correspondentes.
 
 # 02/03/2022
 b2.11.0, f1.21.3{.versions}
