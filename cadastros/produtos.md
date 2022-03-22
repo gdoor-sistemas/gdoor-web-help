@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-03-21T14:55:48.228Z
+date: 2022-03-22T13:46:31.000Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -165,7 +165,7 @@ Após a inclusão das linhas e colunas desejadas, basta clicar para <span class=
 
 Lista das grades cadastradas:
 
-![Lista de grades](/produtos/lista_grades.png)
+![Lista de grades](/produtos/lista_gradesw.png)
 
 > Após a grade ser indicada em um produto, não será mais possível **adicionar linhas** ou **colunas**, apenas as existentes poderão ser editadas.
 {.is-warning}
@@ -174,8 +174,22 @@ Lista das grades cadastradas:
 
 Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
 
-Digite o "**nome**" do kit e na seção "**itens**" clique em (<em class="mdi mdi-barcode"></em>) "**adicionar item**"
+Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi mdi-barcode"></em>) "**adicionar item**"
 
+![Novo kit](/produtos/novo_kit.png)
 
+Busque os **produtos** desejados pelo código ou descrição:
 
-clique em <span class="mat-button mdi "> salvar</span>.
+![2.png](/produtos/2.png)
+
+Insira a **quantidade** e se necessário é possível alterar o **valor unitário** deste produto no kit. Clique em <span class="mat-button mdi "> confirmar</span>.
+
+![3.png](/produtos/3.png)
+
+Após incluir os itens, basta clicar para <span class="mat-button mdi "> salvar</span> o kit.
+
+![4.png](/produtos/4.png)
+
+Lista dos kits cadastrados:
+
+![lista_kits.png](/produtos/lista_kits.png)
