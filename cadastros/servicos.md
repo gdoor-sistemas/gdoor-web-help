@@ -2,7 +2,7 @@
 title: Cadastro de serviços
 description: Veja como cadastrar serviços no Gweb
 published: true
-date: 2022-03-24T19:38:42.912Z
+date: 2022-03-24T20:06:57.066Z
 tags: cadastros, serviços
 editor: markdown
 dateCreated: 2020-09-03T20:30:32.639Z
@@ -12,9 +12,11 @@ dateCreated: 2020-09-03T20:30:32.639Z
 
 Este módulo permite que você cadastre os serviços que serão utilizados na NF-e.
 
-Para que o menu de "**serviços**" seja habilitado
+> [Clique aqui para ver como configurar](#configurações/geral) o uso de **serviços** em documentos fiscais.
+{.is-info}
 
-Para visualizar ou alterar os cadastros de serviços, acesse no menu principal: **cadastros » serviços**.
+
+Após habilitar o uso de serviços no sistema, para visualizar ou alterar os cadastros de serviços, acesse no menu principal: **cadastros » serviços**.
 
 ![1.png](/cadastros/serviços/1.png)
 
