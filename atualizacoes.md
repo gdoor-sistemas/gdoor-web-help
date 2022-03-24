@@ -2,11 +2,30 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-03-22T14:21:42.148Z
+date: 2022-03-24T19:16:09.865Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 24/03/2022
+b2.12.1,  f1.22.0 {.versions} 
+
+## Novidades
+
+- Criado o Status "devolvidas" nos filtros das receitas. Dessa forma será possível buscar somente pelas receitas devolvidas.
+
+- Implementada a funcionalidade de nota complementar de notas que não foram geradas pelo sistema e liberados todos os campos para edição manual. Anteriormente haviam campos que não podiam ser preenchidos em uma mesma nota de complemento.
+
+## Ajustes
+
+- Ajustados os vínculos dos usuários com os registros criados. Anteriormente o vínculo era feito por nome de usuário e agora são por ID, tornando a busca mais eficiente em relatórios.
+
+- Ajustada a geração do campo CNPJ do importador no XML. Anteriormente o campo do XML estava ficando com pontuação, causando falha.
+
+- Ajustada a mensagem de uso indevido gerada na maifestação de compras para mostrar o cStat.
+
+- Corrigida a NF-e e NFC-e para diminuir o estoque. Algumas notas acabaram realizando uma operação incorreta de estoque.
 
 # 22/03/2022
 b2.11.3, f1.21.1 {.versions} 
