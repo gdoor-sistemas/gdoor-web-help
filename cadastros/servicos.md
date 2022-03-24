@@ -2,7 +2,7 @@
 title: Cadastro de serviços
 description: Veja como cadastrar serviços no Gweb
 published: true
-date: 2022-03-24T20:09:03.334Z
+date: 2022-03-24T20:11:05.695Z
 tags: cadastros, serviços
 editor: markdown
 dateCreated: 2020-09-03T20:30:32.639Z
@@ -28,7 +28,7 @@ A tela "**novo serviço**" será aberta:
 
 ![2.png](/cadastros/serviços/2.png)
 
-Efetue a **idenficação do serviço**:
+Efetue a **idenficação** do serviço:
 - **Nome do serviço**: informe a descrição desejada;
 - **Código de atividade**: selecione o código de atividade do serviço, que determinará a alíquota de imposto que servirá de base de cálculo para recolhimento do imposto municipal deste serviço;
 - **Valor do serviço**: preço a ser cobrado pelo serviço.
