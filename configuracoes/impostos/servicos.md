@@ -2,7 +2,7 @@
 title: Tributação de serviços
 description: Veja como configurar a tributação sobre serviços no sistema
 published: true
-date: 2022-03-25T12:47:38.273Z
+date: 2022-03-25T12:48:31.395Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-25T12:23:43.972Z
@@ -16,4 +16,6 @@ A configuração de impostos no Gweb foi desenvolvida com foco na praticidade, p
 Os impostos abrangidos neste tópico são os incidentes sobre a prestação de serviços, na emissão de nota conjugada (NF-e). 
 
 Para visualizar ou alterar a "**tributação de serviços**" acesse no menu principal: **configurações » impostos**.
+
+![tributação.png](/config/impostos/serviços/tributação.png)
 
