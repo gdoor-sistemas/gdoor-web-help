@@ -2,7 +2,7 @@
 title: Tributação de serviços
 description: Veja como configurar a tributação sobre serviços no sistema
 published: true
-date: 2022-03-25T12:48:31.395Z
+date: 2022-03-25T12:52:49.687Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-25T12:23:43.972Z
