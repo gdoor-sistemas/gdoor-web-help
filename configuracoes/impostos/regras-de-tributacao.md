@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2022-03-18T17:57:13.590Z
+date: 2022-03-25T12:34:24.298Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -13,7 +13,7 @@ dateCreated: 2021-03-04T22:09:45.909Z
 A configuração de impostos no Gweb foi desenvolvida com foco na praticidade, para que o usuário possa fazer isso facilmente.
 É importante que isso seja feito com a ajuda de um responsável pela contabilidade da empresa.
 
-O Gweb já possui uma configuração  pré-definida, que pode ser alterada e/ou incrementada. Os impostos abrangidos pelo serviço, são os incidentes sobre a circulação de mercadorias: [ICMS](/glossario#icms), [ICMS ST](/glossario#icms-st), [FCP](/glossario#fcp), [IPI](/glossario#ipi), [PIS](/glossario#pis) e [COFINS](/glossario#cofins).
+O Gweb já possui uma configuração  pré-definida, que pode ser alterada e/ou incrementada. Os impostos abrangidos são os incidentes sobre a circulação de mercadorias: [ICMS](/glossario#icms), [ICMS ST](/glossario#icms-st), [FCP](/glossario#fcp), [IPI](/glossario#ipi), [PIS](/glossario#pis) e [COFINS](/glossario#cofins).
 
 Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configurações** no menu principal do sistema:
 
