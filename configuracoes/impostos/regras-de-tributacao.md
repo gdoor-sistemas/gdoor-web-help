@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2022-03-25T12:34:24.298Z
+date: 2022-03-25T13:06:02.748Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -17,7 +17,7 @@ O Gweb já possui uma configuração  pré-definida, que pode ser alterada e/ou 
 
 Acesse o módulo de [Impostos](/configuracoes/impostos) sob a seção **Configurações** no menu principal do sistema:
 
-[![Acessar configurações de impostos](/config/impostos/acessar-config-imposto.png)](/config/impostos/acessar-config-imposto.png){.fancybox}
+![Acessar configurações de impostos](/config/impostos/regras_de_tributação.png)
 
 O Gweb possui algumas configurações pré-definidas que podem ser alteradas. Dentre elas, o sistema tem uma para cada operação onde a incidência do imposto pode variar: **venda de produtos importados**, **venda para consumidor final** e **venda para revenda**, além de uma **geral**, que será aplicada quando não houver configuração específica. 
 
