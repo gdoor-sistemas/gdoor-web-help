@@ -2,7 +2,7 @@
 title: Cadastro de serviços
 description: Veja como cadastrar serviços no Gweb
 published: true
-date: 2022-03-24T20:12:32.384Z
+date: 2022-03-25T11:47:29.088Z
 tags: cadastros, serviços
 editor: markdown
 dateCreated: 2020-09-03T20:30:32.639Z
@@ -43,7 +43,7 @@ Ao passar o mouse sobre um serviço cadastrado, o menu de ações será mostrado
 
 ![3.png](/cadastros/serviços/3.png)
 
-Ao clicar sobre um serviço cadastrado, algumas informações serão exibidas, sendo possível <span class="mat-button mdi "> ver detalhes</span> ou <span class="mat-button mdi "> editar</span> o serviço.
+Ao clicar sobre um serviço cadastrado, algumas informações serão exibidas, sendo possível ver <span class="mat-button mdi "> mais detalhes</span> ou <span class="mat-button mdi "> editar</span> o serviço.
 
 ![4.png](/cadastros/serviços/4.png)
 
