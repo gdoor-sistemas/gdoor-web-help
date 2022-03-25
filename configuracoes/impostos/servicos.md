@@ -2,7 +2,7 @@
 title: Tributação de serviços
 description: Veja como configurar a tributação sobre serviços no sistema
 published: true
-date: 2022-03-25T12:52:49.687Z
+date: 2022-03-25T12:53:55.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-25T12:23:43.972Z
@@ -18,4 +18,12 @@ Os impostos abrangidos neste tópico são os incidentes sobre a prestação de s
 Para visualizar ou alterar a "**tributação de serviços**" acesse no menu principal: **configurações » impostos**.
 
 ![tributação.png](/config/impostos/serviços/tributação.png)
+
+## Tributação básica e operação
+
+
+## Tributação de PIS e COFINS
+
+
+## Retenções
 
