@@ -2,7 +2,7 @@
 title: Tributação de serviços
 description: Veja como configurar a tributação sobre serviços no sistema
 published: true
-date: 2022-03-25T17:37:43.397Z
+date: 2022-03-25T17:39:31.032Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-25T12:23:43.972Z
@@ -27,5 +27,7 @@ Para visualizar ou alterar a "**tributação de serviços**" acesse no menu prin
 
 > Sugerimos que verifique com o responsável pela contabilidade da sua empresa quais campos e informações devem ser preenchidas, visto que as mesmas podem variar de acordo com o servidor de cada município.
 {.is-success}
+
+Após preencher as informações conforme orientação do contador, clique em <span class="mat-button mdi "> salvar</span>.
 
 
