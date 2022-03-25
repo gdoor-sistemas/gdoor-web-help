@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-24T20:01:22.576Z
+date: 2022-03-25T17:14:50.052Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -28,6 +28,9 @@ Em seguida indique o "**local padrão do fato gerador do ISS**" que se trata do 
 ![serviços2.png](/config/gerais/serviços2.png)
 
 Após o preenchimento das informações, clique em <span class="mat-button mdi "> salvar</span>.
+
+> Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
+{.is-info}
 
 # Comissões
 
