@@ -2,7 +2,7 @@
 title: Permissões de acesso
 description: Veja como controlar quem tem acesso a o que no seu Gweb
 published: true
-date: 2022-03-29T20:06:22.648Z
+date: 2022-03-29T20:16:39.494Z
 tags: configurações, usuários, permissões, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:53:17.219Z
@@ -38,6 +38,14 @@ Após marcar as permissões desejadas para este usuário, clique em <span class=
 
 Ao clicar em **perfis** a **lista de perfis de permissões** será exibida:
 
-![perfis.png](/config/permissões/perfis.png)
+![perfiss.png](/config/permissões/perfiss.png)
+
+Para cadastrar um "**novo perfil de permissões**" clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial, conforme indicado na imagem acima.
+
+![perfil1.png](/config/permissões/perfil1.png)
+
+![perfil2.png](/config/permissões/perfil2.png)
+
+![perfil3.png](/config/permissões/perfil3.png)
 
 
