@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2022-03-29T17:47:12.860Z
+date: 2022-03-29T17:51:52.914Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -35,7 +35,7 @@ Em seguida, a tela de permissões para o usuário cadastrado será aberta.
 
 - Para **personalizar as permissões** do usuário, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" e marque/desmarque as opções desejadas.
 
-Clique em "**salvar**".
+Clique em <span class="mat-button mdi "> salvar</span>.
 
 ![2_permissoes.png](/config/usuários/2_permissoes.png)
 
