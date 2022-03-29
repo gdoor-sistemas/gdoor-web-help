@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2022-03-29T17:51:52.914Z
+date: 2022-03-29T19:45:16.558Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -29,7 +29,7 @@ No canto **inferior direito** da [lista de usuários](/configuracoes/usuarios#li
 
 Em seguida, a tela de permissões para o usuário cadastrado será aberta.
 
-- Será possível "**aplicar um perfil**" já configurado em [permissões](/configuracoes/permissoes).
+- Será possível [aplicar um perfil](https://help.gdoorweb.com.br/configuracoes/permissoes#perfil) já configurado em [permissões](/configuracoes/permissoes).
 
 - Também pode-se conceder **todas as permissões** clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou  **removê-las** clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
 
