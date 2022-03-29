@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2022-03-17T12:24:20.707Z
+date: 2022-03-29T17:47:12.860Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:51:56.610Z
 
 # Introdução
 
-É possível [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](/configuracoes/usuarios#permissões-do-usuário) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), será concedido o acesso ao sistema.
+Aprenda como [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](/configuracoes/usuarios#permissões-do-usuário) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), é concedido o acesso ao sistema.
 Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizam o Gweb.
 
 # Lista de usuários
