@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2022-03-14T20:10:47.993Z
+date: 2022-03-29T13:01:34.710Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -13,9 +13,6 @@ dateCreated: 2019-10-28T03:11:14.300Z
 Seja bem-vindo(a) à ajuda do Gweb. 
 
 Aqui você vai encontrar ajuda para executar algumas tarefas no sistema, bem como a descrição e explicação de funções existentes.
-
-> Esta documentação está em construção. Portanto, pode apresentar páginas incompletas ou faltantes.
-{.is-warning}
 
 ## O que é o Gweb?
 
