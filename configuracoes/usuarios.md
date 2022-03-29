@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2022-03-29T19:45:16.558Z
+date: 2022-03-29T19:51:27.639Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z
@@ -10,26 +10,26 @@ dateCreated: 2020-01-03T19:51:56.610Z
 
 # Introdução
 
-Aprenda como [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](/configuracoes/usuarios#permissões-do-usuário) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), é concedido o acesso ao sistema.
+Aprenda como [cadastrar novos usuários](/configuracoes/usuarios#cadastrar-novo-usuário) e definir suas [permissões](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) de acesso. Após a [confirmação do cadastro](/configuracoes/usuarios#confirmar-cadastro), é concedido o acesso ao sistema.
 Com o [multilogin](/configuracoes/usuarios#multilogin) o usuário pode acessar diversas empresas que utilizam o Gweb.
 
 # Lista de usuários
 
 Ao clicar em "**configurações**", seguido de "**usuários**", será exibida a "**lista de usuários**" cadastrados.
 
-![0_lista_de_usuarios.png](/config/usuários/0_lista_de_usuarios.png)
+![lista de usuarios](/config/usuários/0_lista_de_usuarios.png)
 
 # Cadastrar novo usuário
 
-No canto **inferior direito** da [lista de usuários](/configuracoes/usuarios#lista-de-usuários) há o botão de adição (<em class="mdi mdi-plus"></em>) para "**cadastrar novo usuário**", preencha os campos com o "**nome**" e "**e-mail**" de quem deseja cadastrar e clique em "**salvar**".
+No canto **inferior direito** da [lista de usuários](/configuracoes/usuarios#lista-de-usuários) há o botão de adição (<em class="mdi mdi-plus"></em>) para "**cadastrar novo usuário**", preencha os campos com o "**nome**" e "**e-mail**" de quem deseja cadastrar e clique em <span class="mat-button mdi "> salvar</span>.
 
-![1_novo_usuario.png](/config/usuários/1_novo_usuario.png)
+![novo usuario](/config/usuários/1_novo_usuario.png)
 
 ## Permissões do usuário
 
 Em seguida, a tela de permissões para o usuário cadastrado será aberta.
 
-- Será possível [aplicar um perfil](https://help.gdoorweb.com.br/configuracoes/permissoes#perfil) já configurado em [permissões](/configuracoes/permissoes).
+- Será possível [aplicar um perfil](https://help.gdoorweb.com.br/configuracoes/permissoes#perfil) já configurado em [permissões](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes).
 
 - Também pode-se conceder **todas as permissões** clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou  **removê-las** clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
 
@@ -37,22 +37,22 @@ Em seguida, a tela de permissões para o usuário cadastrado será aberta.
 
 Clique em <span class="mat-button mdi "> salvar</span>.
 
-![2_permissoes.png](/config/usuários/2_permissoes.png)
+![permissoes](/config/usuários/2_permissoes.png)
 
 ## Confirmar cadastro	
 
 Ao cadastrar um [novo usuário](/configuracoes/usuarios#cadastrar-novo-usuário), será enviado um e-mail para confirmação do cadastro, até que não seja efetuada, na [lista de usuários](/configuracoes/usuarios#lista-de-usuários) constará a mensagem de "**confirmação pendente**".
 
-![3_lista.png](/config/usuários/3_lista.png)
+![lista](/config/usuários/3_lista.png)
 
-Para confirmar o cadastro, o usuário deve acessar o e-mail informado e clicar em "**confirmar cadastro**".
+Para confirmar o cadastro, o usuário deve acessar o e-mail informado e clicar em <span class="mat-button mdi "> confirmar cadastro</span>.
 
-![4_email_confirmação.png](/config/usuários/4_email_confirmação.png)
+![e-mail confirmação](/config/usuários/4_email_confirmação.png)
 
 Haverá o direcionamento para a página do Gweb para a "**confirmação do vínculo**".
-Clique em "**entrar**", informe o e-mail e cadastre uma senha para acessar o sistema.
+Clique em <span class="mat-button mdi "> entrar</span>, informe o e-mail e cadastre uma senha para acessar o sistema.
 
-![5_confirmação.png](/config/usuários/5_confirmação.png)
+![confirmação](/config/usuários/5_confirmação.png)
 
 # Multilogin
 
@@ -62,7 +62,7 @@ Para isso, o administrador da empresa deve [cadastrar o usuário](/configuracoes
 
 Após [confirmar o cadastro](/configuracoes/usuarios#confirmar-cadastro) e informar seu login e senha, aparecerão as contas que seu cadastro está vinculado para acesso, basta selecionar a desejada.
 
-![8_selecionar_conta.png](/config/usuários/8_selecionar_conta.png)
+![selecionar conta](/config/usuários/8_selecionar_conta.png)
 
 ## Conectar-se a outra conta
 
@@ -70,15 +70,15 @@ Para trocar de conta e acessar outras empresas que possua vínculo, clique no í
 
 Verifique no exemplo abaixo, onde há 3 contas vinculadas ao mesmo usuário (e-mail).
 
-![9_outra_conta_enterprise.png](/config/usuários/9_outra_conta_enterprise.png)
+![outra conta enterprise](/config/usuários/9_outra_conta_enterprise.png)
 
 Basta clicar em (<em class="mdi mdi-home-import-outline"></em>) para conectar-se a outra conta.
 
-![10_outra_conta_cakes.png](/config/usuários/10_outra_conta_cakes.png)
+![outra conta cakes](/config/usuários/10_outra_conta_cakes.png)
 
 E assim sucessivamente para alternar entre as empresas desejadas.
 
-![11_outra_conta_gdoor.png](/config/usuários/11_outra_conta_gdoor.png)
+![outra conta gdoor](/config/usuários/11_outra_conta_gdoor.png)
 
 ## Vídeo
 
