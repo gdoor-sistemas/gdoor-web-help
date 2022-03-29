@@ -2,7 +2,7 @@
 title: Permissões de acesso
 description: Veja como controlar quem tem acesso a o que no seu Gweb
 published: true
-date: 2022-03-29T18:15:53.557Z
+date: 2022-03-29T19:00:22.982Z
 tags: configurações, usuários, permissões, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:53:17.219Z
@@ -22,21 +22,15 @@ Na tela, a **lista de usuários cadastrados** será exibida:
 
 Ao clicar em um usuário da lista, a tela para "**editar permissões do usuário**" será exibida:
 
+![permissoes1.png](/config/permissões/permissoes1.png)
 
+Sendo possível:
 
-
-
-
-
-
-
-
-Em seguida, a tela de permissões para o usuário cadastrado será aberta.
-
-- Será possível "**aplicar um perfil**" já configurado em [permissões](/configuracoes/permissoes).
-
+- **Aplicar perfil**: selecione um  já configurado 
 - Também pode-se conceder **todas as permissões** clicando no botão <span class="mat-button mdi "> APLICAR TODAS</span> ou  **removê-las** clicando no botão <span class="mat-button mdi "> REMOVER TODAS</span>.
 
 - Para **personalizar as permissões** do usuário, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" e marque/desmarque as opções desejadas.
 
 Clique em <span class="mat-button mdi "> salvar</span>.
+
+# Perfil
