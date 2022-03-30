@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T19:09:47.819Z
+date: 2022-03-30T19:11:14.383Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -74,7 +74,7 @@ Ao marcar esta opção, a verificação de IP para autenticar-se no sistema ser�
 > Ativar esta configuração pode ser um risco à segurança dos dados da empresa. 
 {.is-danger}
 
-Sugerimos que **utilize-a somente em caso de problemas** de conectividade ou logoffs constantes.
+Sugerimos que a **utilize somente em caso de problemas** de conectividade ou logoffs constantes.
 
 ![autenticação](/config/gerais/autenticação.png)
 
