@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-30T20:14:26.952Z
+date: 2022-03-30T20:21:11.121Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -35,7 +35,12 @@ Seção para identificação do emitente:
 
 # Endereços
 
+No cadastro do emitente há um endereço principal, mas também é possível <span class="mat-button mdi "> adicionar endereço</span>.  A lista de endereços adicionais ficará abaixo do endereço principal.
 
+> Para facilitar o preenchimento do endereço, informe o CEP e o sistema buscará as informações automaticamente, sendo necessário preencher apenas o número e o complemento.
+{.is-success}
+
+![endereços.png](/config/emitente/endereços.png)
 
 # Telefones, endereços eletrônicos e observações
 
