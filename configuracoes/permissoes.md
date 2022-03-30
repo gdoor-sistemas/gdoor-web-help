@@ -2,7 +2,7 @@
 title: Permissões de acesso
 description: Veja como controlar quem tem acesso a o que no seu Gweb
 published: true
-date: 2022-03-29T20:19:53.623Z
+date: 2022-03-30T11:31:09.712Z
 tags: configurações, usuários, permissões, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:53:17.219Z
@@ -42,11 +42,13 @@ Ao clicar em **perfis** a **lista de perfis de permissões** será exibida:
 
 Para cadastrar um "**novo perfil de permissões**" clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial, conforme indicado na imagem acima.
 
+Informe o "**nome do novo perfil**" e clique em <span class="mat-button mdi "> salvar</span>.
+
 ![perfil](/config/permissões/perfil1.png)
 
-Para **personalizar as permissões** do perfil, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" por seção e marque/desmarque (<em class="mdi mdi-checkbox-blank-outline"></em>) o checkbox das opções desejadas.
+A tela para **editar perfil** será aberta. Para **personalizar as permissões** do perfil, clique em (<em class="mdi mdi-chevron-down"></em>) para expandir o menu de "**permissões disponíveis**" por seção e marque/desmarque (<em class="mdi mdi-checkbox-blank-outline"></em>) o checkbox das opções desejadas.
 
-Também é possível clicar em (<em class="mdi mdi-checkbox-multiple-marked-outline"></em>) para **marcar todas** as permissões da seção ou em (<em class="mdi mdi-checkbox-multiple-blank-outline"></em>) para **desmarcar todas**.
+Também é possível clicar em (<em class="mdi mdi-checkbox-multiple-marked-outline"></em>) para **marcar todas as permissões da seção** ou em (<em class="mdi mdi-checkbox-multiple-blank-outline"></em>) para **desmarcar todas**.
 
 ![perfil](/config/permissões/perfil2.png)
 
