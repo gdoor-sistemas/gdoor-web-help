@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T18:17:33.568Z
+date: 2022-03-30T18:57:29.975Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -48,6 +48,11 @@ Após o preenchimento das informações, clique em <span class="mat-button mdi "
 {.is-info}
 
 # Comissões
+
+Determine o comportamento para geração de comissão dos vendedores quando houver comissão do **vendedor** e do **produto** simultaneamente.
+
+Selecione qual será a **comissão preferencial**: a do cadastro do **vendedor**, do cadastro do **produto**, a com porcentagem **mais alta**, com porcentagem **mais baixa** ou se **ambas** (vendedor e produto) serão mantidas.
+
 
 ![comissões](/config/gerais/comissões.png)
 
