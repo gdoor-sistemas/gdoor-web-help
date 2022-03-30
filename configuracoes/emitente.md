@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-30T20:21:11.121Z
+date: 2022-03-30T20:21:30.439Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -30,8 +30,8 @@ Seção para identificação do emitente:
 - **CNAE**: Classificação Nacional de Atividades Econômicas, é utilizada para determinar quais atividades são exercidas pela empresa;
 - **<em class="mdi mdi-checkbox-blank-outline"></em> Contribuinte do IPI**: Imposto sobre Produtos Industrializados, marque o checkbox se for contribuinte do IPI;
 - **Nome do responsável**: nome do responsável pela empresa emitente;
-- **CPF do responsável**: número de CPF do responsável pela empresa emitente.
-- **Imagem**: logo da empresa emitente, pode-se remover a imagem, selecionar um arquivo ou tirar uma foto;
+- **CPF do responsável**: número de CPF do responsável pela empresa emitente;
+- **Imagem**: logo da empresa emitente, pode-se remover a imagem, selecionar um arquivo ou tirar uma foto.
 
 # Endereços
 
