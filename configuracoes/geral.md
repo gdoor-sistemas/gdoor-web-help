@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T19:01:31.977Z
+date: 2022-03-30T19:04:09.024Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -61,7 +61,11 @@ Após selecionar, clique em <span class="mat-button mdi "> salvar</span>.
 
 # Quantidade negativa de estoque
 
+Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque.
+
 ![quantidade negativa de estoque](/config/gerais/quantidade_negativa_de_estoque.png)
+
+Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
 
 # Autenticação
 
