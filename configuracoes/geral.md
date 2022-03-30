@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T17:18:23.320Z
+date: 2022-03-30T17:20:43.818Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -11,6 +11,12 @@ dateCreated: 2020-01-03T19:57:44.951Z
 # Introdução
 
 Saiba mais sobre as configurações gerais, que serão aplicadas em diversos módulos do sistema Gweb, como precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque.
+
+Para iniciar, acesse no menu principal: **configurações » geral**.
+
+A tela abaixo será mostrada:
+
+![configurações gerais](/config/gerais/configurações_gerais.png)
 
 # Precisão numérica
 
