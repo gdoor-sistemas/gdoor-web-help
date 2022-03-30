@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-30T19:45:02.096Z
+date: 2022-03-30T19:48:46.086Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -20,6 +20,6 @@ Seção para identificação do emitente:
 
 ![identificação.png](/config/emitente/identificação.png)
 
-- **Atributos**: os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro, [clique aqui para saber mais.](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos)
+- **Atributos**: o checkbox **emitente** não pode ser desmarcado, os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro. Para informações sobre os demais atributos [clique aqui.](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos)
 - **Nome**: 
 
