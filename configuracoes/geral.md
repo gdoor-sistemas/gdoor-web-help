@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T18:07:02.623Z
+date: 2022-03-30T18:17:33.568Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -20,11 +20,12 @@ A tela abaixo será mostrada:
 
 # Precisão numérica
 
-Determine a quantidade de casas decimais para **quantidades** e para **preços**
-
-Nos números decimais, os números que ficam após a vírgula são chamados casas decimais. Exemplo: 0,3 é um número decimal com 1 casa decimal após a vírgula.
+Determine as casas decimais para **quantidades** e para **preços**.
 
 ![precisão numérica](/config/gerais/precisão_numérica.png)
+
+> Números que ficarão após a vírgula. Exemplo: 0,392 é um número decimal com 3 casas decimais após a vírgula.
+{.is-success}
 
 # Serviços
 
