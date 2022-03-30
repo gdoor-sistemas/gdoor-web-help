@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T17:15:09.160Z
+date: 2022-03-30T17:18:23.320Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:57:44.951Z
 
 # Introdução
 
-Precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque
+Saiba mais sobre as configurações gerais, que serão aplicadas em diversos módulos do sistema Gweb, como precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque.
 
 # Precisão numérica
 
