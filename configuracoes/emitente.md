@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-30T20:11:09.191Z
+date: 2022-03-30T20:14:26.952Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -32,4 +32,10 @@ Seção para identificação do emitente:
 - **Nome do responsável**: nome do responsável pela empresa emitente;
 - **CPF do responsável**: número de CPF do responsável pela empresa emitente.
 - **Imagem**: logo da empresa emitente, pode-se remover a imagem, selecionar um arquivo ou tirar uma foto;
+
+# Endereços
+
+
+
+# Telefones, endereços eletrônicos e observações
 
