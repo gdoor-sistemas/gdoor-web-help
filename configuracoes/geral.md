@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T18:57:29.975Z
+date: 2022-03-30T18:58:10.882Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -53,8 +53,9 @@ Determine o comportamento para geração de comissão dos vendedores quando houv
 
 Selecione qual será a **comissão preferencial**: a do cadastro do **vendedor**, do cadastro do **produto**, a com porcentagem **mais alta**, com porcentagem **mais baixa** ou se **ambas** (vendedor e produto) serão mantidas.
 
-
 ![comissões](/config/gerais/comissões.png)
+
+Em seguida clique em <span class="mat-button mdi "> salvar</span>.
 
 # Quantidade negativa de estoque
 
