@@ -2,13 +2,15 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-25T17:14:50.052Z
+date: 2022-03-30T12:53:00.823Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
 ---
 
 # Introdução
+
+Precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque
 
 # Precisão numérica
 
