@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-31T19:10:07.818Z
+date: 2022-03-31T19:11:24.278Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -169,18 +169,13 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
-- **Usuário**
-Mostra todos os usuários que já gravaram alguma NFC-e. Ao aplicar este filtro, serão exibidas apenas as NFC-e salvas pelo usuário selecionado.
-- **Vendedor**
-Mostra todos os vendedores referenciados em itens da NFC-e. Ao aplicar este filtro, serão exibidas apenas as NFC-e que o vendedor selecionado está referenciado em ao menos 1 item.
-- **Status**
-Mostra todos os status das NFC-e. Esse status é o que aparece colorido na lista, representa a situação atual da NFC-e. Ao aplicar este filtro, serão exibidas apenas as NFC-e com o status selecionado.
-- **Data inicial**
-Filtro por período. Para exibir apenas NFC-e geradas a partir de uma data específica, aplique este filtro.
-- **Data final**
-Filtro por período. Para exibir apenas NFC-e geradas até uma data específica, aplique este filtro.
+- **Usuário**;
+- **Vendedor**;
+- **Status**;
+- **Data inicial**;
+- **Data final**.
 
-Para aplicar um filtro, clique no botão <span class=mat-button>Aplicar</span>, no canto direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em <span class=mat-button>Limpar filtros</span>:
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>.
 
 ![Aplicar e limpar filtros na lista de NFC-e](/movimentos/nfce/nfce-filtros-aplicar-limpar.png)
 
