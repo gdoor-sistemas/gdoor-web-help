@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T12:16:45.828Z
+date: 2022-03-31T12:20:55.125Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -45,12 +45,12 @@ No cadastro do emitente há um endereço principal, mas também é possível <sp
 # Telefones, endereços eletrônicos e observações
 
 - **Telefones**
-Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais.** Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a descrição e o número seguido de <span class="mat-button mdi "> confirmar</span>.
+Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais.** Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a **descrição** e o **número**, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![telefones](/config/emitente/stelefones.png)
 
 - **Endereços eletrônicos**
-Além do **e-mail** principal e do **website**, você pode adicionar outros endereços de e-mail. Clique em <span class="mat-button mdi "> adicionar e-mail</span> e a tela para preenchimento do e-mail adicional será aberta, insira a descrição e o e-mail seguido de <span class="mat-button mdi "> confirmar</span>.
+Além do **e-mail** principal e do **website**, você pode adicionar outros endereços de e-mail. Clique em <span class="mat-button mdi "> adicionar e-mail</span> e a tela para preenchimento do e-mail adicional será aberta, insira a **descrição** e o **e-mail**, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![endereços eletrônicos](/config/emitente/email.png)
 
