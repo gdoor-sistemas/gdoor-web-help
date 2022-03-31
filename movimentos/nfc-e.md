@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-17T12:11:54.369Z
+date: 2022-03-31T19:08:06.042Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -99,12 +99,12 @@ Para informar o cliente na NFC-e, pressione a tecla <kbd>F7</kbd> ou acesse o me
 
 Quando a venda ocorrer pela internet (operação não presencial), e houver intermédio de alguma plataforma de terceiro como marketplaces e deliverys, é necessário indicar o intermediador da operação para geração da tag no XML e acompanhamento da SEFAZ.
 
-O código contendo a identificação do intermediador/marketplace deve constar no seu respectivo cadastro de pessoa jurídica com atributo [intermediador](/cadastros/pessoas#intermediador).
+O código contendo a identificação do intermediador/marketplace deve constar no seu respectivo cadastro de pessoa jurídica com [atributo intermediador](/cadastros/pessoas#intermediador) marcado.
 
 Para informar o intermediador na NFC-e, utilize a tecla <kbd>F8</kbd> ou clique em (<em class="mdi mdi-dots-vertical"></em>) seguido de (<em class="mdi mdi-dots-horizontal"></em> Outras opções).
 No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"></em>), selecione o intermediador desejado e clique em <span data-mat-button>Confirmar</span>.
 
-![outras_opções.png](/movimentos/nfce/outras_opções.png)
+![outras opções](/movimentos/nfce/outras_opções.png)
 
 > Caracteriza-se uma operação **sem intermediador** quando a venda for efetuada via site ou plataforma própria, sem envolver outra pessoa jurídica.
 {.is-info}
@@ -113,17 +113,17 @@ No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"><
 
 Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida:
 
-![finalizar venda.png](/movimentos/nfce/fina_venda.png)
+![finalizar venda](/movimentos/nfce/fina_venda.png)
 
 As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](/movimentos/nfc-e#suprimento), basta utilizar a desejada.
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
-![venda_2.png](/movimentos/nfce/venda_2.png)
+![pagamento com PIX](/movimentos/nfce/venda_2.png)
 
 Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectivo valor da venda.
 
-![venda_3.png](/movimentos/nfce/venda_3.png)
+![Qr Code](/movimentos/nfce/venda_3.png)
 
 > A opção de **pagamento PIX com geração de QR code** para leitura trata-se de um facilitador para agilizar a venda, **não é integrada com a conta**, sendo assim, **não haverá confirmação do recebimento na tela**.
 {.is-warning}
@@ -136,7 +136,9 @@ Na tela de lista, você visualiza as NFC-e emitidas e pode fazer uma busca ou fi
 
 ## Busca
 
-Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para limpar a busca (<em class="mdi mdi-close"></em>) que fica no final do campo de busca. Para aplicar [filtros](#filtros) aprimorados, clique no botão "Filtrar" (<em class="mdi mdi-filter"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "Atualizar lista" (<em class="mdi mdi-refresh"></em>) à direita.
+Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para limpar a busca (<em class="mdi mdi-close"></em>). 
+Para aplicar [filtros](#filtros) aprimorados, clique no botão "filtrar" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" (<em class="mdi mdi-refresh"></em>).
 
 ![Busca na lista e filtros na NFC-e](/movimentos/nfce/nfce-lista-buscar.png)
 
@@ -145,9 +147,9 @@ Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indi
 > Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**
 {.is-success .gw .gw-tip}
 
-## Filtros
+## Filtrar
 
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Os filtros serão salvos no navegador, então, se você trocar de computador ou usar outro navegador, precisará refazer os filtros, se for necessário. Para fazer um filtro na lista, clique no botão de filtro ao lado do campo de busca e será exibido o painel de filtros:
+Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
 ![Filtro na lista de NFC-e](/movimentos/nfce/filtro-lista-nfce.png)
 
