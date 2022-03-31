@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:14:44.508Z
+date: 2022-03-31T18:16:35.929Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -20,7 +20,7 @@ Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de 
 
 
 
-## Nota compra manual de compra
+## Cadastrar nota de compra
 
 Para adicionar uma nota de compra manualmente, clique no botão de adição () no canto direito inferior da tela inicial;
 
@@ -148,6 +148,7 @@ Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar
 Localize o arquivo
 cadastre o fornecedor se necessário
 todos as informações do XMl serão importadas, efetue a conferencia e clique em salvar ou concluir
+caso produto nao esteja cadastrado no estoque o sistema solicitara se deseja atribuir a outro produto ou cadastra-lo
 
 # Configurações
 
