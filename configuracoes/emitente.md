@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T12:55:46.861Z
+date: 2022-03-31T13:02:42.764Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -23,7 +23,7 @@ Seção para identificação do emitente:
 - **Atributos**: o checkbox **emitente** não pode ser desmarcado, os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro. Para informações sobre os demais atributos [clique aqui.](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos)
 - **Nome**: razão social da empresa emitente;
 - **Nome fantasia**: nome fantasia da empresa emitente;
-- **CNPJ**: CNPJ da empresa emitente(não pode ser alterado);
+- **CNPJ**: CNPJ da empresa emitente (não pode ser alterado);
 - **IE**: Inscrição Estadual da empresa emitente;
 - **IM**: Inscrição Municipal da empresa emitente;
 - **CRT**: Código do Regime Tributário (Normal ou SIMPLES Nacional);
@@ -32,6 +32,10 @@ Seção para identificação do emitente:
 - **Nome do responsável**: nome do responsável pela empresa emitente;
 - **CPF do responsável**: número de CPF do responsável pela empresa emitente;
 - **Imagem**: logo da empresa emitente, pode-se remover a imagem, selecionar um arquivo ou tirar uma foto.
+
+> Em caso de dúvidas no preenchimento das informações, sugerimos que verifique com o contador da empresa.
+{.is-info}
+
 
 # Endereços
 
@@ -45,7 +49,7 @@ No cadastro do emitente há um endereço principal, mas também é possível <sp
 # Telefones, endereços eletrônicos e observações
 
 - **Telefones**
-Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais**. Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a **descrição** e o **número**, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
+Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais**. Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a **descrição** e o **número**, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![telefones](/config/emitente/stelefones.png)
 
