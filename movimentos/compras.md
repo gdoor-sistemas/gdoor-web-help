@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:21:31.947Z
+date: 2022-03-31T18:33:29.301Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -16,10 +16,44 @@ O módulo de compras fará a movimentação de entrada da mercadoria no estoque 
 
 Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de compra** será exibida:
 
+![lista](/movimentos/compras/lista.png)
 
+## Filtrar
 
+Os filtros podem ser definidos como padrão para que sempre que a lista seja aberta, já esteja filtrada. Para fazer um filtro na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
 
+![filtrar](/movimentos/compras/filtro_compra.png)
 
+No painel de filtros destacado na imagem acima, no lado superior direito temos:
+
+<span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nos pedidos de venda, por exemplo, o filtro usuário só vai mostrar os usuários que registraram pedidos de venda. Assim, caso você precise atualizar as opções disponíveis, clique neste botão (<span class="mdi mdi-refresh"></span>).
+
+<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
+
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
+> 
+> ![nfce-filtro-aplicado.png](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+{.is-success .gw .gw-tip}
+
+As opções de filtro são as seguintes:
+
+-   **Cliente/Fornecedor**
+    Mostra todos os pedidos efetuados para o cliente/fornecedor informado. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda efetuados para o cliente/fornecedor indicado.
+-   **Usuário**  
+    Mostra todos os usuários que já gravaram algum pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda salvos pelo usuário selecionado.
+-   **Vendedor**  
+    Mostra todos os vendedores referenciados em itens do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda que o vendedor selecionado está referenciado em ao menos 1 item.
+-   **Status**  
+    Mostra todos os status dos pedidos de venda. O status representa a situação atual do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda com o status selecionado.
+-   **Data inicial**  
+    Filtro por período. Para exibir apenas pedidos de venda gerados a partir de uma data específica, aplique este filtro.
+-   **Data final**  
+    Filtro por período. Para exibir apenas pedidos de venda gerados até uma data específica, aplique este filtro.
+
+Para aplicar um filtro, clique no botão “**APLICAR**” no lado direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em “**LIMPAR FILTROS**”:
 
 
 ## Cadastrar nota de compra
@@ -28,7 +62,7 @@ Para adicionar uma nota de compra manualmente, clique no botão de adição () n
 
 
 concluir salva a nota e valida para dar entrada no estoque.
-Isso irá realizar os movimentos do estoque e ela não poderá mais ser editada nem excluída
+Isso irá realizar os movimentos do estoque e ela não poderá mais ser editada nem excluída: confirmar
 salvar: apenas salva a nota de compra (ficara com status pendente)
 
 # Manifestação do Destinatário eletrônica (MD-e)
