@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-03-31T18:42:13.112Z
+date: 2022-03-31T19:16:20.829Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -96,9 +96,11 @@ Na tela de lista, você visualiza os pedidos de venda efetuados e pode fazer uma
 
 ## Busca
 
-Para localizar um pedido de venda, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>) que fica no final do campo de busca. Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>) à direita.
+Para localizar um pedido de venda, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![](/movimentos/pedidos/busca.png)
+![buscar pedidos](/movimentos/pedidos/busca.png)
 
 > O que você digitar será buscado entre as seguintes informações do pedido de venda:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
@@ -107,22 +109,23 @@ Para localizar um pedido de venda, digite no campo de busca no quadro indicado n
 
 ## Filtrar
 
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Os filtros serão salvos no navegador, então, ao trocar de computador ou usar outro navegador, precisará refazê-los. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
+Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
 ![](/movimentos/pedidos/filtro.png)
 
-No painel de filtros destacado na imagem acima, no lado superior direito temos:
+No painel de filtros destacado na imagem acima temos:
 
-<span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nos pedidos de venda, por exemplo, o filtro usuário só vai mostrar os usuários que registraram pedidos de venda. Assim, caso você precise atualizar as opções disponíveis, clique neste botão (<span class="mdi mdi-refresh"></span>).
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
 
-<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
-> 
-> ![nfce-filtro-aplicado.png](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**: 
+![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
