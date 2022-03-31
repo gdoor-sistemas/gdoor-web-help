@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-31T19:09:43.391Z
+date: 2022-03-31T19:10:07.818Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -163,8 +163,8 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado, assim, se algumas NFC-e não estiverem aparecendo na lista, você poderá facilmente saber se um filtro está aplicado:
-![nfce-filtro-aplicado.png](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
+> Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado:
+![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
