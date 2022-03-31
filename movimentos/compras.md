@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:49:44.844Z
+date: 2022-03-31T20:06:09.932Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -76,6 +76,22 @@ Insira as informações constantes na nota de compra, como: **número, modelo, s
 
 ![cabeçalho](/movimentos/compras/cabeçalhoo.png)
 
+- **Fornecedor**
+Busque fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
+
+![fornecedor](/movimentos/compras/fornecedor.png)
+
+- **Produtos**
+
+![produtos](/movimentos/compras/produtos.png)
+
+- **Pagamentos**
+
+![pagamentos](/movimentos/compras/pagamentos_1.png)
+
+- **Transporte**
+
+![transporte](/movimentos/compras/transporte.png)
 
 concluir salva a nota e valida para dar entrada no estoque.
 Isso irá realizar os movimentos do estoque e ela não poderá mais ser editada nem excluída: confirmar
