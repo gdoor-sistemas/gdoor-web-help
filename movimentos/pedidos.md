@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-03-31T19:17:29.964Z
+date: 2022-03-31T19:28:15.093Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -90,7 +90,7 @@ Campo para preenchimento de informações adicionais ao pedido de venda.
 > Nas “**configurações**” do pedido de venda, em “[informações adicionais](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#informa%C3%A7%C3%B5es-adicionais)” é possível definir uma mensagem padrão que será inserida automaticamente em todos os pedidos de venda.
 {.is-success .gw .gw-tip}
 
-# Lista de pedidos de venda
+# Lista
 
 Na tela de lista, você visualiza os pedidos de venda efetuados e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#busca) ou [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) para visualizar apenas dados pertinentes ao que você precisa.
 
@@ -100,7 +100,7 @@ Para localizar um pedido de venda, digite no campo de busca no quadro indicado n
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![buscar pedidos](/movimentos/pedidos/busca.png)
+![digite para buscar](/movimentos/compras/busca.png)
 
 > O que você digitar será buscado entre as seguintes informações do pedido de venda:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
