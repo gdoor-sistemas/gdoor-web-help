@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:36:19.521Z
+date: 2022-03-31T18:37:33.814Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -30,12 +30,12 @@ No painel de filtros destacado na imagem acima, no lado superior direito temos:
 
 <span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
 
-Para definir um filtro como padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**, assim, se algum pedido de venda não estiver aparecendo na lista, você poderá facilmente identificar que um filtro está aplicado:
+> Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
 > 
 > ![nfce-filtro-aplicado.png](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
 {.is-success .gw .gw-tip}
