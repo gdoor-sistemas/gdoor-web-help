@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T12:22:24.562Z
+date: 2022-03-31T12:55:46.861Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -45,7 +45,7 @@ No cadastro do emitente há um endereço principal, mas também é possível <sp
 # Telefones, endereços eletrônicos e observações
 
 - **Telefones**
-Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais.** Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a **descrição** e o **número**, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
+Você pode informar três telefones no cadastro principal: **telefone, celular** e **fax**, além de **telefones adicionais**. Clique em <span class="mat-button mdi "> adicionar telefone</span> e a tela para preenchimento do telefone adicional será aberta, insira a **descrição** e o **número**, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![telefones](/config/emitente/stelefones.png)
 
