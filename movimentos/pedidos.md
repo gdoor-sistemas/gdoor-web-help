@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-03-31T18:33:20.125Z
+date: 2022-03-31T18:41:46.256Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -107,7 +107,7 @@ Para localizar um pedido de venda, digite no campo de busca no quadro indicado n
 
 ## Filtrar
 
-Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Os filtros serão salvos no navegador, então, ao trocar de computador ou usar outro navegador, precisará refazê-los. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
+Os filtros podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. Os filtros serão salvos no navegador, então, ao trocar de computador ou usar outro navegador, precisará refazê-los. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros.
 
 ![](/movimentos/pedidos/filtro.png)
 
