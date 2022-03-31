@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:24:47.646Z
+date: 2022-03-31T19:29:51.547Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -14,11 +14,22 @@ O módulo de compras fará a movimentação de entrada da mercadoria no estoque 
 
 # Lista
 
-Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**, pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma busca ou filtro para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**, pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma busca ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 ![lista](/movimentos/compras/lista.png)
 
 ## Busca
+
+Para localizar uma nota de compra, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+ 
+![digite para buscar](/movimentos/compras/busca.png)
+ 
+> O que você digitar será buscado entre as seguintes informações do pedido de venda:  
+> **Campos numéricos**: código de barras e código do produto, número da nota;  
+> **Campos textuais**: razão social e nome fantasia do cliente e nome dos produtos.
+{.is-success .gw .gw-tip}
 
 ## Filtrar
 
