@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T12:11:18.307Z
+date: 2022-03-31T12:16:45.828Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -50,7 +50,7 @@ Você pode informar três telefones no cadastro principal: **telefone, celular**
 ![telefones](/config/emitente/stelefones.png)
 
 - **Endereços eletrônicos**
-Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique em  e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "E-mail financeiro", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão Remover (Remover), ao lado do e-mail.
+Além do **e-mail** principal e do **website**, você pode adicionar outros endereços de e-mail. Clique em <span class="mat-button mdi "> adicionar e-mail</span> e a tela para preenchimento do e-mail adicional será aberta, insira a descrição e o e-mail seguido de <span class="mat-button mdi "> confirmar</span>.
 
 ![endereços eletrônicos](/config/emitente/email.png)
 
