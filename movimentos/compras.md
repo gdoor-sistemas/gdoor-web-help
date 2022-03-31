@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:41:58.103Z
+date: 2022-03-31T18:55:07.718Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -42,16 +42,15 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
--   **Fornecedor**
--   **Usuário**  
--   **Data cadastro inicial**  
--   **Data cadastro final**  
--   **Status**  
--   **Data emissão inicial**  
--   **Data semissão final**  
+-   **Fornecedor**;
+-   **Usuário**;
+-   **Data cadastro inicial**;
+-   **Data cadastro final**;
+-   **Status**;
+-   **Data emissão inicial**;
+-   **Data emissão final**.
 
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado um filtro, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>
-
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>.
 
 ## Cadastrar nota de compra
 
