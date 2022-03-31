@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:33:29.301Z
+date: 2022-03-31T18:36:19.521Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -20,15 +20,17 @@ Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de 
 
 ## Filtrar
 
-Os filtros podem ser definidos como padrão para que sempre que a lista seja aberta, já esteja filtrada. Para fazer um filtro na lista, clique no botão de "filtro" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e será exibido o painel de filtros:
+Os filtros podem ser definidos como padrão para que sempre que a lista seja aberta, já esteja filtrada. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e o painel de filtros será exibido:
 
 ![filtrar](/movimentos/compras/filtro_compra.png)
 
 No painel de filtros destacado na imagem acima, no lado superior direito temos:
 
-<span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nos pedidos de venda, por exemplo, o filtro usuário só vai mostrar os usuários que registraram pedidos de venda. Assim, caso você precise atualizar as opções disponíveis, clique neste botão (<span class="mdi mdi-refresh"></span>).
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
 
-<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
+Para definir um filtro como padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique neste botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
