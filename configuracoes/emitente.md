@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T14:01:31.104Z
+date: 2022-03-31T14:15:49.412Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -35,7 +35,6 @@ Seção para identificação do emitente:
 
 > Em caso de dúvidas no preenchimento das informações, sugerimos que verifique com o contador da empresa.
 {.is-info}
-
 
 # Endereços
 
