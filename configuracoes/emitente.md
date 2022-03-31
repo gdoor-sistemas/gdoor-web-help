@@ -2,7 +2,7 @@
 title: Cadastro do emitente
 description: Altere os dados da sua empresa para referência e impressão em documentos
 published: true
-date: 2022-03-31T13:04:38.250Z
+date: 2022-03-31T13:05:18.868Z
 tags: configurações, emitente
 editor: markdown
 dateCreated: 2020-01-03T19:48:38.838Z
@@ -62,4 +62,3 @@ Além do **e-mail** principal e do **website**, você pode adicionar outros ende
 Campo livre para preenchimento de informações adicionais.
 
 ![observações](/config/emitente/observ.png)
-
