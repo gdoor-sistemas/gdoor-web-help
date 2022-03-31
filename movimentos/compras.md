@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:31:50.917Z
+date: 2022-03-31T19:32:47.130Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -14,7 +14,7 @@ O módulo de compras fará a movimentação de entrada da mercadoria no estoque 
 
 # Lista
 
-Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**, pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#busca) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**, pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 ![lista](/movimentos/compras/lista.png)
 
