@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-31T19:08:06.042Z
+date: 2022-03-31T19:09:43.391Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -153,11 +153,13 @@ Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, cliq
 
 ![Filtro na lista de NFC-e](/movimentos/nfce/filtro-lista-nfce.png)
 
-No painel de filtros destacado na imagem acima, você encontra, no canto direito superior:
+No painel de filtros destacado na imagem acima, você encontra:
 
-<span class="mdi mdi-refresh"></span>: Atualizar as opções de filtro. Os valores possíveis de filtro são baseados nas informações registradas nas NFC-e, por exemplo, o filtro **Usuário** só vai mostrar os usuários que registraram NFC-e, para facilitar o filtro. Assim, caso você precise atualizar as opções disponíveis, clique neste botão.
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro.
 
-<span class="mdi mdi-filter-menu"></span>: Mostra ações relativas ao filtro padrão. Para definir um filtro como padrão, clique neste botão, depois em **Definir como padrão**. Para remover um filtro padrão, clique neste botão, depois em **Remover padrão**. A imagem ao lado mostra essas opções:
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
