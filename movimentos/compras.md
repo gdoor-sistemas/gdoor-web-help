@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:16:35.929Z
+date: 2022-03-31T18:21:31.947Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -14,7 +14,9 @@ O módulo de compras fará a movimentação de entrada da mercadoria no estoque 
 
 # Lista
 
-Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de compra será exibida:
+Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de compra** será exibida:
+
+
 
 
 
@@ -26,6 +28,7 @@ Para adicionar uma nota de compra manualmente, clique no botão de adição () n
 
 
 concluir salva a nota e valida para dar entrada no estoque.
+Isso irá realizar os movimentos do estoque e ela não poderá mais ser editada nem excluída
 salvar: apenas salva a nota de compra (ficara com status pendente)
 
 # Manifestação do Destinatário eletrônica (MD-e)
