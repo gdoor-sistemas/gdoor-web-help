@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:55:07.718Z
+date: 2022-03-31T19:07:50.872Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -20,7 +20,7 @@ Ao acessar o módulo **movimentações » compras** a "**lista**" de **notas de 
 
 ## Filtrar
 
-Os filtros podem ser definidos como padrão para que sempre que a lista seja aberta, já esteja filtrada. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) ao lado do campo de busca e o painel de filtros será exibido:
+Os filtros também podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
 ![filtrar](/movimentos/compras/filtro_compra.png)
 
