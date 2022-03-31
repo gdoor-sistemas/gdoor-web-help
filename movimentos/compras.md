@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:42:04.311Z
+date: 2022-03-31T19:48:45.924Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -69,6 +69,12 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 ## Cadastrar nota de compra
 
 Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial.](https://help.gdoorweb.com.br/pt-br/movimentos/compras#lista)
+A tela "**nova compra**" será exibida.
+
+- **Cabeçalho**
+Informe as informações constantes na nota de compra, como: **número, mmodelo, série, emissão, entrada** e **natureza da operação**:
+
+![cabeçalhoo.png](/movimentos/compras/cabeçalhoo.png)
 
 
 concluir salva a nota e valida para dar entrada no estoque.
