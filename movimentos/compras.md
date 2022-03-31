@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T18:38:04.277Z
+date: 2022-03-31T18:41:58.103Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -42,20 +42,15 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
--   **Cliente/Fornecedor**
-    Mostra todos os pedidos efetuados para o cliente/fornecedor informado. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda efetuados para o cliente/fornecedor indicado.
+-   **Fornecedor**
 -   **Usuário**  
-    Mostra todos os usuários que já gravaram algum pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda salvos pelo usuário selecionado.
--   **Vendedor**  
-    Mostra todos os vendedores referenciados em itens do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda que o vendedor selecionado está referenciado em ao menos 1 item.
+-   **Data cadastro inicial**  
+-   **Data cadastro final**  
 -   **Status**  
-    Mostra todos os status dos pedidos de venda. O status representa a situação atual do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda com o status selecionado.
--   **Data inicial**  
-    Filtro por período. Para exibir apenas pedidos de venda gerados a partir de uma data específica, aplique este filtro.
--   **Data final**  
-    Filtro por período. Para exibir apenas pedidos de venda gerados até uma data específica, aplique este filtro.
+-   **Data emissão inicial**  
+-   **Data semissão final**  
 
-Para aplicar um filtro, clique no botão “**APLICAR**” no lado direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em “**LIMPAR FILTROS**”:
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado um filtro, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>
 
 
 ## Cadastrar nota de compra
