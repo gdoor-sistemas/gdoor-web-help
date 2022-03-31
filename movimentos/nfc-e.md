@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-31T19:35:41.486Z
+date: 2022-03-31T19:37:30.681Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -137,7 +137,7 @@ Na tela de lista, você visualiza as NFC-e emitidas e pode fazer uma [busca](htt
 ## Buscar
 
 Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para limpar a busca (<em class="mdi mdi-close"></em>). 
-Para aplicar [filtros](#filtros) aprimorados, clique no botão "filtrar" (<em class="mdi mdi-filter"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) aprimorados, clique no botão "filtrar" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" (<em class="mdi mdi-refresh"></em>).
 
 ![digite para buscar](/movimentos/compras/busca.png)
