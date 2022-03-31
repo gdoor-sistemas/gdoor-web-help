@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-03-31T19:11:24.278Z
+date: 2022-03-31T19:15:08.843Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -158,6 +158,7 @@ No painel de filtros destacado na imagem acima, você encontra:
 <span class="mdi mdi-refresh"></span>: atualizar as opções de filtro.
 
 <span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
 Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
