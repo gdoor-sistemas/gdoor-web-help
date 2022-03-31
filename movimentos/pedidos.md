@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-03-31T19:16:20.829Z
+date: 2022-03-31T19:17:29.964Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -130,20 +130,14 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
--   **Cliente/Fornecedor**
-    Mostra todos os pedidos efetuados para o cliente/fornecedor informado. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda efetuados para o cliente/fornecedor indicado.
--   **Usuário**  
-    Mostra todos os usuários que já gravaram algum pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda salvos pelo usuário selecionado.
--   **Vendedor**  
-    Mostra todos os vendedores referenciados em itens do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda que o vendedor selecionado está referenciado em ao menos 1 item.
--   **Status**  
-    Mostra todos os status dos pedidos de venda. O status representa a situação atual do pedido de venda. Ao aplicar este filtro, serão exibidos apenas os pedidos de venda com o status selecionado.
--   **Data inicial**  
-    Filtro por período. Para exibir apenas pedidos de venda gerados a partir de uma data específica, aplique este filtro.
--   **Data final**  
-    Filtro por período. Para exibir apenas pedidos de venda gerados até uma data específica, aplique este filtro.
+-   **Cliente/Fornecedor**;
+-   **Usuário**;
+-   **Vendedor**;
+-   **Status**;
+-   **Data inicial**;
+-   **Data final**.
 
-Para aplicar um filtro, clique no botão “**APLICAR**” no lado direito inferior do quadro de filtros. Depois de aplicado um filtro, você pode removê-lo, clicando em “**LIMPAR FILTROS**”:
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
 ![](/movimentos/pedidos/limpar_filtro.png)
 
