@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T20:06:09.932Z
+date: 2022-03-31T20:11:48.232Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -82,6 +82,7 @@ Busque fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o f
 ![fornecedor](/movimentos/compras/fornecedor.png)
 
 - **Produtos**
+Para adicionar produtos utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe o **produto**, **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![produtos](/movimentos/compras/produtos.png)
 
