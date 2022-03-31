@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:32:47.130Z
+date: 2022-03-31T19:38:31.099Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -37,7 +37,7 @@ Os filtros também podem ser definidos como padrão. Para fazer um filtro na lis
 
 ![filtrar](/movimentos/compras/filtro_compra.png)
 
-No painel de filtros destacado na imagem acima, no lado superior direito temos:
+No painel de filtros destacado na imagem acima temos:
 
 <span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
 
@@ -49,8 +49,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 ![opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
-> 
-> ![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
