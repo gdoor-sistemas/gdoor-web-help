@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-03-31T19:29:51.547Z
+date: 2022-03-31T19:30:46.938Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -26,9 +26,9 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
  
 ![digite para buscar](/movimentos/compras/busca.png)
  
-> O que você digitar será buscado entre as seguintes informações do pedido de venda:  
+> O que você digitar será buscado entre as seguintes informações das notas de compra:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
-> **Campos textuais**: razão social e nome fantasia do cliente e nome dos produtos.
+> **Campos textuais**: razão social e nome fantasia do fornecedor e nome dos produtos.
 {.is-success .gw .gw-tip}
 
 ## Filtrar
