@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-03-30T19:11:14.383Z
+date: 2022-03-31T11:37:05.258Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -26,7 +26,7 @@ Determine as casas decimais para **quantidades** e para **preços**.
 
 Após informar os campos, clique em <span class="mat-button mdi "> salvar</span>.
 
-> Números que ficarão após a vírgula. Exemplo: 0,392 é um número decimal com 3 casas decimais após a vírgula.
+> Números que ficarão após a vírgula. Exemplo: 0,392 é um número com 3 casas decimais após a vírgula.
 {.is-success}
 
 # Serviços
