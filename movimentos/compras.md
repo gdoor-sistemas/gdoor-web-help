@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T18:05:59.407Z
+date: 2022-04-01T18:22:06.339Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -71,41 +71,61 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial.](https://help.gdoorweb.com.br/pt-br/movimentos/compras#lista)
 A tela "**nova compra**" será exibida.
 
+---
 - **Cabeçalho**
 Insira as informações constantes na nota de compra, como: **número, modelo, série, emissão, entrada** e **natureza da operação**:
 
 ![cabeçalho](/movimentos/compras/cabeçalhoo.png)
 
+---
 - **Fornecedor**
 Busque fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
 ![fornecedor](/movimentos/compras/fornecedor.png)
 
+---
 - **Produtos**
 Para adicionar produtos utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>).
 Informe o **produto**, **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![produtos](/movimentos/compras/produtos.png)
 
+---
 - **Totais da compra**
 Peencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
 
 ![totais da compra](/movimentos/compras/totais_da_compra.png)
 
+---
 - **Pagamentos**
 Nesta seção, há duas opções:
+
 **<em class="mdi mdi-checkbox-blank-outline"></em> Não informar pagamentos**: sem geração de histórico financeiro;
+
 **Adicionar pagamento**: geração da despesa no financeiro.
 
 ![pagamentos](/movimentos/compras/pagamentos_1.png)
 
+---
 - **Transporte**
+Na seção de transporte, alguns campos são exibidos de acordo com o "**tipo de frete**" selecionado:
+
+**Sem transporte**: não haverá informação de transportadora ou veículo;
+
+**Contratado pelo remetente, destinatário** ou **terceiros**: habilita os campos para informar a transportadora e veículo;
+
+**Transporte próprio por conta do remetente ou destinatário**: habilita os campos para informar a transportadora e veículo.
 
 ![transporte](/movimentos/compras/transporte.png)
 
-concluir salva a nota e valida para dar entrada no estoque.
-Isso irá realizar os movimentos do estoque e ela não poderá mais ser editada nem excluída: confirmar
-salvar: apenas salva a nota de compra (ficara com status pendente)
+Após a inclusão das informações conforme a nota fiscal de compra, há opção para:
+
+- <span class="mat-button mdi "> salvar</span>: apenas salva a nota de compra, que ficará na lista com status pendente.
+
+- <span class="mat-button mdi "> concluir</span>: salva a nota e valida para dar entrada no estoque.
+Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída.
+
+
 
 # Manifestação do Destinatário eletrônica (MD-e)
 
