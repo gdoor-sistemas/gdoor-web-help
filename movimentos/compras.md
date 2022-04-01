@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T20:08:38.794Z
+date: 2022-04-01T20:10:03.648Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -124,7 +124,7 @@ Após a inclusão das informações conforme a nota fiscal de compra, há opçã
 
 - <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra** (<em class="mdi  mdi-check"></em>):
 
-![nota_pendente.png](/movimentos/compras/nota_pendente.png)
+![nota pendente](/movimentos/compras/nota_pendente.png)
 
 # Manifestação do Destinatário eletrônica (MD-e)
 
@@ -142,24 +142,24 @@ Caso utilize apenas NFC-e, não será possível utilizar a função de manifesta
 
 Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
 
-![compras.png](/compras/manifestação/1_compras.png)
+![compras](/compras/manifestação/1_compras.png)
 
 ## Consultar 
 
 Para verificar se há notas para manifestar, clique no botão (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no **canto inferior direito da tela**.
 
-![consultar.png](/compras/manifestação/2_manifestação.png)
+![consultar](/compras/manifestação/2_manifestação.png)
 
 Ao clicar para consultar, observe que no canto superior direito aparecerá a mensagem “**consultando novos documentos**”, isso poderá levar alguns segundos. 
 Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se houverem notas para manifestar, elas serão listadas na tela.
 
-![lista notas.png](/compras/manifestação/3_notas.png)
+![lista notas](/compras/manifestação/3_notas.png)
 
 ### Opções
 
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
-![opções.png](/compras/manifestação/opções.png)
+![opções](/compras/manifestação/opções.png)
 
 Será possível:
 
@@ -174,13 +174,13 @@ Será possível:
 
 Para visualizar apenas dados pertinentes ao que você necessita, é possível efetuar uma **busca**, **filtrar** (<em class="mdi mdi-filter"></em>) e **ordenar** (<em class="mdi mdi-sort"></em>) as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
 
-![buscar.png](/compras/manifestação/7_buscar.png)
+![buscar](/compras/manifestação/7_buscar.png)
 
 ### Filtrar
 
 Os filtros (<em class="mdi mdi-filter"></em>) também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
 
-![filtros.png](/compras/manifestação/8_filtros.png)
+![filtros](/compras/manifestação/8_filtros.png)
 
 Opções de filtros:
 
@@ -196,13 +196,13 @@ Após informar o filtro desejado, basta clicar em <span class="mat-button mdi ">
 
 De acordo com o status e eventos informados, tags serão adicionadas as notas:
 
-![tags.png](/compras/manifestação/tags.png)
+![tags](/compras/manifestação/tags.png)
 
 ### Ordenar 
 
 Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
 
-![ordenar.png](/compras/manifestação/9_ordenar.png)
+![ordenar](/compras/manifestação/9_ordenar.png)
 
 ## Eventos
 
@@ -235,11 +235,11 @@ Tem como finalidade possibilitar ao destinatário se manifestar quanto a utiliza
 
 Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, informe o desejado.
  
-![informar evento.png](/compras/manifestação/5_manifestar-se.png)
+![informar evento](/compras/manifestação/5_manifestar-se.png)
 
 Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar</span>.
 
-![confirmar manifestação.png](/compras/manifestação/6.png)
+![confirmar manifestação](/compras/manifestação/6.png)
 
 # Importar XML
 
