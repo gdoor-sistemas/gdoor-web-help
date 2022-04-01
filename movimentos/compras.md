@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T18:27:47.825Z
+date: 2022-04-01T18:30:52.543Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -123,7 +123,7 @@ Após a inclusão das informações conforme a nota fiscal de compra, há opçã
 - <span class="mat-button mdi "> concluir</span>: salva a nota e valida para dar entrada no estoque.
 Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída.
 
-- <span class="mat-button mdi "> salvar</span>: apenas salva a nota de compra, que ficará na lista com status pendente, sendo possível realizar as ações de **editar compra** e **concluir compra**:
+- <span class="mat-button mdi "> salvar</span>: apenas salva a nota de compra, que ficará na lista com status pendente, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra**:
 
 ![nota_pendente.png](/movimentos/compras/nota_pendente.png)
 
