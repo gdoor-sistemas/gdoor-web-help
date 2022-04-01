@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T20:10:03.648Z
+date: 2022-04-01T20:11:37.122Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -245,7 +245,7 @@ Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar
 
 Ao acessar o módulo **movimentações » compras** clique em "**importar XML**", localizado no painel lateral da página conforme a imagem abaixo:
 
-![importar_xml.png](/movimentos/compras/importar_xml.png)
+![importar xml](/movimentos/compras/importar_xml.png)
 
 A tela para seleção do arquivo XML será aberta, localize o desejado e clique em abrir, todas as informações que estiverem no XMl serão importadas. 
 
@@ -253,18 +253,18 @@ Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela 
 
 Se algum **produto** ainda não estiver cadastrado no estoque, a observação de **novo produto** constará logo abaixo do nome:
 
-![produtos_novos_1.png](/movimentos/compras/produtos_novos_1.png)
+![produto](/movimentos/compras/produtos_novos_1.png)
 
 Para **editar o produto**, basta clicar sobre o mesmo e a janela abaixo será exibida.
 Clique na aba **novo produto** e edite/insira as informações que desejar, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
-![2.png](/movimentos/compras/2.png)
+![novo produto](/movimentos/compras/2.png)
 
 Efetue a conferência das demais informações e para finalizar clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
 
 Como haviam produtos novos, a mensagem abaixo é exibida:
 
-![produtos_novos_3.png](/movimentos/compras/produtos_novos_3.png)
+![cadastrar produtos novos](/movimentos/compras/produtos_novos_3.png)
 
 
 caso produto nao esteja cadastrado no estoque o sistema solicitara se deseja atribuir a outro produto ou cadastra-lo
