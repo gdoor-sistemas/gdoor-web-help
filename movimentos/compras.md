@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T20:11:37.122Z
+date: 2022-04-01T20:21:24.267Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -250,6 +250,14 @@ Ao acessar o módulo **movimentações » compras** clique em "**importar XML**"
 A tela para seleção do arquivo XML será aberta, localize o desejado e clique em abrir, todas as informações que estiverem no XMl serão importadas. 
 
 Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela para cadastro será exibida, verifique as informações e clique em <span class="mat-button mdi "> confirmar</span>.
+
+vincular
+
+![vincular_1.png](/movimentos/compras/vincular_1.png)
+
+![vincular_2.png](/movimentos/compras/vincular_2.png)
+
+![vincular_3.png](/movimentos/compras/vincular_3.png)
 
 Se algum **produto** ainda não estiver cadastrado no estoque, a observação de **novo produto** constará logo abaixo do nome:
 
