@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-01T18:41:08.116Z
+date: 2022-04-01T18:44:26.350Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -79,20 +79,20 @@ Insira as informações constantes na nota de compra, como: **número, modelo, s
 
 ---
 - **Fornecedor**
-Busque fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
+Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
 ![fornecedor](/movimentos/compras/fornecedor.png)
 
 ---
 - **Produtos**
 Para adicionar produtos utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>).
-Informe o **produto**, **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguinda clique em <span class="mat-button mdi "> confirmar</span>.
+Informe o **produto**, **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![produtos](/movimentos/compras/produtos.png)
 
 ---
 - **Totais da compra**
-Peencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
+Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
 
 ![totais da compra](/movimentos/compras/totais_da_compra.png)
 
