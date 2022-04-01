@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-03-24T19:16:09.865Z
+date: 2022-04-01T14:09:35.267Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 24/03/2022
+f1.22.1 {.versions} 
+
+## Ajustes
+
+- Ajustada a consulta via CEP para localização de endereços. 
 
 # 24/03/2022
 b2.12.1,  f1.22.0 {.versions} 
