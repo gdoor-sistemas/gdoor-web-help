@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T18:48:51.567Z
+date: 2022-04-04T18:54:41.479Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -10,17 +10,17 @@ dateCreated: 2020-01-03T19:34:45.629Z
 
 # Introdução
 
-O módulo de compras fará a movimentação de entrada da mercadoria no estoque e também a movimentação financeira das [despesas](/financeiro/despesas) das compras efetuadas de forma à vista ou a prazo.
+O módulo de compras fará a movimentação de entrada dos produtos no estoque e também a movimentação financeira das [despesas](/financeiro/despesas) das compras efetuadas de forma à vista ou a prazo.
 
 # Lista
 
-Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**, pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 ![lista](/movimentos/compras/lista.png)
 
 ## Buscar
 
-Para localizar uma nota de compra, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
  
@@ -33,18 +33,18 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 ## Filtrar
 
-Os filtros também podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
 ![filtrar](/movimentos/compras/filtro_compra.png)
 
 No painel de filtros destacado na imagem acima temos:
 
-<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro;
 
 <span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
 
-Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
 ![opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
