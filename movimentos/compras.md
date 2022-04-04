@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T17:36:47.681Z
+date: 2022-04-04T17:46:48.116Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -264,9 +264,11 @@ A tela para "**vincular item**" será mostrada, busque o produto desejado e cliq
 
 ![vincular](/movimentos/compras/vincular_2.png)
 
-Observe que agora, na observação do produto consta o vínculo
+Observe que agora, na observação do produto consta o vínculo:
 
 ![produto vinculado](/movimentos/compras/vincular_3.png)
+
+Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
 
 ## Cadastrar novo produto
 
@@ -276,18 +278,16 @@ Se o sistema identificar produtos novos no XML, a observação de "**novo produt
 
 É possível **cadastrar o produto** diretamente pela nota de compra.
 Para **editar o cadastro**, basta clicar sobre o mesmo e a janela abaixo será exibida.
-Clique na aba "**novo produto**" e edite/insira as informações que desejar, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
+Clique na aba "**novo produto**" e edite/insira as informações necessárias, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![novo produto](/movimentos/compras/2.png)
 
-Efetue a conferência das demais informações e para finalizar clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
+Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
 
-Como haviam produtos novos, a mensagem abaixo é exibida:
+Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que sejam adicionados ao estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
 
 ![cadastrar produtos novos](/movimentos/compras/produtos_novos_3.png)
 
-
-caso produto nao esteja cadastrado no estoque o sistema solicitara se deseja atribuir a outro produto ou cadastra-lo
 
 # Configurações
 
