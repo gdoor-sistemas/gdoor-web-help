@@ -2,20 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-04-04T12:10:51.920Z
+date: 2022-04-04T20:57:43.078Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 04/04/2022
-b2.12.4 {.versions} 
+b2.12.5 {.versions} 
 
 ## Ajustes
 
 - Alterada a URL de autorização e consulta da NFC-e via QRCode em MG. 
 
 - Ajustada a edição de produtos com ANP. Anteriormente só estava permitindo salvar a edição quando tivesse "Valor de partida".
+
+- Corrigida a geração de registros financeiros para NFC-e, que não estava ocorrendo regularmente desde o dia 23/04.
 
 # 24/03/2022
 f1.22.1 {.versions} 
