@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T18:18:05.420Z
+date: 2022-04-04T18:27:07.637Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -281,6 +281,10 @@ Para **editar o cadastro**, basta clicar sobre o mesmo e a janela abaixo será e
 Clique na aba "**novo produto**" e edite/insira as informações necessárias, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![novo produto](/movimentos/compras/novo.png)
+
+Observe que agora a descrição do produto foi alterada e na observação consta que se trata de um novo produto:
+
+![nova descrição](/movimentos/compras/novo_2.png)
 
 Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
 
