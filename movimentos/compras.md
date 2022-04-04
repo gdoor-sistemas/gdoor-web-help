@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T20:02:11.102Z
+date: 2022-04-04T20:06:21.069Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -136,7 +136,7 @@ São quatro eventos possíveis: **confirmação da operação**, **desconhecimen
 Para efetuar a manifestação é necessário ter um “**certificado digital válido**” e estar em “**ambiente de produção**”.
 
 > As configurações para a Manifestação do Destinatário eletrônica são as mesmas utilizadas nas “**configurações da NF-e**”. 
-Caso utilize apenas NFC-e, não será possível utilizar a função de manifestação, pois ela trabalha em conjunto a NF-e.
+Caso utilize apenas NFC-e, não será possível utilizar a função de manifestação, pois ela trabalha em conjunto com a NF-e.
 {.is-info}
 
 Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
@@ -306,13 +306,13 @@ Clique em <span class="mat-button mdi "> rever</span> se desejar efetuar alguma 
 
 # Configurações
 
-Nesta seção é possível determinar [operação padrão](https://help.gdoorweb.com.br/pt-br/movimentos/compras#opera%C3%A7%C3%A3o-padr%C3%A3o) para novas compras e configurações referentes a [Manifestação do Destinatário eletrônica (MD-e)](https://help.gdoorweb.com.br/pt-br/movimentos/compras#manifesta%C3%A7%C3%A3o-eletr%C3%B4nica).
+Nesta seção é possível determinar a [operação padrão](https://help.gdoorweb.com.br/pt-br/movimentos/compras#opera%C3%A7%C3%A3o-padr%C3%A3o) para novas compras e configurações referentes à [Manifestação do Destinatário eletrônica (MD-e)](https://help.gdoorweb.com.br/pt-br/movimentos/compras#manifesta%C3%A7%C3%A3o-eletr%C3%B4nica).
 
 ![configurações de compras](/movimentos/compras/configurações_de_compras.png)
 
 ## Operação padrão
 
-Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação selecionada por padrão.
+Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação escolhida por padrão.
 Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Manifestação eletrônica
