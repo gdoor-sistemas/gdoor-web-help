@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T18:27:07.637Z
+date: 2022-04-04T18:46:25.041Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -85,8 +85,7 @@ Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o
 
 ---
 - **Produtos**
-Para adicionar produtos utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>).
-Informe o **produto**, **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
+Para buscar **produtos** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe a **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![produtos](/movimentos/compras/produtos.png)
 
@@ -286,9 +285,13 @@ Observe que agora a descrição do produto foi alterada e na observação consta
 
 ![nova descrição](/movimentos/compras/novo_2.png)
 
-Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em <span class="mat-button mdi "> salvar</span> ou <span class="mat-button mdi "> concluir</span>.
+Efetue a conferência das demais informações da nota fiscal e clique em:
 
-Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que sejam adicionados ao estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
+- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
+
+- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, , sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra** (<em class="mdi  mdi-check"></em>).
+
+Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que eles sejam adicionados ao estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
 
 ![cadastrar produtos novos](/movimentos/compras/cadastrar.png)
 
