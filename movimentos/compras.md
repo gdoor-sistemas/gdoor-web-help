@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T19:38:28.530Z
+date: 2022-04-04T19:41:07.067Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -278,7 +278,7 @@ Efetue a conferência das demais informações da nota fiscal e para finalizar a
 
 ## Cadastrar novo produto
 
-Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo do nome:
+Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição:
 
 ![produto](/movimentos/compras/produtos_novos_1.png)
 
@@ -288,7 +288,7 @@ Clique na aba "**novo produto**" e edite/insira as informações necessárias, e
 
 ![novo produto](/movimentos/compras/novo.png)
 
-Observe que agora a descrição do produto foi alterada e na observação consta que se trata de um novo produto:
+Observe que a descrição do produto foi alterada e na observação consta **novo produto**:
 
 ![nova descrição](/movimentos/compras/novo_2.png)
 
@@ -298,7 +298,7 @@ Efetue a conferência das demais informações da nota fiscal e clique em:
 
 - <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, , sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra** (<em class="mdi  mdi-check"></em>).
 
-Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que eles sejam adicionados ao estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
+Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que eles sejam adicionados ao cadastro de estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
 
 ![cadastrar produtos novos](/movimentos/compras/cadastrar.png)
 
