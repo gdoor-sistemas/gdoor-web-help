@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T17:12:58.965Z
+date: 2022-04-04T17:22:55.673Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -253,8 +253,10 @@ Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela 
 
 ## Vincular a produto cadastrado
 
-Se o sistema identificar produtos novos no XML, a observação de **novo produto** constará logo abaixo do nome.
-Esse produto pode já estar cadastrado no sistema, porém com uma descrição diferente, desta forma é possível vinculá-lo a um produto já cadastrado.
+Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo do nome.
+Esse produto pode já estar cadastrado no sistema, porém com uma descrição diferente, sendo assim, é possível vincular o item.
+
+Para isso, clique no botão "**vínculo**" (<em class="mdi mdi-call-merge"></em>) localizado ao lado do item desejado.
 
 ![vincular_1.png](/movimentos/compras/vincular_1.png)
 
