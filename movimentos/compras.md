@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T19:50:18.750Z
+date: 2022-04-04T19:53:03.290Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -312,9 +312,11 @@ Nesta seção é possível determinar operação padrão para novas compras e co
 
 ## Operação padrão
 
-Cada vez que for cadastrar uma nova compra, esta será a operação selecionada por padrão. Se for deixada em branco, será necessário escolher manualmente a cada nota
+Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação selecionada por padrão.
+Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Manifestação eletrônica
 
 Último NSU para utilização no download de documentos eletrônicos
+<span class="mat-button mdi "> salvar</span>
 
