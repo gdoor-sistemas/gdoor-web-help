@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T19:43:23.027Z
+date: 2022-04-04T19:46:09.438Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -306,4 +306,4 @@ Clique em <span class="mat-button mdi "> rever</span> se desejar efetuar alguma 
 
 # Configurações
 
-Em breve...
+![configurações de compras](/movimentos/compras/configurações_de_compras.png)
