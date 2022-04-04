@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2022-04-04T19:06:43.178Z
+date: 2022-04-04T19:13:05.786Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -173,7 +173,7 @@ Será possível:
 
 Para visualizar apenas dados pertinentes ao que você necessita, é possível efetuar uma **busca** (<em class="mdi mdi-magnify"></em>), **filtrar** (<em class="mdi mdi-filter"></em>) e **ordenar** (<em class="mdi mdi-sort"></em>) as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
 
-![buscar](/compras/manifestação/7_buscar.png)
+![menu](/compras/manifestação/7_buscar.png)
 
 ### Filtrar
 
@@ -214,7 +214,6 @@ Utilizado quando no retorno da consulta tiver apenas o "**resumo da NF-e**". Ele
 > Este evento não representa a manifestação do destinatário sobre a operação, sua finalidade é a obtenção do arquivo XML. 
 {.is-warning}
 
-
 ### Confirmação da operação
 
 Confirma a operação e o recebimento da mercadoria (para operações com circulação de mercadoria).
@@ -244,7 +243,7 @@ Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar
 
 Ao acessar o módulo **movimentações » compras** clique em "**importar XML**", localizado no painel lateral da página conforme a imagem abaixo:
 
-![importar xml](/movimentos/compras/importar_xml.png)
+![importar XML](/movimentos/compras/importar_xml.png)
 
 A tela para seleção do arquivo XML será aberta, localize o desejado e clique em abrir, todas as informações que estiverem no XMl serão importadas. 
 
