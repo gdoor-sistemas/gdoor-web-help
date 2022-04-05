@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-04-04T20:57:43.078Z
+date: 2022-04-05T17:56:13.950Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/04/2022
+f1.22.2 {.versions} 
+
+## Ajustes
+
+- Ajustada a nota complementar no regime simples nacional de notas geradas em outro sistema. Antes não era possível complementar uma nota de outro sistema caso o regime do emitente fosse simples nacional.
+
+- Ajustada a edição da nota complementar para não apresentar campos de IPI.
 
 # 04/04/2022
 b2.12.5 {.versions} 
