@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-04-05T17:56:13.950Z
+date: 2022-04-11T18:14:52.452Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/04/2022
+b2.12.6,  f1.22.3 {.versions} 
+
+## Novidades
+
+- Otimizada a busca de produtos na lista. Ao digitar somente números na busca, são procurados os produtos apenas por código.
+
+- Melhorada a visualização da busca de produtos no Kit, NF-e e Compra. Agora os detalhes do produto aparecem em uma segunda linha para não cortar os dados.
 
 # 05/04/2022
 f1.22.2 {.versions} 
