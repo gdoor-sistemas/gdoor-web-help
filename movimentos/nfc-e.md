@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T19:54:43.788Z
+date: 2022-04-14T19:56:34.442Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -543,6 +543,8 @@ As configurações de preferência foram criadas, elas podem ser diferentes para
 </div>
 
 # Preferências do PDV
+
+Defina o comportamento do Gweb.
 
 ![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
