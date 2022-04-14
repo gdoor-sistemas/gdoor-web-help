@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T20:01:05.131Z
+date: 2022-04-14T20:04:48.343Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -536,11 +536,7 @@ Nesta seção você pode configurar o sistema para abrir a janela de impressão 
 
 # Preferências do PDV
 
-As configurações de preferência podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos e, dependendo de como se configura, o fluxo de trabalho pode ser totalmente diferente de um usuário para outro. Vamos ver agora em detalhes cada opção, mas se você preferir, pode ver um vídeo que exemplifica maneiras de você ajustar as suas preferências de uso da NFC-e:
-
-<div class=text-center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+As configurações de preferências podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos de acordo com seu fluxo de trabalho. 
 
 ![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
@@ -559,3 +555,9 @@ Determine para qual tela você será redirecionado após salvar uma venda. As op
 Solicitar vendedor na abertura{.subtitle}
 
 Marcando esta opção, ao iniciar uma venda, o sistema pedirá para informar o vendedor ao abrir a venda. Isso pode ser útil para terminais compartilhados entre diversos vendedores.
+
+Veja o vídeo que exemplifica maneiras de você ajustar as suas preferências de uso do PDV:
+
+<div class=text-center>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
