@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T12:34:10.552Z
+date: 2022-04-14T12:48:27.616Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -12,11 +12,9 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
 
-
-
 # Nova NFC-e
 
-Em todas as telas da NFC-e, você verá na área central superior uma barra que contém: na esquerda, o título da tela que identifica onde você está; na direita, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
+Em todas as telas da NFC-e, você verá na área central superior o título da tela que identifica onde você está, ações disponíveis na tela atual, e o botão para alternar o modo tela cheia.
 
 ![Barra superior da NFC-e](/movimentos/nfce/barra-superior-nfce.png)
 
