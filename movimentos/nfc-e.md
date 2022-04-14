@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T19:54:01.491Z
+date: 2022-04-14T19:54:43.788Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -560,5 +560,4 @@ Determine para qual tela você será redirecionado após salvar uma venda. As op
 
 Solicitar vendedor na abertura{.subtitle}
 
-Marcando esta opção, ao iniciar uma venda, o sistema pedirá para informar o vendedor ao abrir a venda. Isso pode ser útil para terminais compartilhados entre vários vendedores. Veja detalhes sobre [vendedor na NFC-e](../nfc-e/formulario#vendedor).
-
+Marcando esta opção, ao iniciar uma venda, o sistema pedirá para informar o vendedor ao abrir a venda. Isso pode ser útil para terminais compartilhados entre diversos vendedores.
