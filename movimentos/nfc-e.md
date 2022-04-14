@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T19:56:34.442Z
+date: 2022-04-14T20:01:05.131Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -534,17 +534,13 @@ Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à
 Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
 
 
-# Preferências
+# Preferências do PDV
 
-As configurações de preferência foram criadas, elas podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos e, dependendo de como se configura, o fluxo de trabalho pode ser totalmente diferente de um usuário para outro. Vamos ver agora em detalhes cada opção, mas se você preferir, pode ver um vídeo que exemplifica maneiras de você ajustar as suas preferências de uso da NFC-e:
+As configurações de preferência podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos e, dependendo de como se configura, o fluxo de trabalho pode ser totalmente diferente de um usuário para outro. Vamos ver agora em detalhes cada opção, mas se você preferir, pode ver um vídeo que exemplifica maneiras de você ajustar as suas preferências de uso da NFC-e:
 
 <div class=text-center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-# Preferências do PDV
-
-Defina o comportamento do Gweb.
 
 ![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
