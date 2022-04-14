@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T14:24:40.325Z
+date: 2022-04-14T18:48:07.301Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -37,7 +37,7 @@ Para criar uma nova NFC-e, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![pdv_livre.png](/movimentos/nfce/pdv_livre.png)
+![opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
 
 ## Adicionando produtos
 
