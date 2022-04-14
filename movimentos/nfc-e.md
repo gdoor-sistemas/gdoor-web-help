@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T19:35:48.605Z
+date: 2022-04-14T19:43:50.706Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -10,12 +10,16 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 # Introdução
 
-O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
+O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. 
+O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
 
-No "**PDV**" é possível configurar o comportamento do sistema de acordo com a dinâmica de trabalho da sua empresa: emissão direta de **NFC-e**, ou emissão de **pré-venda** seguido de geração de **NFC-e** para finalização da venda. 
+No "**PDV**" é possível configurar o comportamento do sistema de acordo com a dinâmica de trabalho da sua empresa: emissão direta de **NFC-e**, ou emissão de **pré-venda** seguido de geração de **NFC-e** para finalização da venda.
+
 Além disso, você também pode definir o momento em que será efetuada a **movimentação do estoque** e **geração dos registros financeiros**.
 
-# Nova NFC-e
+# Pré-venda
+
+# NFC-e
 
 Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-e:
 
@@ -336,7 +340,7 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 O Gweb possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
 
-## Compactando arquivos
+## Compactar arquivos
 
 Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral da NFC-e:
 
@@ -357,6 +361,8 @@ Em breve...
 # Suprimento
 
 Em breve...
+
+# Configurações do PDV
 
 # Configurações da NFC-e
 
@@ -536,7 +542,7 @@ As configurações de preferência foram criadas, elas podem ser diferentes para
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Comportamento
+# Preferências do PDV
 
 ![Preferências de comportamento da NFC-e](/movimentos/nfce/nfce-preferencias-comportamento.png)
 
