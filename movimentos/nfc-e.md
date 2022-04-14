@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T19:43:50.706Z
+date: 2022-04-14T19:54:01.491Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -544,22 +544,19 @@ As configurações de preferência foram criadas, elas podem ser diferentes para
 
 # Preferências do PDV
 
-![Preferências de comportamento da NFC-e](/movimentos/nfce/nfce-preferencias-comportamento.png)
+![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
 Iniciar em tela cheia{.subtitle}
 
-Com esta opção marcada, ao entrar no módulo de NFC-e, o modo tela cheia será ativado automaticamente. No modo tela cheia, os menus laterais ficam ocultos, mas ainda é possível acessá-los clicando sobre o botão de menu (<em class="mdi mdi-menu"></em>) nos cantos superiores.
+Com esta opção marcada, ao entrar no PDV, o modo tela cheia será ativado automaticamente. No modo tela cheia, os menus laterais ficam ocultos, mas ainda é possível acessá-los clicando sobre o botão de menu (<em class="mdi mdi-menu"></em>) nos cantos superiores.
 
 Tela inicial{.subtitle}
 
-Nesta parte você determina em qual tela a NFC-e deve entrar, quando você acessa a partir de outro módulo. As opções são: **Início**, **Lista de NFC-e** e **Nova NFC-e**.
+Determine qual será a tela inicial ao abrir o PDV, as opções são: "**início**", "**lista do PDV**" e "**nova venda**".
 
 Tela final{.subtitle}
 
-Nesta parte você determina para qual tela você será redirecionado após a autorização de uma NFC-e. As opções são: **Nova NFC-e**, **Lista de NFC-e** e **Detalhes da NFC-e salva**.
-
-> Caso a NFC-e tenha sido salva, mas haja algum problema na transmissão, esta configuração será ignorada e você será redirecionado para a tela de **Detalhes da NFC-e salva**.
-{.is-info}
+Determine para qual tela você será redirecionado após salvar uma venda. As opções são: "**nova venda**", "**lista do PDV**" e "**detalhes da venda salva**".
 
 Solicitar vendedor na abertura{.subtitle}
 
