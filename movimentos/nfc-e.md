@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T18:01:53.073Z
+date: 2022-04-18T18:12:17.634Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -401,16 +401,16 @@ Com esta opção marcada, caso o valor da venda seja maior do que o valor config
 
 Esta configuração permite escolher o comportamento do sistema em relação às vendas:
 
-- **Perguntar sempre**: sempre que concluir uma venda, será solicitado o que deseja fazer:
+- **Perguntar sempre**: ao selecionar esta opção, sempre que concluir uma venda no PDV, **será solicitado o que deseja fazer**:
 
 ![o_que.gif](/movimentos/pdv/o_que.gif)
 
 > É possível selecionar a opção desejada utilizando apenas as teclas no teclado <kbd>S</kbd> (apenas **s**alvar), <kbd>C</kbd> (**c**oncluir pré-venda) e <kbd>N</kbd> (gerar **N**FC-e), seguido de <kbd>Enter</kbd> para confirmar.
 {.is-info}
 
-- **Apenas salvar**: uma **pré-venda** em aberto será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
+- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: a pré-venda será **salva** e **concluída**. Não poderá mais ser alterada. Movimentará [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) conforme a configuração. Ainda será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) dependerá da configuração selecionada. Ainda será possível gerar uma NFC-e a partir dela.
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
@@ -422,7 +422,7 @@ Após efetuar a confirguração desejada, clique em <span class="mat-button mdi 
 
 ## Financeiro
 
-Para informação dos vínculos financeiros padrão da pré-venda.
+Para informação dos vínculos financeiros padrão.
 Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
 
 ![financeiro.png](/movimentos/nfce/financeiro.png)
@@ -527,13 +527,6 @@ Imprimir depois de autorizar{.subtitle}
 Indique aqui se após a autorização da NFC-e o sistema deve automaticamente abrir a janela para impressão do DANFCe.
 
 > Atualmente o sistema não tem como enviar a impressão do DANFCe direto para uma impressora, pois isso é uma limitação comum de uma página da Web. No entanto, a impressão pode ser realizada normalmente por meio do diálogo de impressão que o navegador abrirá.
-
-## Financeiro
-
-Para informação dos vínculos financeiros padrão.
-Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
-
-![financeiro.png](/movimentos/nfce/financeiro.png)
 
 ## E-mails padrão
 
