@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T20:11:11.470Z
+date: 2022-04-18T20:19:58.675Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -457,24 +457,21 @@ As configurações da NFC-e são gerais para todos os usuários, e somente usuá
 
 ## Operação padrão
 
-![Configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
+Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [cadastro de operações](/cadastros/operacoes).
 
-Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [Cadastro de operações](/cadastros/operacoes).
+![configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
 
 ## Certificado digital
 
-![Configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
-
 Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Na imagem acima você vê as 3 aparências desta seção. Primeiro, você seleciona o arquivo do certificado digital A1. Depois informa a senha do certificado. Por fim, depois de enviar o arquivo, será exibido o nome da empresa para quem o certificado foi emitido e a data de validade, apenas para consulta. Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
-> Você pode ficar tranquilo ao enviar seu certificado digital, pois ele será armazenado nos servidores do Gweb sob camadas de segurança.
-{.is-info}
+![configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
 
 ## Ambiente da NFC-e
 
-![Configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
-
 Nesta seção você configura dados para a geração da NFC-e. Abaixo, veja detalhes de cada configuração.
+
+![configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
 
 Série da NFC-e{.subtitle}
 
@@ -482,14 +479,11 @@ Série de emissão da NFC-e. Esta informação pode ser obtida com sua contabili
 
 Ambiente de emissão{.subtitle}
 
-Aqui você determina se as suas NFC-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de produção, as NFC-e transmitidas terão valor fiscal.
+Aqui você determina se as suas NFC-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, as NFC-e transmitidas terão valor fiscal.
 
 Nº da próxima NFC-e{.subtitle}
 
-Apenas informe um valor neste campo caso você já tenha transmitido NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. O próximo número disponível não fica gravado neste campo, ele serve apenas para informar um ponto de partida para o sistema.
-
-> Não é necessário informar o número 1, caso você esteja começando a emitir NFC-e agora, pois o sistema naturalmente começará pelo número 1.
-{.is-info}
+Apenas informe um valor neste campo se sua empresa já emitia NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. O próximo número disponível não fica gravado neste campo, ele serve apenas para informar um ponto de partida para o sistema.
 
 Forma de emissão{.subtitle}
 
@@ -507,15 +501,19 @@ Código CSC{.subtitle}
 
 ## Autorizados a baixar o XML
 
-![Pessoas autorizadas a baixar o XML](/movimentos/nfce/nfce-configurar-autorizados-baixar-xml.png)
+Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) da NFC-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
 
-Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) da NFC-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. Os documentos informados aqui serão adicionados em cada NFC-e gerada. Para adicionar um documento, digite o número no campo intitulado "Adicionar CNPJ/CPF" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
+![pessoas autorizadas a baixar o XML](/movimentos/nfce/nfce-configurar-autorizados-baixar-xml.png)
+
+Os documentos informados aqui serão adicionados em cada NFC-e gerada. Para adicionar um documento, digite o número no campo intitulado "Adicionar CNPJ/CPF" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
 
 ## Impressão do DANFCe
 
-![Configurar a impressão do DANFCe](/movimentos/nfce/nfce-configurar-impressao-danfce.png)
+Nesta seção você configura detalhes sobre a impressão do [DANFCe](/glossario#danfce). 
 
-Nesta seção você configura detalhes sobre a impressão do [DANFCe](/glossario#danfce). Veja o que pode ser alterado:
+![configurar a impressão do DANFCe](/movimentos/nfce/nfce-configurar-impressao-danfce.png)
+
+Veja o que pode ser alterado:
 
 Fonte{.subtitle}
 
@@ -523,23 +521,23 @@ Estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial
 
 Imprimir logo{.subtitle}
 
-Indique aqui se a impressão do DANFCe deve conter a logomarca da sua empresa. Será considerada a informada no [Cadastro do emitente](/configuracoes/emitente).
+Indique aqui se a impressão do DANFCe deve conter a logomarca da sua empresa. Será considerada a informada no [cadastro do emitente](/configuracoes/emitente).
 
 Imprimir depois de autorizar{.subtitle}
 
 Indique aqui se após a autorização da NFC-e o sistema deve automaticamente abrir a janela para impressão do DANFCe.
 
-> Atualmente o sistema não tem como enviar a impressão do DANFCe direto para uma impressora, pois isso é uma limitação comum de uma página da Web. No entanto, a impressão pode ser realizada normalmente por meio do diálogo de impressão que o navegador abrirá.
+> Devido a limitação comum em páginas na web, o sistema não tem como enviar a impressão do DANFCe direto para uma impressora. No entanto, a impressão pode ser realizada normalmente por meio do diálogo de impressão que o navegador abrirá.
 
 ## E-mails padrão
 
-![Configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
-
 Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para notificar a autorização da NFC-e, quanto o seu cancelamento.
+
+![configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
 
 Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para fazer as modificações. No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
 
-![Utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
+![utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
 
 > Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
 {.is-success .gw .gw-tip}
