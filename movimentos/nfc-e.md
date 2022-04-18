@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T13:47:08.124Z
+date: 2022-04-18T14:00:21.811Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -371,12 +371,16 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 ![configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
 
 Movimentar estoque?{.subtitle}
-- Não: o estoque será movimentado ao emitir o documento fiscal
-- Sim: o estoque será movimentado quando a pré-venda for concluída
+
+Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda).
+- **Não**: o estoque será movimentado ao emitir o documento fiscal.
+- **Sim**: o estoque será movimentado quando a pré-venda for concluída.
 
 Gerar financeiro?{.subtitle}
-- Não: os registros financeiros serão gerados ao emitir o documento fiscal
-- Sim: os registros financeiros serão gerados quando a pré-venda for concluída
+
+Por padrão, a geração dos registros financeiros ocorrem na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda).
+- **Não**: os registros financeiros serão gerados ao emitir o documento fiscal.
+- **Sim**: os registros financeiros serão gerados quando a pré-venda for concluída.
 
 Solicitar cliente{.subtitle}
 
