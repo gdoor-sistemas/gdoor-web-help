@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T13:01:55.317Z
+date: 2022-04-18T13:03:47.788Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -429,7 +429,7 @@ Nesta seção, você adiciona o [certificado digital](/glossario#certificado-dig
 > Você pode ficar tranquilo ao enviar seu certificado digital, pois ele será armazenado nos servidores do Gweb sob camadas de segurança.
 {.is-info}
 
-## Ambiente da NFC-e {#ambiente}
+## Ambiente da NFC-e
 
 ![Configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
 
