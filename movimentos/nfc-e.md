@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T20:10:38.819Z
+date: 2022-04-18T20:11:11.470Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -453,7 +453,7 @@ Nesta seção você pode configurar o sistema para abrir a janela de impressão 
 
 # Configurações da NFC-e
 
-As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, você precisará salvar individualmente. Veja abaixo os detalhes de cada seção/configuração.
+As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Operação padrão
 
