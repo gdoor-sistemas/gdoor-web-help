@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-14T20:04:48.343Z
+date: 2022-04-18T13:01:55.317Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -364,16 +364,6 @@ Em breve...
 
 # Configurações do PDV
 
-# Configurações da NFC-e
-
-As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, você precisará salvar individualmente. Veja abaixo os detalhes de cada seção/configuração.
-
-## Operação padrão
-
-![Configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
-
-Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [Cadastro de operações](/cadastros/operacoes).
-
 ## Comportamento
 
 ![Configurar comportamento da NFC-e](/movimentos/nfce/nfce-configurar-comportamento.png =300x)
@@ -398,6 +388,37 @@ Esta configuração permite escolher o que o sistema deve fazer — em relação
 - Transmita automaticamente
 - Não transmita
 - Pergunte o que fazer a cada NFC-e
+
+## Meios de pagamento
+
+Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
+
+Para tornar um meio de pagamento disponível na NFC-e, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
+
+![Configurar meios de pagamento na NFC-e](/movimentos/nfce/nfce-configurar-pagamentos-ordem.gif)
+
+## Mensagem promocional
+
+![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
+
+Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce). Será aplicada somente nas novas NFC-e geradas.
+
+## Sangria e suprimento
+
+![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
+
+Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
+
+
+# Configurações da NFC-e
+
+As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, você precisará salvar individualmente. Veja abaixo os detalhes de cada seção/configuração.
+
+## Operação padrão
+
+![Configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
+
+Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [Cadastro de operações](/cadastros/operacoes).
 
 ## Certificado digital
 
@@ -476,20 +497,6 @@ Informe a "**conta**" padrão para geração da movimentação, **plano de conta
 
 ![financeiro.png](/movimentos/nfce/financeiro.png)
 
-## Meios de pagamento
-
-Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
-
-Para tornar um meio de pagamento disponível na NFC-e, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
-
-![Configurar meios de pagamento na NFC-e](/movimentos/nfce/nfce-configurar-pagamentos-ordem.gif)
-
-## Mensagem promocional
-
-![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
-
-Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce). Será aplicada somente nas novas NFC-e geradas.
-
 ## E-mail
 
 ![Configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
@@ -526,13 +533,6 @@ Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à
 
 > Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
 {.is-success .gw .gw-tip}
-
-## Sangria e suprimento
-
-![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
-
-Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
-
 
 # Preferências do PDV
 
