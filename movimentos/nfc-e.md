@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T19:38:18.091Z
+date: 2022-04-18T19:44:54.225Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -403,7 +403,7 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 - **Perguntar sempre**: ao selecionar esta opção, sempre que concluir uma venda no PDV, **será solicitado o que deseja fazer**:
 
-![o_que.gif](/movimentos/pdv/o_que.gif)
+![PDV perguntar sempre](/movimentos/pdv/o_que.gif)
 
 > É possível selecionar a opção desejada utilizando apenas as teclas no teclado <kbd>S</kbd> (apenas **s**alvar), <kbd>C</kbd> (**c**oncluir pré-venda) e <kbd>N</kbd> (gerar **N**FC-e), seguido de <kbd>Enter</kbd> para confirmar.
 {.is-info}
@@ -428,7 +428,7 @@ Após efetuar as configurações desejadas, clique em <span class="mat-button md
 Para informação dos vínculos financeiros padrão.
 Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
 
-![financeiro.png](/movimentos/nfce/financeiro.png)
+![financeiro](/movimentos/nfce/financeiro.png)
 
 ## Meios de pagamento
 
@@ -436,7 +436,9 @@ Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagament
 
 Depois de [cadastrar o meio de pagamento](https://help.gdoorweb.com.br/cadastros/pagamentos#nova-forma-de-pagamento), para torná-lo disponível no PDV é necessário marcar a caixa de seleção à esquerda, conforme exibido abaixo. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
-![Configurar meios de pagamento na NFC-e](/movimentos/nfce/nfce-configurar-pagamentos-ordem.gif)
+![meios_de_pagamento.gif](/movimentos/pdv/meios_de_pagamento.gif)
+
+Clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Mensagem promocional
 
