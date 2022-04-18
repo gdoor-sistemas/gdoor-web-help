@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T17:44:24.198Z
+date: 2022-04-18T17:45:21.414Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -370,8 +370,7 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 
 ![configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
 
-Movimentar estoque?{.subtitle}
-
+### Movimentar estoque?
 Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda).
 - **Não**: o estoque será movimentado ao emitir o documento fiscal.
 - **Sim**: o estoque será movimentado quando a pré-venda for concluída.
