@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T17:48:39.446Z
+date: 2022-04-18T17:50:11.532Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -410,7 +410,7 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 - **Apenas salvar**: uma **pré-venda** em aberto será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: a pré-venda será **salva** e **concluída**. Não poderá mais ser alterada. Movimentará estoque e financeiro conforme a configuração. Ainda será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda**: a pré-venda será **salva** e **concluída**. Não poderá mais ser alterada. Movimentará [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) conforme a configuração. Ainda será possível gerar uma NFC-e a partir dela.
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
