@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T18:12:17.634Z
+date: 2022-04-18T19:02:49.138Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -416,6 +416,10 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 ### Mesclar pré-venda{.subtitle}
 
+Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e: 
+- **Perguntar sempre**: 
+- **Mesclar**: uma única NFC-e será gerada com todas as pré-vendas selecionadas (.
+- **Não mesclar**: uma NFC-e por pré-venda será gerada em segundo plano. Você poderá continuar usando o sistema normalmente e as NFC-e serão geradas conforme forem processadas.
 
 
 Após efetuar a confirguração desejada, clique em <span class="mat-button mdi "> salvar</span>.
