@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T13:05:05.222Z
+date: 2022-04-18T13:06:03.810Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -537,6 +537,8 @@ Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-ma
 # Preferências do PDV
 
 As configurações de preferências podem ser diferentes para cada usuário e permitem que ele molde o sistema à sua maneira de trabalhar. Nesta área, você pode ajustar alguns comportamentos de acordo com seu fluxo de trabalho. 
+
+## Comportamento
 
 ![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
