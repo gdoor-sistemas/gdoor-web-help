@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T13:03:47.788Z
+date: 2022-04-18T13:05:05.222Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -497,6 +497,19 @@ Informe a "**conta**" padrão para geração da movimentação, **plano de conta
 
 ![financeiro.png](/movimentos/nfce/financeiro.png)
 
+## E-mails padrão
+
+![Configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
+
+Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para notificar a autorização da NFC-e, quanto o seu cancelamento.
+
+Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para fazer as modificações. No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
+
+![Utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
+
+> Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
+{.is-success .gw .gw-tip}
+
 ## E-mail
 
 ![Configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
@@ -520,19 +533,6 @@ Com esta opção marcada, sempre que enviar um e-mail de NFC-e, uma cópia será
 Anexar PDF{.subtitle}
 
 Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail — que é obrigatório — o PDF do [DANFCe](/glossario#danfce) também será anexado.
-
-## E-mails padrão
-
-![Configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
-
-Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para notificar a autorização da NFC-e, quanto o seu cancelamento.
-
-Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para fazer as modificações. No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
-
-![Utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
-
-> Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
-{.is-success .gw .gw-tip}
 
 # Preferências do PDV
 
