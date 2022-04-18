@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T14:00:21.811Z
+date: 2022-04-18T14:05:40.076Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -388,7 +388,11 @@ Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cl
 
 Após o primeiro item{.subtitle}
 
-Esta opção estará visível apenas se a anterior estiver marcada. Marcando esta opção, o sistema solicitará o cliente somente após o lançamento do primeiro item. Isso pode ser útil em casos onde o operador deixa sempre uma nova venda em aberto, assim, não será necessário informar o cliente logo na abertura da venda.
+Esta opção estará visível apenas se "**solicitar cliente**" **estiver marcada**. Marcando esta opção, o sistema solicitará o cliente somente após o lançamento do primeiro item. Isso pode ser útil em casos onde o operador deixa sempre uma nova venda em aberto, assim, não será necessário informar o cliente logo na abertura da venda.
+
+Sugerir vendedor{.subtitle}
+
+Se o usuário logado possuir o atributo vendedor, será sugerido preferencialmente na venda.
 
 Exigir cliente após valor{.subtitle}
 
