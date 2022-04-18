@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T17:50:11.532Z
+date: 2022-04-18T18:01:53.073Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -414,6 +414,18 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
+### Mesclar pré-venda{.subtitle}
+
+
+
+Após efetuar a confirguração desejada, clique em <span class="mat-button mdi "> salvar</span>.
+
+## Financeiro
+
+Para informação dos vínculos financeiros padrão da pré-venda.
+Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
+
+![financeiro.png](/movimentos/nfce/financeiro.png)
 
 ## Meios de pagamento
 
