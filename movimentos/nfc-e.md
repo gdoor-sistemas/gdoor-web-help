@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T20:06:52.169Z
+date: 2022-04-18T20:10:38.819Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -424,8 +424,6 @@ Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e:
 - **Mesclar**: uma única NFC-e será gerada com todas as pré-vendas selecionadas (por cliente).
 - **Não mesclar**: uma NFC-e por pré-venda será gerada em segundo plano. Você poderá continuar utilizando o sistema normalmente enquanto as NFC-e são geradas.
 
-Após efetuar as configurações desejadas, clique em <span class="mat-button mdi "> salvar</span>.
-
 ## Financeiro
 
 Para informação dos vínculos financeiros padrão.
@@ -439,23 +437,19 @@ Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagament
 
 Depois de [cadastrar o meio de pagamento](https://help.gdoorweb.com.br/cadastros/pagamentos#nova-forma-de-pagamento), para torná-lo disponível no PDV é necessário marcar a caixa de seleção à esquerda, conforme exibido abaixo. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
-![meios_de_pagamento.gif](/movimentos/pdv/meios_de_pagamento.gif)
-
-Clique em <span class="mat-button mdi "> salvar</span>.
+![meios_de_pagamento](/movimentos/pdv/meios_de_pagamento.gif)
 
 ## Mensagem promocional
 
 Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce).
 
-![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
-
-Clique em <span class="mat-button mdi "> salvar</span>.
+![configurar mensagem promocional](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
 
 ## Sangria e suprimento
 
-![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
-
 Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
+
+![configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
 
 # Configurações da NFC-e
 
