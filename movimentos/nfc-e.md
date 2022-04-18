@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T14:08:01.918Z
+date: 2022-04-18T14:16:59.760Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -396,14 +396,20 @@ Se o usuário logado possuir o [atributo vendedor](https://help.gdoorweb.com.br/
 
 Exigir cliente após valor{.subtitle}
 
-Com esta opção marcada, caso o valor da NFC-e seja maior do que o valor configurado aqui, será **obrigatório** informar o cliente para salvar a venda. Se você preencher o campo com o valor 0 (zero), será obrigatório informar o cliente sempre.
+Com esta opção marcada, caso o valor da venda seja maior do que o valor configurado aqui, será **obrigatório** informar o cliente para salvar a venda. Se você preencher o campo com o valor 0 (zero), será obrigatório informar o cliente sempre.
 
-Transmitir após salvar a NFC-e{.subtitle}
+Ação ao salvar a venda{.subtitle}
 
-Esta configuração permite escolher o que o sistema deve fazer — em relação à transmissão — quando você salvar uma NFC-e. Você pode fazer com que o Gweb:
-- Transmita automaticamente
-- Não transmita
-- Pergunte o que fazer a cada NFC-e
+Esta configuração permite escolher o que o sistema deve fazer em relação as vendas:
+
+- **Perguntar sempre**: uma 
+
+- **Apenas salvar**: a pré-venda será salva e ficará em aberto. Poderá ser alterada e concluída posteriormente
+
+- **Concluir pré-venda**: a pré-venda será salva e concluída. Não poderá mais ser alterada. Movimentará estoque e financeiro conforme a configuração. Ainda será possível gerar uma NFC-e a partir dela
+
+- **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro
+
 
 ## Meios de pagamento
 
