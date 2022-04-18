@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T19:57:35.090Z
+date: 2022-04-18T19:58:47.138Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -453,7 +453,6 @@ Clique em <span class="mat-button mdi "> salvar</span>.
 ![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
 
 Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
-
 
 # Configurações da NFC-e
 
