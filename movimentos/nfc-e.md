@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T17:47:20.471Z
+date: 2022-04-18T17:48:15.801Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -370,7 +370,7 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 
 ![configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
 
-### Movimentar estoque?
+### Movimentar estoque?.subtitle}
 Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda).
 - **Não**: o estoque será movimentado ao emitir o documento fiscal.
 - **Sim**: o estoque será movimentado quando a pré-venda for concluída.
@@ -381,23 +381,23 @@ Por padrão, a geração dos registros financeiros ocorrem na emissão da NFC-e.
 - **Não**: os registros financeiros serão gerados ao emitir o documento fiscal.
 - **Sim**: os registros financeiros serão gerados quando a pré-venda for concluída.
 
-Solicitar cliente{.subtitle}
+### Solicitar cliente{.subtitle}
 
 Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cliente seja informado. Não será obrigatório informar, podendo a solicitação ser fechada e a venda prosseguirá normalmente. Ainda será possível informar/alterar o cliente mais tarde.
 
-Após o primeiro item{.subtitle}
+### Após o primeiro item{.subtitle}
 
 Esta opção estará visível apenas se "**solicitar cliente**" **estiver marcada**. Marcando esta opção, o sistema solicitará o cliente somente após o lançamento do primeiro item. Isso pode ser útil em casos onde o operador deixa sempre uma nova venda em aberto, assim, não será necessário informar o cliente logo na abertura da venda.
 
-Sugerir vendedor{.subtitle}
+### Sugerir vendedor{.subtitle}
 
 Se o usuário logado possuir o [atributo vendedor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos), será sugerido preferencialmente na venda.
 
-Exigir cliente após valor{.subtitle}
+### Exigir cliente após valor{.subtitle}
 
 Com esta opção marcada, caso o valor da venda seja maior do que o valor configurado aqui, será **obrigatório** informar o cliente para salvar a venda. Se você preencher o campo com o valor 0 (zero), será obrigatório informar o cliente sempre.
 
-Ação ao salvar a venda{.subtitle}
+### Ação ao salvar a venda{.subtitle}
 
 Esta configuração permite escolher o comportamento do sistema em relação às vendas:
 
