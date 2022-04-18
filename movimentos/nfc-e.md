@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T19:33:22.828Z
+date: 2022-04-18T19:35:05.297Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -432,9 +432,9 @@ Informe a "**conta**" padrão para geração da movimentação, **plano de conta
 
 ## Meios de pagamento
 
-Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagamentos) cadastrados estarão disponíveis para uso na NFC-e. Você também pode determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
+Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagamentos) estarão disponíveis para uso no PDV e determinar a ordem em que eles serão exibidos. O primeiro será considerado como padrão.
 
-Para tornar um meio de pagamento disponível no PDV, depois de cadastrá-lo, marque a caixa de seleção à esquerda, como exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
+Para tornar um meio de pagamento disponível no PDV, depois de cadastrá-lo, marque a caixa de seleção à esquerda, conforme exibido abaixo. Quando você habilitar um pagamento, ele será reordenado, para que todos os meios de pagamento disponíveis apareçam por primeiro na lista da configuração. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
 ![Configurar meios de pagamento na NFC-e](/movimentos/nfce/nfce-configurar-pagamentos-ordem.gif)
 
