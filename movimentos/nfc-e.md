@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T14:16:59.760Z
+date: 2022-04-18T14:32:52.117Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -402,7 +402,9 @@ Ação ao salvar a venda{.subtitle}
 
 Esta configuração permite escolher o que o sistema deve fazer em relação as vendas:
 
-- **Perguntar sempre**: uma 
+- **Perguntar sempre**: ao concluir uma venda, será solicitado:
+
+![solicita](/movimentos/pdv/o_que_faremos.png)
 
 - **Apenas salvar**: a pré-venda será salva e ficará em aberto. Poderá ser alterada e concluída posteriormente
 
