@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T19:58:47.138Z
+date: 2022-04-18T20:06:52.169Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -363,6 +363,9 @@ Em breve...
 Em breve...
 
 # Configurações do PDV
+
+As configurações do PDV envolvem as emissões de pré-venda e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
+Ao alterar cada seção, você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Comportamento
 
