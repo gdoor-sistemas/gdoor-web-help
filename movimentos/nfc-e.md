@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T19:56:54.081Z
+date: 2022-04-18T19:57:35.090Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -445,6 +445,8 @@ Clique em <span class="mat-button mdi "> salvar</span>.
 Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce).
 
 ![Configurar mensagem promocional na NFC-e](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
+
+Clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Sangria e suprimento
 
