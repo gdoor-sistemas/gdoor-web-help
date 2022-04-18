@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T14:05:40.076Z
+date: 2022-04-18T14:08:01.918Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -392,7 +392,7 @@ Esta opção estará visível apenas se "**solicitar cliente**" **estiver marcad
 
 Sugerir vendedor{.subtitle}
 
-Se o usuário logado possuir o atributo vendedor, será sugerido preferencialmente na venda.
+Se o usuário logado possuir o [atributo vendedor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos), será sugerido preferencialmente na venda.
 
 Exigir cliente após valor{.subtitle}
 
