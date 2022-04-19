@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-18T20:20:54.193Z
+date: 2022-04-19T17:35:47.871Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -535,7 +535,8 @@ Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para
 
 ![configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
 
-Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para fazer as modificações. No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
+Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para efetuar as modificações. 
+No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
 
 ![utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
 
@@ -544,9 +545,9 @@ Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à
 
 ## E-mail
 
-![Configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
-
 Nesta seção você define configurações gerais sobre o envio de e-mails da NFC-e.
+
+![configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
 
 Na primeira parte, você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
 
