@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-19T17:35:47.871Z
+date: 2022-04-19T17:49:10.680Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -549,7 +549,7 @@ Nesta seção você define configurações gerais sobre o envio de e-mails da NF
 
 ![configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
 
-Na primeira parte, você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb. Explicando melhor, o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta. Fica assim:
+Na primeira parte, você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb, pois o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Sendo assim, se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta:
 
 ![Aplicação do e-mail de resposta](/movimentos/nfce/nfce-configurar-email-resposta.png)
 
