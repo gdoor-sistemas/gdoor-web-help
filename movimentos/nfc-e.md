@@ -1,8 +1,8 @@
 ---
-title: Nota Fiscal de Consumidor eletrônica
-description: Veja como funciona o módulo de NFC-e no Gweb
+title: Ponto de venda
+description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-19T17:51:07.102Z
+date: 2022-04-19T17:52:33.685Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
