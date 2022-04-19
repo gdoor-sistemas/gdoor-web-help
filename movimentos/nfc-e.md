@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-19T18:09:14.115Z
+date: 2022-04-19T18:15:44.250Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -86,7 +86,8 @@ Para adicionar serviços na NFC-e, comece digitando uma barra no campo de busca 
 
 ## Vendedor
 
-Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item,  ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
+Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item,  ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. 
+Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
 Para informar o vendedor na NFC-e, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>. Na tela que abrir, basta escolher o vendedor e clicar em <span data-mat-button>Confirmar</span>.
 
@@ -267,7 +268,7 @@ Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela s
 
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você seleciona várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
+O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
 ![Seleção múltipla na lista de NFC-e](/movimentos/nfce/nfce-selecao-multipla.png)
 
@@ -292,7 +293,7 @@ As ações disponíveis no modo de seleção múltipla estarão visíveis apenas
 
 A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz), esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. 
 
-No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora e tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
+No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora é tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
 
 > Considerando que a nota não existe perante a SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
 
@@ -346,7 +347,7 @@ Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> n
 
 ![Compactar XML do mês da NFC-e](/movimentos/nfce/nfce-xml-do-mes.png)
 
-Na tela que abrir o sistema carregará todos os meses em que você emitiu NFC-e pelo Gweb. Selecione o mês e se você quer **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+Na tela que abrir o sistema carregará todos os meses em que houve emissão de NFC-e no Gweb. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
 
