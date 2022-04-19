@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-19T18:15:44.250Z
+date: 2022-04-19T18:16:43.320Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -381,13 +381,13 @@ Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando e
 
 ### Gerar financeiro?{.subtitle}
 
-Por padrão, a geração dos registros financeiros ocorrem na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda).
+Por padrão, a geração dos registros financeiros ocorre na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda).
 - **Não**: os registros financeiros serão gerados ao emitir o documento fiscal.
 - **Sim**: os registros financeiros serão gerados quando a pré-venda for concluída.
 
 ### Solicitar cliente{.subtitle}
 
-Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cliente seja informado. Não será obrigatório informar, podendo a solicitação ser fechada e a venda prosseguirá normalmente. Ainda será possível informar/alterar o cliente mais tarde.
+Se marcada esta opção, ao abrir uma nova venda, o sistema solicitará que o cliente seja informado. Não será obrigatório informar, podendo a solicitação ser fechada e a venda prosseguir normalmente. Ainda será possível informar/alterar o cliente mais tarde.
 
 ### Após o primeiro item{.subtitle}
 
