@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-19T17:54:55.767Z
+date: 2022-04-19T17:55:22.723Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -10,7 +10,7 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 # Introdução
 
-O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para poder usá-lo. 
+O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para utilizá-lo. 
 No **PDV** é possível configurar o comportamento do sistema de acordo com a dinâmica de trabalho da sua empresa: emissão direta de **NFC-e**, ou emissão de **pré-venda** seguido de geração de **NFC-e** para finalização da venda.
 
 Além disso, você também pode definir o momento em que será efetuada a **movimentação do estoque** e **geração dos registros financeiros**.
