@@ -2,7 +2,7 @@
 title: Nota Fiscal de Consumidor eletrônica
 description: Veja como funciona o módulo de NFC-e no Gweb
 published: true
-date: 2022-04-19T17:49:10.680Z
+date: 2022-04-19T17:51:07.102Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -565,7 +565,7 @@ Com esta opção marcada, sempre que enviar um e-mail de NFC-e, uma cópia será
 
 Anexar PDF{.subtitle}
 
-Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail — que é obrigatório — o PDF do [DANFCe](/glossario#danfce) também será anexado.
+Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail (que é obrigatório), o PDF do [DANFCe](/glossario#danfce) também será anexado.
 
 # Preferências do PDV
 
