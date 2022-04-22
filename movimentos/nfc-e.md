@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:10:59.996Z
+date: 2022-04-22T18:14:11.561Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -131,7 +131,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![Busca de produtos](/movimentos/nfce/nfce-busca-produtos.png)
+![Buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
 
 > Nesta busca, também serão considerados os kits de produtos, caso você tenha cadastrado.
 {.is-info}
@@ -153,18 +153,18 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na NFC-e.
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
-![Busca de kits de produtos](/movimentos/nfce/nfce-busca-kits.png)
+![Buscar kits de produtos](/movimentos/nfce/nfce-busca-kits.png)
 
 > Apesar do sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para **buscar apenas kits**.
 {.is-success .gw .gw-tip}
 
 ## Adicionar serviços
 
-Para adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral) e depois [cadastrar os serviços](/cadastros/servicos).
+Para adicionar serviços na NFC-e, você precisa habilitar o uso de serviços nas [configurações](/configuracoes/geral) e depois [cadastrar os serviços](/cadastros/servicos).
 
 Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no campo de busca, seguida da descrição ou do código numérico do serviço e o sistema mostrará os resultados dos serviços encontrados:
 
-![Buscar de seviços](/movimentos/nfce/nfce-busca-servicos.png)
+![Buscar seviços](/movimentos/nfce/nfce-busca-servicos.png)
 
 ## Vendedor
 
