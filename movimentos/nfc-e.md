@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:20:52.790Z
+date: 2022-04-22T18:27:37.733Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -44,7 +44,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![buscar produto](/movimentos/pdv/adicionar_produto.png)
+![buscar produtos](/movimentos/pdv/adicionar_produto.png)
 
 > Nesta busca, também serão considerados os kits de produtos, caso você tenha cadastrado.
 {.is-info}
@@ -79,14 +79,14 @@ Para adicionar serviços, digite uma barra (<kbd>\\r</kbd> ou <kbd>/</kbd>) no c
 
 ![buscar serviços](/movimentos/pdv/adicionar_serviço.png)
 
-## Vendedor
+## Informar vendedor
 
 Ao informar o vendedor na pré-venda, ele não ficará vinculado à venda como um todo, mas sim em cada item, sendo vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. 
 Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
 Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na pré-venda aberta. Em seguida clique em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>, escolha o desejado e clique em <span data-mat-button>Confirmar</span>.
 
-## Cliente
+## Informar cliente
 
 Informar o cliente na pré-venda é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
 
@@ -187,14 +187,14 @@ Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no ca
 
 ![Buscar seviços](/movimentos/nfce/nfce-busca-servicos.png)
 
-## Vendedor
+## Informar vendedor
 
 Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas sim em cada item, sendo vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. 
 Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
 Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na NFC-e aberta. Em seguida clique em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>, escolha o desejado e clique em <span data-mat-button>Confirmar</span>.
 
-## Cliente
+## Informar cliente
 
 Informar o cliente na NFC-e é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
 
