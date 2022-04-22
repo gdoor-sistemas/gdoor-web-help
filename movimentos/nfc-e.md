@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T17:57:56.948Z
+date: 2022-04-22T17:59:46.934Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -148,11 +148,12 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 > É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na NFC-e.
 {.is-success .gw .gw-tip}
 
-## Adicionando kits de produtos
+## Adicionar kits de produtos
 
-Caso você tenha cadastrado [kits de produtos](/cadastros/produtos/kits), você poderá lançar seus produtos na NFC-e. Para isso, digite o caractere <kbd>+</kbd>. Se você souber o código numérico do kit, poderá informá-lo e pressionar <kbd>Enter</kbd> para lançar imediatamente. Caso contrário, digite caracteres não numéricos e o sistema mostrará os resultados de kits encontrados:
+Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na NFC-e.
+Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
-![Busca de kits de produtos na NFC-e](/movimentos/nfce/nfce-busca-kits.png)
+![Busca de kits de produtos](/movimentos/nfce/nfce-busca-kits.png)
 
 > Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para buscar **apenas** kits.
 {.is-success .gw .gw-tip}
