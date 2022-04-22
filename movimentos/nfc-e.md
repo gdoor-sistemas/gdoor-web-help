@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:48:37.167Z
+date: 2022-04-22T18:51:30.373Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -401,15 +401,13 @@ Há situações que fazem necessário informar uma quebra na numeração sequenc
 
 Como inutilizar numeração{.subtitle}
 
-Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
+Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do PDV:
 
 ![menu inutilizar numeração](/movimentos/pdv/inutilizar_numera.png)
 
----
+Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
 
 ![inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
-
-Será aberta a tela apresentada ao lado, os campos a serem preenchidos são:
 
 Série{.subtitle}
 
@@ -443,9 +441,9 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 O Gweb possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
 
-## Compactar arquivos
+Compactar arquivos{.subtitle}
 
-Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral da NFC-e:
+Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
 
 ![Compactar XML do mês da NFC-e](/movimentos/nfce/nfce-xml-do-mes.png)
 
