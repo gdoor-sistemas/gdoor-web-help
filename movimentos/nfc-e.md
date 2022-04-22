@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T13:46:47.573Z
+date: 2022-04-22T13:47:49.265Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -38,6 +38,8 @@ Para criar uma nova pré-venda, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
+![opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
+
 # NFC-e
 
 Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-e:
@@ -61,8 +63,8 @@ Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e
 
 Para criar uma nova NFC-e, você pode:
 
-- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial da NFC-e;
-- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral da NFC-e;
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do PDV;
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do PDV;
 - Clicando na opção no meio da tela inicial;
 - Pressionando a tecla <kbd>F2</kbd>.
 
