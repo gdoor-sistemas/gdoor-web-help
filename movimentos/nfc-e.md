@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T17:19:49.812Z
+date: 2022-04-22T17:21:34.551Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -66,7 +66,7 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na pré-venda. 
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
-![busca de kit de produtos](/movimentos/pdv/adicionar_kit.png)
+![busca de kit de produtos](/movimentos/pdv/adicionar_kitt.png)
 
 > Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para buscar **apenas** kits.
 {.is-success .gw .gw-tip}
