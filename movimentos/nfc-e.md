@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T12:46:50.547Z
+date: 2022-04-22T13:42:45.916Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -19,6 +19,16 @@ O módulo foi desenvolvido visando a praticidade do uso, para que o operador pos
 
 # Pré-venda
 
+O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda** (que antecede a emissão do documento fiscal), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
+- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
+
+- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
+
+> Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-da-nfc-e).
+{.is-info}
+
+Todas as ações disponíveis para o lançamento de NFC-e estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
+
 # NFC-e
 
 Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-e:
@@ -31,7 +41,6 @@ O comportamento do sistema ao efetuar uma venda será de acordo com as configura
 
 > Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
-
 
 Todas as ações disponíveis para o lançamento de NFC-e estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
