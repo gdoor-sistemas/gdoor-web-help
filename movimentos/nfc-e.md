@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T12:44:00.834Z
+date: 2022-04-22T12:46:50.547Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -411,18 +411,18 @@ Com esta opção marcada, caso o valor da venda seja maior do que o valor config
 
 Esta configuração permite escolher o comportamento do sistema em relação às vendas:
 
+- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
+
+- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) dependerá da configuração selecionada. Ainda será possível gerar uma NFC-e a partir dela.
+
+- **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
+
 - **Perguntar sempre**: ao selecionar esta opção, sempre que concluir uma venda no PDV, **será solicitado o que deseja fazer**:
 
 ![PDV perguntar sempre](/movimentos/pdv/o_que.gif)
 
 > É possível selecionar a opção desejada utilizando apenas as teclas no teclado <kbd>S</kbd> (apenas **s**alvar), <kbd>C</kbd> (**c**oncluir pré-venda) e <kbd>N</kbd> (gerar **N**FC-e), seguido de <kbd>Enter</kbd> para confirmar.
 {.is-info}
-
-- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
-
-- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) dependerá da configuração selecionada. Ainda será possível gerar uma NFC-e a partir dela.
-
-- **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
 ### Mesclar pré-venda{.subtitle}
 
