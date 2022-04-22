@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:52:59.747Z
+date: 2022-04-22T19:18:31.653Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -403,7 +403,7 @@ Como inutilizar numeração{.subtitle}
 
 Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do PDV:
 
-![menu inutilizar numeração](/movimentos/pdv/inutilizar_numera.png)
+![menu inutilizar numeração](/movimentos/pdv/inutilizar_numeraç.png)
 
 Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
 
@@ -439,15 +439,15 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 # XML do mês
 
-O Gweb possui um assistente para que você possa compactar todos os arquivos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja a seguir, como realizar esse processo.
+O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
 
 Compactar arquivos{.subtitle}
 
-Para iniciar, clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
+Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
 
-![Compactar XML do mês da NFC-e](/movimentos/nfce/nfce-xml-do-mes.png)
+![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
 
-Na tela que abrir o sistema carregará todos os meses em que houve emissão de NFC-e no Gweb. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
 
