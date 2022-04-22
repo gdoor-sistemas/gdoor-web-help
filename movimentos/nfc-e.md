@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T17:21:34.551Z
+date: 2022-04-22T17:22:18.972Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -61,7 +61,7 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 > É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na pré-venda.
 {.is-success .gw .gw-tip}
 
-## Adicionar kits de produtos
+## Adicionar kit de produtos
 
 Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na pré-venda. 
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
