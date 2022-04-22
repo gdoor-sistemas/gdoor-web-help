@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T13:47:49.265Z
+date: 2022-04-22T14:17:37.523Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -39,6 +39,8 @@ Para criar uma nova pré-venda, você pode:
 Todas as opções acima estão indicadas na imagem abaixo:
 
 ![opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
+
+
 
 # NFC-e
 
@@ -456,7 +458,7 @@ Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e:
 Para informação dos vínculos financeiros padrão.
 Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
 
-![financeiro](/movimentos/nfce/financeiro.png)
+![pdv_financeiro.png](/movimentos/pdv/pdv_financeiro.png)
 
 ## Meios de pagamento
 
