@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:27:37.733Z
+date: 2022-04-22T18:48:37.167Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -395,21 +395,19 @@ As ações disponíveis no modo de seleção múltipla estarão visíveis apenas
 
 # Inutilizar numeração
 
-A inutilização é um processo herdado do tempo em que se faziam as notas fiscais de formulário, quando os blocos eram impressos com a numeração fixa. Quando uma nota era preenchida incorretamente ou rasurada, havia a necessidade de se inutilizar aquela nota para justificar o lapso na numeração. Com o surgimento da NF-e, onde a nota em si só existe depois de enviada para a [SEFAZ](/glossario#sefaz), esse processo se torna menos comum, uma vez que o sistema pode reutilizar a numeração caso haja falha na autorização do documento. 
-
-No entanto, ainda há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, como por exemplo: havendo um erro na transmissão de uma nota, o operador continua transmitindo outras até que o problema seja resolvido, no entanto a demora é tanta, que ao tentar transmitir aquela nota novamente, o servidor a rejeita por ser de emissão muito antiga ou o problema talvez não seja resolvido. Assim, há necessidade de gerar uma nova nota, deixando uma falha no número que aquela problemática assumiu. Para casos assim, a inutilização da numeração se faz útil. 
+Há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, para casos assim, a inutilização da numeração se faz útil. 
 
 > Considerando que a nota não existe perante a SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
 
-## Como inutilizar numeração
+Como inutilizar numeração{.subtitle}
 
 Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral da NFC-e:
 
-![Acesso à inutilização na NFC-e](/movimentos/nfce/nfce-inutilizar-acesso.png)
+![menu inutilizar numeração](/movimentos/pdv/inutilizar_numera.png)
 
 ---
 
-![nfce-modal-inutilizacao.png](/movimentos/nfce/nfce-modal-inutilizacao.png)
+![inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
 
 Será aberta a tela apresentada ao lado, os campos a serem preenchidos são:
 
