@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T17:22:47.262Z
+date: 2022-04-22T17:51:00.729Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -68,23 +68,23 @@ Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código 
 
 ![busca de kit de produtos](/movimentos/pdv/adicionar_kitt.png)
 
-> Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para buscar **apenas** kits.
+> Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para **buscar apenas kits**.
 {.is-success .gw .gw-tip}
 
-## Adicionando serviços
+## Adicionar serviços
 
-Para poder adicionar serviços na NFC-e, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral), e depois [cadastrar os serviços](/cadastros/servicos).
+Para adicionar serviços na pré-venda, você precisa habilitar o uso de serviços no sistema nas [configurações](/configuracoes/geral) e depois [cadastrar os serviços](/cadastros/servicos).
 
-Para adicionar serviços na NFC-e, comece digitando uma barra no campo de busca (<kbd>\\</kbd> ou <kbd>/</kbd>). Se você souber o código numérico do serviço, digite-o e pressione <kbd>Enter</kbd> para carregar o serviço imediatamente. Caso contrário, digite caracteres não numéricos e o sistema mostrará os resultados de serviços encontrados:
+Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no campo de busca, seguida da descrição ou do código numérico do serviço e o sistema mostrará os resultados dos serviços encontrados:
 
-![Busca de seviços na NFC-e](/movimentos/nfce/nfce-busca-servicos.png)
+![busca de serviços](/movimentos/pdv/adicionar_serviço.png)
 
 ## Vendedor
 
-Ao informar o vendedor na NFC-e, ele não ficará vinculado à venda como um todo, mas em cada item,  ele será vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. 
+Ao informar o vendedor na pré-venda, ele não ficará vinculado à venda como um todo, mas sim em cada item,  sendo vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens adicionados. 
 Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
-Para informar o vendedor na NFC-e, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>. Na tela que abrir, basta escolher o vendedor e clicar em <span data-mat-button>Confirmar</span>.
+Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na pré-venda aberta. Em seguida clique em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>, escolha o desejado e clique em <span data-mat-button>Confirmar</span>.
 
 ## Cliente
 
