@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:03:42.925Z
+date: 2022-04-22T18:04:33.590Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -177,9 +177,10 @@ Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de op
 
 Informar o cliente na NFC-e é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
 
-Para informar o cliente na NFC-e, pressione a tecla <kbd>F7</kbd> ou acesse o menu de opções da NFC-e aberta, no canto direito superior (<em class="mdi mdi-dots-vertical"></em>), depois em <span class="mat-button mdi mdi-account">Informar cliente</span>. Na tela que abrir, você pode buscar um cliente ou apenas informar o CPF. Ao pressionar <kbd>Enter</kbd> ou clicar em <span data-mat-button>Confirmar</span> e for um CPF válido, o sistema tentará encontrar esse CPF no cadastro e se não encontrar, poderá informar mesmo assim. Também é possível informar o nome do cliente opcionalmente.
+Para informar o cliente, pressione a tecla <kbd>F7</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na NFC-e aberta. Em seguida clique em <span class="mat-button mdi mdi-account">Informar cliente</span>, busque um cliente ou apenas informe o CPF. 
+Ao pressionar <kbd>Enter</kbd> ou clicar em <span data-mat-button>Confirmar</span>, o sistema tentará encontrar esse CPF no cadastro e se não encontrar, poderá informar mesmo assim. Também é possível informar o nome do cliente opcionalmente.
 
-![Informar CPF do cliente na NFC-e](/movimentos/nfce/informar-cpf-na-nfce.png)
+![Informar CPF do cliente](/movimentos/nfce/informar-cpf-na-nfce.png)
 
 ## Intermediador/Marketplace
 
