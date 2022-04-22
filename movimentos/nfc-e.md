@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T17:54:38.626Z
+date: 2022-04-22T17:57:56.948Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -127,11 +127,11 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ![opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
 
-## Adicionando produtos
+## Adicionar produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![Busca de produtos na NFC-e](/movimentos/nfce/nfce-busca-produtos.png)
+![Busca de produtos](/movimentos/nfce/nfce-busca-produtos.png)
 
 > Nesta busca, também serão considerados os kits de produtos, caso você tenha cadastrado.
 {.is-info}
@@ -139,9 +139,9 @@ Você pode lançar um produto informando o **código**, **código de barras** ou
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
 
-### Buscando pela referência
+### Buscar pela referência
 
-No cadastro de produtos há o campo **referência**. Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no Gweb é sequencial e inalterável.
+No cadastro de produtos há o campo [referência](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#detalhes). Ele existe para que você possa informar um código pelo qual a sua empresa já controlava o produto e não está no padrão de código de barras, uma vez que o código no Gweb é sequencial e inalterável.
 
 Para adicionar o produto pela referência, basta digitar um ponto (.) e o código da referência, depois pressionar <kbd>Enter</kbd>.
 
