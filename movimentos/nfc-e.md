@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:18:35.018Z
+date: 2022-04-22T18:19:03.914Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -223,7 +223,7 @@ Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida
 
 ![finalizar venda](/movimentos/nfce/fina_venda.png)
 
-As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](/movimentos/nfc-e#suprimento), basta utilizar a desejada.
+As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e#meios-de-pagamento), basta utilizar a desejada.
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
