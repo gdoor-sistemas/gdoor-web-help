@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T18:14:11.561Z
+date: 2022-04-22T18:18:35.018Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -94,6 +94,27 @@ Para informar o cliente, pressione a tecla <kbd>F7</kbd> ou acesse o menu de op�
 Ao pressionar <kbd>Enter</kbd> ou clicar em <span data-mat-button>Confirmar</span>, o sistema tentará encontrar esse CPF no cadastro e se não encontrar, poderá informar mesmo assim. Também é possível informar o nome do cliente opcionalmente.
 
 ![informar CPF do cliente](/movimentos/nfce/informar-cpf-na-nfce.png)
+
+## Finalizar venda
+
+Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida:
+
+![finalizar venda](/movimentos/nfce/fina_venda.png)
+
+As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/nfc-e#meios-de-pagamento), basta utilizar a desejada.
+
+Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
+
+![pagamento com PIX](/movimentos/nfce/venda_2.png)
+
+Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectivo valor da venda.
+
+![Qr Code](/movimentos/nfce/venda_3.png)
+
+> A opção de **pagamento PIX com geração de QR code** para leitura trata-se de um facilitador para agilizar a venda, **não é integrada com a conta**, sendo assim, **não haverá confirmação do recebimento na tela**.
+{.is-warning}
+
+O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode ser obrigatório informá-lo.
 
 # NFC-e
 
