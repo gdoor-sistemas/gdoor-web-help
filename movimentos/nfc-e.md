@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T19:43:02.931Z
+date: 2022-04-26T20:02:08.022Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -265,9 +265,9 @@ A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/
 
 - Autorizado o uso da NF-e{.subtitle}
 
-Nesta etapa edições não são permitidas. Caso a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) estejam configuradas para acontecer ao emitir o documento fiscal **podem ou não ser efetuadas**, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
+Nesta etapa edições não são permitidas. Se a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
-![nfce_autorizada.png](/movimentos/pdv/nfce_autorizada.png)
+![Autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
 - Rejeição da NF-e{.subtitle}
 
