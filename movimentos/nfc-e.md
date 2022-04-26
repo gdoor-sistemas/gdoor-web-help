@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-22T19:40:48.057Z
+date: 2022-04-26T14:26:20.505Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -240,13 +240,13 @@ O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode
 
 # Lista
 
-Na lista, você visualiza as NFC-e emitidas e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
 ## Buscar
 
-Para localizar alguma NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para limpar a busca (<em class="mdi mdi-close"></em>). 
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) aprimorados, clique no botão "filtrar" (<em class="mdi mdi-filter"></em>). 
-Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "atualizar lista" (<em class="mdi mdi-refresh"></em>).
+Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
 ![digite para buscar](/movimentos/compras/busca.png)
 
