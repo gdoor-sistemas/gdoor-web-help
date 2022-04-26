@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T14:33:48.435Z
+date: 2022-04-26T17:01:44.726Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -261,6 +261,26 @@ Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, cliq
 
 ![filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
 
+As opções de filtro são:
+
+- **Cliente/fornecedor**;
+- **Usuário**;
+- **Vendedor**;
+- **Status**;
+- **Data inicial**;
+- **Data final**;
+- **Ambiente de emissão**;
+- **Espécie de pagamento**;
+- **Tipo de documento**;
+- <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda, essa pré-venda é ocultada da lista.
+Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar este checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e.
+
+
+
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>.
+
+![Aplicar e limpar filtros na lista do PDV](/movimentos/nfce/nfce-filtros-aplicar-limpar.png)
+
 No painel de filtros destacado na imagem acima, você encontra:
 
 <span class="mdi mdi-refresh"></span>: atualizar as opções de filtro.
@@ -274,19 +294,9 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 > Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado:
 ![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
-{.is-success .gw .gw-tip}
+{.is-success}
 
-As opções de filtro são as seguintes:
 
-- **Usuário**;
-- **Vendedor**;
-- **Status**;
-- **Data inicial**;
-- **Data final**.
-
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>.
-
-![Aplicar e limpar filtros na lista de NFC-e](/movimentos/nfce/nfce-filtros-aplicar-limpar.png)
 
 ## Lista
 
