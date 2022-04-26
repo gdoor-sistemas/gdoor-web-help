@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T14:28:52.705Z
+date: 2022-04-26T14:33:48.435Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -259,7 +259,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
-![Filtro na lista de NFC-e](/movimentos/nfce/filtro-lista-nfce.png)
+![filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
 
 No painel de filtros destacado na imagem acima, você encontra:
 
