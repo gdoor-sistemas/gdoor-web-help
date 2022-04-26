@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T20:11:55.798Z
+date: 2022-04-26T20:20:00.390Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -250,32 +250,33 @@ As informações mostradas dependerão do **tipo de documento** exibido na lista
 
 - Pré-venda em aberto{.subtitle}
 
-Note que enquanto a pré-venda estiver **em aberto**, será possível **editar**, **concluir** ou **excluir**. 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>) ou em (<em class="mdi mdi-pencil"></em>) para "**editar**" a pré-venda.
+Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**" a pré-venda.
+
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **concluir** ou **excluir**. 
+
 
 ![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
 
 - Pré-venda concluída{.subtitle}
 
 Quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada. 
-Será possível **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda. Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>).
-A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **podem ou não ser efetuadas**, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda.
+
+A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **podem ou não ser efetuadas** nesta etapa, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
 
 ![pré-venda concluída](/movimentos/pdv/pv_concluida.png)
 
 - Autorizado o uso da NF-e{.subtitle}
 
 Nesta etapa edições não são permitidas. Se a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento**, **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
 
-**<em class="mdi mdi-checkbox-marked"></em> marcar**
-
-a pré-venda. 
-
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** e **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
 
 ![Autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
 - Rejeição da NF-e{.subtitle}
+
+**<em class="mdi mdi-checkbox-marked"></em> marcar**
 
 ![nfc-e_rejeição.png](/movimentos/pdv/nfc-e_rejeição.png)
 
