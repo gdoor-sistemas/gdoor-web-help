@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T20:21:44.943Z
+date: 2022-04-26T20:23:07.509Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -270,15 +270,16 @@ A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/
 
 Nesta etapa edições não são permitidas. Se a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** e **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
+Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** e **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
 
-![Autorizado uso](/movimentos/pdv/nfce_autorizada.png)
+![autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
 - Rejeição da NF-e{.subtitle}
 
 **<em class="mdi mdi-checkbox-marked"></em> marcar**
 
-![nfc-e_rejeição.png](/movimentos/pdv/nfc-e_rejeição.png)
+![rejeição](/movimentos/pdv/nfc-e_rejeição.png)
 
 ---
 ![nfce-item-lista-informacoes.png](/movimentos/nfce/nfce-item-lista-informacoes.png)
