@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T17:05:31.282Z
+date: 2022-04-26T17:07:55.336Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -242,60 +242,6 @@ O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode
 
 Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
-## Buscar
-
-Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
-Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
-
-![digite para buscar](/movimentos/compras/busca.png)
-
-> O que você digitar será buscado entre as seguintes informações no PDV: 
-> Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da nota**.
-> Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**.
-{.is-success}
-
-## Filtrar
-
-Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
-
-![filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
-
-As opções de filtro são:
-
-- **Cliente/fornecedor**;
-- **Usuário**;
-- **Vendedor**;
-- **Status**;
-- **Data inicial**;
-- **Data final**;
-- **Ambiente de emissão**;
-- **Espécie de pagamento**;
-- **Tipo de documento**;
-- <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda, essa pré-venda é ocultada da lista.
-Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar este checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e.
-
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
-
-![Aplicar e limpar filtros na lista do PDV](/movimentos/nfce/nfce-filtros-aplicar-limpar.png)
-
-Na parte superior do painel de filtros temos os botões:
-
-<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro.
-
-<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
-
-Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
-
-![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
-
-> Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado:
-![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
-{.is-success}
-
-
-
 ## Lista
 
 No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar as NFC-e em partes para não carregar todas de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
@@ -400,6 +346,58 @@ As ações disponíveis no modo de seleção múltipla estarão visíveis apenas
 > Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
 ![Indicativo de envio de NFC-e em segundo plano](/movimentos/nfce/nfce-envio-segundo-plano.png)
 {.is-info}
+
+## Buscar
+
+Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+
+![digite para buscar](/movimentos/compras/busca.png)
+
+> O que você digitar será buscado entre as seguintes informações no PDV: 
+> Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da nota**.
+> Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**.
+{.is-success}
+
+## Filtrar
+
+Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+
+![filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
+
+As opções de filtro são:
+
+- **Cliente/fornecedor**;
+- **Usuário**;
+- **Vendedor**;
+- **Status**;
+- **Data inicial**;
+- **Data final**;
+- **Ambiente de emissão**;
+- **Espécie de pagamento**;
+- **Tipo de documento**;
+- <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda, essa pré-venda é ocultada da lista.
+Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar este checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e.
+
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
+
+![Aplicar e limpar filtros na lista do PDV](/movimentos/nfce/nfce-filtros-aplicar-limpar.png)
+
+Na parte superior do painel de filtros temos os botões:
+
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro.
+
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
+
+> Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado:
+![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
+{.is-success}
 
 # Inutilizar numeração
 
