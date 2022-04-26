@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T17:22:17.398Z
+date: 2022-04-26T17:34:38.975Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -246,8 +246,25 @@ Na barra superior do quadro lista, temos o controle de paginação, que permite 
 
 ![controle de paginação](/movimentos/nfce/nfce-paginacao.png)
 
-Em cada item da lista você pode encontrar as seguintes informações:
+As informações mostradas dependerão do **tipo de documento** exibido na lista do PDV:
 
+- Pré-venda aberta{.subtitle}
+
+![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
+
+- Pré-venda concluída{.subtitle}
+
+![pv_concluida.png](/movimentos/pdv/pv_concluida.png)
+
+- Autorizado o uso da NFC-e{.subtitle}
+
+![nfce_autorizada.png](/movimentos/pdv/nfce_autorizada.png)
+
+- Autorizado o uso da NFC-e{.subtitle}
+
+![nfc-e_rejeição.png](/movimentos/pdv/nfc-e_rejeição.png)
+
+---
 ![nfce-item-lista-informacoes.png](/movimentos/nfce/nfce-item-lista-informacoes.png)
 
 1. Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
@@ -255,6 +272,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 3. Número sequencial da NFC-e, modelo (sempre 65), [série](/movimentos/nfc-e/configurar#ambiente) e data da emissão. Também apresenta o valor total da NFC-e.
 4. Chave de acesso e status da NFC-e.
 5. [Menu de ações](#acoes) a serem executadas com a NFC-e em questão. Caso a NFC-e ainda não tenha sido transmitida para a [SEFAZ](/glossario#sefaz), ao lado deste botão será exibido outro (<em class="mdi mdi-pencil"></em>) para editar a NFC-e.
+---
 
 ### Ações
 
