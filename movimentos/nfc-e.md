@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T17:07:55.336Z
+date: 2022-04-26T17:22:17.398Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -242,11 +242,9 @@ O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode
 
 Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
-## Lista
+Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos em cada página, além de poder navegar entre elas.
 
-No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar as NFC-e em partes para não carregar todas de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
-
-![Controle de paginação](/movimentos/nfce/nfce-paginacao.png)
+![controle de paginação](/movimentos/nfce/nfce-paginacao.png)
 
 Em cada item da lista você pode encontrar as seguintes informações:
 
