@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T14:26:20.505Z
+date: 2022-04-26T14:28:52.705Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -250,10 +250,10 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 ![digite para buscar](/movimentos/compras/busca.png)
 
-> O que você digitar será buscado entre as seguintes informações da NFC-e: 
-> Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da nota**
-> Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**
-{.is-success .gw .gw-tip}
+> O que você digitar será buscado entre as seguintes informações no PDV: 
+> Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da nota**.
+> Campos textuais: **razão social** e **nome fantasia** do cliente e **nome dos produtos**.
+{.is-success}
 
 ## Filtrar
 
