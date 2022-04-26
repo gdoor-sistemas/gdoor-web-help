@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T19:01:38.234Z
+date: 2022-04-26T19:02:06.517Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -258,7 +258,7 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 - Pré-venda concluída{.subtitle}
 
 Observe que quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada.
-Quando a pré venda é concluída, a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) podem ou não ser efetuadas, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
+Quando a pré venda é concluída, a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **podem ou não ser efetuadas**, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
 
 ![pré-venda concluida](/movimentos/pdv/pv_concluida.png)
 
