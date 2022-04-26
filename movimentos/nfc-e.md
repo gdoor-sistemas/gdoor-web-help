@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T17:34:38.975Z
+date: 2022-04-26T19:01:38.234Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -246,17 +246,23 @@ Na barra superior do quadro lista, temos o controle de paginação, que permite 
 
 ![controle de paginação](/movimentos/nfce/nfce-paginacao.png)
 
-As informações mostradas dependerão do **tipo de documento** exibido na lista do PDV:
+As informações mostradas dependerão do **tipo de documento** exibido na lista do PDV, seja cada uma delas abaixo:
 
-- Pré-venda aberta{.subtitle}
+- Pré-venda em aberto{.subtitle}
+
+Note que enquanto a pré-venda estiver **em aberto**, ela ainda poderá ser **editada**. 
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>).
 
 ![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
 
 - Pré-venda concluída{.subtitle}
 
-![pv_concluida.png](/movimentos/pdv/pv_concluida.png)
+Observe que quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada.
+Quando a pré venda é concluída, a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) podem ou não ser efetuadas, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#comportamento) selecionada.
 
-- Autorizado o uso da NFC-e{.subtitle}
+![pré-venda concluida](/movimentos/pdv/pv_concluida.png)
+
+- Autorizado o uso da NF-e{.subtitle}
 
 ![nfce_autorizada.png](/movimentos/pdv/nfce_autorizada.png)
 
