@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T19:28:45.106Z
+date: 2022-04-26T19:29:46.321Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -269,7 +269,7 @@ Nesta etapa edições mais possível edições
 
 ![nfce_autorizada.png](/movimentos/pdv/nfce_autorizada.png)
 
-- Autorizado o uso da NFC-e{.subtitle}
+- Rejeição da NF-e{.subtitle}
 
 ![nfc-e_rejeição.png](/movimentos/pdv/nfc-e_rejeição.png)
 
