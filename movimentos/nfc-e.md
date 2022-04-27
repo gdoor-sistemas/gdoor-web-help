@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-27T20:14:59.344Z
+date: 2022-04-27T20:22:36.455Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -245,11 +245,11 @@ Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas < >.
 {.is-info}
 
-As informações mostradas dependerão do **tipo de documento** exibido na lista do PDV, seja cada uma delas abaixo:
+As informações mostradas variam de acordo com a **situação atual** e do **tipo de documento** exibido na lista do PDV, veja mais detalhes abaixo:
 
 - Pré-venda em aberto{.subtitle}
 
-Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**" a pré-venda.
+Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**".
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-check"></em> concluir**   ou **<em class="mdi mdi-delete"></em> excluir** a pré-venda. 
 
