@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-27T20:22:36.455Z
+date: 2022-04-27T20:27:00.263Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -281,73 +281,6 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-content-copy"></em> copiar chave de acesso**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DANFCE**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
 
 ![rejeição NFC-e](/movimentos/pdv/nfc-e_rejeição.png)
-
----
-
-
-### Ações
-
-Ao lado de cada item na lista, há um botão com ações de contexto para a NFC-e selecionada. Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse:
-
-![Ações de contexto para a NFC-e](/movimentos/nfce/nfce-acoes-contexto.gif)
-
-As opções disponíveis neste menu variam de acordo com a situação atual da NFC-e, e são as seguintes:
-
-<span class="mat-button mdi mdi-check"> Selecionar</span>
-
-Visível para todas NFC-e. Inicia o modo de [seleção múltipla](#selecao-multipla).
-
-<span class="mat-button mdi mdi-file-refresh"> Atualizar e transmitir</span>
-
-Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Aplica na NFC-e a tributação conforme as configurações, depois transmite a nota autorizada para a [SEFAZ](/glossario#sefaz).
-
-<span class="mat-button mdi mdi-content-duplicate"> Invalidar e criar nova</span>
-
-Visível para as NFC-e geradas em contingência e rejeitadas na transmissão. Inutiliza a numeração atribuída a esta NFC-e e gera uma nova, com os mesmos dados da atual, com a próxima numeração disponível. A nova NFC-e gerada será aberta para edição.
-
-<span class="mat-button mdi mdi-file-send"> Transmitir</span>
-
-Visível para as NFC-e ainda não transmitidas. Envia o [XML](/glossario#xml) da NFC-e para a SEFAZ.
-
-<span class="mat-button mdi mdi-refresh-circle"> Consultar status</span>
-
-Visível para as NFC-e enviadas para a SEFAZ e sem resposta, lote recebido, autorizadas, canceladas, com duplicidade. Consulta e atualiza o status da NFC-e perante a SEFAZ. Se a NFC-e não estava autorizada no sistema, e a consulta retornou que ela está, os processos de autorização da nota, tal como baixa de estoque, serão executados.
-
-<span class="mat-button mdi mdi-content-copy"> Copiar chave de acesso</span>
-
-Visível para as NFC-e que possuem chave de acesso. Copia a chave de acesso para a área de transferência.
-
-<span class="mat-button mdi mdi-email"> Enviar por e-mail</span>
-
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Envia um e-mail para o endereço do cadastro do cliente com o XML da NFC-e. Caso esteja configurado, envia também o DANFCe. [Veja como configurar](/movimentos/nfc-e/configurar#email).
-
-<span class="mat-button mdi mdi-file-pdf"> Visualizar DANFCe</span>
-
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o DANFCe em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
-
-<span class="mat-button mdi mdi-xml"> Visualizar XML</span>
-
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Permite visualizar o [arquivo XML](/glossario#xml) gerado para a NFC-e.
-
-<span class="mat-button mdi mdi-file-eye"> Pré-visualizar DANFCe</span>
-
-Visível para as NFC-e ainda não transmitidas. Permite ter uma prévia de como ficaria o DANFCe no caso de a NFC-e ser autorizada com os dados atuais. A pré-visualização será aberta em PDF no [visualizador de PDF](/dicas/visualizador-pdf) do Gweb.
-
-<span class="mat-button mdi mdi-file-code"> Pré-visualizar XML</span>
-
-Visível para as NFC-e ainda não transmitidas. Permite visualizar como o [arquivo XML](/glossario#xml) será gerado para a NFC-e para transmissão. É só uma visualização e o arquivo sempre será gerado novamente a partir dos dados atualizados da NFC-e no momento da transmissão.
-
-<span class="mat-button mdi mdi-download"> Salvar documento</span>
-
-Visível para as NFC-e autorizadas. Possibilita download do arquivo XML da NFC-e, bem como o DANFCe em PDF.
-
-<span class="mat-button mdi mdi-cancel"> Cancelar NFC-e</span>
-
-Visível para as NFC-e autorizadas. Possibilita cancelar a NFC-e perante a SEFAZ.
-
-<span class="mat-button mdi mdi-delete"> Excluir NFC-e</span>
-
-Visível para as NFC-e não autorizadas. Possibilita a exclusão da NFC-e. Ela será eliminada da base de dados e não será possível recuperá-la novamente.
 
 <a id="selecao-multipla"></a>
 
