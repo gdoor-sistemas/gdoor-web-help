@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-26T20:23:07.509Z
+date: 2022-04-27T19:36:04.844Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -254,7 +254,6 @@ Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-check"></em> concluir**   ou **<em class="mdi mdi-delete"></em> excluir** a pré-venda. 
 
-
 ![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
 
 - Pré-venda concluída{.subtitle}
@@ -266,7 +265,7 @@ A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/
 
 ![pré-venda concluída](/movimentos/pdv/pv_concluida.png)
 
-- Autorizado o uso da NF-e{.subtitle}
+- Autorizado o uso da NFC-e{.subtitle}
 
 Nesta etapa edições não são permitidas. Se a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
@@ -275,7 +274,9 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ![autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
-- Rejeição da NF-e{.subtitle}
+- Rejeição da NFC-e{.subtitle}
+
+Quando uma NFC-e é rejeitada na transmissão, a mensagem com a descrição do erro será exibida. Dependendo do motivo, será possível **editá-la** para transmitir novamente, basta clicar em (<em class="mdi mdi-pencil"></em>) "**editar**".
 
 **<em class="mdi mdi-checkbox-marked"></em> marcar**
 
