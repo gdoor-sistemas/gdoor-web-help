@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-27T20:27:00.263Z
+date: 2022-04-27T20:27:57.238Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -284,7 +284,7 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 <a id="selecao-multipla"></a>
 
-### Seleção múltipla
+## Seleção múltipla
 
 O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
