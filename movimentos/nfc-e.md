@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T17:06:58.845Z
+date: 2022-04-28T17:11:16.645Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -297,7 +297,11 @@ Você pode ativar o modo de **seleção múltipla** utilizando a opção <em cla
 
 As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
 
-Seleção múltipla de pré-venda em aberto{.subtitle}
+- **Seleção múltipla de pré-venda em aberto**{.subtitle}
+
+As ações disponíveis são:
+- <em class="mdi mdi-delete"></em>: excluir pré-vendas selecionadas;
+- <em class="mdi mdi-close"></em>: fechar seleção.
 
 ![seleção múltipla pré-venda em aberto](/movimentos/pdv/aberto.png)
 
