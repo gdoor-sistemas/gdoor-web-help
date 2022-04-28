@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T17:16:28.330Z
+date: 2022-04-28T17:19:57.780Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -303,7 +303,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir pré-vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![seleção múltipla pré-venda em aberto](/movimentos/pdv/aberto.png)
+![seleção múltipla pré-venda em aberto](/movimentos/pdv/aberta.png)
 
 **Seleção múltipla de pré-venda concluída**{.subtitle}
 
@@ -312,7 +312,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir pré-vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![concluida.png](/movimentos/pdv/concluida.png)
+![seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
 
 ---
 
