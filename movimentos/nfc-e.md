@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T16:45:10.152Z
+date: 2022-04-28T16:55:48.726Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -286,13 +286,15 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ## Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione várias pré-vendas ou NFC-e (com a mesma situação) para executar uma ação com todas simultaneamente. As opções mostradas variam de acordo com a situação atual e o tipo de documento selecionado na lista do PDV, veja mais detalhes abaixo:
+O modo de seleção múltipla permite que você selecione várias pré-vendas ou NFC-e (com a mesma situação) para executar uma ação com todas simultaneamente. 
 
-Você pode ativar o modo de **seleção múltipla** utilizando a opção <em class="mdi mdi-checkbox-marked"></em> **marcar** ou clicando sobre o campo de imagem a esquerda do documento (no caso de dispositivos toutch dê um toque longo no item).
+Você pode ativar o modo de **seleção múltipla** utilizando a opção <em class="mdi mdi-checkbox-marked"></em> **marcar** ou clicando sobre o **campo imagem** a esquerda do documento (no caso de dispositivos toutch dê um toque longo no item).
 
-![marcar.gif](/movimentos/pdv/marcar.gif)
+![marcar item](/movimentos/pdv/marcar.gif)
 
-Depois de selecionada uma NFC-e, você poderá clicar em outras para marcar ou desmarcar. Só é possível marcar as NFC-e sendo exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](#filtros).
+As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
+
+Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](#filtros).
 
 ![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png)
 
