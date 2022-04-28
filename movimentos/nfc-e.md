@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T19:20:06.274Z
+date: 2022-04-28T19:22:02.173Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -400,64 +400,6 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 ![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
 {.is-success}
 
-# Inutilizar numeração
-
-Há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, para casos assim, a inutilização da numeração se faz útil. 
-
-> Considerando que a nota não existe perante a SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
-
-Como inutilizar numeração{.subtitle}
-
-Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do PDV:
-
-![menu inutilizar numeração](/movimentos/pdv/inutilizar_numeraç.png)
-
-Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
-
-![inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
-
-Série{.subtitle}
-
-Série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente na NFC-e.
-
-Nº inicial{.subtitle}
-
-Número inicial da faixa que deseja inutilizar.
-
-Nº final{.subtitle}
-
-Número final da faixa que deseja inutilizar.
-
-Justificativa do pedido de inutilização{.subtitle}
-
-Com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
-
-> Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
-{.is-success .gw .gw-tip}
-
-Todos os campos são obrigatórios. Depois de preencher as informações, clique em <span data-mat-button>Confirmar</span> e aguarde o retorno.
-
-Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver todas as numerações já inutilizadas:
-
-![Lista de numerações inutilizadas](/movimentos/nfce/nfce-inutilizacao-lista.png)
-
-> Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
-{.is-info}
-
-# XML do mês
-
-O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
-
-Compactar arquivos{.subtitle}
-
-Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
-
-![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
-
-A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
-
-![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
-
 # Configurações do PDV
 
 As configurações do PDV envolvem as emissões de pré-venda e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
@@ -692,3 +634,61 @@ Veja o vídeo que exemplifica maneiras de você ajustar as suas preferências de
 <div class=text-center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TORKwnc7ric" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+# XML do mês
+
+O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
+
+Compactar arquivos{.subtitle}
+
+Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
+
+![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
+
+A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+
+![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
+
+# Inutilizar numeração
+
+Há situações que fazem necessário informar uma quebra na numeração sequencial à Receita, para casos assim, a inutilização da numeração se faz útil. 
+
+> Considerando que a nota não existe perante a SEFAZ, chamamos este processo de inutilização da **numeração**, e não da nota.
+
+Como inutilizar numeração{.subtitle}
+
+Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do PDV:
+
+![menu inutilizar numeração](/movimentos/pdv/inutilizar_numeraç.png)
+
+Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
+
+![inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
+
+Série{.subtitle}
+
+Série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente na NFC-e.
+
+Nº inicial{.subtitle}
+
+Número inicial da faixa que deseja inutilizar.
+
+Nº final{.subtitle}
+
+Número final da faixa que deseja inutilizar.
+
+Justificativa do pedido de inutilização{.subtitle}
+
+Com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
+
+> Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
+{.is-success .gw .gw-tip}
+
+Todos os campos são obrigatórios. Depois de preencher as informações, clique em <span data-mat-button>Confirmar</span> e aguarde o retorno.
+
+Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver todas as numerações já inutilizadas:
+
+![Lista de numerações inutilizadas](/movimentos/nfce/nfce-inutilizacao-lista.png)
+
+> Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
+{.is-info}
