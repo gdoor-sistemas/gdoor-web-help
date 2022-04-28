@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T13:02:43.730Z
+date: 2022-04-28T13:06:26.602Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -247,7 +247,7 @@ Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [
 
 As informações mostradas variam de acordo com a **situação atual** e do **tipo de documento** exibido na lista do PDV, veja mais detalhes abaixo:
 
-- Pré-venda em aberto{.subtitle}
+### Pré-venda em aberto{.subtitle}
 
 Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**".
 
@@ -255,7 +255,7 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 
 ![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
 
-- Pré-venda concluída{.subtitle}
+### Pré-venda concluída{.subtitle}
 
 Quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada. 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda.
@@ -264,7 +264,7 @@ A [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/
 
 ![pré-venda concluída](/movimentos/pdv/pv_concluida.png)
 
-- Autorizado o uso da NFC-e{.subtitle}
+### Autorizado o uso da NFC-e{.subtitle}
 
 Nesta etapa edições não são permitidas. Se a [**movimentação do estoque**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#movimentar-estoque) e [**geração do financeiro**](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
@@ -273,7 +273,7 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ![autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
-- Rejeição da NFC-e{.subtitle}
+### Rejeição da NFC-e{.subtitle}
 
 Quando uma NFC-e é rejeitada na transmissão, a mensagem com a descrição do erro será exibida. Dependendo do motivo, será possível **editá-la** para transmitir novamente, basta clicar em (<em class="mdi mdi-pencil"></em>) "**editar**".
 
