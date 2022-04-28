@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T19:17:49.741Z
+date: 2022-04-28T19:20:06.274Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -457,18 +457,6 @@ Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel later
 A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
-
-# Contingência
-
-Em breve...
-
-# Sangria 
-
-Em breve...
-
-# Suprimento
-
-Em breve...
 
 # Configurações do PDV
 
