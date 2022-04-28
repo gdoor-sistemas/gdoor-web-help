@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T16:55:48.726Z
+date: 2022-04-28T16:58:00.990Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -292,9 +292,18 @@ Você pode ativar o modo de **seleção múltipla** utilizando a opção <em cla
 
 ![marcar item](/movimentos/pdv/marcar.gif)
 
+> Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar).
+{.is-info}
+
 As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
 
-Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](#filtros).
+Pré-venda em aberto{.subtitle}
+
+
+
+
+
+---
 
 ![Opções da seleção múltipla](/movimentos/nfce/nfce-selecao-multipla-opcoes.png)
 
