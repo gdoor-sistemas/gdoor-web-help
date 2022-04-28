@@ -2,11 +2,51 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-04-11T18:15:10.061Z
+date: 2022-04-28T17:53:24.574Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+## Novidades
+
+- DEP19736 - Adicionada a funcionalidade Pré-venda 🎉.
+
+- DEP19589 - Bloqueada a consulta na manifestação eletrônica quando não forem encontradas novas notas. Para evitar o bloqueio previsto legalmente ao consultar em menos de 60 mintos
+
+- Implementado o relatório geral de pedidos “Pedidos de venda”, no qual constam todos os pedidos com número, data, valores, situação e número da nota, assim como os filtros de datas e usuário. Os relatórios “Pedido de venda” e “Recibo” **não** estão mais na listagem de relatórios e devem ser impressos por dentro do pedido e financeiro respectivamente.
+
+- Implementada a configuração para geração de parcelamentos. Agora será possível definir nas configurações gerais do sistema a data inicial, período mínimo para clientes que possuem dia de acerto e utilizar dias úteis.
+
+- Possibilitada a propagação de alterações nas transições financeiras. Agora será possível ao alterar o dado de uma parcela efetuar a mudança nas outras parcelas também.
+
+- Atualizadas as fontes e logomarca do Gweb para seguir o novo padrão da GDOOR.
+
+- DEP19215 - Implementada a importação de dados financeiros.
+
+## Ajustes
+
+- DEP19518 - Ajustados os filtros do relatório de movimentos simplificado para permitir filtrar por vendedor.
+
+- Ajustado o botão do filtro dos detalhes financeiros para não sobrepor o número dos documentos.
+
+- Alterada a mensagem apresentada quando as contas do usuário não estão disponíveis para login. A nova mensagem é “Não foi encontrada uma conta ativa para este usuário”.
+
+- DEP19547 - Ajustada a alteração de dodos no perfil para que sejam aplicadas em todas as contas e para alterar também o nome do usuário que aparece acima da versão do sistema.
+
+- DEP19628 e DEP19634 - Ajustada a geração da NF-e a partir de um pedido para trazer as informações adicionais do pedido e incluir os CPF/CNPJ autorizados.
+
+- DEP19640 - Ajustada a quantidade de casas permitidas para os valores de FCP na NF-e. Quando o valor tinha mais de 6 casas estava ocorrendo erro no banco de dados.
+
+- Ajustado o comportamento do sistema ao tentar ajustar nota de fora do sistema. Antes o sistema não apresentava mensagem e permanecia sempre carregando, agora apresenta mensagem informando que essa operação não é possível.
+
+- Incluída mensagem informando quando não foi possível importar o pedido. Anteriormente trazia um documento em branco.
+
+- Ajustada a geração de NF-e baseada em pedidos com parcelamento.
+
+- DEP19704 - Corrigida a impressão de pedidos de venda e recibos no firefox.
+
+- DEP19697 e DEP19711 - Corrigidas as permissões de pedidos.
 
 # 11/04/2022
 b2.12.6,  f1.22.3 {.versions} 
