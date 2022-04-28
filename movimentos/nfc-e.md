@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T19:16:26.499Z
+date: 2022-04-28T19:17:49.741Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -287,7 +287,7 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 Quando uma NFC-e possui alguma informação incorreta ou faltante, a falha pode ocorrer na transmissão. Será possível verificar os detalhes e **editá-la** para transmitir novamente, basta clicar em (<em class="mdi mdi-pencil"></em>) "**editar**".
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
-Será possível:
+Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DANFCE**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
 
 <a id="selecao-multipla"></a>
 
