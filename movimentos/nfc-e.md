@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T19:08:53.514Z
+date: 2022-04-28T19:16:26.499Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -282,6 +282,13 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ![rejeição NFC-e](/movimentos/pdv/nfc-e_rejeição.png)
 
+### NFC-e com falha na pré-validação dos dados{.subtitle}
+
+Quando uma NFC-e possui alguma informação incorreta ou faltante, a falha pode ocorrer na transmissão. Será possível verificar os detalhes e **editá-la** para transmitir novamente, basta clicar em (<em class="mdi mdi-pencil"></em>) "**editar**".
+
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
+Será possível:
+
 <a id="selecao-multipla"></a>
 
 ## Seleção múltipla
@@ -340,8 +347,6 @@ As ações disponíveis são:
 - <em class="mdi mdi-close"></em>: fechar seleção
 
 ![seleção múltipla de NFC-e autorizado rejeitada](/movimentos/pdv/rejeitad.png)
-
-
 
 ## Buscar
 
