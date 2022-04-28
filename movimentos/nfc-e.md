@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T19:01:02.021Z
+date: 2022-04-28T19:02:17.070Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -289,6 +289,7 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 O modo de seleção múltipla permite que você selecione várias **pré-vendas** ou **NFC-e** para executar uma ação com todas simultaneamente. 
 
 > As opções de seleção múltipla ficarão visíveis apenas se **todas as vendas selecionadas** pertencerem ao mesmo **tipo de documento** e possuirem a **situação**.
+Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeitada**, as ações não estarão disponíveis, assim como se selecionar uma **pré-venda** e uma **NFC-e**.
 {.is-success}
 
 Você pode ativar o modo de **seleção múltipla** utilizando a opção <em class="mdi mdi-checkbox-marked"></em> **marcar** ou clicando sobre o **campo imagem** a esquerda do documento (no caso de dispositivos toutch dê um toque longo no item):
@@ -298,11 +299,7 @@ Você pode ativar o modo de **seleção múltipla** utilizando a opção <em cla
 > Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#filtrar).
 {.is-info}
 
-As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV , veja mais detalhes abaixo:
-
-> 
-Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeitada**, as ações não estarão disponíveis, assim como se selecionar uma **pré-venda** e uma **NFC-e**.
-{.is-success}
+As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
 
 **Seleção múltipla de pré-venda em aberto**{.subtitle}
 
