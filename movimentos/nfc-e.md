@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-28T13:06:26.602Z
+date: 2022-04-28T14:14:37.700Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -245,7 +245,7 @@ Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas < >.
 {.is-info}
 
-As informações mostradas variam de acordo com a **situação atual** e do **tipo de documento** exibido na lista do PDV, veja mais detalhes abaixo:
+As informações mostradas variam de acordo com a **situação atual** e o **tipo de documento** exibido na lista do PDV, veja mais detalhes abaixo:
 
 ### Pré-venda em aberto{.subtitle}
 
@@ -286,7 +286,9 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ## Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione várias NFC-e para executar uma ação com todas simultaneamente. Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
+O modo de seleção múltipla permite que você selecione várias pré-vendas ou NFC-e para executar uma ação com todas simultaneamente. As opções mostradas variam de acordo com a situação atual e o tipo de documento selecionado na lista do PDV,
+
+Atualmente, as ações disponíveis para este modo são: consultar, transmitir e excluir. Você pode ativar o modo de seleção múltipla no [menu de ações](#acoes) da NFC-e na opção "Selecionar", ou no caso de dispositivos de toque, dar um toque longo no item. 
 
 ![Seleção múltipla na lista de NFC-e](/movimentos/nfce/nfce-selecao-multipla.png)
 
