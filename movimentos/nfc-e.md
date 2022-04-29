@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T14:21:03.933Z
+date: 2022-04-29T14:26:57.453Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -293,7 +293,7 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 O modo de seleção múltipla permite que você selecione várias **pré-vendas** ou **NFC-e** para executar uma ação com todas simultaneamente. 
 
-> As opções de seleção múltipla ficarão visíveis apenas se **todas as vendas selecionadas** pertencerem ao mesmo **tipo de documento** e possuírem a **situação**.
+> As opções de seleção múltipla ficarão visíveis apenas se **todas as vendas selecionadas** pertencerem ao mesmo **tipo de documento** e possuírem a **mesma situação**.
 Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeitada**, as ações não estarão disponíveis, assim como se selecionar uma **pré-venda** e uma **NFC-e**.
 {.is-success}
 
