@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T19:37:03.660Z
+date: 2022-04-29T19:38:05.563Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -458,7 +458,7 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e: 
 - **Perguntar sempre**: ao selecionar esta opção, sempre será solicitado se deseja **mesclar as pré-vendas em uma única NFC-e**.
 - **Mesclar**: uma única NFC-e (por cliente) será gerada com todas as pré-vendas selecionadas.
-> Ao selecionar pré-vendas que tenham o **cliente informado** e pré-vendas para **consumidor final**, o sistema assumirá que são todas do mesmo cliente informado (mesclando a venda do cliente informado e do consumidor).
+> Ao selecionar pré-vendas que tenham o **cliente informado** e pré-vendas para **consumidor final**, o sistema assumirá que são todas do mesmo cliente informado (mesclando as pré-vendas do cliente informado e do consumidor).
 {.is-info}
 
 - **Não mesclar**: uma NFC-e por pré-venda será gerada em segundo plano. Você poderá continuar utilizando o sistema normalmente enquanto as NFC-e são geradas.
