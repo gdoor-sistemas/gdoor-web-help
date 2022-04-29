@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T17:10:10.275Z
+date: 2022-04-29T17:15:49.757Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -401,7 +401,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 # Configurações do PDV
 
 As configurações do PDV envolvem as emissões de pré-venda e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
-Ao alterar cada seção, você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente. Veja abaixo os detalhes de cada seção/configuração.
+Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Comportamento
 
@@ -463,7 +463,7 @@ Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e:
 ## Financeiro
 
 Para informação dos vínculos financeiros padrão.
-Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado. Clique em <span class="mat-button mdi "> salvar</span>.
+Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado.
 
 ![pdv_financeiro.png](/movimentos/pdv/pdv_financeiro.png)
 
