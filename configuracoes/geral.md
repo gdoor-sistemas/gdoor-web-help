@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-04-29T12:23:36.891Z
+date: 2022-04-29T12:27:38.577Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -29,7 +29,7 @@ Após informar os campos, clique em <span class="mat-button mdi "> salvar</span>
 > Números que ficarão após a vírgula. Exemplo: 0,392 é um número com 3 casas decimais após a vírgula.
 {.is-success}
 
-# Serviços
+## Serviços
 
 Configuração para uso de serviços em documentos fiscais.
 
