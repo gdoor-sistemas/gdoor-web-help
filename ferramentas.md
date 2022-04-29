@@ -2,7 +2,7 @@
 title: Ferramentas
 description: Conheças as ferramentas disponíveis para manutenção do seu Gweb
 published: true
-date: 2022-03-17T12:25:17.829Z
+date: 2022-03-17T12:25:20.137Z
 tags: configurações, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:49:37.106Z

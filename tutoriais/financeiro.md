@@ -2,7 +2,7 @@
 title: Módulo financeiro
 description: Conheça o módulo que possibilita o gerenciamento das finanças da sua empresa no GDOOR WEB
 published: true
-date: 2022-01-03T16:50:15.982Z
+date: 2022-01-03T16:50:18.735Z
 tags: financeiro, caixa, receber, pagar, contas
 editor: markdown
 dateCreated: 2022-01-02T19:09:16.430Z

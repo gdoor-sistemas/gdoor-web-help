@@ -2,8 +2,10 @@
 title: Histórico da pessoa
 description: Veja os registros relacionados à pessoa em outros módulos do GDOOR WEB
 published: true
-date: 2020-02-17T11:21:58.072Z
+date: 2020-02-17T11:21:59.234Z
 tags: cadastros, pessoas, histórico
+editor: markdown
+dateCreated: 2020-01-06T13:41:52.324Z
 ---
 
 # Histórico

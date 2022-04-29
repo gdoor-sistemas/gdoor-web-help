@@ -2,7 +2,7 @@
 title: Alíquotas do SIMPLES
 description: Veja como configurar no GDOOR WEB as alíquotas crédito de ICMS para empresas optantes pelo SIMPLES Nacional
 published: true
-date: 2021-03-04T22:12:43.605Z
+date: 2021-03-04T22:13:23.131Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:12:43.605Z

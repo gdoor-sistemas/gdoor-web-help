@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-04-29T12:29:28.845Z
+date: 2022-04-29T12:29:31.130Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z

@@ -2,7 +2,7 @@
 title: Preferências da NFC-e
 description: Defina o comportamento da NFC-e para o seu usuário
 published: true
-date: 2021-03-06T18:03:41.282Z
+date: 2021-03-06T18:03:43.397Z
 tags: nfc-e, personalização
 editor: markdown
 dateCreated: 2020-09-01T12:16:13.199Z

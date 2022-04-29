@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2020-09-04T14:28:30.080Z
+tags: 
+editor: markdown
+dateCreated: 2020-09-04T13:52:38.833Z
+---
+
 # Wiki GDOOR WEB
 
 Este repositório contém as imagens e os arquivos [markdown](https://www.youtube.com/watch?v=gFJfyHRKaE0)

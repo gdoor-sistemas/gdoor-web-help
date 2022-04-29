@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2022-03-14T20:17:36.196Z
+date: 2022-03-14T20:17:38.671Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
