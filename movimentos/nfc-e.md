@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T12:24:02.232Z
+date: 2022-04-29T12:25:27.197Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -72,7 +72,7 @@ Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código 
 
 ## Adicionar serviços
 
-Para adicionar serviços na pré-venda, você precisa habilitar o uso de serviços nas [configurações](https://help.gdoorweb.com.br/pt-br/configuracoes/geral#servi%C3%A7os) e depois [cadastrar os serviços](/cadastros/servicos).
+Para adicionar serviços na pré-venda, você precisa habilitar o uso de serviços nas [configurações](https://help.gdoorweb.com.br/pt-br/configuracoes/geral#serviços) e depois [cadastrar os serviços](/cadastros/servicos).
 
 Para adicionar serviços, digite uma barra (<kbd>\\r</kbd> ou <kbd>/</kbd>) no campo de busca, seguida da descrição ou do código numérico do serviço e o sistema mostrará os resultados dos serviços encontrados:
 
