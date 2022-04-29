@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T12:53:28.036Z
+date: 2022-04-29T13:22:19.124Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -128,7 +128,7 @@ O comportamento do sistema ao efetuar uma venda será de acordo com as configura
 > Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
-Todas as ações disponíveis para o lançamento de NFC-e estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
+Todas as ações disponíveis para o **lançamento de NFC-e** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
 Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e:
 
@@ -136,7 +136,7 @@ Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2PUfV6476j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Para criar uma nova NFC-e, você pode:
+Para criar uma **nova NFC-e**, você pode:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do PDV;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do PDV;
@@ -149,12 +149,9 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ## Adicionar produtos
 
-Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição**. Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
+Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os kits de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![Buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
-
-> Nesta busca, também serão considerados os kits de produtos, caso você tenha cadastrado.
-{.is-info}
+![buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
 
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
