@@ -1,5 +1,15 @@
+@font-face {
+  font-family: "Sofia Pro";
+  src: url('/.wikijs/fonts/Sofia-Pro.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Sofia Pro Bold";
+  src: url('/.wikijs/fonts/Sofia-Pro-Bold.otf') format('opentype');
+}
+
 .v-application {
-    font-family: Ubuntu, Roboto, Arial, sans-serif
+    font-family: "Sofia Pro", Ubuntu, Roboto, Arial, sans-serif
 }
 
 .v-main__wrap .page-col-sd .v-card.v-card--flat {
