@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T16:57:24.642Z
+date: 2022-04-29T16:57:52.156Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -377,7 +377,7 @@ As opções de filtro são:
 - **Espécie de pagamento**;
 - **Tipo de documento**;
 - <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda, essa pré-venda é ocultada da lista.
-Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar esse checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e.
+Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar esse checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e (ocultas).
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
 
