@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T17:15:49.757Z
+date: 2022-04-29T17:17:55.143Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -489,7 +489,7 @@ Nesta seção você pode configurar o sistema para abrir a janela de impressão 
 
 # Configurações da NFC-e
 
-As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente. Veja abaixo os detalhes de cada seção/configuração.
+As configurações da NFC-e são gerais para todos os usuários, e somente usuários com permissão podem alterá-las. Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Operação padrão
 
