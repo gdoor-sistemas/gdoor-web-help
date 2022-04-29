@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T13:22:19.124Z
+date: 2022-04-29T13:23:50.862Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -167,7 +167,7 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 ## Adicionar kits de produtos
 
-Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na NFC-e.
+Caso possua [kits de produtos](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#kits) cadastrados, você poderá lançá-los na NFC-e.
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
 ![Buscar kits de produtos](/movimentos/nfce/nfce-busca-kits.png)
