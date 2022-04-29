@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Sofia Pro";
-  src: url('/.wikijs/fonts/Sofia-Pro.otf') format('opentype');
+  src: url('/.wikijs/Sofia-Pro.otf') format('opentype');
 }
 
 @font-face {
   font-family: "Sofia Pro Bold";
-  src: url('/.wikijs/fonts/Sofia-Pro-Bold.otf') format('opentype');
+  src: url('/.wikijs/Sofia-Pro-Bold.otf') format('opentype');
 }
 
 .v-application {
