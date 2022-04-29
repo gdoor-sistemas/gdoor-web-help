@@ -71,7 +71,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 
 1. Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2. Nome do cliente. Será apresentada a informação "Consumidor final" quando o cliente não for informado.
-3. Número sequencial da NFC-e, modelo (sempre 65), [série](/movimentos/nfc-e/configurar#ambiente) e data da emissão. Também apresenta o valor total da NFC-e.
+3. Número sequencial da NFC-e, modelo (sempre 65), [série](/movimentos/pdv/configurar#ambiente) e data da emissão. Também apresenta o valor total da NFC-e.
 4. Chave de acesso e status da NFC-e.
 5. [Menu de ações](#acoes) a serem executadas com a NFC-e em questão. Caso a NFC-e ainda não tenha sido transmitida para a [SEFAZ](/glossario#sefaz), ao lado deste botão será exibido outro (<em class="mdi mdi-pencil"></em>) para editar a NFC-e.
 
@@ -109,7 +109,7 @@ Visível para as NFC-e que possuem chave de acesso. Copia a chave de acesso para
 
 <span class="mat-button mdi mdi-email"> Enviar por e-mail</span>
 
-Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Envia um e-mail para o endereço do cadastro do cliente com o XML da NFC-e. Caso esteja configurado, envia também o DANFCe. [Veja como configurar](/movimentos/nfc-e/configurar#email).
+Visível para as NFC-e autorizadas, geradas em contingência, canceladas ou denegadas. Envia um e-mail para o endereço do cadastro do cliente com o XML da NFC-e. Caso esteja configurado, envia também o DANFCe. [Veja como configurar](/movimentos/pdv/configurar#email).
 
 <span class="mat-button mdi mdi-file-pdf"> Visualizar DANFCe</span>
 

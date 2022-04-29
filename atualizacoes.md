@@ -283,7 +283,7 @@ b2.4.2, f1.14.1 {.versions}
 # 30/09/2021
 
 ## Novidades
-- Possibilitada a consulta do status de várias NFC-e de uma vez. Assim como era possível selecionar várias para transmitir, agora é possível também consultar. [Veja mais detalhes](/movimentos/nfc-e/lista#selecao-multipla).
+- Possibilitada a consulta do status de várias NFC-e de uma vez. Assim como era possível selecionar várias para transmitir, agora é possível também consultar. [Veja mais detalhes](/movimentos/pdv/lista#selecao-multipla).
 
 ## Ajustes
 - Corrigido login para usuários com 1 conta inativa e 1 conta ativa. Nessa situação havia uma divergência na verificação, impossibilitando o usuário de fazer o login.

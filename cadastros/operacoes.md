@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:29:43.125Z
 
 # Introdução
 
-Este módulo permite que você cadastre previamente as naturezas de operação que serão utilizadas na emissão de [NF-e](/movimentos/nf-e) e [NFC-e](/movimentos/nfc-e) e para referência na [compras](/movimentos/compras). Apesar de no [XML](/glossario#xml) da NF-e a natureza da operação ser somente um campo textual para descrição, dentro do Gweb essas naturezas de operação determinam o tipo de operação sendo realizada e podem determinar também a tributação dessa operação.
+Este módulo permite que você cadastre previamente as naturezas de operação que serão utilizadas na emissão de [NF-e](/movimentos/nf-e) e [NFC-e](/movimentos/pdv) e para referência na [compras](/movimentos/compras). Apesar de no [XML](/glossario#xml) da NF-e a natureza da operação ser somente um campo textual para descrição, dentro do Gweb essas naturezas de operação determinam o tipo de operação sendo realizada e podem determinar também a tributação dessa operação.
 
 Para visualizar e alterar o cadastro de operações, acesse no menu principal: **Cadastros &raquo; Operações**:
 

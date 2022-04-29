@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2020-09-04T13:52:38.833Z
 ---
 
-# Wiki GDOOR WEB
+# Wiki Gweb
 
 Este repositório contém as imagens e os arquivos [markdown](https://www.youtube.com/watch?v=gFJfyHRKaE0)
 usados na Wiki ou no Help do GDOOR WEB ([https://help.gdoorweb.com.br/](https://help.gdoorweb.com.br/)).
 
 O conteúdo desses arquivos é jogado para um servidor com uma implementação do [Wiki.js](https://wiki.js.org/).
 
-# Contribuindo
+# Contribuições
 
 Você pode contribuir para melhorar a ajuda do GDOOR WEB por relatar [problemas](https://github.com/gdoor-sistemas/gdoor-web-wiki/issues)
 ou submeter [requisições de alteração](https://github.com/gdoor-sistemas/gdoor-web-wiki/pulls) que estarão sujeitas a avaliação.

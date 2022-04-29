@@ -74,7 +74,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 ![Atributos](/cadastros/pessoas/atributos.png)
 
-- **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/nfc-e) e [pedido de venda](/movimentos/pedidodevenda);
+- **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/pdv) e [pedido de venda](/movimentos/pedidodevenda);
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [Vendedor](#vendedor);
 - **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
@@ -149,4 +149,3 @@ Para editar as informações de um veículo, altere nos campos exibidos na lista
 Campo livre para preenchimento de informações adicionais.
 
 ![Quadro observações](/cadastros/pessoas/observacoes.png)
-
