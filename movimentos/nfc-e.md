@@ -2,8 +2,8 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T17:02:07.688Z
-tags: movimentos, nfc-e, estoque, visão geral
+date: 2022-04-29T17:10:10.275Z
+tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
 ---
@@ -323,7 +323,7 @@ As ações disponíveis são:
 
 ![seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
 
-> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído. Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
+> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
 > Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
 ![Indicativo de envio de NFC-e em segundo plano](/movimentos/nfce/nfce-envio-segundo-plano.png)
 {.is-info}
