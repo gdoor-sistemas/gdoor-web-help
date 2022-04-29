@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T11:28:25.342Z
+date: 2022-04-29T12:14:03.723Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -29,14 +29,14 @@ O comportamento do sistema ao efetuar uma venda será de acordo com as configura
 > Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/nfc-e#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
-Todas as ações disponíveis para o lançamento de pré-venda estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
+Todas as ações disponíveis para o **lançamento de pré-venda** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
-Para criar uma nova pré-venda, você pode:
+Para criar uma **nova pré-venda**, você pode:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do PDV;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do PDV;
 - Clicando na opção no meio da tela inicial;
-- Pressionando a tecla <kbd>F2</kbd>.
+- Utilizando a tecla <kbd>F2</kbd>.
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
