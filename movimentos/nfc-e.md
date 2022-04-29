@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T16:50:37.975Z
+date: 2022-04-29T16:54:49.896Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -367,7 +367,7 @@ Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi
 
 As opções de filtro são:
 
-- **Cliente/fornecedor**;
+- **Cliente**;
 - **Usuário**;
 - **Vendedor**;
 - **Status**;
