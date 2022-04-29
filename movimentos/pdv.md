@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T17:32:35.056Z
+date: 2022-04-29T19:37:03.660Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -21,12 +21,12 @@ O módulo foi desenvolvido visando a praticidade do uso, para que o operador pos
 
 # Pré-venda
 
-O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda** (que antecede a emissão do documento fiscal), na [configuração](#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
+O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda** (que antecede a emissão do documento fiscal), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
 - **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](#movimentar-estoque) e [financeiro](#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
 
-> Clique aqui para saber mais sobre as [configurações do PDV](#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](#configura%C3%A7%C3%B5es-da-nfc-e).
+> Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
 Todas as ações disponíveis para o **lançamento de pré-venda** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
@@ -123,9 +123,9 @@ Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtTr046tMpDsgQ9YIG1F3UEUSG7LX9w7Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar **somente com emissão de NFC-e** (sem pré-venda), na [configuração](#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione a opção "**gerar NFC-e**".
+O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar **somente com emissão de NFC-e** (sem pré-venda), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione a opção "**gerar NFC-e**".
 
-> Clique aqui para saber mais sobre as [configurações do PDV](#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](#configura%C3%A7%C3%B5es-da-nfc-e).
+> Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
 Todas as ações disponíveis para o **lançamento de NFC-e** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
@@ -236,7 +236,7 @@ O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode
 
 # Lista
 
-Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](#buscar) ou [filtrar](#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas **< >**.
 {.is-info}
@@ -256,13 +256,13 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 Quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada. 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda.
 
-A [movimentação do estoque](#movimentar-estoque) e [geração do financeiro](#gerar-financeiro) **podem ou não ser efetuadas** nesta etapa, de acordo com a [configuração](#comportamento) selecionada.
+A [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **podem ou não ser efetuadas** nesta etapa, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#comportamento) selecionada.
 
 ![pré-venda concluída](/movimentos/pdv/pv_concluida.png)
 
 ### Autorizado o uso da NFC-e{.subtitle}
 
-Nesta etapa as edições não são permitidas. Se a [movimentação do estoque](#movimentar-estoque) e [geração do financeiro](#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
+Nesta etapa as edições não são permitidas. Se a [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
 Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-content-copy"></em> copiar chave de acesso**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** ou **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
@@ -301,7 +301,7 @@ Você pode ativar o modo de **seleção múltipla** utilizando a opção <em cla
 
 ![marcar item](/movimentos/pdv/marcar.gif)
 
-> Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](#filtrar).
+> Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar).
 {.is-info}
 
 As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
@@ -323,7 +323,7 @@ As ações disponíveis são:
 
 ![seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
 
-> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda](#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
+> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
 > Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
 ![Indicativo de envio de NFC-e em segundo plano](/movimentos/nfce/nfce-envio-segundo-plano.png)
 {.is-info}
@@ -349,7 +349,7 @@ As ações disponíveis são:
 ## Buscar
 
 Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
-Para aplicar [filtros](#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
 ![digite para buscar](/movimentos/compras/busca.png)
@@ -442,7 +442,7 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 - **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](#movimentar-estoque) e geração do [financeiro](#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e geração do [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
@@ -457,7 +457,10 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e: 
 - **Perguntar sempre**: ao selecionar esta opção, sempre será solicitado se deseja **mesclar as pré-vendas em uma única NFC-e**.
-- **Mesclar**: uma única NFC-e será gerada com todas as pré-vendas selecionadas (por cliente).
+- **Mesclar**: uma única NFC-e (por cliente) será gerada com todas as pré-vendas selecionadas.
+> Ao selecionar pré-vendas que tenham o **cliente informado** e pré-vendas para **consumidor final**, o sistema assumirá que são todas do mesmo cliente informado (mesclando a venda do cliente informado e do consumidor).
+{.is-info}
+
 - **Não mesclar**: uma NFC-e por pré-venda será gerada em segundo plano. Você poderá continuar utilizando o sistema normalmente enquanto as NFC-e são geradas.
 
 ## Financeiro
