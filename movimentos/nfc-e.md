@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-04-29T12:16:34.863Z
+date: 2022-04-29T12:21:17.100Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -44,7 +44,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ## Adicionar produtos
 
-Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os kits de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
+Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os **kits** de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
 ![buscar produtos](/movimentos/pdv/adicionar_produto.png)
 
@@ -62,7 +62,7 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 ## Adicionar kits de produtos
 
-Caso possua [kits de produtos](/cadastros/produtos/kits) cadastrados, você poderá lançá-los na pré-venda. 
+Caso possua [kits de produtos](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#kits) cadastrados, você poderá lançá-los na pré-venda. 
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
 ![buscar kits de produtos](/movimentos/pdv/adicionar_kitt.png)
