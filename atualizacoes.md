@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-02T19:32:23.746Z
+date: 2022-05-02T20:03:27.806Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,7 +23,7 @@ b3.0.0,  f2.0.0 {.versions}
 
 - Possibilitada a propagação de alterações nas transições financeiras. Agora será possível ao alterar o dado de uma parcela efetuar a mudança nas outras parcelas também.
 
-- Atualizadas as fontes e logomarca do Gweb para seguir o novo padrão da GDOOR.
+- Atualizadas as fontes e logomarca do Gweb para seguir o novo padrão da Gdoor.
 
 - Implementada a importação de dados financeiros.
 
