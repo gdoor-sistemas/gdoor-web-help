@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-02T11:09:47.090Z
+date: 2022-05-02T19:32:23.746Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,7 +13,7 @@ b3.0.0,  f2.0.0 {.versions}
 
 ## Novidades
 
-- Adicionada a funcionalidade Pré-venda 🎉[clicando aqui](/movimentos/pdv).
+- Adicionada a funcionalidade Pré-venda 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv) (Módulo habilitável à parte).
 
 - Bloqueada a consulta na manifestação eletrônica quando não forem encontradas novas notas. Para evitar o bloqueio previsto legalmente ao consultar em menos de 60 minutos.
 
