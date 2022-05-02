@@ -2,11 +2,59 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-04-28T17:54:36.390Z
+date: 2022-05-02T11:09:47.090Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 01/05/2022
+b3.0.0,  f2.0.0 {.versions} 
+
+## Novidades
+
+- Adicionada a funcionalidade Pré-venda 🎉[clicando aqui](/movimentos/pdv).
+
+- Bloqueada a consulta na manifestação eletrônica quando não forem encontradas novas notas. Para evitar o bloqueio previsto legalmente ao consultar em menos de 60 minutos.
+
+- Implementado o relatório geral de pedidos “Pedidos de venda (Simplificado)”, no qual constam todos os pedidos com número, data, valores, situação e número da nota, assim como os filtros de datas e usuário. Os relatórios “Pedido de venda” e “Recibo” não estão mais na listagem de relatórios e devem ser impressos por dentro do pedido e financeiro respectivamente.
+
+- Implementada a configuração para geração de parcelamentos. Agora será possível definir nas configurações gerais do sistema a data inicial, período mínimo para clientes que possuem dia de acerto, escolha dos dias úteis e cadastro de feriados.
+
+- Possibilitada a propagação de alterações nas transições financeiras. Agora será possível ao alterar o dado de uma parcela efetuar a mudança nas outras parcelas também.
+
+- Atualizadas as fontes e logomarca do Gweb para seguir o novo padrão da GDOOR.
+
+- Implementada a importação de dados financeiros.
+
+- Implementada a movimentação das contas associadas a meios de pagamento na NFC-e. Antigamente, essa movimentação ocorria somente na NF-e.
+
+- Implementada mensagem de confirmação em NF-e com valor inferior ao total dos produtos.
+
+## Ajustes
+ 
+- Ajustados os filtros do relatório de movimentos simplificado para permitir filtrar por vendedor.
+
+- Ajustado o botão do filtro dos detalhes financeiros para não sobrepor o número dos documentos.
+
+- Alterada a mensagem apresentada quando as contas do usuário não estão disponíveis para login. A nova mensagem é “Não foi encontrada uma conta ativa para este usuário”.
+
+- Ajustada a alteração de dados no perfil para que sejam aplicadas em todas as contas e para alterar também o nome do usuário que aparece acima da versão do sistema.
+
+- Ajustada a geração da NF-e a partir de um pedido para trazer as informações adicionais do pedido e incluir os CPF/CNPJ autorizados.
+
+- Ajustada a quantidade de casas permitidas para os valores de FCP na NF-e. Quando o valor tinha mais de 6 casas estava ocorrendo erro no banco de dados.
+
+- Ajustado o comportamento do sistema ao tentar ajustar nota de fora do sistema. Antes o sistema não apresentava mensagem e permanecia sempre carregando, agora apresenta mensagem informando que essa operação não é possível.
+
+- Incluída mensagem informando quando não foi possível importar o pedido. Anteriormente trazia um documento em branco.
+
+- Ajustada a geração de NF-e baseada em pedidos com parcelamento.
+
+- Corrigida a impressão de "pedido de venda" e "recibos" no Firefox.
+
+- Corrigidas as permissões de pedidos.
+
 
 # 11/04/2022
 b2.12.6,  f1.22.3 {.versions} 
