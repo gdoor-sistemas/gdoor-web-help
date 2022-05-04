@@ -2,11 +2,21 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-02T20:03:34.368Z
+date: 2022-05-04T17:57:12.173Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 04/05/2022
+b3.0.4,  f2.0.4 {.versions} 
+
+## Ajustes
+ 
+- Corrigida a devolução de compras que estava somando valores no estoque e registrando como entrada nos movimentos do produto .
+
+- Ajustada a visualização dos movimentos no cadastro de produtos.
+
 
 # 01/05/2022
 b3.0.0,  f2.0.0 {.versions} 
