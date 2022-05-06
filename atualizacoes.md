@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-04T17:57:28.988Z
+date: 2022-05-06T12:39:10.400Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/05/2022
+
+## Ajustes
+ 
+- Ajustado relatório "Produtos com saída" para considerar as movimentações da pré-venda.
 
 # 04/05/2022
 b3.0.4,  f2.0.4 {.versions} 
