@@ -2,29 +2,11 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-11T18:27:51.077Z
+date: 2022-05-11T18:28:29.346Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
-
-# 11/05/2022
-b3.0.5,  f2.0.5 {.versions} 
-
-## Novidades
-- Implementado o cancelamento de pré-venda.
-
-## Ajustes
-- DEP19841: ajustado PDV para que o produto não perca a tributação. Anteriormente ao editar o produto na pré-venda e salvar estava ocorrendo erro por falta de CFOP.
-- Ajustada a visualização do menu de relatórios conforme permissões. Esse erro ocorria em usuários que tinham as permissões dos relatórios que foram removidos na última atualização.
-- Corrigida a geração do relatório de comissão por vendedor e inclusas as comissões geradas por pré-vendas que movimentam estoque.
-- DEP19825: ajustado o valor total da pré-venda para considerar os acréscimos.
-- Ajustado a geração do arquivo de exportação de dados para constar somente os atributos dos módulos exportados. Anteriormente ao exportar uma base sem o financeiro estava gerando o atributo do financeiro.
-- DEP19811: ajustada a seleção múltipla de pré-vendas para somente mostrar o botão de exclusão em pré-vendas pendentes.
-- Corrigido o link de visualização da pré-venda que aparece no cadastro de produtos - aba movimentos. Anteriormente ao clicar no botão não estava abrindo a pré-venda que originou a movimentação.
-- Ajustado o formato dos campos de data e hora na conexão com a base de dados.
-- Ajustado a edição de produtos para não permitir incluir grade em produtos com movimentação.
-- DEP19683: Corrigida a nota complementar para utilizar a BC ICMS e BC ICMS ST da nota original e em casos de notas complementares de fora do sistema abrir esses campos para digitação.
 
 # 05/05/2022
 
