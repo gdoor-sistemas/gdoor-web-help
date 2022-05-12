@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-12T11:51:43.041Z
+date: 2022-05-12T17:12:51.829Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 11/05/2022
-b3.0.5,  f2.0.5 {.versions} 
+b3.1.0,  f2.1.0 {.versions} 
 
 ## Novidades
 - Implementado o cancelamento de pré-venda.
