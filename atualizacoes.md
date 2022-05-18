@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-12T17:12:51.829Z
+date: 2022-05-18T12:33:44.454Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/05/2022
+
+## Ajustes
+
+- Ajustada soma incorreta no relatório "Produtos com saída".
 
 # 11/05/2022
 b3.1.0,  f2.1.0 {.versions} 
@@ -15,6 +21,7 @@ b3.1.0,  f2.1.0 {.versions}
 - Implementado o cancelamento de pré-venda.
 
 ## Ajustes
+
 - Ajustada a visualização do menu de relatórios conforme permissões. Esse erro ocorria em usuários que tinham as permissões dos relatórios que foram removidos na última atualização.
 - Corrigida a geração do relatório de comissão por vendedor e inclusas as comissões geradas por pré-vendas que movimentam estoque.
 - Ajustado a geração do arquivo de exportação de dados para constar somente os atributos dos módulos exportados. Anteriormente ao exportar uma base sem o financeiro estava gerando o atributo do financeiro.
