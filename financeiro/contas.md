@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no Gweb
 published: true
-date: 2022-03-17T12:12:56.924Z
+date: 2022-05-26T14:09:34.988Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -84,7 +84,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 
 - **Nome**: nome do plano de contas, exemplo: aluguel;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída.
+- **Centro de custos**: informe a tag.
 
 ![planos de contas](/contas/8_planos_de_contas.png)
 
@@ -97,7 +97,7 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 
 - **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída.
+- **Centro de custos**: informe a tag.
 
 ![centros de custos](/contas/9_centros_de_custos.png)
 
