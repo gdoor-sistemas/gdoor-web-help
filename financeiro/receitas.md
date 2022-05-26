@@ -2,7 +2,7 @@
 title: Receitas
 description: Identifique as contas a receber da empresa no Gweb
 published: true
-date: 2022-03-17T12:18:54.845Z
+date: 2022-05-26T14:12:37.141Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -231,7 +231,8 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 
 - **Nome**: nome do plano de contas;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída.
+- **Tipo**: se é entrada ou saída;
+- **Centro de custos**: informe a tag.
 
 ![planos de contas](/receitas/8_planos_de_contas.png)
 
@@ -245,6 +246,7 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 
 - **Nome**: nome do centro de custos;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída.
+- **Tipo**: se é entrada ou saída;
+- **Centro de custos**: informe a tag.
 
 ![centros de custos](/receitas/9_centros_de_custos.png)
