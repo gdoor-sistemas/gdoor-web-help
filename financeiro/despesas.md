@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no Gweb
 published: true
-date: 2022-05-26T14:11:11.003Z
+date: 2022-05-26T14:12:11.729Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
