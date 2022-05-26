@@ -2,7 +2,7 @@
 title: Despesas
 description: Identifique as contas a pagar da empresa no Gweb
 published: true
-date: 2022-05-26T14:10:21.963Z
+date: 2022-05-26T14:11:11.003Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -227,6 +227,7 @@ Para adicionar um novo plano de contas, você pode clicar no botão (<em class="
 
 - **Nome**: nome do plano de contas, exemplo: aluguel;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída;
 - **Centro de custos**: informe a tag.
 
 ![planos de contas](/despesas/8_plano_de_contas.png)
@@ -242,6 +243,7 @@ Para adicionar um novo centro de custos, você pode clicar no botão (<em class=
 
 - **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
 - **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
+- **Tipo**: se é entrada ou saída;
 - **Centro de custos**: informe a tag.
 
 ![centros de custos](/despesas/9_centros_de_custos.png)
