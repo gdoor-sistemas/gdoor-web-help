@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-18T12:33:44.454Z
+date: 2022-05-30T19:27:37.298Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/05/2022
+f2.1.1 {.versions} 
+
+## Ajustes
+
+- Corrigida verificação de permissão ao cancelar venda em aberto no PDV.
 
 # 18/05/2022
 
