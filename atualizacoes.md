@@ -2,11 +2,26 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-05-30T19:27:37.298Z
+date: 2022-06-02T11:18:07.685Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 02/06/2022
+f2.1.2, b3.1.3 {.versions} 
+
+## Ajustes
+
+- Ajustado para que não seja possível selecionar uma operação que não movimenta estoque como padrão para NF-e/ NFC-e.
+
+- Ajustada as movimentações do financeiro que estavam indo para a conta padrão ao invés de serem encaminhadas para a conta configurada no PDV.
+
+- Corrigido troco que não estava sendo descontado do valor pago ao gerar o financeiro.
+
+- Ajustado para que o sistema "salve" nos produtos o vendedor incluso no cabeçalho dos pedidos, NF-e e NFC-e.
+
+- Corrigida a configuração de contas do PDV que não estava gravando corretamente as informações.
 
 # 27/05/2022
 f2.1.1 {.versions} 
