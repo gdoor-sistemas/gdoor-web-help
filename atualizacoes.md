@@ -2,11 +2,16 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-06-23T11:30:14.405Z
+date: 2022-07-05T16:59:17.744Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/07/2022
+
+## Ajustes
+- Corrigido relatório "Comissão por vendedor" que apresentava valores incorretos.
 
 # 23/06/2022
 
