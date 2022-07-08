@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-08T14:57:47.606Z
+date: 2022-07-08T14:58:39.109Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 - Adicionado relatório que lista [Documentos fiscais emitidos](https://app.gdoorweb.com.br/relatorios/documentos-fiscais-emitidos).
 
 ## Ajustes
-- Renomeado relatório de [Total de NF-e/NFC-e por situação](https://app.gdoorweb.com.br/relatorios/total-de-nfe-por-situacao) (anteriormente *Total de NF-e por situação*) e ajustado para não considerar o movimento de estoque. Isso porque nem todos os documentos fiscais não trasmitidos ainda não movimentaram estoque, então o vínculo não poderia ser estabelecido. O relatório agora agrupará os documentos fiscais (NF-e e NFC-e) de acordo com os filtros, independentemente de os documentos terem movimentado estoque.
+- Ajustado relatório de [Total de NF-e/NFC-e por situação](https://app.gdoorweb.com.br/relatorios/total-de-nfe-por-situacao) (anteriormente *Total de NF-e por situação*) para deixar de considerar o movimento de estoque. Isso porque nem todos os documentos fiscais não trasmitidos ainda não movimentaram estoque, então o vínculo não poderia ser estabelecido. O relatório agora agrupará os documentos fiscais (NF-e e NFC-e) de acordo com os filtros, independentemente de os documentos terem movimentado estoque.
 - Ajustados os relatórios a seguir para considerar documentos sem produtos (apenas serviços). As datas a serem consideradas nos filtros para esses casos será a data de saída da nota.
   * [Movimentos (Completo)](https://app.gdoorweb.com.br/relatorios/movimentos-completo)
   * [Movimentos NFC-e](https://app.gdoorweb.com.br/relatorios/movimentos-nfc-e)
