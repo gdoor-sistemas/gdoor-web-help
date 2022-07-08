@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-05T16:59:38.312Z
+date: 2022-07-08T14:30:13.022Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/07/2022
+
+## Novidades
+- Adicionado relatório que lista [Documentos fiscais emitidos](https://app.gdoorweb.com.br/relatorios/documentos-fiscais-emitidos).
+
+## Ajustes
+- Corrigido relatório "Comissão por vendedor", que apresentava valores incorretos.
 
 # 05/07/2022
 
