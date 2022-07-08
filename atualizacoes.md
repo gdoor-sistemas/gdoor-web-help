@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-08T14:30:13.022Z
+date: 2022-07-08T14:56:30.628Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -14,7 +14,15 @@ dateCreated: 2021-06-28T18:13:29.393Z
 - Adicionado relatório que lista [Documentos fiscais emitidos](https://app.gdoorweb.com.br/relatorios/documentos-fiscais-emitidos).
 
 ## Ajustes
-- Corrigido relatório "Comissão por vendedor", que apresentava valores incorretos.
+- Renomeado relatório de [Total de NF-e/NFC-e por situação](https://app.gdoorweb.com.br/relatorios/total-de-nfe-por-situacao) (anteriormente *Total de NF-e por situação*) e ajustado para não considerar o movimento de estoque. Isso porque nem todos os documentos fiscais não trasmitidos ainda não movimentaram estoque, então o vínculo não poderia ser estabelecido. O relatório agora agrupará os documentos fiscais (NF-e e NFC-e) de acordo com os filtros, independentemente de os documentos terem movimentado estoque.
+- Ajustados os relatórios a seguir para considerar documentos sem produtos (apenas serviços). As datas a serem consideradas nos filtros para esses casos será a data de saída da nota.
+  * [Movimentos (Completo)](https://app.gdoorweb.com.br/relatorios/movimentos-completo)
+  * [Movimentos NFC-e](https://app.gdoorweb.com.br/relatorios/movimentos-nfc-e)
+  * [Movimentos (Simplificado)](https://app.gdoorweb.com.br/relatorios/movimentos-simplificado)
+  * [Pagamentos NFC-e](https://app.gdoorweb.com.br/relatorios/pagamentos-nfc-e)
+  * [Total de vendas por cidade](https://app.gdoorweb.com.br/relatorios/total-de-vendas-por-cidade)
+  * [Total de vendas por UF](https://app.gdoorweb.com.br/relatorios/total-de-vendas-por-estado) (anteriormente *Total de vendas por estado*)
+  * [Total de vendas por meio de pagamento](https://app.gdoorweb.com.br/relatorios/total-de-vendas-por-meio-de-pagamento)
 
 # 05/07/2022
 
