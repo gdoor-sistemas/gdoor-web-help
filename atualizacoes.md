@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-18T18:10:56.502Z
+date: 2022-07-18T21:07:44.792Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -15,6 +15,7 @@ f2.2.1, b3.2.3 {.versions}
 - Corrigida consulta de notas canceladas na SEFAZ.
 - Ajustado layout do cadastro de veículos.
 - Ajustadas visualização, edição, impressão e importação de pedidos de venda feitos antes da última atualização.
+- Corrigido problema ao informar pagamento parcelado no PDV.
 
 # 17/07/2022
 f2.2.0, b3.2.0 {.versions}
