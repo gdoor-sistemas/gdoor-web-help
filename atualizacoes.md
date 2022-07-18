@@ -2,11 +2,30 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-08T14:58:39.109Z
+date: 2022-07-18T11:17:12.684Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 17/07/2022
+f2.1.4, b3.1.11 {.versions}
+
+## Novidades
+- Adicionado ao histórico de vendas do cliente um filtro para pesquisa por natureza da operação.
+- Criado um novo módulo para cadastro de veículos.
+- Melhorada as funcionalidades da Nota de Ajuste permitindo que sejam feitas notas com chaves de acesso de fora do GWEB, gerar ajuste sem informar chave e caso a nota tenha sido emitida no GWEB a mesma busca automaticamente os produtos.
+- Criação de migration para inserir feriados padrão de 2023 até 2099.
+- Criação de rota para listar produtos selecionáveis no GHub.
+
+## Ajustes
+- Corrigido erro de SQL durante a geração do relatório de Total de NF-e por situação.
+- Ajustado Centro de Custos para que fique salvo nas receitas/despesas.
+- Ajustada a exportação para gerar dados dos produtos com serial.
+- Ajustado as notas de compra e devolução (de entrada e saída) para que o campo "vendedor" não seja mostrado.
+- Corrigido o label de pré-venda concluída na listagem do PDV.
+- Ajustado o botão "nova transferência financeira".
+- Ocultado o acesso a MD-e quando o módulo de NF-e não está habilitado.
 
 # 08/07/2022
 
