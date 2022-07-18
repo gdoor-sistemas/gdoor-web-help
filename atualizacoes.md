@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-18T12:49:15.692Z
+date: 2022-07-18T13:08:40.872Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/07/2022
+
+## Ajustes
+f2.2.1, b3.2.1 {.versions}
+- Corrigida consulta de notas canceladas na SEFAZ.
+- Ajustado layout do cadastro de veículos.
 
 # 17/07/2022
 f2.2.0, b3.2.0 {.versions}
