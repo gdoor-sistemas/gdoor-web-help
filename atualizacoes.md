@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-18T11:17:12.684Z
+date: 2022-07-18T12:36:11.954Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -15,7 +15,7 @@ f2.1.4, b3.1.11 {.versions}
 - Adicionado ao histórico de vendas do cliente um filtro para pesquisa por natureza da operação.
 - Criado um novo módulo para cadastro de veículos.
 - Melhorada as funcionalidades da Nota de Ajuste permitindo que sejam feitas notas com chaves de acesso de fora do GWEB, gerar ajuste sem informar chave e caso a nota tenha sido emitida no GWEB a mesma busca automaticamente os produtos.
-- Criação de migration para inserir feriados padrão de 2023 até 2099.
+- Inseridos feriados padrões de 2023 até 2099.
 - Criação de rota para listar produtos selecionáveis no GHub.
 
 ## Ajustes
