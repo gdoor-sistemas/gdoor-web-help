@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-18T12:36:11.954Z
+date: 2022-07-18T12:49:15.692Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 17/07/2022
-f2.1.4, b3.1.11 {.versions}
+f2.2.0, b3.2.0 {.versions}
 
 ## Novidades
 - Adicionado ao histórico de vendas do cliente um filtro para pesquisa por natureza da operação.
