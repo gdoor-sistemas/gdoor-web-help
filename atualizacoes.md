@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-18T21:07:44.792Z
+date: 2022-07-28T11:19:03.377Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/07/2022
+f2.3.0, b3.3.0 {.versions}
+
+## Novidades
+- Criada uma configuração para a quantidade de casas decimais que são apresentadas no DANF-e. Agora é possível configurar o número de casas decimais para a quantidade e para o preço unitário dos itens.
+
+## Ajustes
+- Ajustada as operações de sangria/suprimento para clientes que não possuem o financeiro habilitado. Não estava sendo possível fazer estas transferências sem que o módulo financeiro estivesse ativo.
+- Ajustado fuso-horário do sistema para usuários que estão em um fuso diferente do America/Sao_Paulo (que é o padrão do BD). Anteriormente ao salvar algumas informações as datas de criação e atualização estavam ficando com o horário divergente do que realmente aconteceram.
+- Corrigida a duplicidade de itens na grade dos produtos. Ao alterar a quantidade de itens de uma grade, quando buscávamos o produto na venda os itens alterados estavam aparecendo duplicados na pesquisa.
 
 # 18/07/2022
 
