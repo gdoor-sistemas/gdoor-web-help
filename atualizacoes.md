@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-07-28T11:19:03.377Z
+date: 2022-08-01T19:44:42.389Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 01/08/2022
+f2.4.1, b3.4.1 {.versions}
+
+## Ajustes
+- Corrigido o número de série e número da próxima nota (NF-e/NFC-e) que estava saindo zerado e com o número 1 respectivamente.
+
+- Restaurada a exibição da Manifestação do Destinatário Eletrônica. As informações referentes ao MD-e não estavam sendo apresentados na tela.
 
 # 27/07/2022
 f2.3.0, b3.3.0 {.versions}
