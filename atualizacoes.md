@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-01T19:46:07.025Z
+date: 2022-08-04T18:10:50.713Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 04/08/2022
+f2.4.2 {.versions}
+
+## Ajustes
+- Corrigido cálculo do ICMS ST quando havia redução na base de cálculo do ICMS normal e ICMS ST.
 
 # 01/08/2022
 f2.4.1, b3.4.1 {.versions}
