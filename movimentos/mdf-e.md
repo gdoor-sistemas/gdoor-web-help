@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-10T18:02:48.049Z
+date: 2022-08-10T18:14:28.991Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -28,8 +28,8 @@ As informações mostradas variam de acordo com a situação atual e o tipo de d
 
 Para criar um MDF-e, você pode:
 
-Clicar no botão de adição () no canto direito inferior da tela inicial do pedido de venda;
-Clicar no botão de adição () no painel lateral do pedido de venda, ao lado do acesso à lista.
+Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do pedido de venda;
+Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do pedido de venda, ao lado do acesso à lista.
 Todas as opções acima estão indicadas na imagem abaixo:
 
 ## Buscar
