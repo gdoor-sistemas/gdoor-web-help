@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-10T18:21:21.596Z
+date: 2022-08-11T19:43:21.064Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -16,21 +16,25 @@ O módulo é destinado a micro e pequenas empresas de comércio, as quais possue
 
 ![Visão geral](/movimentos/mdf-e/1_visao_geral.png)
 
+# Novo MDF-e
+
+Para criar um MDF-e, você pode:
+
+Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
+Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
+Todas as opções acima estão indicadas na imagem abaixo:
+
+![Novo MDF-e](/movimentos/mdf-e/novo.png)
+
 # Lista
 
 Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma busca ou filtrar informações para visualizar apenas dados pertinentes ao que você precisa.
 
-Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas < >.
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas < >.
+{.is-info}
 
-As informações mostradas variam de acordo com a situação atual e o tipo de documento exibido na lista do PDV, veja mais detalhes abaixo:
+As informações mostradas variam de acordo com a situação atual do documento exibido na lista, veja mais detalhes abaixo:
 
-## Novo MDF-e
-
-Para criar um MDF-e, você pode:
-
-Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do pedido de venda;
-Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do pedido de venda, ao lado do acesso à lista.
-Todas as opções acima estão indicadas na imagem abaixo:
 
 ## Buscar
 
