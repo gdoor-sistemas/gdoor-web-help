@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-11T20:05:23.738Z
+date: 2022-08-12T12:07:33.954Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -20,8 +20,9 @@ O módulo é destinado a micro e pequenas empresas de comércio, as quais possue
 
 Para criar um MDF-e, você pode:
 
-Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
-Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
+
 Todas as opções acima estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
@@ -48,6 +49,23 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 ## Filtrar
 
 Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+
+![Filtrar](/movimentos/mdf-e/filtrar.png)
+
+No painel de filtros destacado na imagem acima temos:
+
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
+
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+![Opções filtros](/movimentos/mdf-e/mais_opções_filtros.png)
+
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**: 
+![filtro aplicado](/movimentos/mdf-e/filtro-aplicado.png)
+{.is-success .gw .gw-tip}
 
 
 # Configurações
