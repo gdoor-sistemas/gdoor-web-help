@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-15T19:57:16.435Z
+date: 2022-08-15T20:11:49.627Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -29,7 +29,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 # Lista
 
-Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma busca ou filtrar informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
 {.is-info}
