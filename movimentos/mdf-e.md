@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-12T20:18:55.593Z
+date: 2022-08-15T14:27:30.423Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -35,6 +35,14 @@ Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma busca ou filtra
 {.is-info}
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista, veja mais detalhes abaixo:
+
+### MDF-e pendente{.subtitle}
+
+
+### MDF-e rejeição{.subtitle}
+
+
+### Autorizado o uso do MDF-e{.subtitle}
 
 
 
