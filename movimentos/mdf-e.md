@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-15T20:11:49.627Z
+date: 2022-08-15T20:18:36.187Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -97,9 +97,33 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 ## Filtrar
 
-Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
 ![Filtrar](/movimentos/mdf-e/filtrar.png)
+
+As opções de filtro são:
+
+- **Status**;
+- **Data inicial**;
+- **Data final**;
+- **Veículo tração**;
+- **Veículo reboque**;
+- **Ambiente de emissão**;
+- **UF de início**;
+- **Cidade de término**;
+- **Tipo de carga**;
+- **Condutor**;
+- **Contratante/tomador**.
+
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
+
+
+
+
+
+
+
+
 
 No painel de filtros destacado na imagem acima temos:
 
@@ -116,19 +140,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 ![filtro aplicado](/movimentos/mdf-e/filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
-As opções de filtro são as seguintes:
 
-- **Status**;
-- **Data inicial**;
-- **Data final**;
-- **Veículo tração**;
-- **Veículo reboque**;
-- **Ambiente de emissão**;
-- **UF de início**;
-- **Cidade de término**;
-- **Tipo de carga**;
-- **Condutor**;
-- **Contratante/tomador**.
 
 # Configurações
 
