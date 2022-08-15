@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-15T19:43:39.144Z
+date: 2022-08-15T19:45:47.511Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -52,12 +52,19 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-file-cancel-outline"></em> encerrar**, **<em class="mdi mdi-cancel"></em> cancelar**, **<em class="mdi mdi-file-pdf"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-xml"></em> visualizar XML**.
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-file-cancel-outline"></em> encerrar**, **<em class="mdi mdi-cancel"></em> cancelar**, **<em class="mdi mdi-file-pdf"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-xml"></em> visualizar XML**.
 
 ![Autorizado o uso do MDF-e](/movimentos/mdf-e/autorizado_o_uso.png)
 
 ### MDF-e encerrado
 
+Nesta etapa as edições não são permitidas.
+
+Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
+
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-pdf"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-xml"></em> visualizar XML**.
+
+![MDF-e encerrado](/movimentos/mdf-e/encerrado.png)
 
 ### MDF-e rejeição
 
