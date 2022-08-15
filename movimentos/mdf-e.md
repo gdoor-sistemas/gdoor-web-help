@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-15T14:27:30.423Z
+date: 2022-08-15T19:37:19.565Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -31,18 +31,35 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma busca ou filtrar informações para visualizar apenas dados pertinentes ao que você precisa.
 
-> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas < >.
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
 {.is-info}
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista, veja mais detalhes abaixo:
 
-### MDF-e pendente{.subtitle}
+### MDF-e pendente
+
+Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>)
+
+Note que enquanto o MDF-e estiver **pendente** será possível **editá-lo**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar MDF-e**".
+
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DAMDF-e**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
+
+![pendente.png](/movimentos/mdf-e/pendente.png)
 
 
-### MDF-e rejeição{.subtitle}
+### Autorizado o uso do MDF-e
 
 
-### Autorizado o uso do MDF-e{.subtitle}
+### MDF-e encerrado
+
+
+### MDF-e rejeição
+
+
+### MDF-e cancelado
+
+
+
 
 
 
