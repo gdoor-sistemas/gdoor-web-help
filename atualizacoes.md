@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-04T18:10:50.713Z
+date: 2022-08-16T15:06:37.019Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/08/2022
+f2.5.1, b3.4.5 {.versions}
+
+## Novidades
+- Implementado o cálculo automático do preço de venda ao informar a margem de lucro/preço de custo. Agora, ao alterar a margem de lucro o sistema automaticamente ajustará o preço de venda em relação ao preço de custo. Também, ao alterar diretamente o campo de preço de venda ou preço de custo, o sistema ajustará a margem de lucro para a correspondente.
+
+## Ajustes
+- Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo de permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no xml.
+- Ajustado vínculo do produto ao importar xml. Ao realizar uma compra e vincular um item a um produto já existente, mesmo que o vínculo tenha sido removido o item continuava apresentando o nome do produto a que foi vinculado.
+- Corrigida a emissão de PV e NFC-e de produtos com número de série. Não estava sendo possível as realizar vendas pois a quantidade e valor unitários estavam ficando zerados.
 
 # 04/08/2022
 f2.4.2 {.versions}
