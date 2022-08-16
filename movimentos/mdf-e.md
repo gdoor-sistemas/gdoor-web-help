@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T19:25:00.435Z
+date: 2022-08-16T19:32:56.267Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -64,11 +64,18 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 
 ## Aba documentos
 
+- **Documentos transportados**: informe as chaves dos documentos transportados (campo obrigatório);
+- **Outras informações**: informações adicionais e de interesse do Fisco.
+
 ![Documentos](/movimentos/mdf-e/aba_documentos.png)
 
 ## Aba seguro
 
+- Seguro: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
+
 ![Seguro](/movimentos/mdf-e/aba_seguro.png)
+
+Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mdi "> salvar</span> o MDF-e.
 
 # Lista
 
