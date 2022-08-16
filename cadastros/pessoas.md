@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-08-16T18:48:06.274Z
+date: 2022-08-16T19:06:06.683Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -66,7 +66,7 @@ O formulário de cadastro será exibido quando você for **criar** ou **atualiza
 
 Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
 
-![quadro_identificaçãooo.png](/cadastros/pessoas/quadro_identificaçãooo.png)
+![Quadro identificação](/cadastros/pessoas/quadro_identificaçãooo.png)
 
 #### Atributos
 
@@ -74,7 +74,7 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 
 ![Atributos](/cadastros/pessoas/atributoos.png)
 
-- **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/pdv) e [pedido de venda](/movimentos/pedidodevenda);
+- **Cliente**: Indica que a pessoa pode ser referenciada nas movimentações;
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
 - **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
