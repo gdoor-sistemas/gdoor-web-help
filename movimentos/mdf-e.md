@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T19:19:03.988Z
+date: 2022-08-16T19:25:00.435Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -31,7 +31,7 @@ Também é possível gerar um MDF-e a partir da NF-e:
 
 
 
-A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro). 
+A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
 ## Aba geral
