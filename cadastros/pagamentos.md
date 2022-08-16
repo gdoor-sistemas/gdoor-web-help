@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2022-03-14T20:17:38.671Z
+date: 2022-08-16T18:46:02.443Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:30:35.400Z
 
 # Introdução
 
-Cadastro de meios de pagamento para utilização nas vendas.
+Este módulo permite que você cadastre os de meios de pagamento para utilização nas vendas.
 
 # Nova forma de pagamento
 
