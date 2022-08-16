@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T13:28:33.042Z
+date: 2022-08-16T13:43:34.457Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -150,7 +150,23 @@ Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] 
 
 Nesta seção você configura dados para a geração do MDF-e. Abaixo, veja detalhes de cada configuração.
 
-![Ambiente](/movimentos/mdf-e/ambiente.png)
+![Ambiente do MDF-e](/movimentos/mdf-e/ambiente.png)
+
+Série do MDF-e{.subtitle}
+
+Série de emissão do MDF-e. Esta informação pode ser obtida com sua contabilidade.
+
+Ambiente de emissão{.subtitle}
+
+Aqui você determina se os MDF-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, os MDF-e transmitidos terão valor fiscal.
+
+Nº do próximo MDF-e{.subtitle}
+
+Apenas informe um número neste campo se sua empresa já emitia MDF-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, o próximo MDF-e será gerado com esse número e os subsequentes terão o número sequencial.
+
+Forma de emissão{.subtitle}
+
+Neste campo você pode configurar a forma de emissão do MDF-e.
 
 
 
