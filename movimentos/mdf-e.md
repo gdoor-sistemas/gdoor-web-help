@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T12:54:18.290Z
+date: 2022-08-16T13:28:33.042Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -145,6 +145,12 @@ Nesta seção, você adiciona o [certificado digital](/glossario#certificado-dig
 Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
 ![Certificado digital](/movimentos/mdf-e/certificado_digital.png)
+
+## Ambiente do MDF-e
+
+Nesta seção você configura dados para a geração do MDF-e. Abaixo, veja detalhes de cada configuração.
+
+![Ambiente](/movimentos/mdf-e/ambiente.png)
 
 
 
