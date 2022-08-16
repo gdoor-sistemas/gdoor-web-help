@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-03-17T12:04:19.581Z
+date: 2022-08-16T18:44:14.207Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **clientes**, **fornecedores**, **transportadoras**, **vendedores** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
 ## Lista
 
@@ -66,18 +66,19 @@ O formulário de cadastro será exibido quando você for **criar** ou **atualiza
 
 Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
 
-![quadro_identificação.png](/cadastros/pessoas/quadro_identificação.png)
+![quadro_identificaçãooo.png](/cadastros/pessoas/quadro_identificaçãooo.png)
 
 #### Atributos
 
 Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
-![Atributos](/cadastros/pessoas/atributos.png)
+![Atributos](/cadastros/pessoas/atributoos.png)
 
 - **Cliente**: Indica que a pessoa pode ser referenciada nas [NF-e](/movimentos/nf-e), [NFC-e](/movimentos/pdv) e [pedido de venda](/movimentos/pedidodevenda);
 - **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
-- **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [Vendedor](#vendedor);
-- **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação. Habilita o quadro [Veículos](#veiculos).
+- **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
+- **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
+- **Condutor**: Indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação.
 - **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [Intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
@@ -89,12 +90,12 @@ Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa sej
 Você também identifica a pessoa como **física** ou **jurídica**, ou seja, uma pessoa real ou uma empresa, respectivamente. Se preferir, no caso de pessoa física, especifique o **gênero**. 
 Também é possível inativar um cadastro desmarcando a caixa **Ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
 
-> Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [Imagens](/cadastros/comum/imagens).
+> Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
 
 ### Vendedor
 
-Este quadro será exibido quando o [atributo](#atributos) **Vendedor** estiver marcado. 
+Este quadro será exibido quando o [atributo](#atributos) **vendedor** estiver marcado. 
 
 - **Comissão à vista**: Percentual de comissão para vendas à vista;
 - **Percentual máx. desconto**: Máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
@@ -149,3 +150,4 @@ Para editar as informações de um veículo, altere nos campos exibidos na lista
 Campo livre para preenchimento de informações adicionais.
 
 ![Quadro observações](/cadastros/pessoas/observacoes.png)
+
