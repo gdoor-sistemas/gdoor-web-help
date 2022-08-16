@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-08-16T12:47:19.881Z
+date: 2022-08-16T12:53:59.963Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -502,7 +502,8 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 ## Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Na imagem abaixo você vê as 3 aparências desta seção. Primeiro, você seleciona o arquivo do certificado digital A1. Depois informa a senha do certificado. Por fim, depois de enviar o arquivo, será exibido o nome da empresa para quem o certificado foi emitido e a data de validade, apenas para consulta. Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
+Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> salvar</span>.
+Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
 ![configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
 
