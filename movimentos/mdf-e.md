@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T16:43:17.332Z
+date: 2022-08-16T18:29:30.502Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -27,6 +27,10 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
 
+Também é possível gerar um MDF-e a partir da NF-e:
+
+
+
 A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro). 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
@@ -35,9 +39,11 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 - **UF**: do início do carregamento;
 - **Município**: do término do transporte;
 - **Início da viagem**: data e horário de partida;
-
-
-
+- **Unidade de medida**: peso bruto da carga KG ou TON;
+- **Peso bruto**: total da carga;
+- **Valor total**: da mercadoria/carga transportada;
+- **UF de percurso**: informe as UF a serem percorridas por ordem de passagem;
+- **Municípios de carregamento**: informe os municípios de carregamento por ordem de passagem.
 
 ![Geral](/movimentos/mdf-e/aba_geral.png)
 
