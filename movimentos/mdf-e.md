@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T14:00:44.734Z
+date: 2022-08-16T14:09:47.146Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -26,6 +26,15 @@ Para criar um MDF-e, você pode:
 Todas as opções acima estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
+
+## Aba geral
+
+## Aba modal rodoviário
+
+## Aba documentos
+
+## Aba seguro
+
 
 # Lista
 
