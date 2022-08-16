@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-16T17:19:16.076Z
+date: 2022-08-16T17:19:24.135Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 16/08/2022
-f2.5.1, b3.4.5 {.versions}
+f2.5.1, b3.4.6 {.versions}
 
 ## Novidades
 - Implementado o cálculo automático do preço de venda ao informar a margem de lucro/preço de custo. Agora, ao alterar a margem de lucro o sistema automaticamente ajustará o preço de venda em relação ao preço de custo. Também, ao alterar diretamente o campo de preço de venda ou preço de custo, o sistema ajustará a margem de lucro para a correspondente.
