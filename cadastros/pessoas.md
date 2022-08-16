@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-08-16T18:44:14.207Z
+date: 2022-08-16T18:48:06.274Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -132,18 +132,6 @@ Você pode informar três telefones no cadastro principal (**telefone**, **celul
 Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique em <span class=mat-button>Adicionar e-mail</span> e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*E-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão Remover (![Remover](/comum/remove.png){.inline}), ao lado do e-mail.
 
 ![Quadro Endereços eletrônicos](/cadastros/pessoas/enderecos-eletronicos.png)
-
-### Veículos{#veiculos}
-
-Este quadro será exibido quando o [atributo](#atributos) **Transportador** estiver marcado. Permite informar os veículos que o transportador usa. O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar os veículos.
-
-![Quadro veículos](/cadastros/pessoas/campos-transportador.png)
-
-Clique no botão <span class=mat-button>Adicionar veículo</span> para abrir o diálogo de adição de veículo:
-
-![Diálogo para adicionar veículo](/cadastros/pessoas/adicionar-veiculo.png)
-
-Para editar as informações de um veículo, altere nos campos exibidos na lista mesmo. Para remover um veículo, clique no botão ao lado da descrição (![Remover](/comum/remove.png){.inline}).
 
 ### Observações
 
