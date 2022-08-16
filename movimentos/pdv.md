@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-08-15T17:04:39.589Z
+date: 2022-08-16T12:47:19.881Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -394,7 +394,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado, você verá o botão de filtro laranjado:
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**:
 ![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
 {.is-success}
 
@@ -502,7 +502,7 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 ## Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Na imagem acima você vê as 3 aparências desta seção. Primeiro, você seleciona o arquivo do certificado digital A1. Depois informa a senha do certificado. Por fim, depois de enviar o arquivo, será exibido o nome da empresa para quem o certificado foi emitido e a data de validade, apenas para consulta. Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
+Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Na imagem abaixo você vê as 3 aparências desta seção. Primeiro, você seleciona o arquivo do certificado digital A1. Depois informa a senha do certificado. Por fim, depois de enviar o arquivo, será exibido o nome da empresa para quem o certificado foi emitido e a data de validade, apenas para consulta. Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
 ![configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
 
