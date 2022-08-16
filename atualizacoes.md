@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-16T16:41:41.229Z
+date: 2022-08-16T17:19:16.076Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,6 +13,7 @@ f2.5.1, b3.4.5 {.versions}
 
 ## Novidades
 - Implementado o cálculo automático do preço de venda ao informar a margem de lucro/preço de custo. Agora, ao alterar a margem de lucro o sistema automaticamente ajustará o preço de venda em relação ao preço de custo. Também, ao alterar diretamente o campo de preço de venda ou preço de custo, o sistema ajustará a margem de lucro para a correspondente.
+- Ajustada verificação de estoque para produtos controlados por número de série. A verificação era feita em alguns casos para produtos não controlados por número de série.
 
 ## Ajustes
 - Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo de permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no XML.
