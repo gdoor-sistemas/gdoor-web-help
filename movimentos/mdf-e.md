@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T13:46:47.752Z
+date: 2022-08-16T14:00:32.960Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -176,7 +176,25 @@ Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a f
 
 Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
 
+## Impressão do DAMDFe
 
+Nesta seção você configura detalhes sobre a impressão do DAMDFe. 
+
+![Impressão do DAMDFe](/movimentos/mdf-e/impressao.png)
+
+Veja o que pode ser alterado:
+
+Orientação{.subtitle}
+
+Orientação para impressão do MDF-e em modo **retrato** ou **paisagem**.
+
+Fonte{.subtitle}
+
+Estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial** (sem serifa) e **Courier** (monoespaçada).
+
+Posição da logomarca{.subtitle}
+
+Define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
 
 
