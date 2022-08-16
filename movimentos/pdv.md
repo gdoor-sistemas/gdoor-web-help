@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-08-16T12:53:59.963Z
+date: 2022-08-16T13:41:44.322Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -523,7 +523,7 @@ Aqui você determina se as suas NFC-e terão validade fiscal ou não. O ambiente
 
 Nº da próxima NFC-e{.subtitle}
 
-Apenas informe um valor neste campo se sua empresa já emitia NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. O próximo número disponível não fica gravado neste campo, ele serve apenas para informar um ponto de partida para o sistema.
+Apenas informe um número neste campo se sua empresa já emitia NFC-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFC-e será gerada com esse número e as subsequentes terão o número sequencial. 
 
 Forma de emissão{.subtitle}
 
