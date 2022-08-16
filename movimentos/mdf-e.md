@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T19:32:56.267Z
+date: 2022-08-16T20:04:34.587Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -27,9 +27,9 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
 
-Também é possível gerar um MDF-e a partir da NF-e:
+Também é possível gerar um MDF-e a partir da **NF-e**, desta forma, todas as informações contidas na NF-e serão importadas para o MDF-e:
 
-
+![nf-e.gif](/movimentos/mdf-e/nf-e.gif)
 
 A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
@@ -71,9 +71,10 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 
 ## Aba seguro
 
-- Seguro: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
+- **Seguro**: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
 
 ![Seguro](/movimentos/mdf-e/aba_seguro.png)
+
 
 Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mdi "> salvar</span> o MDF-e.
 
