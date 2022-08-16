@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T14:29:29.434Z
+date: 2022-08-16T14:35:27.651Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -31,6 +31,10 @@ A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/mov
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
 ## Aba geral
+
+- **UF**: do início do carregamento;
+- Município: do término do transporte;
+- Início da viagem: data e horário de partida;
 
 
 
