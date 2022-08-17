@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-17T10:58:49.453Z
+date: 2022-08-17T13:51:53.365Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,7 +23,7 @@ f2.5.1, b3.4.6 {.versions}
 - Ajustada verificação de estoque para produtos controlados por número de série. A verificação era feita em alguns casos para produtos não controlados por número de série.
 
 ## Ajustes
-- Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo de permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no XML.
+- Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no XML.
 - Ajustado vínculo do produto ao importar XML. Ao cadastrar uma compra e vincular um item a um produto já existente, mesmo que o vínculo tenha sido removido, o item continuava apresentando o nome do produto ao qual foi vinculado.
 - Corrigida a emissão de pré-venda e NFC-e de produtos com número de série. Não era possível realizar vendas pois a quantidade e valor unitários estavam ficando zerados.
 
