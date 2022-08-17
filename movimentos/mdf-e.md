@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
 published: true
-date: 2022-08-16T20:04:34.587Z
+date: 2022-08-17T11:14:06.946Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -52,7 +52,7 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 - **Veículo**: [veículo](https://help.gdoorweb.com.br/pt-br/cadastros/veiculos) principal da operação (campo obrigatório);
 - **Tipo da carga**: selecione entre as opções disponíveis (campo obrigatório);
 - **CEP carregamento**: onde foi carregado o MDF-e;
-- **CEP descarregamento**: onde foi descarregado o MDF-e;
+- **CEP descarregamento**: onde será descarregado o MDF-e;
 - **Descrição do produto**: predominante na carga (campo obrigatório);
 - **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
 - **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
