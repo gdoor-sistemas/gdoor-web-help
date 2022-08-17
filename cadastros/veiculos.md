@@ -2,7 +2,7 @@
 title: Cadastro de veículos
 description: Veja detalhes do cadastro de veículos no Gweb
 published: true
-date: 2022-08-17T13:26:10.107Z
+date: 2022-08-17T18:42:28.421Z
 tags: cadastros, veiculos
 editor: markdown
 dateCreated: 2022-08-15T11:29:38.811Z
@@ -22,15 +22,42 @@ Para cadastrar um veículo, você pode:
 
 ![Veículos](/cadastros/veículos/veiculos.png)
 
-## Lista
+A tela para "**novo cadastro**" será aberta:
 
+![Novo cadastro vecículo](/cadastros/veículos/novo_cadastro.png)
 
-![lista.png](/cadastros/veículos/lista.png)
+## Identificação
 
-## Editar
+- **Descrição**:
+- **Placa**:
+- **RNTRC**:
+- **UF**:
+- **Renavam**:
+- <em class="mdi mdi-checkbox-blank-outline"></em> **Reboque**:
 
-![editar_veiculo.png](/cadastros/veículos/editar_veiculo.png)
+## Proprietário
 
-## Buscar
+- **Proprietário**:
 
-![buscar.png](/cadastros/veículos/buscar.png)
+## Informações do veículo
+
+- **Tara (kg)**:
+- **Capacidade (kg)**:
+- **Capacidade (m³)**:
+- **Tipo de rodado**:
+- **Tipo de carroceria**:
+- **Quantidade de eixos**:
+
+# Lista
+
+Na lista, você visualiza os veículos cadastrados, na parte superior da tela há um quadro com um campo para busca e à direita, o botão para atualizar a lista.
+
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas "**< >**".
+{.is-info}
+
+![Lista](/cadastros/veículos/lista.png)
+
+## Editar cadastro
+
+![Editar cadastro veículo](/cadastros/veículos/editar_veiculo.png)
+
