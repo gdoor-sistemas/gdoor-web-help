@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-16T17:19:24.135Z
+date: 2022-08-17T10:58:49.453Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 17/08/2022
+f2.5.1, b3.4.6 {.versions} 
+
+## Novidades
+
+- Adicionada a funcionalidade de Manifesto Eletrônico de Documentos Fiscais (MDF-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/mdf-e) (módulo habilitável à parte).
 
 # 16/08/2022
 f2.5.1, b3.4.6 {.versions}
@@ -18,7 +25,7 @@ f2.5.1, b3.4.6 {.versions}
 ## Ajustes
 - Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo de permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no XML.
 - Ajustado vínculo do produto ao importar XML. Ao cadastrar uma compra e vincular um item a um produto já existente, mesmo que o vínculo tenha sido removido, o item continuava apresentando o nome do produto ao qual foi vinculado.
-- Corrigida a emissão de pré-venda e NFC-e de produtos com número de série. Não era possível as realizar vendas pois a quantidade e valor unitários estavam ficando zerados.
+- Corrigida a emissão de pré-venda e NFC-e de produtos com número de série. Não era possível realizar vendas pois a quantidade e valor unitários estavam ficando zerados.
 
 # 04/08/2022
 f2.4.2 {.versions}
