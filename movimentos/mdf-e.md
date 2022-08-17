@@ -1,8 +1,8 @@
 ---
 title: MDF-e
-description: Veja como gerar o Manifesto eletrônico de Documentos Fiscais no Gweb
+description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-08-17T13:05:52.119Z
+date: 2022-08-17T13:28:02.984Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
