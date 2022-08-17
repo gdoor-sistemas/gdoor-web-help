@@ -2,7 +2,7 @@
 title: Cadastro de veículos
 description: Veja detalhes do cadastro de veículos no Gweb
 published: true
-date: 2022-08-16T18:48:55.867Z
+date: 2022-08-17T12:31:30.508Z
 tags: cadastros, veiculos
 editor: markdown
 dateCreated: 2022-08-15T11:29:38.811Z
@@ -10,11 +10,13 @@ dateCreated: 2022-08-15T11:29:38.811Z
 
 # Introdução
 
-Este módulo permite que você cadastre veículos utilizados para transporte.
+Este módulo permite que você cadastre veículos utilizados no transporte de mercadorias.
+
+O cadastro facilita o lançamento dos veículos nos documentos onde é possível informar o transporte, como a [NF-e](/movimentos/nf-e).
 
 # Novo veículo
 
-O cadastro dos veículos facilita o lançamento dessa informação nos documentos como a [NF-e](/movimentos/nf-e), onde é possível informar os veículos.
+
 
 ![Quadro veículos](/cadastros/pessoas/campos-transportador.png)
 
