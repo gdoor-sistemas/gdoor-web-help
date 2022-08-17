@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-08-17T13:28:02.984Z
+date: 2022-08-17T17:50:08.765Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -42,8 +42,8 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 - **Unidade de medida**: peso bruto da carga KG ou TON (campo obrigatório);
 - **Peso bruto**: total da carga;
 - **Valor total**: da mercadoria/carga transportada;
-- **UF de percurso**: informe as UF a serem percorridas por ordem de passagem;
-- **Municípios de carregamento**: informe os municípios de carregamento por ordem de passagem.
+- **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
+- **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
 ![Geral](/movimentos/mdf-e/aba_geral.png)
 
