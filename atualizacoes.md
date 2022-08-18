@@ -2,17 +2,24 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-18T17:33:16.324Z
+date: 2022-08-18T17:58:52.882Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
+# 18/08/2022
+f2.5.2, b3.4.7 {.versions} 
+
+## Ajustes
+- Removida a obrigatoriedade do RNTRC para a emissão do MDF-e, exceto quando o emitente for empresa de transporte. Neste caso a tag ANTT não vai ser preenchido no XML.
+- Ajustado título incorreto na tela de edição de formas de pagamento.
+
+
 # 17/08/2022
 f2.5.1, b3.4.6 {.versions} 
 
 ## Novidades
-
 - Adicionada a funcionalidade de Manifesto Eletrônico de Documentos Fiscais (MDF-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/mdf-e) (módulo habilitável à parte).
 
 # 16/08/2022
@@ -20,12 +27,12 @@ f2.5.0, f2.5.1, b3.4.6 {.versions}
 
 ## Novidades
 - Implementado o cálculo automático do preço de venda ao informar a margem de lucro/preço de custo. Agora, ao alterar a margem de lucro o sistema automaticamente ajustará o preço de venda em relação ao preço de custo. Também, ao alterar diretamente o campo de preço de venda ou preço de custo, o sistema ajustará a margem de lucro para a correspondente.
-- Ajustada verificação de estoque para produtos controlados por número de série. A verificação era feita em alguns casos para produtos não controlados por número de série.
 
 ## Ajustes
 - Padronizado o campo de "Informações adicionais de interesse do Fisco" para aceitar 2000 caracteres. Anteriormente este campo permitia a digitação de 5000 caracteres quando deveria aceitar 2000, gerando uma falha de validação no XML.
 - Ajustado vínculo do produto ao importar XML. Ao cadastrar uma compra e vincular um item a um produto já existente, mesmo que o vínculo tenha sido removido, o item continuava apresentando o nome do produto ao qual foi vinculado.
 - Corrigida a emissão de pré-venda e NFC-e de produtos com número de série. Não era possível realizar vendas pois a quantidade e valor unitários estavam ficando zerados.
+- Ajustada verificação de estoque para produtos controlados por número de série. A verificação era feita em alguns casos para produtos não controlados por número de série.
 
 # 04/08/2022
 f2.4.2 {.versions}
