@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-17T13:51:53.365Z
+date: 2022-08-18T17:33:16.324Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -16,7 +16,7 @@ f2.5.1, b3.4.6 {.versions}
 - Adicionada a funcionalidade de Manifesto Eletrônico de Documentos Fiscais (MDF-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/mdf-e) (módulo habilitável à parte).
 
 # 16/08/2022
-f2.5.1, b3.4.6 {.versions}
+f2.5.0, f2.5.1, b3.4.6 {.versions}
 
 ## Novidades
 - Implementado o cálculo automático do preço de venda ao informar a margem de lucro/preço de custo. Agora, ao alterar a margem de lucro o sistema automaticamente ajustará o preço de venda em relação ao preço de custo. Também, ao alterar diretamente o campo de preço de venda ou preço de custo, o sistema ajustará a margem de lucro para a correspondente.
