@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-18T17:58:52.882Z
+date: 2022-08-19T12:06:20.460Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 19/08/2022
+f2.5.2, b3.4.8 {.versions} 
+
+## Ajustes
+- Ajustado ambiente de transmissão do MDF-e, para que respeite as configurações do módulo.
+
 
 # 18/08/2022
 f2.5.2, b3.4.7 {.versions} 
