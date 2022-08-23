@@ -2,14 +2,14 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-23T19:49:35.377Z
+date: 2022-08-23T19:49:44.860Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 23/08/2022
-b3.4.8 {.versions} 
+b3.4.9 {.versions} 
 
 ## Ajustes
 - Ajustado xml do MDFe quando proprietário do veículo é Pessoa Física.
