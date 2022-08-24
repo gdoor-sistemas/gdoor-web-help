@@ -2,7 +2,7 @@
 title: Cadastro de veículos
 description: Veja detalhes do cadastro de veículos no Gweb
 published: true
-date: 2022-08-24T12:12:48.612Z
+date: 2022-08-24T12:14:42.190Z
 tags: cadastros, veiculos
 editor: markdown
 dateCreated: 2022-08-15T11:29:38.811Z
@@ -47,6 +47,8 @@ A tela para "**novo cadastro**" será aberta para inclusão das informações:
 - **Tipo de rodado**
 - **Tipo de carroceria**
 - **Quantidade de eixos**
+
+Após informar os dados clique em <span class=mat-button>salvar</span>.
 
 # Lista
 
