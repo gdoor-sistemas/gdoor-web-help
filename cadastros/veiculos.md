@@ -2,7 +2,7 @@
 title: Cadastro de veículos
 description: Veja detalhes do cadastro de veículos no Gweb
 published: true
-date: 2022-08-24T12:10:35.669Z
+date: 2022-08-24T12:12:48.612Z
 tags: cadastros, veiculos
 editor: markdown
 dateCreated: 2022-08-15T11:29:38.811Z
@@ -62,4 +62,3 @@ Na lista, você visualiza os veículos cadastrados, na parte superior da tela h�
 Na lista, ao clicar ou passar o mouse sobre um cadastro, é possível (<em class="mdi mdi-pencil"></em>) "**editar cadastro**" e **<em class="mdi mdi-delete"></em> "**excluir cadastro**".
 
 ![Editar cadastro veículo](/cadastros/veículos/editar_veiculo.png)
-
