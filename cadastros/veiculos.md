@@ -2,7 +2,7 @@
 title: Cadastro de veículos
 description: Veja detalhes do cadastro de veículos no Gweb
 published: true
-date: 2022-08-24T11:25:37.296Z
+date: 2022-08-24T12:10:35.669Z
 tags: cadastros, veiculos
 editor: markdown
 dateCreated: 2022-08-15T11:29:38.811Z
@@ -22,31 +22,31 @@ Para cadastrar um veículo, você pode:
 
 ![Veículos](/cadastros/veículos/veiculos.png)
 
-A tela para "**novo cadastro**" será aberta:
+A tela para "**novo cadastro**" será aberta para inclusão das informações:
 
 ![Novo cadastro vecículo](/cadastros/veículos/novo_cadastro.png)
 
 ## Identificação
 
-- **Descrição**:
-- **Placa**:
-- **RNTRC**:
-- **UF**:
-- **Renavam**:
-- <em class="mdi mdi-checkbox-blank-outline"></em> **Reboque**:
+- **Descrição**
+- **Placa**
+- **RNTRC**
+- **UF**
+- **Renavam**
+- <em class="mdi mdi-checkbox-blank-outline"></em> **Reboque**
 
 ## Proprietário
 
-- **Proprietário**:
+- **Proprietário**
 
 ## Informações do veículo
 
-- **Tara (kg)**:
-- **Capacidade (kg)**:
-- **Capacidade (m³)**:
-- **Tipo de rodado**:
-- **Tipo de carroceria**:
-- **Quantidade de eixos**:
+- **Tara (kg)**
+- **Capacidade (kg)**
+- **Capacidade (m³)**
+- **Tipo de rodado**
+- **Tipo de carroceria**
+- **Quantidade de eixos**
 
 # Lista
 
@@ -58,6 +58,8 @@ Na lista, você visualiza os veículos cadastrados, na parte superior da tela h�
 ![Lista](/cadastros/veículos/lista.png)
 
 ## Editar cadastro
+
+Na lista, ao clicar ou passar o mouse sobre um cadastro, é possível (<em class="mdi mdi-pencil"></em>) "**editar cadastro**" e **<em class="mdi mdi-delete"></em> "**excluir cadastro**".
 
 ![Editar cadastro veículo](/cadastros/veículos/editar_veiculo.png)
 
