@@ -2,11 +2,33 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-08-23T19:49:44.860Z
+date: 2022-09-08T11:49:49.636Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 07/09/2022
+f2.6.0, b3.5.0 {.versions}
+
+## Novidades
+- Adicionado o relatório de Romaneio de carga. Ao acessar o módulo MDF-e foi criada uma opção para acessar os relatórios do MDF-e.
+- Adicionada opção de encerrar MDF-e emitido em outros sistemas.
+- Criado evento de inclusão de condutores após emissão do MDF-e. 
+- Adicionada opção para selecionar múltiplas NF-e para gerar o MDF-e.
+- Criada configuração para incluir na impressão da pré-venda dados do cliente, número de série do produto e informações adicionais da venda e do produto.
+- Incluída a opção de informar endereço de entrega nas vendas.
+- Criado suporte para integrações via Ghub.
+- Incluído o cadastro para endereço de entrega e cobrança.
+
+## Ajustes
+- Ajustada Nota Complementar para que seja possível informar o CFOP em notas que não foram emitidas no Gweb. Anteriormente para estas notas estava sendo utilizado um CFOP padrão, não permitindo a edição.
+- Ajustada a emissão de pedidos para que não permita produtos com o mesmo número de série. Ao criar um pedido com produtos com número de série e informar o mesmo para mais de um produto o sistema estava deixando salvar o pedido sem mostrar a duplicidade nas séries.
+- Corrigido campos do MDF-e que exibiam o código identificador no lugar da descrição ao consultar.
+- Ajustada a geração do XML para reboque quando o proprietário é pessoa física.
+- Aumentado valor máximo para o campo lucro bruto. Agora é permitido um valor de até 99.999,99 %.
+- Adicionado botão para transmitir e encerrar MDF-e em lote. Devido a um problema esta opção não estava sendo exibida.
+- Corrigidas divergências na edição de veículos. Haviam inconsistências no cadastro de veículos dependendo de onde este era realizado.
 
 # 23/08/2022
 b3.4.9 {.versions} 
