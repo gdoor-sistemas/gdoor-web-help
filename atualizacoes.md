@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-08T11:49:49.636Z
+date: 2022-09-08T15:31:19.751Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/09/2022
+b3.5.1 {.versions}
+
+## Ajustes
+- Corrige falha ao salvar endereços sem o município informado.
 
 # 07/09/2022
 f2.6.0, b3.5.0 {.versions}
