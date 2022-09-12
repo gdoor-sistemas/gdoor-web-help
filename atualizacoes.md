@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-12T11:08:16.833Z
+date: 2022-09-12T13:04:46.741Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,6 +13,7 @@ f2.6.1, b3.5.2 {.versions}
 
 ## Ajustes
 - Ajustada falha  ao informar uma chave de acesso manualmente no MDF-e.
+- Ajustada numeração do MDF-e ao excluir. Anteriormente quando um MDF-e era excluído a numeração em questão não estava mais sendo usada, passando assim para o próximo número.
 
 # 08/09/2022
 b3.5.1 {.versions}
