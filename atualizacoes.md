@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-08T15:32:43.026Z
+date: 2022-09-12T11:08:16.833Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 10/09/2022
+f2.6.1, b3.5.2 {.versions}
+
+## Ajustes
+- Ajustada falha  ao informar uma chave de acesso manualmente no MDF-e.
 
 # 08/09/2022
 b3.5.1 {.versions}
