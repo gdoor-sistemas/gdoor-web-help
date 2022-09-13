@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-12T13:04:46.741Z
+date: 2022-09-13T18:12:56.422Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 13/09/2022
+f2.6.3, b3.5.4 {.versions}
+
+## Ajustes
+- Ajustada edição de NF-e/pedido de venda com endereço de entrega. Ao editar uma NF-e/pedido de venda não estava apresentando o checkbox "informar endereço de entrega" marcado e quando era marcado não mostrava os endereços salvos.
+- Corrigido o cadastro de endereço de entrega. Anteriormente ao cadastrar um endereço novo e selecioná-lo o mesmo não era salvo com o documento.
+- Ajustada exibição do endereço de entrega nos detalhes da NF-e. Ao gerar uma NF-e com endereço de entrega não estava sendo mostrado nos detalhes da nota o endereço em questão.
 
 # 10/09/2022
 f2.6.1, b3.5.2 {.versions}
