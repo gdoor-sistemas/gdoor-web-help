@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-16T03:35:29.796Z
+date: 2022-09-16T20:52:00.248Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,6 +13,7 @@ f2.7.1, b3.6.1 {.versions}
 
 ## Ajustes
 - Na NF-e, agora são rateados também entre os serviços o frete, seguro e outras despesas, pois em notas com apenas serviços apresentava uma rejeição.
+- Corrigido erro ao aplicar desconto sobre o total da venda. Ao gerar uma pré-venda ou NF-e e aplicar um desconto sobre o total o rateio estava sendo feito porém o total da fatura estava ficando incorreto.
 
 # 13/09/2022
 f2.6.3, b3.5.4 {.versions}
