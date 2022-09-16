@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-13T18:12:56.422Z
+date: 2022-09-16T03:34:31.464Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/09/2022
+f2.7.1, b3.6.1 {.versions}
+
+## Ajustes
+- Na NF-e, frete, seguro e outras despesas também entre os serviços, pois em notas com apenas serviços apresentava uma rejeição.
 
 # 13/09/2022
 f2.6.3, b3.5.4 {.versions}
