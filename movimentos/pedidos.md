@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-19T18:36:24.174Z
+date: 2022-09-19T18:50:08.169Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -33,7 +33,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 A imagem abaixo é de um novo pedido de venda:
 
-![Novo pedido](/movimentos/pedidos/novo_pedido_de_venda.png)
+![Novo pedido](/movimentos/pedidos/novo_pedido_de_venda..png)
 
 ## Cabeçalho
 
@@ -45,7 +45,13 @@ Ao informar o vendedor no pedido de venda, ele não ficará vinculado à venda c
 
 Para informar o vendedor no pedido de venda, basta selecionar o desejado no cabeçalho.
 
-![](/movimentos/pedidos/vendedor.png)
+![Vendedor](/movimentos/pedidos/vendedor.png)
+
+### Origem do preço
+
+Selecione o preço que será aplicado no pedido, de [venda ou atacado](https://help.gdoorweb.com.br/pt-br/cadastros/produtos).
+
+![Origem do preço](/movimentos/pedidos/origem_do_preço.gif)
 
 ## Cliente
 
