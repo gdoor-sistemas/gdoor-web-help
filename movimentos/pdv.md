@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T19:25:42.139Z
+date: 2022-09-19T19:30:54.233Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -156,13 +156,13 @@ Para criar uma **nova NFC-e**, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
+![Opcões de criação NFC-e](/movimentos/nfce/pdv_livre.png)
 
 ## Adicionar produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os kits de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
+![Buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
 
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
@@ -175,6 +175,17 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 > É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na NFC-e.
 {.is-success .gw .gw-tip}
+
+### Preço de atacado
+
+No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a quantidade mínima de venda do produto no atacado (conforme configuração no [cadastro do produto](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#detalhes)).
+
+Para aplicar o preço de atacado sem quantidade mínima utilize o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
+
+> Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
+{.is-info}
+
+![Preço atacado na NFC-e](/movimentos/pedidos/nfc-e.png)
 
 ## Adicionar kits de produtos
 
