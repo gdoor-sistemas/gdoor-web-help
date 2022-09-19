@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T19:32:21.722Z
+date: 2022-09-19T20:00:32.636Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -40,13 +40,13 @@ Para criar uma **nova pré-venda**, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![opcões de criação de pré-venda](/movimentos/nfce/pdv_livre.png)
+![Opcões de criação de pré-venda](/movimentos/nfce/pdv_livre.png)
 
 ## Adicionar produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os **kits** de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
 
-![buscar produtos](/movimentos/pdv/adicionar_produto.png)
+![Buscar produtos](/movimentos/pdv/adicionar_produto.png)
 
 > Não é necessário que o campo de busca esteja com o foco para você lançar o produto, o foco só precisa estar em algum lugar da página. Basta você digitar qualquer coisa e o sistema automaticamente joga o foco para o campo de busca.
 {.is-success .gw .gw-tip}
@@ -66,8 +66,10 @@ No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a 
 
 Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho no teclado <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
 
-> Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
-{.is-info}
+> Para alternar manualmente para o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada no **PDV**. 
+{.is-danger}
+
+Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
 ![Preço de atacado no pedido](/movimentos/pedidos/pre_venda.png)
 
@@ -230,7 +232,7 @@ O código contendo a identificação do intermediador/marketplace deve constar n
 Para informar o intermediador na NFC-e, utilize a tecla <kbd>F8</kbd> ou clique em (<em class="mdi mdi-dots-vertical"></em>) seguido de (<em class="mdi mdi-dots-horizontal"></em> Outras opções).
 No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"></em>), selecione o intermediador desejado e clique em <span data-mat-button>Confirmar</span>.
 
-![outras opções](/movimentos/nfce/outras_opções.png)
+![Outras opções](/movimentos/nfce/outras_opções.png)
 
 > Caracteriza-se uma operação **sem intermediador** quando a venda for efetuada via site ou plataforma própria, sem envolver outra pessoa jurídica.
 {.is-info}
@@ -239,13 +241,13 @@ No campo intermediador/marketplace efetue a busca (<em class="mdi mdi-magnify"><
 
 Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida:
 
-![finalizar venda](/movimentos/nfce/fina_venda.png)
+![Finalizar venda](/movimentos/nfce/fina_venda.png)
 
 As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
-![pagamento com PIX](/movimentos/nfce/venda_2.png)
+![Pagamento com PIX](/movimentos/nfce/venda_2.png)
 
 Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectivo valor da venda.
 
