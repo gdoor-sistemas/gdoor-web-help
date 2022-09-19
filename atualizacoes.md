@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-19T11:46:58.045Z
+date: 2022-09-19T11:51:43.059Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -17,7 +17,7 @@ f2.7.3, b3.6.2 {.versions}
 
 ## Ajustes
 - Corrigida as informações adicionais do produto que não estavam sendo salvas na pré-venda.
-- Ajustada a rolagem de tela em dispositivos móveis. Na navegação de algumas telas não era possivel "deslizar" pela listagem.
+- Ajustada a rolagem de tela em dispositivos móveis. Na navegação de algumas telas não era possível "deslizar" pela listagem.
 - Corrigido o XML do mês que estava incluindo notas rejeitadas juntamente com as autorizadas e canceladas.
 - Corrigida a consulta do CNPJ no cadastro de Pessoas. Anteriormente ao consultar o CNPJ alguns dados de endereço não estavam sendo preenchidos no formulário.
 - Ajustada a pré-venda para gravar dados de clientes não cadastrados. Ao criar uma pré-venda informando o CPF e nome de um cliente não cadastrado no sistema, o mesmo não estava apresentando essas informações após concluir a pré-venda.
