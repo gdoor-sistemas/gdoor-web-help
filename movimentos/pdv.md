@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T20:00:32.636Z
+date: 2022-09-19T20:04:08.134Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -67,7 +67,7 @@ No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a 
 Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho no teclado <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
 
 > Para alternar manualmente para o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada no **PDV**. 
-{.is-danger}
+{.is-info}
 
 Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
@@ -184,8 +184,10 @@ No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a 
 
 Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho no teclado <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
 
-> Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
+> Para alternar manualmente para o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada no **PDV**. 
 {.is-info}
+
+Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
 ![Preço atacado na NFC-e](/movimentos/pedidos/nfc-e.png)
 
@@ -273,7 +275,7 @@ Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-check"></em> concluir**   ou **<em class="mdi mdi-delete"></em> excluir** a pré-venda. 
 
-![pré-venda aberta](/movimentos/pdv/pv_aberta.png)
+![Pré-venda aberta](/movimentos/pdv/pv_aberta.png)
 
 ### Pré-venda concluída
 
@@ -282,7 +284,7 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 
 A [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **podem ou não ser efetuadas** nesta etapa, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#comportamento) selecionada.
 
-![pré-venda concluída](/movimentos/pdv/pv_concluida.png)
+![Pré-venda concluída](/movimentos/pdv/pv_concluida.png)
 
 ### Autorizado o uso da NFC-e
 
@@ -291,7 +293,7 @@ Nesta etapa as edições não são permitidas. Se a [movimentação do estoque](
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
 Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-content-copy"></em> copiar chave de acesso**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** ou **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
 
-![autorizado uso](/movimentos/pdv/nfce_autorizada.png)
+![Autorizado uso](/movimentos/pdv/nfce_autorizada.png)
 
 ### Rejeição da NFC-e
 
@@ -300,7 +302,7 @@ Quando uma NFC-e é rejeitada na transmissão, a mensagem com a descrição do e
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
 Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-content-copy"></em> copiar chave de acesso**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DANFCE**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
 
-![rejeição NFC-e](/movimentos/pdv/nfc-e_rejeição.png)
+![Rejeição NFC-e](/movimentos/pdv/nfc-e_rejeição.png)
 
 ### NFC-e com falha na pré-validação dos dados
 
@@ -323,7 +325,7 @@ Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeit
 
 Você pode ativar o modo de **seleção múltipla** utilizando a opção <em class="mdi mdi-checkbox-marked"></em> **marcar** ou clicando sobre o **campo imagem** a esquerda do documento (no caso de dispositivos touch dê um toque longo no item):
 
-![marcar item](/movimentos/pdv/marcar.gif)
+![Marcar item](/movimentos/pdv/marcar.gif)
 
 > Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar).
 {.is-info}
@@ -336,7 +338,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![seleção múltipla pré-venda em aberto](/movimentos/pdv/aberta.png)
+![Seleção múltipla pré-venda em aberto](/movimentos/pdv/aberta.png)
 
 **Seleção múltipla de pré-venda concluída**{.subtitle}
 
@@ -345,7 +347,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
+![Seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
 
 > Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
 > Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
@@ -360,7 +362,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![seleção múltipla de NFC-e autorizado o uso](/movimentos/pdv/autorizad.png)
+![Seleção múltipla de NFC-e autorizado o uso](/movimentos/pdv/autorizad.png)
 
 **Seleção múltipla de NFC-e rejeitada**{.subtitle}
 
@@ -369,7 +371,7 @@ As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![seleção múltipla de NFC-e autorizado rejeitada](/movimentos/pdv/rejeitad.png)
+![Seleção múltipla de NFC-e autorizado rejeitada](/movimentos/pdv/rejeitad.png)
 
 ## Buscar
 
@@ -377,7 +379,7 @@ Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca 
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
-![digite para buscar](/movimentos/compras/busca.png)
+![Digite para buscar](/movimentos/compras/busca.png)
 
 > O que você digitar será buscado entre as seguintes informações no PDV: 
 > Campos numéricos: **chave de acesso**, **código de barras** e **código** do produto, **número da venda**.
@@ -388,7 +390,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
-![filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
+![Filtro na lista do PDV](/movimentos/pdv/lista_do_pdv.png)
 
 As opções de filtro são:
 
@@ -420,7 +422,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 ![Opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**:
-![filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
+![Filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
 {.is-success}
 
 # Configurações do PDV
@@ -432,7 +434,7 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button md
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações. Veja em detalhes as opções:
 
-![configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
+![Configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
 
 ### Movimentar estoque?{.subtitle}
 Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda).
@@ -493,7 +495,7 @@ Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e:
 Para informação dos vínculos financeiros padrão.
 Informe a "**conta**" padrão para geração da movimentação, **plano de contas** e **centro de custos** desejado.
 
-![pdv_financeiro.png](/movimentos/pdv/pdv_financeiro.png)
+![PDV financeiro](/movimentos/pdv/pdv_financeiro.png)
 
 ## Meios de pagamento
 
@@ -501,19 +503,19 @@ Nesta seção você pode escolher quais [meios de pagamento](/cadastros/pagament
 
 Depois de [cadastrar o meio de pagamento](https://help.gdoorweb.com.br/cadastros/pagamentos#nova-forma-de-pagamento), para torná-lo disponível no PDV é necessário marcar a caixa de seleção à esquerda, conforme exibido abaixo. Ainda é possível reordenar os pagamentos habilitados, basta clicar no ícone [<em class="mdi mdi-drag-vertical"></em>] à direita do item e arrastá-lo para a posição desejada.
 
-![meios_de_pagamento](/movimentos/pdv/meios_de_pagamento.gif)
+![Meios de pagamento](/movimentos/pdv/meios_de_pagamento.gif)
 
 ## Mensagem promocional
 
 Nesta seção você pode informar uma mensagem a ser impressa junto com as informações adicionais no [DANFCe](/glossario#danfce).
 
-![configurar mensagem promocional](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
+![Configurar mensagem promocional](/movimentos/nfce/nfce-configurar-mensagem-promocional2.png)
 
 ## Sangria e suprimento
 
 Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
 
-![configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
+![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
 
 # Configurações da NFC-e
 
@@ -523,20 +525,20 @@ As configurações da NFC-e são gerais para todos os usuários, e somente usuá
 
 Nesta seção você configura a natureza da operação que será aplicada às novas NFC-e geradas. As opções disponíveis são as cadastradas no [cadastro de operações](/cadastros/operacoes).
 
-![configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
+![Configurar operação padrão na NFC-e](/movimentos/nfce/nfce-configurar-operacoes.png)
 
 ## Certificado digital
 
 Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> salvar</span>.
 Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
 
-![configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
+![Configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
 
 ## Ambiente da NFC-e
 
 Nesta seção você configura dados para a geração da NFC-e. Abaixo, veja detalhes de cada configuração.
 
-![configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
+![Configurar o ambiente da NFC-e](/movimentos/nfce/nfce-configurar-ambiente.png)
 
 Série da NFC-e{.subtitle}
 
@@ -568,7 +570,7 @@ Código CSC{.subtitle}
 
 Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) da NFC-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
 
-![pessoas autorizadas a baixar o XML](/movimentos/nfce/nfce-configurar-autorizados-baixar-xml.png)
+![Pessoas autorizadas a baixar o XML](/movimentos/nfce/nfce-configurar-autorizados-baixar-xml.png)
 
 Os documentos informados aqui serão adicionados em cada NFC-e gerada. Para adicionar um documento, digite o número no campo intitulado "Adicionar CNPJ/CPF" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
 
@@ -576,7 +578,7 @@ Os documentos informados aqui serão adicionados em cada NFC-e gerada. Para adic
 
 Nesta seção você configura detalhes sobre a impressão do [DANFCe](/glossario#danfce). 
 
-![configurar a impressão do DANFCe](/movimentos/nfce/nfce-configurar-impressao-danfce.png)
+![Configurar a impressão do DANFCe](/movimentos/nfce/nfce-configurar-impressao-danfce.png)
 
 Veja o que pode ser alterado:
 
@@ -598,12 +600,12 @@ Indique aqui se após a autorização da NFC-e o sistema deve automaticamente ab
 
 Nesta seção você pode configurar o conteúdo dos e-mails de NFC-e, tanto para notificar a autorização da NFC-e, quanto o seu cancelamento.
 
-![configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
+![Configuração de conteúdo de e-mails](/movimentos/nfce/nfce-configurar-emails-padrao.png)
 
 Para alterar o conteúdo, clique no botão (<em class="mdi mdi-pencil"></em>) à direita da opção que desejar; será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para efetuar as modificações. 
 No conteúdo do e-mail, você pode adicionar algumas variáveis que serão substituídas pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o caractere `[` (abre colchetes) e uma lista de opções será sugerida, como mostrado na imagem abaixo:
 
-![utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
+![Utilizando variáveis ao configurar o conteúdo do e-mail da NFC-e](/movimentos/nfce/nfce-configurar-emails-conteudo-variaveis.png)
 
 > Você pode informar uma página HTML completa para o conteúdo do e-mail da NFC-e, mas precisa garantir que seja um código compatível com os possíveis programas de e-mail que o seu cliente possa ter.
 {.is-success .gw .gw-tip}
@@ -612,7 +614,7 @@ No conteúdo do e-mail, você pode adicionar algumas variáveis que serão subst
 
 Nesta seção você define configurações gerais sobre o envio de e-mails da NFC-e.
 
-![configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
+![Configurar opções de e-mail da NFC-e](/movimentos/nfce/nfce-configurar-email.png)
 
 Na primeira parte, você pode informar um endereço de resposta para os e-mails de NFC-e enviados pelo Gweb, pois o sistema envia os e-mails a partir do endereço `nao.responda@gdoorweb.com.br`. Sendo assim, se o seu cliente precisar responder o e-mail da NFC-e e o fizer para este endereço, o e-mail nunca chegará. Por isso, você pode definir aqui o nome e o endereço para resposta:
 
@@ -638,7 +640,7 @@ As configurações de preferências podem ser diferentes para cada usuário e pe
 
 ## Comportamento
 
-![preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
+![Preferências de comportamento PDV](/movimentos/pdv/comportamento.png)
 
 Iniciar em tela cheia{.subtitle}
 
@@ -686,11 +688,11 @@ Como inutilizar numeração{.subtitle}
 
 Para inutilizar uma numeração de NFC-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do PDV:
 
-![menu inutilizar numeração](/movimentos/pdv/inutilizar_numeraç.png)
+![Menu inutilizar numeração](/movimentos/pdv/inutilizar_numeraç.png)
 
 Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
 
-![inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
+![Inutilizar numeração de NFC-e](/movimentos/nfce/nfce-modal-inutilizacao.png)
 
 Série{.subtitle}
 
