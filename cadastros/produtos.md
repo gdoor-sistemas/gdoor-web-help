@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-09-19T18:27:33.675Z
+date: 2022-09-19T18:29:15.313Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -114,7 +114,7 @@ Seção para informações tributárias do produto.
 - **ANP**: código a ser informado em produtos lubrificantes, combustíveis e derivados do petróleo;
 **»** No cadastro de **gás de cozinha (GLP)**, ao informar o código ANP, a seção abaixo será habilitada para inclusão das informações de "**perc. GLP**", "**perc. GLGNn**", "**perc. GLGNi**" e "**valor de partida**":
 
-![anp.png](/produtos/anp.png)
+![ANP](/produtos/anp.png)
 
 - **Escala relevante**: indique se o produto é:
 **» Produzido em escala relevante**: bens e mercadorias sujeitas à Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
@@ -132,7 +132,7 @@ Seção para vincular regras de tributação para o produto.
 
 Para vincular uma regra, clique no botão <span class="mat-button mdi ">vincular regra</span> e selecione a desejada, em seguida clique em <span class="mat-button mdi ">confirmar</span>.
 
-![Vincular_ regra](/produtos/vincular_regra.png)
+![Vincular regra](/produtos/vincular_regra.png)
 
 Ao clicar no botão (<em class="mdi mdi-eye"></em>) é possível visualizar os detalhes da regra vinculada.
 
