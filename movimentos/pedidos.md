@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-08-15T14:20:40.673Z
+date: 2022-09-19T18:36:24.174Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -18,7 +18,7 @@ Os pedidos de venda podem ser **impressos** ou enviados para o cliente via **e-m
 
 Por padrão, ao acessar o módulo de pedidos de venda, você verá a seguinte tela:
 
-![tela_inicial_2.png](/movimentos/pedidos/tela_inicial_2.png)
+![Tela inicial](/movimentos/pedidos/tela_inicial_2.png)
 
 # Novo pedido de venda
 
@@ -29,11 +29,11 @@ Para criar um pedido de venda, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![novo_pedido_2.png](/movimentos/pedidos/novo_pedido_2.png)
+![Cadastrar novo pedido](/movimentos/pedidos/novo_pedido_2.png)
 
 A imagem abaixo é de um novo pedido de venda:
 
-![novo2.png](/movimentos/pedidos/novo2.png)
+![Novo pedido](/movimentos/pedidos/novo_pedido_de_venda.png)
 
 ## Cabeçalho
 
