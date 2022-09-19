@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T19:30:54.233Z
+date: 2022-09-19T19:32:21.722Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -64,12 +64,12 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a quantidade mínima de venda do produto no atacado (conforme configuração no [cadastro do produto](https://help.gdoorweb.com.br/pt-br/cadastros/produtos)).
 
-Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
+Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho no teclado <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
 
 > Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
 {.is-info}
 
-![Preço de atacado](/movimentos/pedidos/pre_venda.png)
+![Preço de atacado no pedido](/movimentos/pedidos/pre_venda.png)
 
 ## Adicionar kits de produtos
 
@@ -180,7 +180,7 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a quantidade mínima de venda do produto no atacado (conforme configuração no [cadastro do produto](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#detalhes)).
 
-Para aplicar o preço de atacado sem quantidade mínima utilize o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
+Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho no teclado <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
 
 > Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
 {.is-info}
