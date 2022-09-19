@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-19T19:01:08.911Z
+date: 2022-09-19T20:05:27.077Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -50,6 +50,11 @@ Para informar o vendedor no pedido de venda, basta selecionar o desejado no cabe
 ### Origem do preço
 
 Selecione o preço que será aplicado no pedido, de [venda ou atacado](https://help.gdoorweb.com.br/pt-br/cadastros/produtos).
+
+> Para selecionar o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada nos **pedidos**. 
+{.is-info}
+
+Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
 ![Origem do preço](/movimentos/pedidos/origem_do_preço.gif)
 
