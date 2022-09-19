@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-19T20:05:27.077Z
+date: 2022-09-19T20:08:12.216Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -105,7 +105,7 @@ Campo para preenchimento de informações adicionais ao pedido de venda.
 
 Na tela de lista, você visualiza os pedidos de venda efetuados e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
-No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os pedidos de venda em partes pra não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os pedidos de venda em partes para não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
 ![Paginação](/movimentos/pedidos/paginação.png)
 
