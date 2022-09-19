@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-09-19T18:08:33.390Z
+date: 2022-09-19T18:27:33.675Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -86,7 +86,7 @@ Você pode **selecionar** na lista de [categorias](#categorias-1) já cadastrada
 
 Seção para informar os detalhes do produto.
 
-![Detalhes](/produtos/5_detalhes.png)
+![Detalhes](/produtos/detalhes.png)
 
 - **Descrição adicional**: descrição adicional do produto;
 - **GTIN, EAN, UPC, etc.**: clique no botão (<em class="mdi mdi-dots-vertical"></em>) para adicionar o código de barras. Após clique em <span class="mat-button mdi ">adicionar gtin</span>, digite o código e clique em <span class="mat-button mdi ">confirmar</span>;
@@ -97,8 +97,10 @@ Seção para informar os detalhes do produto.
 - **Quantidade mínima**: informe a quantidade ideal para o produto em questão. Com a informação deste campo, é possível gerar um relatório de **produtos na quantidade limite**;
 - **Custo de compra**: custo da última compra do produto;
 - **Custo médio**: pode ser informado manualmente;
-- **Margem de lucro bruto**: pode ser informado manualmente;
-- **Preço de venda**: informe o preço de venda para a comercialização do produto.
+- **Margem de lucro bruto**: calculada automaticamente ao alterar o preço de custo ou o preço de venda;
+- **Preço de venda**: informe o preço de venda para a comercialização do produto;
+- **Preço de atacado**: informe o preço de atacado para a comercialização do produto, obrigatoriamente deve ser menor que o preço de venda;
+- **Quantidade mínima (PDV)**: informe a quantidade mínima de venda do produto para que o preço de atacado seja aplicado automaticamente no PDV. Preencha com 0 para não aplicar automaticamente.
 
 ## Informações tributárias
 
