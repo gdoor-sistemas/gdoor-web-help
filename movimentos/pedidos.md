@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-19T18:57:16.568Z
+date: 2022-09-19T19:01:08.911Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -75,23 +75,23 @@ Para poder adicionar serviços no pedido de venda, você precisa habilitar o uso
 Para adicionar serviços no pedido de venda, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo ou utilizar as teclas <span class="mat-button mdi "> shift</span> + <span class="mat-button mdi "> insert</span> no teclado.
 É possível lançar um serviço pelo código numérico do serviço, digitando uma barra no campo de busca (\\ ou /) para que o sistema mostre os serviços encontrados ou digitando a descrição do serviço desejado.
 
-![](/movimentos/pedidos/serviços.png)
+![Serviços](/movimentos/pedidos/serviços.png)
 
 Para personalizar a ordem e os campos para visualização em tela, para isso clique no botão de engrenagem (<em class="mdi mdi-cog"></em>)  “**mais opções para os serviços**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
-![](/movimentos/pedidos/opções_serviços.png)
+![Mais opções para os serviços](/movimentos/pedidos/opções_serviços.png)
 
 ## Pagamentos
 
 Para adicionar o pagamento, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo e as formas de pagamento serão exibidas.
 
-![](/movimentos/pedidos/pagamentos.png)
+![Pagamentos](/movimentos/pedidos/pagamentos.png)
 
 ## Outras informações
 
 Campo para preenchimento de informações adicionais ao pedido de venda.
 
-![](/movimentos/pedidos/outras_info.png)
+![Outras informações](/movimentos/pedidos/outras_info.png)
  
 > Nas “**configurações**” do pedido de venda, em “[informações adicionais](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#informa%C3%A7%C3%B5es-adicionais)” é possível definir uma mensagem padrão que será inserida automaticamente em todos os pedidos de venda.
 {.is-success .gw .gw-tip}
@@ -102,11 +102,11 @@ Na tela de lista, você visualiza os pedidos de venda efetuados e pode fazer uma
 
 No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os pedidos de venda em partes pra não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
 
-![](/movimentos/pedidos/paginação.png)
+![Paginação](/movimentos/pedidos/paginação.png)
 
 Em cada item da lista você pode encontrar as seguintes informações:
 
-![](/movimentos/pedidos/lista.png)
+![Lista](/movimentos/pedidos/lista.png)
 1.  Imagem vinculada ao cadastro do cliente. Apresentará uma imagem genérica quando não houver.
 2.  Nome do cliente. Será apresentada a informação "consumidor final" quando o cliente não for informado.
 3.  Número sequencial do pedido de venda, data e hora da criação. Também apresenta o valor total do pedido de venda.
@@ -125,7 +125,6 @@ Ao lado de cada item na lista, há um botão com ações de contexto para o pedi
 Visível para todos os pedidos de venda. Inicia o modo de [seleção múltipla](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#sele%C3%A7%C3%A3o-m%C3%BAltipla).
 
 <span class="mat-button ![br-map.png](/movimentos/pedidos/br-map.png)"> GERAR NF-e</span> 
-
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
@@ -193,7 +192,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 Os filtros podem ser definidos como padrão. Para fazer um filtro na lista, clique no botão de "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
-![](/movimentos/pedidos/filtro.png)
+![Filtro](/movimentos/pedidos/filtro.png)
 
 No painel de filtros destacado na imagem acima temos:
 
@@ -221,7 +220,7 @@ As opções de filtro são as seguintes:
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
-![](/movimentos/pedidos/limpar_filtro.png)
+![Limpar filtros](/movimentos/pedidos/limpar_filtro.png)
 
 # Configurações do pedido de venda
 
@@ -233,13 +232,13 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 
 **Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
 
-![](/movimentos/pedidos/comportamento.png)
+![Comportamento](/movimentos/pedidos/comportamento.png)
 
 ## Informações adicionais
 
 Nesta seção você pode inserir uma mensagem padrão que aparecerá no campo de informações adicionais do pedido de venda. Ao efetuar um pedido de venda, a informação adicional pode ser editada ou apagada manualmente.
 
-![](/movimentos/pedidos/inf_adicionais_2.png)
+![Informações adicionais](/movimentos/pedidos/inf_adicionais_2.png)
 
 ## Vídeo
 
