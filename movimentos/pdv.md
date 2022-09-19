@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T19:17:51.194Z
+date: 2022-09-19T19:25:42.139Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -64,14 +64,19 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a quantidade mínima de venda do produto no atacado (conforme configuração no [cadastro do produto](https://help.gdoorweb.com.br/pt-br/cadastros/produtos)).
 
-Para aplicar o preço de ataco sem quantidade mínima pode-se utilizar o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> 
+Para aplicar o preço de atacado **sem quantidade mínima** utilize o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> e adicione o produto desejado.
+
+> Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul.
+{.is-info}
+
+![Preço de atacado](/movimentos/pedidos/pre_venda.png)
 
 ## Adicionar kits de produtos
 
 Caso possua [kits de produtos](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#kits) cadastrados, você poderá lançá-los na pré-venda. 
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
-![buscar kits de produtos](/movimentos/pdv/adicionar_kitt.png)
+![Buscar kits de produtos](/movimentos/pdv/adicionar_kitt.png)
 
 > Apesar de o sistema já trazer os kits na busca por produtos, pode ser interessante usar o <kbd>+</kbd> para **buscar apenas kits**.
 {.is-success .gw .gw-tip}
@@ -82,7 +87,7 @@ Para adicionar serviços na pré-venda, você precisa habilitar o uso de serviç
 
 Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no campo de busca, seguida da descrição ou do código numérico do serviço e o sistema mostrará os resultados dos serviços encontrados:
 
-![buscar serviços](/movimentos/pdv/adicionar_serviço.png)
+![Buscar serviços](/movimentos/pdv/adicionar_serviço.png)
 
 ## Informar vendedor
 
@@ -98,23 +103,23 @@ Informar o cliente na pré-venda é opcional. Além disso, se você quiser infor
 Para informar o cliente, pressione a tecla <kbd>F7</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na pré-venda aberta. Em seguida clique em <span class="mat-button mdi mdi-account">Informar cliente</span>, busque um cliente ou apenas informe o CPF. 
 Ao pressionar <kbd>Enter</kbd> ou clicar em <span data-mat-button>Confirmar</span>, o sistema tentará encontrar esse CPF no cadastro e se não encontrar, poderá informar mesmo assim. Também é possível informar o nome do cliente opcionalmente.
 
-![informar CPF do cliente](/movimentos/nfce/informar-cpf-na-nfce.png)
+![Informar CPF do cliente](/movimentos/nfce/informar-cpf-na-nfce.png)
 
 ## Finalizar venda
 
 Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida:
 
-![finalizar venda](/movimentos/nfce/fina_venda.png)
+![Finalizar venda](/movimentos/nfce/fina_venda.png)
 
 As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
-![pagamento com PIX](/movimentos/nfce/venda_2.png)
+![Pagamento com PIX](/movimentos/nfce/venda_2.png)
 
 Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectivo valor da venda.
 
-![Qr Code](/movimentos/nfce/venda_3.png)
+![Qr code](/movimentos/nfce/venda_3.png)
 
 > A opção de **pagamento PIX com geração de QR code** para leitura trata-se de um facilitador para agilizar a venda, **não é integrada com a conta**, sendo assim, **não haverá confirmação do recebimento na tela**.
 {.is-warning}
