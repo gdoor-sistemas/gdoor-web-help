@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-19T18:50:08.169Z
+date: 2022-09-19T18:57:16.568Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -58,15 +58,15 @@ Selecione o preço que será aplicado no pedido, de [venda ou atacado](https://h
 Informar o cliente no pedido de venda é opcional, caso nenhum cliente seja informado, será indicado automaticamente "**consumidor final**".   
 Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, telefone** ou **e-mail**.
 
-## Mercadorias
+## Produtos
 
 Você pode adicionar um produto clicando no ícone laranja conforme demonstrado na imagem abaixo ou utilizando a tecla <span class="mat-button mdi "> insert</span> do teclado. É possível lançar um produto informando o **código, código de barras** ou buscando pela **descrição**. 
 
-![](/movimentos/pedidos/mercadorias.png)
+![Produtos](/movimentos/pedidos/produtos.png)
 
 É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão (<em class="mdi mdi-cog"></em>)  “**mais opções para os produtos**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
-![](/movimentos/pedidos/opções_produtos.png)
+![Mais opções para os produtos](/movimentos/pedidos/personalizar.png)
 
 ## Serviços
 
