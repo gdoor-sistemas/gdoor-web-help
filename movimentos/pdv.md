@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-16T12:24:50.090Z
+date: 2022-09-19T19:17:51.194Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -59,6 +59,12 @@ Para adicionar o produto pela referência, basta digitar um ponto (.) e o códig
 
 > É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na pré-venda.
 {.is-success .gw .gw-tip}
+
+### Preço de atacado
+
+No PDV, o preço de atacado pode ser aplicado automaticamente quando atingido a quantidade mínima de venda do produto no atacado (conforme configuração no [cadastro do produto](https://help.gdoorweb.com.br/pt-br/cadastros/produtos)).
+
+Para aplicar o preço de ataco sem quantidade mínima pode-se utilizar o atalho <kbd>Ctrl</kbd> <kbd>1</kbd> 
 
 ## Adicionar kits de produtos
 
