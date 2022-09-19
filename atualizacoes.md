@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-19T11:52:15.399Z
+date: 2022-09-19T14:45:59.192Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -22,6 +22,7 @@ f2.7.3, b3.6.2 {.versions}
 - Corrigida a consulta do CNPJ no cadastro de Pessoas. Anteriormente ao consultar o CNPJ alguns dados de endereço não estavam sendo preenchidos no formulário.
 - Ajustada a pré-venda para gravar dados de clientes não cadastrados. Ao criar uma pré-venda informando o CPF e nome de um cliente não cadastrado no sistema, o mesmo não estava apresentando essas informações após concluir a pré-venda.
 - Corrigida a emissão de pedidos e pré-vendas com serviços. Ao gerar pedidos e pré-vendas com serviços não estava sendo possível salvar os respectivos documentos.
+- Incluído no cadastro de Pessoas quando o atributo "transportador" estiver marcado o campo "Tipo de transportador". Anteriormente este campo estava sendo exibido dentro do cadastro do Emitente gerando uma rejeição quando o proprietário o veículo era CNPJ mas não era o emitente.
 
 # 16/09/2022
 f2.7.1, b3.6.1 {.versions}
