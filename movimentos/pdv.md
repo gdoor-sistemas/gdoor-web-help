@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-20T11:52:33.864Z
+date: 2022-09-20T11:58:32.056Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -519,10 +519,13 @@ Nesta seção você pode configurar o sistema para abrir a janela de impressão 
 
 ## Intermediador
 
+Nesta seção você pode definir como tratar o intermediado ao converter em NFC-e: **não informar intermediador** ou informar um **intermediador específico**.
+
 ![Intermediador](/movimentos/pdv/intermediador.png)
 
-
 ## Preferências de impressão
+
+Nesta seção você pode definir as configurações de impressão da pré-venda, quais informações serão impressas.
 
 ![Preferências de impressão](/movimentos/pdv/pref_impressao.png)
 
