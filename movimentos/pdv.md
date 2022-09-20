@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb
 published: true
-date: 2022-09-19T20:19:10.790Z
+date: 2022-09-20T11:52:33.864Z
 tags: estoque, movimentos, nfc-e, visão geral
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -516,6 +516,15 @@ Nesta seção você pode informar uma mensagem a ser impressa junto com as infor
 Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
 
 ![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
+
+## Intermediador
+
+![Intermediador](/movimentos/pdv/intermediador.png)
+
+
+## Preferências de impressão
+
+![Preferências de impressão](/movimentos/pdv/pref_impressao.png)
 
 # Configurações da NFC-e
 
