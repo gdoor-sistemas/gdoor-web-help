@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-26T19:36:41.597Z
+date: 2022-09-26T19:47:07.339Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -135,15 +135,15 @@ Para incluir um **endereço adicional**, clique no botão (<em class="mdi mdi-pl
 
 Você pode informar três telefones no cadastro principal (**telefone**, **celular** e **fax**) e mais telefones adicionais. Clique no botão (<em class="mdi mdi-plus"></em>) e será exibida uma tela para preenchimento do telefone adicional, que pede uma descrição, por exemplo, "*telefone da fábrica*", e o número. Para remover um telefone adicional incluído, clique no botão **remover** (<em class="mdi mdi-window-close"></em>), ao lado do número.
 
-![Quadro telefones](/cadastros/pessoas/telefones.png)
+![Quadro telefones](/cadastros/pessoas/telefoness.png)
 
 ## Endereços eletrônicos{#emails}
 
-Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique em <span class=mat-button>Adicionar e-mail</span> e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*E-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão Remover (![Remover](/comum/remove.png){.inline}), ao lado do e-mail.
+Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique no botão (<em class="mdi mdi-plus"></em>) e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*e-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão **remover** (<em class="mdi mdi-window-close"></em>), ao lado do e-mail.
 
-![Quadro Endereços eletrônicos](/cadastros/pessoas/enderecos-eletronicos.png)
+![Quadro endereços eletrônicos](/cadastros/pessoas/eletronico.png)
 
-### Observações
+## Observações
 
 Campo livre para preenchimento de informações adicionais.
 
