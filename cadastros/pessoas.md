@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-26T14:09:50.019Z
+date: 2022-09-26T14:33:24.724Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -12,7 +12,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
-## Lista
+# Lista
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
@@ -40,50 +40,52 @@ Ao clicar sobre um item dessa lista, você terá uma pré-visualização do cada
 
 A partir desta tela você pode visualizar a ficha cadastral completa da pessoa clicando no botão <span class=mat-button>Mais detalhes</span> ou editar o cadastro, clicando em <span class=mat-button>Editar</span>.
 
-## Detalhes
+# Detalhes
 
 A tela de detalhes possibilita ter uma visão completa do cadastro:
 
 ![Detalhes do cadastro](/cadastros/pessoas/detalhes.png)
 
-No cabeçalho desta tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (![Mais opções](/comum/more.png){.inline}) permite que você:
+No cabeçalho desta tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (<em class="mdi mdi-dots-vertical"></em>) permite que você:
 
 - Acesse a tela de edição do cadastro;
 - Abra a [tela de NF-e](/movimentos/nf-/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**.
 
 ![Mais opções](/cadastros/pessoas/mais-opcoes.png)
 
-Logo abaixo do cabeçalho há duas abas: **Identificação** e **Histórico**. Sempre que você abrir a tela de detalhes, a aba identificação, que contém os dados de cadastro da pessoa, virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema.
+Logo abaixo do cabeçalho há duas abas: **identificação** e **histórico**. Sempre que você abrir a tela de detalhes, a aba identificação, que contém os dados de cadastro da pessoa, virá aberta por padrão. Na aba Histórico, você encontra os registros relacionados a esta pessoa em outros módulos do sistema.
 
 > Veja detalhes sobre esta seção no tópico [histórico](/cadastros/pessoas/historico).
 {.is-info}
 
-## Formulário
+# Formulário
 
-O formulário de cadastro será exibido quando você for **criar** ou **atualizar** o cadastro de uma pessoa. Para criar uma pessoa, clique no botão de adição no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
+O formulário de cadastro será exibido ao **adicionar** ou **atualizar** o cadastro de uma pessoa. Para cadastrar uma pessoa, clique no botão de adição (<em class="mdi mdi-plus"></em>) localizado no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
 
-### Identificação
+## Identificação
 
 Neste quadro as informações são para a definição da pessoa. São as informações mais utilizadas pelo sistema.
 
 ![Quadro identificação](/cadastros/pessoas/quadro_identificaçãooo.png)
 
-#### Atributos
+### Atributos
 
 Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
 ![Atributos](/cadastros/pessoas/atributoos.png)
 
-- **Cliente**: Indica que a pessoa pode ser referenciada nas movimentações;
-- **Fornecedor**: Indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
-- **Vendedor**: Indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
-- **Transportador**: Indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
-- **Condutor**: Indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação.
-- **Intermediador**: Indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [Intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
+- **Cliente**: indica que a pessoa pode ser referenciada nas movimentações;
+- **Fornecedor**: indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
+- **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
+- **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
+- **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação.
+- **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [Intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
-Se for uma <u>pessoa física</u>, são mostrados os campos **Apelido**, **CPF** e **RG**. 
-Se for <u>pessoa jurídica</u>, o campo **Gênero** fica desabilitado e são mostrados os campos **Nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **Intermediador/Marketplace**, **Nome do responsável** e **CPF do responsável**. 
+
+Se for uma <u>pessoa física</u>, serão mostrados os campos **apelido**, **CPF** e **RG**. 
+
+Se for <u>pessoa jurídica</u>, serão mostrados os campos **nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **intermediador/marketplace**, **nome do responsável** e **CPF do responsável**. 
 Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
 
 À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. 
