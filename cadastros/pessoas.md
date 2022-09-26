@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-08-16T19:06:06.683Z
+date: 2022-09-26T14:09:50.019Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -16,21 +16,21 @@ O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, v
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
-- Digitando apenas números: **Código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
-- Digitando caracteres mistos: **Nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax**, **e-mail principal** ou **cidade**.
+- Digitando apenas números: **código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
+- Digitando caracteres mistos: **nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax**, **e-mail principal** ou **cidade**.
 
-À direita do campo de busca se encontra o botão para atualizar a lista (![Atualizar](/comum/refresh.png){.inline}). Ele pode ser útil para quando a tela ficar parada por um longo tempo, e você queira atualizar a lista de clientes sem perder o que digitou na busca ou ter que atualizar a página inteira. Também pode ser que você esteja aguardando o cadastro ser completado por outro usuário ou outro dispositivo, então terá que atualizar para ver as novas informações.
+À direita do campo de busca se encontra o botão para **atualizar a lista** (<em class="mdi mdi-refresh"></em>). 
 
 Na parte superior do quadro que contém a lista, você encontra o controle de paginação, onde pode determinar o tamanho da página e navegar entre páginas de conteúdo.
 
 > O tamanho da página ficará salvo no navegador que você estiver utilizando e será usado em todas as listas.
 {.is-info .gw .gw-note}
 
-Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (![Editar](/comum/edit.png){.inline}) e mais opções (![Mais opções](/comum/more.png){.inline}). As opções de ação para esta tela são:
+Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (<em class="mdi mdi-pencil"></em>) e mais opções (<em class="mdi mdi-dots-vertical"></em>). As opções de ação para esta tela são:
 
-- **Ver detalhes**: Vai para a tela de [detalhes](#detalhes);
-- **Nova venda**: Vai para a [tela de NF-e](/movimentos/nf-e/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
-- **Apagar**: Apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
+- **Ver detalhes**: direciona para a tela de [detalhes](#detalhes);
+- **Nova venda**: direciona para a [tela de NF-e](/movimentos/nf-e/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Apagar**: apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
 
