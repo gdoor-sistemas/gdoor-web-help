@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-26T10:49:08.444Z
+date: 2022-09-26T14:44:05.182Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 26/09/2022
+f2.7.6, f2.7.7, b3.6.5, b3.6.6 {.versions}
+
+## Ajustes
+- Corrigida a criação e visualização dos detalhes dos produtos sem NCM. Não estava sendo possível salvar produtos sem um NCM informado, além de não gerar a visualização dos detalhes de produtos já existentes sem NCM.
+- Corrigida a importação de compras a partir de um XML. Ao importar um XML apresentava falha ao ler arquivo, solicitando a verificação do mesmo.
+- Corrigida a criação/edição de produtos onde o preço de venda fica zerado. Anteriormente não era possível salvar um produto com preço de venda zerado tanto na sua criação quanto na edição.
 
 # 25/09/2022
 f2.7.5, b3.6.4 {.versions}
