@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-26T16:53:55.802Z
+date: 2022-09-26T19:36:41.597Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -101,37 +101,43 @@ Também é possível inativar um cadastro desmarcando a caixa **ativo**. Isto po
 
 Este quadro será exibido quando o [atributo](#atributos) **vendedor** estiver marcado. 
 
-- **Comissão à vista**: Percentual de comissão para vendas à vista;
-- **Percentual máx. desconto**: Máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
-- **Valor máx. desconto**: Máximo de desconto em valor que um vendedor pode aplicar em um documento.
+- **Comissão à vista**: percentual de comissão para vendas à vista;
+- **Percentual máx. desconto**: máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
+- **Valor máx. desconto**: máximo de desconto em valor que um vendedor pode aplicar em um documento.
 
-Nos campos de máximo de desconto, a seguinte regra se aplica: Se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
+> **Campos de desconto**: se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
+{.is-info}
 
-![Quadro Vendedor](/cadastros/pessoas/campos-vendedor.png)
+![Quadro vendedor](/cadastros/pessoas/campos-vendedor.png)
 
 ### Intermediador
 
-Este quadro será exibido quando o [atributo](#atributos) **Intermediador** estiver marcado. 
+Este quadro será exibido quando o [atributo](#atributos) **intermediador** estiver marcado. 
 O cadastro da pessoa jurídica deve ser preenchido com todas as informações do intermediador (razão social, CNPJ...) e no quadro indicado na imagem abaixo, inserir o código de identificação do **intermediador/marketplace**, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
-![intermediador.png](/cadastros/pessoas/intermediador.png)
+![Intermediador](/cadastros/pessoas/intermediador.png)
 
-### Endereços{#enderecos}
+## Endereços{#enderecos}
 
-No cadastro da pessoa há um endereço principal e você pode incluir endereços adicionais. Clique no botão <span class=mat-button>Adicionar endereço</span> e uma tela para preenchimento do endereço será exibida. A lista de endereços adicionais ficará abaixo do endereço principal.
+No cadastro da pessoa há um endereço principal e pode-se incluir **endereços adicionais** para entrega ou cobrança.
+A lista de endereços adicionais cadastrados ficará abaixo do endereço principal.
+
+![Endereços](/cadastros/pessoas/endereços.png)
+
+Para incluir um **endereço adicional**, clique no botão (<em class="mdi mdi-plus"></em>) e a tela para preenchimento do endereço será exibida. Será possível indicar se o endereço é de **entrega** ou **cobrança**, uma descrição para o endereço, assim como os **dados do recebedor**.
+
+![Endereço adicional](/cadastros/pessoas/endereço_adicional.png)
 
 > Para facilitar o preenchimento do endereço, você pode informar primeiro o CEP. Ao sair do campo, o sistema buscará o endereço do CEP, sendo necessário, na maioria das vezes, preencher apenas o número e o complemento.
 {.is-success .gw .gw-tip}
 
-![Quadro Endereços](/cadastros/pessoas/enderecos.png)
+## Telefones
 
-### Telefones
+Você pode informar três telefones no cadastro principal (**telefone**, **celular** e **fax**) e mais telefones adicionais. Clique no botão (<em class="mdi mdi-plus"></em>) e será exibida uma tela para preenchimento do telefone adicional, que pede uma descrição, por exemplo, "*telefone da fábrica*", e o número. Para remover um telefone adicional incluído, clique no botão **remover** (<em class="mdi mdi-window-close"></em>), ao lado do número.
 
-Você pode informar três telefones no cadastro principal (**telefone**, **celular** e **fax**) e mais telefones adicionais. Clique em <span class=mat-button>Adicionar telefone</span> e será exibida uma tela para preenchimento do telefone adicional, que pede uma descrição, por exemplo, "*Telefone da fábrica*", e o número. Para remover um telefone adicional incluído, clique no botão Remover (![Remover](/comum/remove.png){.inline}), ao lado do número.
+![Quadro telefones](/cadastros/pessoas/telefones.png)
 
-![Quadro Telefones](/cadastros/pessoas/telefones.png)
-
-### Endereços eletrônicos{#emails}
+## Endereços eletrônicos{#emails}
 
 Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique em <span class=mat-button>Adicionar e-mail</span> e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*E-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão Remover (![Remover](/comum/remove.png){.inline}), ao lado do e-mail.
 
