@@ -2,11 +2,24 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-19T17:54:49.620Z
+date: 2022-09-26T10:47:34.166Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 25/09/2022
+f2.7.5, b3.6.4 {.versions}
+
+
+## Novidades
+- Adicionada a funcionalidade de Preço de Atacado 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/cadastros/produtos).
+- Adicionado campos referente à ANVISA no cadastro do produto e XML da NF-e.
+- Incluso dados de lote para itens da NF-e com NCMs do grupo 30. Agora ao adicionar um item na NF-e com NCM do grupo 30 (iniciados em 3001, 3002, 3003, 3004, 3005 e 3006 - medicamentos) é obrigatório o preenchimento dos dados de rastreabilidade do item.
+
+
+## Ajustes
+- Corrigido cálculo do FCP ST para o Regime Simples (CSOSN 900). Anteriormente o sistema estava apresentando rejeição no valor total da NF quando eram preenchidos valores de FCP ST na nota, em alguns casos quando a nota autorizava estes valores não estavam sendo somados no total.
 
 # 19/09/2022
 f2.7.3, f2.7.4, b3.6.2 {.versions}
