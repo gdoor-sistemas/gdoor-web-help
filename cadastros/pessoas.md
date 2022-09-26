@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-26T14:33:24.724Z
+date: 2022-09-26T16:53:55.802Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -79,18 +79,20 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
 - **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
 - **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação.
-- **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [Intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
+- **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
 
 Se for uma <u>pessoa física</u>, serão mostrados os campos **apelido**, **CPF** e **RG**. 
 
-Se for <u>pessoa jurídica</u>, serão mostrados os campos **nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **intermediador/marketplace**, **nome do responsável** e **CPF do responsável**. 
-Ainda uma outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> (país diferente do Brasil) é mostrado o campo **Documento de identificação**.
+Se for <u>pessoa jurídica</u>, serão mostrados os campos **nome fantasia**, **CNPJ**, **IE, IM**, **CRT**, **CNAE**, **intermediador/marketplace**, **nome do responsável** e **CPF do responsável**.
+
+Outra possibilidade tem prioridade sobre estas duas: caso a pessoa seja do <u>exterior</u> é mostrado o campo **documento de identificação**.
 
 À direita deste quadro, você pode adicionar uma **imagem** que identifique a pessoa, como por exemplo a logo de um fornecedor ou a foto de um cliente. 
 Você também identifica a pessoa como **física** ou **jurídica**, ou seja, uma pessoa real ou uma empresa, respectivamente. Se preferir, no caso de pessoa física, especifique o **gênero**. 
-Também é possível inativar um cadastro desmarcando a caixa **Ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
+
+Também é possível inativar um cadastro desmarcando a caixa **ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
 
 > Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
