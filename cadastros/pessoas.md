@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-26T20:06:47.797Z
+date: 2022-09-27T18:49:14.707Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -117,7 +117,7 @@ O cadastro da pessoa jurídica deve ser preenchido com todas as informações do
 
 ![Intermediador](/cadastros/pessoas/intermediador.png)
 
-## Endereços{#enderecos}
+## Endereços
 
 No cadastro da pessoa há um endereço principal e pode-se incluir **endereços adicionais** para entrega ou cobrança.
 A lista de endereços adicionais cadastrados ficará abaixo do endereço principal.
@@ -137,7 +137,7 @@ Você pode informar três telefones no cadastro principal (**telefone**, **celul
 
 ![Quadro telefones](/cadastros/pessoas/telefoness.png)
 
-## Endereços eletrônicos{#emails}
+## Endereços eletrônicos
 
 Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique no botão (<em class="mdi mdi-plus"></em>) e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*e-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão **remover** (<em class="mdi mdi-window-close"></em>), ao lado do e-mail.
 
