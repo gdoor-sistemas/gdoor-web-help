@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-26T14:44:05.182Z
+date: 2022-09-27T14:04:04.097Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/09/2022
+f2.7.8, b3.6.7 {.versions}
+
+## Ajustes
+- Ajustada a edição de produtos que já utilizavam a faixa de NCM controlada pela Anvisa. Anteriormente se o produto já tinha no cadastro um NCM do grupo 30 (iniciados em 3001, 3002, 3003, 3004, 3005 e 3006) não estava sendo possível editar o produto.
 
 # 26/09/2022
 f2.7.6, f2.7.7, b3.6.5, b3.6.6 {.versions}
