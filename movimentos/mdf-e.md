@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-08-17T17:50:08.765Z
+date: 2022-09-29T16:51:27.690Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -184,6 +184,16 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 > Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**: 
 ![filtro aplicado](/movimentos/mdf-e/filtro-aplicado.png)
 {.is-success .gw .gw-tip}
+
+# Ações
+
+## Contingência
+
+
+
+## Encerrar MDF-e
+
+
 
 # Configurações
 
