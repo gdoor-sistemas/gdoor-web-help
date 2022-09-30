@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-09-30T12:44:10.190Z
+date: 2022-09-30T13:20:53.501Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -43,7 +43,7 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 - **Peso bruto**: total da carga;
 - **Valor total**: da mercadoria/carga transportada;
 - **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
-- **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: 
+- **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
 ![Geral](/movimentos/mdf-e/aba_gerall.png)
