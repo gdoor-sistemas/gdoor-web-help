@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-09-30T12:21:39.763Z
+date: 2022-09-30T12:27:34.848Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -210,11 +210,13 @@ Para sair do modo de contingência, clique em "**contingência (ativado)**" no m
 A mensagem abaixo será exibida, clique em <span class="mat-button mdi "> transmitir</span> para transmitir automaticamente todos os MFD-e gerados em contingência, ou em <span class="mat-button mdi "> não</span> se desejar transmiti-los manualmente. 
 Se desejar permanecer no modo de contingência, clique em <span class="mat-button mdi "> cancelar</span>.
 
-![sair_contingencia.png](/movimentos/mdf-e/sair_contingencia.png)
+![Sair contingência](/movimentos/mdf-e/sair_contingencia.png)
 
 ## Encerrar MDF-e
 
+No menu de acesso rápido localizado a direita da tela, ao clicar em "**encerrar MDF-e**" a tela abaixo será exibida. Informe a "**chave do documento**", "**nº protocolo**", "**município de encerramento**" e clique em <span class="mat-button mdi "> confirmar</span>.
 
+![Encerrar MDF-e](/movimentos/mdf-e/encerrar.png)
 
 # Configurações
 
