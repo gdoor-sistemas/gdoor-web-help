@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-09-30T11:50:11.558Z
+date: 2022-09-30T12:18:02.098Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -189,16 +189,28 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ## Contingência
 
-O modo de contingência offline pode ser acessado no menu de acesso rápido localizado a direita da tela ou através das [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#configura%C3%A7%C3%B5es).
+O modo de contingência offline pode ser acessado no menu de acesso rápido localizado a direita da tela em "**contingência (desativado)**" ou através das [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#configura%C3%A7%C3%B5es).
+
+![Contingência desativada](/movimentos/mdf-e/desativada.png)
 
 Para ativar o modo de contingência, informe o "**motivo**" e clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![Informe o motivo da entrada em contingência](/movimentos/mdf-e/contingencia.png)
 
-Os MDF-e emitidos em modo de contingência ficarão com a tag de identificação "**MDF-e emitidos em confingência offline**".
+Observe que no menu de acesso rápido a descrição será alterada para "contingência (ativado)".
+
+![Contingência ativada](/movimentos/mdf-e/ativada.png)
+
+A partir deste momento, os MDF-e emitidos ficarão com a tag de identificação "**MDF-e emitidos em confingência offline**".
 
 ![MDF-e em contingência](/movimentos/mdf-e/mdf-e_em_contingencia.png)
 
+Para sair do modo de contingênca, clique em "**contingência (ativado)**" no menu de acesso rápido.
+
+A mensagem abaixo será exibida, clique em <span class="mat-button mdi "> transmitir</span> para transmitir automaticamente todos os MFD-e gerados em contingência, ou em <span class="mat-button mdi "> não</span> se desejar transmiti-los manualmente. 
+Se desejar permanecer no modo de contingência, clique em <span class="mat-button mdi "> cancelar</span>.
+
+![sair_contingencia.png](/movimentos/mdf-e/sair_contingencia.png)
 
 ## Encerrar MDF-e
 
