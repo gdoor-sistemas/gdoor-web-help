@@ -2,11 +2,24 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-09-27T14:04:04.097Z
+date: 2022-10-04T11:14:49.388Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 03/10/2022
+f2.7.9, b3.6.8 {.versions}
+
+
+## Novidades
+- Criado método de contingência offline do MDF-e, para emissão de documentos quando o servidor da SEFAZ estiver indisponível.
+- Adicionada a funcionalidade de inclusão dos XMLs de NF-e ou CT-e ao criar o MDF-e.
+- Criado evento para adição de NF-e após a emissão do MDF-e. Permitindo inserir notas que serão emitidas após a transmissão do MDF-e.
+
+
+## Ajustes
+- Ajustadas pré-vendas de produtos com quantidades indisponíveis. Anteriormente quando o produto não tinha a quantidade vendida disponível e estivesse configurado para não permitir venda com estoque negativo, o sistema estava permitindo a venda sem mostrar uma mensagem de alerta deixando desta forma o estoque do produto negativo. Agora ao gerar uma pré-venda de produtos com estoque menor do que o informado na venda será mostrado um aviso indicando que o produto não tem o estoque necessário para finalizar a venda.
 
 # 27/09/2022
 f2.7.8, b3.6.7 {.versions}
