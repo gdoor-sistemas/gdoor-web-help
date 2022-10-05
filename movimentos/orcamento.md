@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:07:42.535Z
+date: 2022-10-05T19:16:45.641Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -41,7 +41,14 @@ No cabeçalho constam data e hora de “**emissão**” do orçamento, data e ho
 
 ### Vendedor
 
-Ao informar o vendedor no pedido de venda, ele não ficará vinculado à venda como um todo, mas sim em cada item. Por isso, ao adicionar ou alterar o vendedor, ele será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
+Ao informar o vendedor no orçamento, ele não ficará vinculado à venda como um todo, mas sim em cada item. Por isso, ao adicionar ou alterar o vendedor, ele será vinculado aos próximos itens adicionados. Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
-Para informar o vendedor no pedido de venda, basta selecionar o desejado no cabeçalho.
+Para informar o vendedor no orçamento, basta selecionar o desejado no cabeçalho.
+
+![vendedor.png](/movimentos/orçamentos/vendedor.png)
+
+### Validade
+
+
+
 
