@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T18:47:07.926Z
+date: 2022-10-05T18:54:09.024Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -17,4 +17,6 @@ No orçamento você pode indicar o [cliente](https://help.gdoorweb.com.br/pt-br/
 Os orçamentos podem ser **duplicados**, **impressos**, enviados para o cliente via **e-mail** e transformados em [pedido de venda](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos). Além disso, quando houver a confirmação da compra, o orçamento também poderá ser enviado diretamente para faturamento e geração de [NFC-e](https://help.gdoorweb.com.br/movimentos/pdv/formulario#criando-uma-nfc-e) ou [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
 Por padrão, ao acessar o módulo de orçamentos, você verá a seguinte tela:
+
+![Tela inicial](/movimentos/orçamentos/tela_inicial.png)
 
