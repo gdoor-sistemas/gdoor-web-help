@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-09-27T19:02:38.643Z
+date: 2022-10-05T19:07:35.936Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -37,7 +37,7 @@ A imagem abaixo é de um novo pedido de venda:
 
 ## Cabeçalho
 
-No cabeçalho constam data e hora de “**emissão**” do pedido de venda, data e hora de “**entrega**” e "**vendedor**".
+No cabeçalho constam data e hora de “**emissão**” do pedido de venda, data e hora de “**entrega**”, "**vendedor**" e "**origem do preço**".
 
 ### Vendedor
 
