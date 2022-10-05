@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:16:45.641Z
+date: 2022-10-05T19:20:20.225Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -45,10 +45,23 @@ Ao informar o vendedor no orçamento, ele não ficará vinculado à venda como u
 
 Para informar o vendedor no orçamento, basta selecionar o desejado no cabeçalho.
 
-![vendedor.png](/movimentos/orçamentos/vendedor.png)
+![Vendedor](/movimentos/orçamentos/vendedor.png)
 
 ### Validade
 
+É possível digitar ou informar pelo calendário a data de validade do orçamento.
 
+![Validade](/movimentos/orçamentos/validade.png)
+
+### Origem do preço
+
+Selecione o preço que será aplicado no orçamento: [venda ou atacado](https://help.gdoorweb.com.br/pt-br/cadastros/produtos).
+
+> Para selecionar o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada nos **pedidos**. 
+{.is-info}
+
+Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
+
+![Origem do preço](/movimentos/orçamentos/origem_do_preço.gif)
 
 
