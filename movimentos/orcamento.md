@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:20:20.225Z
+date: 2022-10-05T19:20:58.052Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -63,5 +63,12 @@ Selecione o preço que será aplicado no orçamento: [venda ou atacado](https://
 Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
 ![Origem do preço](/movimentos/orçamentos/origem_do_preço.gif)
+
+## Cliente
+
+Informar o cliente no orçamento é opcional, caso nenhum cliente seja informado, será indicado automaticamente "**consumidor final**".   
+Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, telefone** ou **e-mail**.
+
+**<em class="mdi mdi-checkbox-blank-outline"></em> Informar endereço de entrega**: ao marcar o checkbox é possível selecionar o endereço para entrega entre os [endereços cadastrados do cliente](/cadastros/pessoas#endereços).
 
 
