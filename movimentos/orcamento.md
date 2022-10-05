@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:20:58.052Z
+date: 2022-10-05T19:21:31.896Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -70,5 +70,7 @@ Informar o cliente no orçamento é opcional, caso nenhum cliente seja informado
 Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, telefone** ou **e-mail**.
 
 **<em class="mdi mdi-checkbox-blank-outline"></em> Informar endereço de entrega**: ao marcar o checkbox é possível selecionar o endereço para entrega entre os [endereços cadastrados do cliente](/cadastros/pessoas#endereços).
+
+![Endereço de entrega](/movimentos/orçamentos/endereço_de_entrega.gif)
 
 
