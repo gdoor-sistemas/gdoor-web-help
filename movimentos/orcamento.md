@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:21:31.896Z
+date: 2022-10-05T19:37:08.104Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -72,5 +72,11 @@ Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, te
 **<em class="mdi mdi-checkbox-blank-outline"></em> Informar endereço de entrega**: ao marcar o checkbox é possível selecionar o endereço para entrega entre os [endereços cadastrados do cliente](/cadastros/pessoas#endereços).
 
 ![Endereço de entrega](/movimentos/orçamentos/endereço_de_entrega.gif)
+
+## Produtos
+
+Você pode adicionar um produto clicando no ícone laranja conforme demonstrado na imagem abaixo ou utilizando a tecla <span class="mat-button mdi "> insert</span> do teclado. É possível lançar um produto informando o **código, código de barras** ou buscando pela **descrição**. 
+
+![Produtos](/movimentos/orçamentos/produtos.png)
 
 
