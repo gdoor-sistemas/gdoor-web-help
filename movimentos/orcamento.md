@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T11:46:18.832Z
+date: 2022-10-06T13:21:02.636Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -110,12 +110,12 @@ Campo para preenchimento de informações adicionais ao orçamento.
 
 # Lista
 
-Na tela de lista, você visualiza os orçamentos efetuados e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza os orçamentos emitidos e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
-No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os orçamentos em partes para não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas < >.
+{.is-info}
 
-![Paginação](/movimentos/orçamentos/paginação.png)
-
+As informações mostradas variam de acordo com a situação atual do orçamento exibido na lista, veja mais detalhes abaixo:
 
 
 
