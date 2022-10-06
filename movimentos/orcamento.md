@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T18:20:58.695Z
+date: 2022-10-06T19:28:46.487Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -188,8 +188,33 @@ Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi
 
 ![Filtrar](/movimentos/orçamentos/filtrar.png)
 
+No painel de filtros destacado na imagem acima temos:
 
+<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro. 
 
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
+Para definir um filtro como padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+![Opções do filtro](/movimentos/orçamentos/filtros_padrao.png)
+
+> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**: 
+![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+{.is-success .gw .gw-tip}
+
+As opções de filtro são as seguintes:
+
+-   **Cliente/Fornecedor**;
+-   **Usuário**;
+-   **Vendedor**;
+-   **Status**;
+-   **Data inicial**;
+-   **Data final**.
+
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
+
+![Limpar filtro](/movimentos/orçamentos/limpar_filtro.png)
 
 
 
