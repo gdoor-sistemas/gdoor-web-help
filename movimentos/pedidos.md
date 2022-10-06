@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-10-06T11:08:52.404Z
+date: 2022-10-06T11:22:48.789Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -84,7 +84,7 @@ Para poder adicionar serviços no pedido de venda, você precisa habilitar o uso
 Para adicionar serviços no pedido de venda, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo ou utilizar as teclas <span class="mat-button mdi "> shift</span> + <span class="mat-button mdi "> insert</span> no teclado.
 É possível lançar um serviço pelo código numérico do serviço, digitando uma barra no campo de busca (\\ ou /) para que o sistema mostre os serviços encontrados ou digitando a descrição do serviço desejado.
 
-![Serviços](/movimentos/pedidos/serviços.png)
+![Serviços](/movimentos/pedidos/serviçoss.png)
 
 Para personalizar a ordem e os campos para visualização em tela, clique no botão de engrenagem (<em class="mdi mdi-cog"></em>)  “**mais opções para os serviços**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
@@ -94,13 +94,13 @@ Para personalizar a ordem e os campos para visualização em tela, clique no bot
 
 Para adicionar o pagamento, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo e as formas de pagamento serão exibidas.
 
-![Pagamentos](/movimentos/pedidos/pagamentos.png)
+![Pagamentos](/movimentos/pedidos/pagamentoss.png)
 
 ## Outras informações
 
 Campo para preenchimento de informações adicionais ao pedido de venda.
 
-![Outras informações](/movimentos/pedidos/outras_info.png)
+![Outras informações](/movimentos/pedidos/outras_informaçõess.png)
  
 > Nas “**configurações**” do pedido de venda, em “[informações adicionais](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#informa%C3%A7%C3%B5es-adicionais)” é possível definir uma mensagem padrão que será inserida automaticamente em todos os pedidos de venda.
 {.is-success .gw .gw-tip}
