@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T17:31:02.805Z
+date: 2022-10-06T17:33:26.788Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -138,6 +138,19 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 **<em class="mdi mdi-printer"></em> imprimir**
 
 ![Pedido gerado](/movimentos/orçamentos/pedido_gerado.png)
+
+### NFC-e gerada
+
+Após o orçamento ser enviado para NFC-e, não será mais possível editá-lo.
+
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível:
+**<em class="mdi mdi-checkbox-marked"></em> marcar**, 
+**<em class="mdi mdi-qrcode"></em> ver NFC-e**
+**<em class="mdi mdi-content-duplicate"></em> duplicar**,
+**<em class="mdi mdi-email"></em> enviar por e-mail**,
+**<em class="mdi mdi-printer"></em> imprimir**
+
+![NFC-e gerada](/movimentos/orçamentos/nfc-e_gerada.png)
 
 
 
