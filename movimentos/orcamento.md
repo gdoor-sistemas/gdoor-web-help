@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T13:21:02.636Z
+date: 2022-10-06T13:24:30.419Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -117,5 +117,7 @@ Na lista, você visualiza os orçamentos emitidos e pode fazer uma [busca](https
 
 As informações mostradas variam de acordo com a situação atual do orçamento exibido na lista, veja mais detalhes abaixo:
 
+### Editar orçamento
 
+Para os orçamentos com status "**em aberto**" há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse.
 
