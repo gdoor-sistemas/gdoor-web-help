@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T11:14:35.480Z
+date: 2022-10-06T11:46:18.832Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -107,6 +107,14 @@ Para adicionar o pagamento, você pode clicar no ícone laranja conforme demonst
 Campo para preenchimento de informações adicionais ao orçamento.
 
 ![Outras informações](/movimentos/orçamentos/outras_informações.png)
+
+# Lista
+
+Na tela de lista, você visualiza os orçamentos efetuados e pode fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
+
+No quadro da lista, na barra superior, você encontra o controle de paginação, que permite visualizar os orçamentos em partes para não carregar todos de uma vez. Você pode escolher o tamanho da página, ou seja, a quantidade de itens a cada carregamento, além de poder navegar entre as páginas.
+
+![Paginação](/movimentos/orçamentos/paginação.png)
 
 
 
