@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-10-06T18:15:39.113Z
+date: 2022-10-06T19:29:40.311Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -221,7 +221,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
--   **Cliente/Fornecedor**;
+-   **Cliente/fornecedor**;
 -   **Usuário**;
 -   **Vendedor**;
 -   **Status**;
