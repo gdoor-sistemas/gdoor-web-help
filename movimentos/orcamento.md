@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T18:08:45.100Z
+date: 2022-10-06T18:20:58.695Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -169,9 +169,24 @@ Você pode ativar o modo de **seleção múltipla** ao clicar em (<em class="mdi
 > Só é possível marcar os orçamentos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar).
 {.is-info}
 
+## Buscar
 
+Para localizar um orçamento, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
+![Buscar](/movimentos/orçamentos/busca.png)
 
+> O que você digitar será buscado entre as seguintes informações do orçamento:  
+> **Campos numéricos**: código de barras, código do produto, número da nota;  
+> **Campos textuais**: razão social, nome fantasia do cliente, nome dos produtos.
+{.is-success .gw .gw-tip}
+
+## Filtrar
+
+Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+
+![Filtrar](/movimentos/orçamentos/filtrar.png)
 
 
 
