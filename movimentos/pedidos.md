@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-10-06T13:23:09.995Z
+date: 2022-10-06T18:13:35.608Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -123,6 +123,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 5.  [Menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) a serem executadas com o pedido de venda em questão.
 
 ### Editar pedido
+
 Para os pedidos da lista que ainda não foram faturados (com status aberto), há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse.
 
 ### Ações
@@ -193,8 +194,8 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 ![digite para buscar](/movimentos/compras/busca.png)
 
 > O que você digitar será buscado entre as seguintes informações do pedido de venda:  
-> **Campos numéricos**: código de barras e código do produto, número da nota;  
-> **Campos textuais**: razão social e nome fantasia do cliente e nome dos produtos.
+> **Campos numéricos**: código de barras, código do produto e número da nota;  
+> **Campos textuais**: razão social, nome fantasia do cliente e nome dos produtos.
 {.is-success .gw .gw-tip}
 
 ## Filtrar
