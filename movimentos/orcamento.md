@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T14:25:36.809Z
+date: 2022-10-06T16:44:26.939Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -123,7 +123,7 @@ Note que enquanto o orçamento estiver **em aberto** será possível **editá-lo
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>), será possível:
 **<em class="mdi mdi-checkbox-marked"></em> marcar**, 
-**<em class="mdi mdi-br-map"></em> gerar NF-e**  
+**![br-map.png](/comum/br-map.png){.inline} gerar NF-e**  
 **<em class="mdi mdi-qrcode"></em> gerar NFC-e**   
 **<em class="mdi mdi-file-document-check"></em> gerar pedido**   
 **<em class="mdi mdi-content-duplicate"></em> duplicar**   
