@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T18:06:50.345Z
+date: 2022-10-06T18:08:45.100Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -166,7 +166,8 @@ Você pode ativar o modo de **seleção múltipla** ao clicar em (<em class="mdi
 
 ![Seleção múltipla](/movimentos/orçamentos/seleção_multipla.gif)
 
-
+> Só é possível marcar os orçamentos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/orcamento#filtrar).
+{.is-info}
 
 
 
