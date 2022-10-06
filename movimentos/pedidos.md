@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-10-05T19:19:36.033Z
+date: 2022-10-06T11:08:52.404Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -86,7 +86,7 @@ Para adicionar serviços no pedido de venda, você pode clicar no ícone laranja
 
 ![Serviços](/movimentos/pedidos/serviços.png)
 
-Para personalizar a ordem e os campos para visualização em tela, para isso clique no botão de engrenagem (<em class="mdi mdi-cog"></em>)  “**mais opções para os serviços**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
+Para personalizar a ordem e os campos para visualização em tela, clique no botão de engrenagem (<em class="mdi mdi-cog"></em>)  “**mais opções para os serviços**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
 ![Mais opções para os serviços](/movimentos/pedidos/opções_serviços.png)
 
