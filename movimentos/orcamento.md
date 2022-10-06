@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T19:30:49.813Z
+date: 2022-10-06T19:36:42.755Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -218,8 +218,23 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ![Limpar filtro](/movimentos/orçamentos/limpar_filtro.png)
 
+# Configurações do orçamento
 
+Neste tópico você verá o que pode ser configurado no orçamento.
 
+## Comportamento
+
+Nesta seção você configura como o sistema deve se comportar em determinadas situações.
+
+**Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo orçamento.
+
+![Comportamento](/movimentos/orçamentos/comportamento.png)
+
+## Validade
+
+Nesta seção você pode configurar a quantidade de dias que um orçamento é valido.
+
+![Validade](/movimentos/orçamentos/validade_conf.png)
 
 
 
