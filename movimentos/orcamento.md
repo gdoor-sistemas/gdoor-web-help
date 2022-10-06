@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-05T19:37:08.104Z
+date: 2022-10-06T11:08:17.953Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -79,4 +79,15 @@ Você pode adicionar um produto clicando no ícone laranja conforme demonstrado 
 
 ![Produtos](/movimentos/orçamentos/produtos.png)
 
+É possível personalizar a ordem e os campos para visualização em tela, para isso clique no botão (<em class="mdi mdi-cog"></em>)  “**mais opções para os produtos**”, em seguida em “**colunas**” e marque/desmarque e mova os campos para a ordem que desejar.
 
+![Personalizar](/movimentos/orçamentos/personalizar.png)
+
+## Serviços
+
+Para poder adicionar serviços no orçamento, você precisa habilitar o uso de serviços no sistema nas [configurações](https://help.gdoorweb.com.br/configuracoes/geral), e depois [cadastrar os serviços](https://help.gdoorweb.com.br/cadastros/servicos).
+
+Para adicionar serviços no orçamento, você pode clicar no ícone laranja conforme demonstrado na imagem abaixo ou utilizar as teclas <span class="mat-button mdi "> shift</span> + <span class="mat-button mdi "> insert</span> no teclado.
+É possível lançar um serviço pelo código numérico do serviço, digitando uma barra no campo de busca (\\ ou /) para que o sistema mostre os serviços encontrados ou digitando a descrição do serviço desejado.
+
+![Opções serviços](/movimentos/orçamentos/opções_serviços.png)
