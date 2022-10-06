@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-06T19:28:46.487Z
+date: 2022-10-06T19:30:49.813Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -205,12 +205,14 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 As opções de filtro são as seguintes:
 
--   **Cliente/Fornecedor**;
+-   **Cliente/fornecedor**;
 -   **Usuário**;
 -   **Vendedor**;
--   **Status**;
--   **Data inicial**;
--   **Data final**.
+-   **Data inicial (emissão)**;
+-   **Data final (emissão)**;
+-   **Data inicial (validade)**;
+-   **Data final (validade)**;
+-   **Status**.
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
