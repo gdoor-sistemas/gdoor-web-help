@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-07T12:35:42.843Z
+date: 2022-10-07T12:36:53.255Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -69,7 +69,7 @@ Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 Informar o cliente no orçamento é opcional, caso nenhum cliente seja informado, será indicado automaticamente "**consumidor final**".   
 Para indicar um cliente é possível buscá-lo por **nome, CPF/CNPJ, código, telefone** ou **e-mail**.
 
-**<em class="mdi mdi-checkbox-blank-outline"></em> Informar endereço de entrega**: ao marcar o checkbox é possível selecionar o endereço para entrega entre os [endereços cadastrados do cliente](/cadastros/pessoas#endereços).
+**<em class="mdi mdi-checkbox-blank-outline"></em> Informar endereço de entrega**: ao marcar o checkbox é possível selecionar o endereço para entrega entre os [endereços cadastrados do cliente](https://help.gdoorweb.com.br/cadastros/pessoas#endere%C3%A7os).
 
 ![Endereço de entrega](/movimentos/orçamentos/endereço_de_entrega.gif)
 
