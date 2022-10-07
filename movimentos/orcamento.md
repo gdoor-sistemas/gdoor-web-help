@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: false
-date: 2022-10-07T12:34:25.235Z
+date: 2022-10-07T12:35:10.081Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -57,7 +57,7 @@ Para informar o vendedor no orçamento, basta selecionar o desejado no cabeçalh
 
 Selecione o preço que será aplicado no orçamento: [venda ou atacado](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#detalhes).
 
-> Para selecionar o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada nos **pedidos**. 
+> Para selecionar o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes#usu%C3%A1rios) para "**alternar para preço de atacado**" marcada nos **pedidos**. 
 {.is-info}
 
 Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
