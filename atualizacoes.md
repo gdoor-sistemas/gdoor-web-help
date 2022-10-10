@@ -2,11 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-04T11:14:49.388Z
+date: 2022-10-10T11:44:16.805Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 09/10/2022
+f2.8.0, b3.7.0 {.versions}
+
+
+## Novidades
+- Adicionada a funcionalidade de Orçamento 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/orcamento).
+
 
 # 03/10/2022
 f2.7.9, b3.6.8 {.versions}
