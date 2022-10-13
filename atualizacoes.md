@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-10T11:44:16.805Z
+date: 2022-10-13T14:51:12.099Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 13/10/2022
+f2.8.0, b3.7.1 {.versions}
+
+## Ajustes
+- Ajustada data de saída/entrada na Nota de Complemento. Anteriormente a data saída na NF-e era preenchida automaticamente, agora é possível deixá-la em branco, o que estava gerando um erro na nota de complemento pois neste caso esperava-se que este campo estivesse preenchido no XML.
 
 # 09/10/2022
 f2.8.0, b3.7.0 {.versions}
