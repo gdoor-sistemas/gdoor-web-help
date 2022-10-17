@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-13T14:51:12.099Z
+date: 2022-10-17T11:03:37.261Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/10/2022
+f2.8.1, b3.7.2 {.versions}
+
+## Ajustes
+- Corrigida a Nota Conjugada que estava mesclando dados ao gerar o XML. Ao gerar uma Nota Conjugada e inserir os serviços antes dos produtos o sistema esta trazendo informações de produtos junto como os serviços.
+- Ajustado o nome nos detalhes dos produtos que compõe a grade. Atualmente, ao adicionar uma grade ao produto, o sistema utiliza o mesmo nome do produto “pai” nos detalhes dos produtos “filhos”, o mesmo ocorre ao editar o nome do produto. Agora quando o produto possui uma grade para cada detalhe filho, será apresentado no nome a composição das dimensões da grade, para que este valor seja exibido nos documentos fiscais e telas.
+- Corrigida a Nota de Ajuste que não estava somando o total de produtos ao total da nota. 
+- Corrigida a discrepância entre as datas consideradas em filtros e as datas que são exibidas na listagem/relatório. A partir de agora uma das datas utilizadas nos filtros e nas listas passa a ser a data de emissão e não mais a data da criação.
+- Removido botão de duplicar Nota de Complemento. Visto que uma nota de complemento é sempre relacionada a uma nota original, não haveria motivo para clonar uma nota de complemento.
+- Corrigido campo de informações adicionais no produto dentro da NF-e. Anteriormente o campo permitia digitar até 500 caracteres, mas ao salvar apresentava mensagem indicando que o campo deveria ser menor que 250 caracteres.
 
 # 13/10/2022
 f2.8.0, b3.7.1 {.versions}
