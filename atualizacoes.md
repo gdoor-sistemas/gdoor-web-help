@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-17T11:04:07.628Z
+date: 2022-10-17T18:06:36.423Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 17/10/2022
+f2.8.1, b3.7.3 {.versions}
+
+## Ajustes
+- Corrigido Relatório de Movimentos Completo que não estava gerando dados com notas emitidas sem data de saída.
 
 # 16/10/2022
 f2.8.1, b3.7.2 {.versions}
