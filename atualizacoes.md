@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-17T18:06:36.423Z
+date: 2022-10-19T16:28:06.494Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 19/10/2022
+f2.8.1, b3.7.5 {.versions}
+
+## Ajustes
+- Corrigido MDF-e que não carregava dados a partir do XML. Quando criado um MDF-e onde o veículo utilizado estava sem o campo "Capacidade (kg)" preenchido, ao tentar autorizar o MDF-e apresentava erro pela falta desta informação.
 
 # 17/10/2022
 f2.8.1, b3.7.3 {.versions}
