@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-19T16:28:06.494Z
+date: 2022-10-27T19:46:28.948Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 27/10/2022
+f2.8.1, b3.7.5 {.versions}
+
+## Ajustes
+- Corrigida as pré-vendas que eram divididas em dois pagamentos. Alterada a validação de troco com base no arredondamento de valores.
 
 # 19/10/2022
 f2.8.1, b3.7.5 {.versions}
