@@ -2,11 +2,32 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-27T19:49:25.725Z
+date: 2022-10-31T10:40:37.480Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 30/10/2022
+f2.8.2, b3.7.7 {.versions}
+
+## Novidades
+- Criado relatório de produtos vendidos por CFOP e situação tributária.
+- Acrescentado indicador de status nos orçamentos. Agora é possível ver o status do orçamento na tela de detalhes.
+
+## Ajustes
+- Ajustado pedido/orçamento que ao editar a opção de exclusão não estava funcionando.
+- Ajustado o relatório "Movimentos NFC-e". Agora este relatório apresenta um filtro onde é possível selecionar apenas as NFC-e, pré-venda ou ambas.
+- Corrigido XML do MDF-e que não estava gerando a tag do responsável técnico.
+- Corrigido endereço de entrega que mesmo depois de desmarcado continuava sendo apresentado. Ao editar uma nota com endereço de entrega e desmarcar esta opção o sistema não estava removendo esta marcação ao salvar.
+- Ajustado parcelamento das receitas. Ao lançar manualmente uma receita parcelada e repetir o valor a mesma não estava respeitando e ordenando as datas corretamente.
+- Corrigida quebra de sequência nos itens da NF-e. Ao remover um item da NF-e o sistema não estava reordenando os produtos gerando uma sequência incorreta e posteriormente rejeição.
+- Melhorada mensagem de erro da validação do XML na NF-e. O sistema apresentava uma mensagem genérica, agora mostra uma de fácil entendimento pelo usuário auxiliando na correção do erro.
+- Ajustada a mensagem do MD-e ao consultar pela primeira vez. Anteriormente quando consultávamos pela primeira vez e o NSU não estava preenchido apresentava mensagem de erro, agora se não estiver preenchido o sistema automaticamente coloca o número 1.
+- Ajustado documentos referenciados que não estavam gravando a IE. Ao referenciar um documento do tipo "Nota fiscal de produtor" ao editar não estava salvando a informação corretamente.
+- Ajustado para que o usuário possa optar entre manter a data de saída na NF-e (que será inserida automaticamente) ou caso queira poderá retirá-la da nota.
+- Corrigido no endereço de entrega o campo "Número" para que aceite caracteres especiais quando no endereço em questão não houver número (exemplo: s/n, sn, s.n).
+- Ajustado para que nos impostos os campos de "MVA" e "% diferimento ICMS" aceitem 3 caracteres antes da vírgula.
 
 # 27/10/2022
 f2.8.1, b3.7.5 {.versions}
