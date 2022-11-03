@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-03T12:53:47.807Z
+date: 2022-11-03T14:24:48.429Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 03/11/2022
-f2.9.1 {.versions}
+f2.9.1, b3.8.1 {.versions}
 
 ## Ajustes
 - Corrigida a edição de NF-e/NFC-e e orçamentos/pedidos que ao clicar no produto não estava mostrando a guia tributos.
+- Ajustada mensagem de validação na NFC-e quando itens forem incluídos e deletados quebrando a sequencia da numeração dos itens.
 
 # 02/11/2022
 f2.9.0, b3.8.0 {.versions}
