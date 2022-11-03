@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-10-31T10:40:37.480Z
+date: 2022-11-03T11:13:15.522Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 02/11/2022
+f2.9.0, b3.8.0 {.versions}
+
+## Novidades
+- Adicionada a funcionalidade de Tabela de Preços 🎉.
+
+## Ajustes
+- Reformuladas mensagens de alerta no MDF-e. Foram revisadas algumas mensagens de alerta para que fique de fácil entendimento para o usuário facilitando assim a correção de alguns erros.
+- Corrigida exclusão do cadastro de veículos. Ao cadastrar um veículo e utilizá-lo em uma MDF-e, quando excluído o veículo estava apagando também o MDF-e relacionado ao veículo excluído.
+- Ajustado parâmetro de impressão do orçamento. Não estava sendo possível gerar a tela de impressão.
 
 # 30/10/2022
 f2.8.2, b3.7.7 {.versions}
