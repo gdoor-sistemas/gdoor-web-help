@@ -2,17 +2,19 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-04T13:23:23.633Z
+date: 2022-11-04T18:19:42.257Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 04/11/2022
-f2.9.1, b3.8.4 {.versions}
+f2.9.1, f2.9.2, b3.8.4, b3.8.5 {.versions}
 
 ## Ajustes
 - Corrigida a busca de produtos por referência. Anteriormente não estava sendo possível localizar produtos com referência na NF-e e NFC-e.
+- Corrigido erro ao salvar as informações no cadastro do emitente. O problema acontecia pois havia um veículo vinculado ao emitente, e o mesmo não era carregado para exibir os detalhes no cadastro do emitente. Foi ajustado para carregar o detalhe do veículo para não apresentar mais a mensagem.
+- Ajustado desconto no lançamento do produto. Na NF-e, na tela de pesquisa de produto, as opções do desconto eram as mesmas que apareciam ao clicar no valor unitário. Antes era possível escolher o desconto em dinheiro ou o desconto por percentual.
 
 # 03/11/2022
 f2.9.1, b3.8.1 {.versions}
