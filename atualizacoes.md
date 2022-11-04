@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-03T14:25:04.026Z
+date: 2022-11-04T13:23:23.633Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 04/11/2022
+f2.9.1, b3.8.4 {.versions}
+
+## Ajustes
+- Corrigida a busca de produtos por referência. Anteriormente não estava sendo possível localizar produtos com referência na NF-e e NFC-e.
 
 # 03/11/2022
 f2.9.1, b3.8.1 {.versions}
