@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-08T11:56:11.456Z
+date: 2022-11-08T13:55:22.929Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/11/2022
+f2.9.3 {.versions}
+
+## Ajustes
+- Corrigido erro no console ao selecionar uma pessoa que não é cliente na NF-e.
 
 # 04/11/2022
 f2.9.1, f2.9.2, b3.8.4, b3.8.5 {.versions}
