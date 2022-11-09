@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-09-19T18:31:16.093Z
+date: 2022-11-09T17:01:36.932Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -203,3 +203,5 @@ Após incluir os itens que irão compor o kit, basta clicar em <span class="mat-
 Lista dos kits cadastrados:
 
 ![Lista de kits](/produtos/lista_kits.png)
+
+# Tabelas de preços
