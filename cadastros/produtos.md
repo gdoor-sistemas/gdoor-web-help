@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-09T17:14:55.525Z
+date: 2022-11-09T17:45:47.897Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -211,4 +211,8 @@ Com as tabelas de preços é possível **definir preços diferenciados** para de
 > Por exemplo: **tabela à vista** e **tabela cartão crédito**.
 Na venda, o preço será exibido como **preço de venda** (de acordo com a tabela selecionada) e **não haverá destaque** de **descontos** ou **acréscimos**.
 > {.is-success}
+
+Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
+
+Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi mdi-barcode"></em>) "**adicionar item**".
 
