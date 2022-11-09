@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-09T17:45:47.897Z
+date: 2022-11-09T17:54:18.418Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -185,7 +185,7 @@ O kit configura um **único produto**, que contém vários itens dentro dele. Is
 > Para trabalhar em conformidade com a legislação, é importante ter cuidado para que o seu kit de produtos não se enquadre como uma *venda casada*. Para evitar essa situação, lembre-se de sempre oferecer também a opção do consumidor levar os itens do kit separadamente.
 {.is-info}
 
-Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
+Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso kits no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
 
 Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi mdi-barcode"></em>) "**adicionar item**".
 
@@ -212,7 +212,9 @@ Com as tabelas de preços é possível **definir preços diferenciados** para de
 Na venda, o preço será exibido como **preço de venda** (de acordo com a tabela selecionada) e **não haverá destaque** de **descontos** ou **acréscimos**.
 > {.is-success}
 
-Para **adicionar um kit**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso grades no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
+Para **adicionar uma tabela de preço**, clique no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso tabelas de preços no painel lateral da página, ou no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela.
+
+
 
 Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi mdi-barcode"></em>) "**adicionar item**".
 
