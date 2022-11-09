@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-09T19:03:47.232Z
+date: 2022-11-09T19:07:28.209Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -218,9 +218,9 @@ Para **cadastrar uma tabela de preço**, clique no botão de adição (<em class
 
 ### Identificação
 
-- **Nome da tabela de preços**: descrição da tabela
-- **Fator de ajuste**: porcentagem de ajuste no preço
-- **Tipo de ajuste**: desconto ou acréscimo
+- **Nome da tabela de preços**: descrição da tabela.
+- **Fator de ajuste**: porcentagem de ajuste no preço.
+- **Tipo de ajuste**: desconto ou acréscimo.
 - <em class="mdi mdi-checkbox-blank-outline"></em> **Ajustar valores para terminar com R$ x,99**: todos os produtos dessa tabela, terão o valor final alterado para x,99.
 
 ### Produtos
@@ -231,3 +231,7 @@ Em seguida, clique em <span class="mat-button mdi "> confirmar</span>.
 - <em class="mdi mdi-calculator"></em> **Calcular valores**: todos os valores da tabela serão recalculados e substituídos.
 Clique em <span class="mat-button mdi "> continuar</span> para substituir os valores.
 
+-  <em class="mdi mdi-delete"></em> **Limpar tabela**: todos os itens serão removidos.
+Clique em <span class="mat-button mdi "> continuar</span> para limpar a tabela.
+
+Após efetuar a configuração deseja, clique em <span class="mat-button mat-accent">salvar</span>.
