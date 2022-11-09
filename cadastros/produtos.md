@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-09T17:01:36.932Z
+date: 2022-11-09T17:14:55.525Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -205,3 +205,10 @@ Lista dos kits cadastrados:
 ![Lista de kits](/produtos/lista_kits.png)
 
 # Tabelas de preços
+
+Com as tabelas de preços é possível **definir preços diferenciados** para determinados produtos e/ou clientes de acordo com a forma de pagamento e negociação utilizada, **sem que haja discriminação de desconto ou acréscimo na venda**.
+
+> Por exemplo: **tabela à vista** e **tabela cartão crédito**.
+Na venda, o preço será exibido como **preço de venda** (de acordo com a tabela selecionada) e **não haverá destaque** de **descontos** ou **acréscimos**.
+> {.is-success}
+
