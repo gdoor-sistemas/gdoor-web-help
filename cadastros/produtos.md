@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-10T11:30:39.665Z
+date: 2022-11-10T11:42:51.930Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -236,4 +236,10 @@ Clique em <span class="mat-button mdi "> continuar</span> para limpar a tabela.
 
 - <em class="mdi mdi-checkbox-blank-outline"></em> **Mostrar somente itens com preço de tabela zerado**: exibe os itens sem valor definido.
 
+![Tabela acréscimo](/produtos/tabela_acres.png)
+
 Após efetuar a configuração deseja, clique em <span class="mat-button mat-accent">salvar</span>.
+
+Lista das tabelas de preços cadastradas:
+
+![Lista tabelas](/produtos/lista_tabelas.png)
