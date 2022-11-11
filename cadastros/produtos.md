@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-10T11:42:51.930Z
+date: 2022-11-11T18:43:30.539Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -14,7 +14,7 @@ Este módulo permite que você cadastre os produtos e kits, que serão utilizado
 
 Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
 
-![Tela inicial do módulo](/produtos/1_novo.png)
+![Tela inicial do módulo](/produtos/protudos2022.png)
 
 # Cadastrar produto
 
