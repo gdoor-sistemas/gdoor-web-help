@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-08T13:59:36.845Z
+date: 2022-11-11T11:49:10.846Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 10/11/2022
+b3.8.6 {.versions}
+
+## Ajustes
+- Ajustada opção de salvar configurações do PDV. O sistema estava exigindo o preenchimento do campo de comportamento da tabela de preços no request, mesmo quando não era necessário.
 
 # 08/11/2022
 f2.9.3 {.versions}
