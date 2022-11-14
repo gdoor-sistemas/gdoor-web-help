@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-11T11:49:10.846Z
+date: 2022-11-14T10:53:55.350Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 13/11/2022
+f2.9.4, b3.8.8, b3.8.7 {.versions} 
+
+## Novidades
+- Criada configuração no cadastro de produtos para envio de informações ao Ghub.
+
+## Ajustes
+- Corrigido erro ao habilitar novos clientes. Ao criar novos clientes no Gweb, mesmo sem habilitar o módulo de NFS-e, o sistema estava tentando enviar essa integração, e por não ter os dados necessários, estava gerando erro.
+- Corrigido erro de carregamento na imagem de perfil do usuário.
+- Ajustada retorno na mensagem de validação no MDF-e. Em situações especifícas ao transmitir um MDF-e com erro de validação no XML não estava retornando a mensagem de validação.
 
 # 10/11/2022
 b3.8.6 {.versions}
