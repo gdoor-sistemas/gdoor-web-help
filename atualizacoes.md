@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-14T10:56:54.058Z
+date: 2022-11-16T17:55:12.327Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/11/2022
+f2.9.4, b3.8.10 {.versions} 
+
+## Ajustes
+- Ajustada a importação da base de dados que estava apresentando falha na importação de arquivos com planos de contas. 
 
 # 13/11/2022
 f2.9.4, b3.8.8, b3.8.7 {.versions} 
