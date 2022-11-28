@@ -2,11 +2,23 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-11-16T17:55:12.327Z
+date: 2022-11-28T11:26:15.183Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 28/11/2022
+f2.9.5, b3.8.11 {.versions} 
+
+## Novidades
+- Criado controle de monitoramento das ações durante a comunicação do sistema com a FocusNfe.
+
+## Ajustes
+- Corrigido problema ao editar uma NF-e com forma de pagamento informado. Anteriormente ao informar um tipo de pagamento na Nf-e e salvar, quando o produto precisava ser editado a forma de pagamento automaticamente era excluída.
+- Corrigido problema nos detalhes de notas com endereço de entrega. Ao autorizar uma NF-e com endereço de entrega onde o recebedor era PJ, e deixar em branco os campos IE e telefone depois de transmitida não era possível visualizar os detalhes da mesma.
+- Ajustado Relatório de documentos fiscais emitidos para que sejam apresentadas as notas de devolução ao filtrar.
+- Ajustada edição de produtos no PDV quando acessado pelo Iphone. Foi adicionado um botão para abrir o menu de contexto nos dispositivos móveis.
 
 # 16/11/2022
 f2.9.4, b3.8.10 {.versions} 
