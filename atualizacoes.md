@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-01T19:16:19.538Z
+date: 2022-12-07T14:40:59.352Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 07/12/2022
+f2.9.6, b3.8.18 {.versions} 
+
+## Ajustes
+- Ajustada verificação incorreta no módulo de NF-e. O sistema estava verificando se o módulo de NF-e estava habilitado ao acessar o módulo de NFS-e.
 
 # 01/12/2022
 f2.9.6, b3.8.11 {.versions} 
