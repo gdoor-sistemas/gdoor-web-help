@@ -2,11 +2,24 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-07T14:40:59.352Z
+date: 2022-12-12T10:56:34.846Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 11/12/2022
+f2.9.7, b3.8.19, b3.8.20 {.versions} 
+
+## Novidades
+- Criada a funcionalidade de editar/excluir compras já concluídas.
+- Criado relatório de Lucro.
+
+## Ajustes
+- Ajustada exibição do XML do resumo da NF-e. Na manifestação não estava sendo exibido o XML do resumo da NF-e.
+- Corrigido cadastro do emitente/pessoa que não estava gravando dados do transportador. Ao abrir o cadastro do emitente ou o cadastro de pessoa, caso ela tenha o atributo de Transportador, não estava trazendo os dados que estavam informados anteriormente.
+- Corrigida ordenação dos produtos na NFC-e que estavam ficando errados quando os produtos eram excluídos da venda.
+- Ajustada foto do emitente que não estava aparecendo no menu principal.
 
 # 07/12/2022
 f2.9.6, b3.8.18 {.versions} 
