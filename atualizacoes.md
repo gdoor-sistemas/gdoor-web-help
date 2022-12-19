@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-12T10:56:34.846Z
+date: 2022-12-19T16:46:30.400Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 19/12/2022
+f2.9.7, b.3.8.21 {.versions} 
+
+## Ajustes
+- Ajustado limite para criação de grades. Anteriormente o sistema permitia a criação de 50 grades, agora esse número passa a ser 150.
 
 # 11/12/2022
 f2.9.7, b3.8.19, b3.8.20 {.versions} 
