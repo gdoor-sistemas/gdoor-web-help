@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-19T16:46:30.400Z
+date: 2022-12-22T11:35:11.284Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 21/12/2022
+f2.9.8, b3.8.22 {.versions} 
+
+## Ajustes
+- Ajustada a Nota Conjugada que não estava calculando as retenções.
+- Corrigido erro de data nos parcelamentos das receitas/despesas. Anteriormente não estava registrando corretamente as datas.
+- Ajustado erro na gravação de serviços sem tributação. Agora quando não for indicada uma tributação para o serviço, será colocado automaticamente a tributação padrão.
+- Ajustado Relatório de Margem de Lucro sobre preço de venda para não exibir as compras feitas no período.
 
 # 19/12/2022
 f2.9.7, b.3.8.21 {.versions} 
