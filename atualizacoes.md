@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-22T11:35:11.284Z
+date: 2022-12-22T17:10:16.349Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/12/2022
+f2.9.9, b3.8.23 {.versions} 
+
+## Ajustes
+- Corrigido erro na edição das despesas/receitas onde ao alterar a data de vencimento não estava sendo gravada a nova data.
 
 # 21/12/2022
 f2.9.8, b3.8.22 {.versions} 
