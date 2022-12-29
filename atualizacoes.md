@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-22T17:12:36.049Z
+date: 2022-12-29T18:40:00.562Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 29/12/2022
+f2.9.9, b3.8.24 {.versions} 
+
+## Ajustes
+- Corrigido erro na nota de importação que estava gerando valores negativos na tag pRedBC.
 
 # 22/12/2022
 f2.9.9, b3.8.23 {.versions} 
