@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2022-12-29T18:40:00.562Z
+date: 2023-01-02T19:18:48.281Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 02/01/2023
+f2.9.9, b3.8.25 {.versions} 
+
+## Ajustes
+- Corrigido erro ao enviar uma NFS-e onde o campo codigo_cnae estava enviando o código de tributação do serviço.
 
 # 29/12/2022
 f2.9.9, b3.8.24 {.versions} 
