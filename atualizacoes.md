@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-02T19:18:48.281Z
+date: 2023-01-05T14:21:44.194Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/01/2023
+f2.9.10, b3.8.25 {.versions} 
+
+## Ajustes
+- Adicionado novo código de atividade no cadastro de serviço. O código adicionado corresponde ao 16.02 - Outros serviços de transporte de natureza municipal.
 
 # 02/01/2023
 f2.9.9, b3.8.25 {.versions} 
