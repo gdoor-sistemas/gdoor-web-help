@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-05T14:21:44.194Z
+date: 2023-01-05T14:36:58.713Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/01/2023
+f2.9.11, b3.8.25 {.versions} 
+
+## Ajustes
+- Corrigida falha ao fazer login no sistema. Anteriormente em algumas situações específicas ao tentar logar apresentava a mensagem “Não foi informada uma conta para login”.
 
 # 05/01/2023
 f2.9.10, b3.8.25 {.versions} 
