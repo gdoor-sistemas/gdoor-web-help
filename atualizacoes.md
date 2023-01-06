@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-05T14:36:58.713Z
+date: 2023-01-06T12:40:27.630Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 06/01/2023
+f2.9.12, b3.8.26 {.versions} 
+
+## Ajustes
+- Adicionado na NFS-e o campo "Pagador retenção ISSQN". Agora é possível escolher o responsável pela retenção do ISSQN.
 
 # 05/01/2023
 f2.9.11, b3.8.25 {.versions} 
