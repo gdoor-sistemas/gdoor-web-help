@@ -2,14 +2,21 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-16T11:42:16.236Z
+date: 2023-01-16T13:33:31.156Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
+# 16/01/2023
+f2.9.13, b3.8.35 {.versions} 
+
+## Ajustes
+- Ajustada NFC-e que apresentava falha no envio. O sistema estava buscando informações nas configurações da NF-e mesmo quando o cliente não tinha este módulo habilitado.
+
+
 # 15/01/2023
-f2.9.13, b3.8.33 {.versions} 
+f2.9.13, b3.8.34 {.versions} 
 
 ## Novidades
 - Criado campo para registrar o CST de entrada nas compras.
