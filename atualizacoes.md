@@ -2,11 +2,35 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-11T16:08:57.455Z
+date: 2023-01-16T11:42:16.236Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 15/01/2023
+f2.9.13, b3.8.33 {.versions} 
+
+## Novidades
+- Criado campo para registrar o CST de entrada nas compras.
+- Adicionado campo "Quantidade em Estoque" no relatório "Produtos por Categoria".
+- Adicionado campo para cálculo do Custo Médio no estoque.
+- Inserida opção para editar e salvar as informações adicionais da NF-e, permitindo que o usuário escolha entre utilizar a mensagem automática ou definir uma manualmente.
+- Adicionado novo código de serviço no cadastro de Serviços (14.14 - Guincho intramunicipal, guindaste e içamento).
+- Alterado o responsável técnico do sistema no XML da NF-e, NFC-e e MDF-e.
+
+## Ajustes
+- Ajustada tela de login que ficava processando os dados quando não achava uma conta ativa.
+- Ajustado o campo "Natureza da Operação" na NFS-e para que contenha naturezas de operação que são específicas para algumas cidades (Passo Fundo/RS e Guarapari/ES).
+- Retirado botão editar na NFS-e em processamento. Não é permitido editar notas em processamento, desta forma a opção foi removida para não gerar erros.
+- Corrigida a emissão de NFC-e com serviço. Anteriormente o sistema não estava permitindo inserir serviços na nota.
+- Corrigido relatório de "Movimentos NFC-e" para que não mostre compras feitas com a série zero.
+- Corrigido relatório de "Total de Vendas por meio de Pagamento". Agora ele subtrai do total o valor o troco.
+- Corrigida falha ao habilitar o módulo NFS-e pelo painel da revenda.
+- Ajustada edição de dados na NFS-e. Ao salvar uma NFS-e e editar os dados os mesmos não estavam sendo salvos.
+- Corrigido relatório de "Documentos Fiscais Emitidos" para não mostrar os documentos que foram deletados.
+- Ajustada importação de XML para calcular o custo médio. Anteriormente o sistema estava mantendo esse campo do cadastro do produto sempre zerado.
+- Ajustada na edição da NFS-e o campo desconto condicionado. O sistema estava salvando o desconto condicionado mas não estava trazendo o que foi salvo ao editar a nota.
 
 # 11/01/2023
 f2.9.12, b3.8.29 {.versions} 
