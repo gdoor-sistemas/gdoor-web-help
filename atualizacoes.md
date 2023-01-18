@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-16T19:12:17.173Z
+date: 2023-01-18T19:54:54.137Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/01/2023
+f2.9.14, b3.8.36 {.versions} 
+
+## Ajustes
+- Corrigido custo de compra ao fazer uma pré-venda com movimentação de estoque. Ao realizar uma pré-venda com movimentação de estoque o sistema estava alteando o custo da compra automaticamente.
 
 # 16/01/2023
 f2.9.14, b3.8.35 {.versions} 
