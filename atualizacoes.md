@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-18T19:54:54.137Z
+date: 2023-01-30T11:21:39.822Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 29/01/2023
+f2.9.15, b3.8.37, b3.8.38 {.versions} 
+
+## Novidades
+- Implementada a geração do Sintegra pelo módulo de Arquivos Fiscais 🎉.
+
+## Ajustes
+- Otimizado o Relatório de Inventário, foram adicionados os filtros para página inicial e livro.
 
 # 18/01/2023
 f2.9.14, b3.8.36 {.versions} 
