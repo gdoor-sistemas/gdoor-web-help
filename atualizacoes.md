@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-01-30T11:22:22.076Z
+date: 2023-02-01T12:06:42.994Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 31/01/2023
+f2.9.16, b3.8.39 {.versions} 
+
+## Ajustes
+- Corrigido total do serviço. Anteriormente ao enviar a NFS-e o sistema estava enviando o valor unitário do serviço no lugar do total (quantidade x valor do serviço).
 
 # 29/01/2023
 f2.9.15, b3.8.37, b3.8.38 {.versions} 
