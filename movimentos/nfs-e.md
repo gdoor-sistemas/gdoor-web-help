@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T19:13:00.495Z
+date: 2023-02-03T19:27:08.963Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -60,10 +60,11 @@ Busque o tomador pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o to
 ![tomador.png](/movimentos/nfse/tomador.png)
 
 ---
-- **Produtos**
+- **Serviços**
 Para buscar **produtos** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe a **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
-![produtos](/movimentos/compras/produtos.png)
+![serviços.png](/movimentos/nfse/serviços.png)
+
 
 ---
 - **Totais da compra**
