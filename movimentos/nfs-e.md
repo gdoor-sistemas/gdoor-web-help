@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:08:43.651Z
+date: 2023-02-03T20:21:53.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -98,9 +98,20 @@ Nesta seção, há duas opções:
 
 Nesta seção é possível determinar a [operação padrão](https://help.gdoorweb.com.br/pt-br/movimentos/compras#opera%C3%A7%C3%A3o-padr%C3%A3o) para novas compras e configurações referentes à [Manifestação do Destinatário eletrônica (MD-e)](https://help.gdoorweb.com.br/pt-br/movimentos/compras#manifesta%C3%A7%C3%A3o-eletr%C3%B4nica).
 
-![configurações de compras](/movimentos/compras/configurações_de_compras.png)
+![configuracoes_nfse.png](/movimentos/nfse/configuracoes_nfse.png)
 
-## Operação padrão
+
+## Certificado digital
+Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nfs-e. 
+
+> O certificado digital deve ser instalado no computador para que fique disponível para a seleção.
+{.is-success .gw .gw-tip}
+
+## Ambiente da NFS-e
+## Configurações gerais
+## Configurações da prefeitura
+## Dados da integração
+
 
 Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação escolhida por padrão.
 Após informar, clique em <span class="mat-button mdi "> salvar</span>.
@@ -109,5 +120,5 @@ Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 Informe o último **NSU** (Número Sequencial Único) para utilização no download de documentos eletrônicos, após clique em <span class="mat-button mdi "> salvar</span>.
 
-# Header
-Your content here
+# Operações
+![operacoes_serv.png](/movimentos/nfse/operacoes_serv.png)
