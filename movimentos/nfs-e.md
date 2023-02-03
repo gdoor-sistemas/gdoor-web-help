@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T18:42:39.279Z
+date: 2023-02-03T18:49:11.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -22,14 +22,14 @@ Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** d
 
 ## Buscar
 
-Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para localizar uma nota de serviço, **digite a informação no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 
  
 ![busca.png](/movimentos/nfse/busca.png)
  
 > O que você digitar será buscado entre as seguintes informações das notas de compra:  
-> **Campos numéricos**: código de barras e código do produto, número da nota;  
-> **Campos textuais**: razão social e nome fantasia do fornecedor e nome dos produtos.
+> **Campos numéricos**: número da nota;  
+> **Campos textuais**: razão social e nome fantasia do fornecedor.
 {.is-success .gw .gw-tip}
 
 ## Filtrar
