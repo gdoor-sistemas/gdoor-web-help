@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T18:49:11.004Z
+date: 2023-02-03T19:04:44.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -27,46 +27,16 @@ Para localizar uma nota de serviço, **digite a informação no campo de busca**
  
 ![busca.png](/movimentos/nfse/busca.png)
  
-> O que você digitar será buscado entre as seguintes informações das notas de compra:  
+> O que você digitar será buscado entre as seguintes informações das notas de serviço:  
 > **Campos numéricos**: número da nota;  
 > **Campos textuais**: razão social e nome fantasia do fornecedor.
 {.is-success .gw .gw-tip}
 
-## Filtrar
-
-Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
-
-![filtrar](/movimentos/compras/filtro_compra.png)
-
-No painel de filtros destacado na imagem acima temos:
-
-<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro;
-
-<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
-
-
-
-
-
-
-As opções de filtro são as seguintes:
-
--   **Fornecedor**;
--   **Usuário**;
--   **Data cadastro inicial**;
--   **Data cadastro final**;
--   **Status**;
--   **Data emissão inicial**;
--   **Data emissão final**.
-
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
-
-![](/movimentos/pedidos/limpar_filtro.png)
 
 ## Cadastrar nota de serviço
 
-Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/compras#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
-A tela "**nova compra**" será exibida.
+Para cadastrar uma nota de serviço, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
+A tela "**nova nota de serviço**" será exibida.
 
 ---
 - **Cabeçalho**
@@ -76,18 +46,18 @@ Insira os dados referente ao serviço prestado no **cabeçalho da nota**.
 
 As informações para o lançamento são as seguintes:
 
--   **Emissão**:
--   **Hora**:
--   **Código da obra**:
--   **Código ART**:
--   **Operação**:
--   **Pagador retenção ISSQN**:
+-   **Emissão**: data de emissão do documento;
+-   **Hora**: hora de emissão do documento;
+-   **Código da obra**: utilizado por empresas da construção civíl;
+-   **Código ART**: utilizado por empresas da construção civíl;
+-   **Operação**: selecionar a tributação de acordo com a cidade em que o serviço foi prestado;
+-   **Pagador retenção ISSQN**: informar o responsável pela retenção do ISSQN;
 
 ---
-- **Fornecedor**
-Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
+- **Tomador**
+Busque o tomador pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o tomador não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
-![fornecedor](/movimentos/compras/fornecedor.png)
+![tomador.png](/movimentos/nfse/tomador.png)
 
 ---
 - **Produtos**
