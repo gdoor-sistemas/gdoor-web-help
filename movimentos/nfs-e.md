@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T17:59:16.959Z
+date: 2023-02-03T18:37:40.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -16,19 +16,20 @@ Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para ve
 
 # Lista
 
-Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** de notas de serviços. Pode cadastrar nota de serviço e fazer uma [busc![busca.png](/movimentos/nfse/busca.png)a](https://help.gdoorweb.com.br/pt-br/movimentos/nfse#buscar)  para visualizar apenas dados pertinentes ao que você precisa: 
+Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** de notas de serviços. Pode cadastrar nota de serviço e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfse#buscar) para visualizar apenas dados pertinentes ao que você precisa: 
 
 
-**notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
-![lista](/movimentos/compras/lista.png)
+Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+
+![lista.png](/movimentos/nfse/lista.png)
 
 ## Buscar
 
 Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 
  
-![digite para buscar](/movimentos/compras/busca.png)
+![busca.png](/movimentos/nfse/busca.png)
  
 > O que você digitar será buscado entre as seguintes informações das notas de compra:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
@@ -47,14 +48,10 @@ No painel de filtros destacado na imagem acima temos:
 
 <span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
 
-Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
-![opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
 
-> Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
-![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
-{.is-success .gw .gw-tip}
+
+
 
 As opções de filtro são as seguintes:
 
@@ -70,16 +67,25 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ![](/movimentos/pedidos/limpar_filtro.png)
 
-## Cadastrar nota de compra
+## Cadastrar nota de serviço
 
 Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/compras#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
 
 ---
 - **Cabeçalho**
-Insira as informações constantes na nota de compra, como: **número, modelo, série, emissão, entrada** e **natureza da operação**:
+Insira os dados referente ao serviço prestado no **cabeçalho da nota**.
 
-![cabeçalho](/movimentos/compras/cabeçalhoo.png)
+![cabecalho.png](/movimentos/nfse/cabecalho.png)
+
+As informações para o lançamento são as seguintes:
+
+-   **Emissão**:
+-   **Hora**:
+-   **Código da obra**:
+-   **Código ART**:
+-   **Operação**:
+-   **Pagador retenção ISSQN**:
 
 ---
 - **Fornecedor**
