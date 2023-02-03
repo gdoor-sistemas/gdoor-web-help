@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:40:37.299Z
+date: 2023-02-03T20:54:38.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -114,12 +114,11 @@ Em algumas cidades o certificado digital é exigido para a emissão. Normalmente
 ## Configurações gerais
 
 ## Configurações da prefeitura
+Configuração necessária dependendo do webservice. Estes dados são fornecidos somente pela própria prefeitura.
 
 ## Dados da integração
 
 
-Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação escolhida por padrão.
-Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Manifestação eletrônica
 
