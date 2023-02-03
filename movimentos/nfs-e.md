@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:29:21.375Z
+date: 2023-02-03T20:30:37.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
