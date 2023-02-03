@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T17:12:38.965Z
+date: 2023-02-03T17:20:19.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-03T17:12:38.965Z
 
 # Introdução
 
-O módulo de NFSe é responsável pelo lançamento das notas dos serviços praticados pela empresa, bem como as configurações para a emissão destes documentos junto a prefeitura do seu município. 
+O módulo de NFS-e é responsável pelo lançamento das notas dos serviços praticados pela empresa, bem como as configurações para a emissão destes documentos junto a prefeitura do seu município. 
 
 Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para verificar se a sua cidade está homologada para a emissão dos documentos.
 
@@ -26,8 +26,7 @@ Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** d
 ## Buscar
 
 Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
-Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+
  
 ![digite para buscar](/movimentos/compras/busca.png)
  
