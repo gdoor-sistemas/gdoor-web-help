@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:34:06.312Z
+date: 2023-02-03T20:34:58.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -96,7 +96,7 @@ Nesta seção, há duas opções:
 
 # Configurações
 
-Nesta seção é possível determinar as configurações para a emissão da NFS-e. Alguns dados informados nete local, como [configurações da prefeitura](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#configuracoes-da-prefeitura), dependem do auxilio da contabilidade.
+Nesta seção é possível determinar as configurações para a emissão da NFS-e. Alguns dados informados nete local, como [configurações da prefeitura](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#configurações-da-prefeitura), dependem do auxilio da contabilidade.
 
 
 ![configuracoes_nfse.png](/movimentos/nfse/configuracoes_nfse.png)
