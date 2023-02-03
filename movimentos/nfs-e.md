@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:24:28.159Z
+date: 2023-02-03T20:29:21.375Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -109,7 +109,9 @@ Em algumas cidades o certificado digital é exigido para a emissão. Normalmente
 
 ## Ambiente da NFS-e
 ## Configurações gerais
-## Configurações da prefeitura
+
+# Configurações da prefeitura
+
 ## Dados da integração
 
 
