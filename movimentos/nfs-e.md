@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T19:38:46.070Z
+date: 2023-02-03T20:08:43.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -66,11 +66,21 @@ Para buscar **serviços** utilize a tecla <kbd>Insert</kbd> do teclado, ou cliqu
 ![servicos.png](/movimentos/nfse/servicos.png)
 ![lanc_serv.png](/movimentos/nfse/lanc_serv.png)
 
----
-- **Totais da compra**
-Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
+Selecionando o serviço prestado, estará disponível a guia **tributos**, onde devem ser informados os dados dos tributos do nserviço selecionado:
+![lanc_trib_serv.png](/movimentos/nfse/lanc_trib_serv.png)
 
-![totais da compra](/movimentos/compras/totais_da_compra.png)
+---
+
+- **Intermediador**
+Preencha as informações de intermediador caso a empresa prestadora do serviço seja outra empresa e não a sua.
+
+![intermediador.png](/movimentos/nfse/intermediador.png)
+
+
+- **Totais da NFS-e**
+Apresentação dos valores totais dos serviços da nota.
+
+![totais_nfse.png](/movimentos/nfse/totais_nfse.png)
 
 ---
 - **Pagamentos**
@@ -80,206 +90,9 @@ Nesta seção, há duas opções:
 
 **Adicionar pagamento**: geração da [despesa](/financeiro/despesas) no financeiro.
 
-![pagamentos](/movimentos/compras/pagamentos_1.png)
+![pagamentos.png](/movimentos/nfse/pagamentos.png)
 
 ---
-- **Transporte**
-Na seção de transporte, alguns campos são exibidos de acordo com o "**tipo de frete**" selecionado:
-
-**Sem transporte**: não haverá informação de transportadora ou veículo;
-
-**Contratado pelo remetente, destinatário** ou **terceiros**: habilita os campos para informar a transportadora e veículo;
-
-**Transporte próprio por conta do remetente ou destinatário**: habilita os campos para informar a transportadora e veículo.
-
-![transporte](/movimentos/compras/transporte.png)
-
-Após a inclusão das informações conforme a nota fiscal de compra, há opção para:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) ou **concluir compra** (<em class="mdi  mdi-check"></em>):
-
-![nota pendente](/movimentos/compras/nota_pendente.png)
-
-# Manifestação do Destinatário eletrônica (MD-e)
-
-A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa **confirme** ou **recuse** sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
-
-Através do módulo de “**compras**” no Gweb é possível informar sobre o andamento da operação na NF-e e confirmar a veracidade das informações contidas na nota.
-
-São quatro eventos possíveis: **confirmação da operação**, **desconhecimento da operação**, **operação não realizada** e **ciência da operação**.
-
-Para efetuar a manifestação é necessário ter um “**certificado digital válido**” e estar em “**ambiente de produção**”.
-
-> As configurações para a Manifestação do Destinatário eletrônica são as mesmas utilizadas nas “**configurações da NF-e**”. 
-Caso utilize apenas NFC-e, não será possível utilizar a função de manifestação, pois ela trabalha em conjunto com a NF-e.
-{.is-info}
-
-Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
-
-![compras](/compras/manifestação/1_compras.png)
-
-## Consultar 
-
-Para verificar se há notas para manifestar, clique no botão (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no **canto inferior direito da tela**.
-
-![consultar](/compras/manifestação/2_manifestação.png)
-
-Ao clicar para consultar, observe que no canto superior direito aparecerá a mensagem “**consultando novos documentos**”, isso poderá levar alguns segundos. 
-Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se houverem notas para manifestar, elas serão listadas na tela.
-
-![lista notas](/compras/manifestação/3_notas.png)
-
-### Opções
-
-Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
-
-![opções](/compras/manifestação/opções.png)
-
-Será possível:
-
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
-- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** da nota em questão;
-- <em class="mdi mdi-file-send"></em> **Manifestar-se**, abrirá a tela para informar o evento;
-- <em class="mdi mdi-download"></em> **Download XML** para baixar o arquivo;
-- <em class="mdi mdi-cart-arrow-down"></em> **Importar XML** para a nota de compra;
-- <em class="mdi mdi-refresh"></em> **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
-- <em class="mdi mdi-cancel"></em> **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
-- <em class="mdi mdi-printer"></em> **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
-
-Para visualizar apenas dados pertinentes ao que você necessita, é possível efetuar uma **busca** (<em class="mdi mdi-magnify"></em>), **filtrar** (<em class="mdi mdi-filter"></em>) e **ordenar** (<em class="mdi mdi-sort"></em>) as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
-
-![menu](/compras/manifestação/7_buscar.png)
-
-### Filtrar
-
-Os filtros (<em class="mdi mdi-filter"></em>) também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
-
-![filtros](/compras/manifestação/8_filtros.png)
-
-Opções de filtros:
-
-- **Situação**: filtrar por notas “**manifestadas**” e “**não manifestadas**”;
-- **Status**: por notas “**ignoradas**”, “**importadas**” para o compras e “**não importadas**”;
-- **Emissão inicial**: filtrar por data de emissão, informe a data de início;
-- **Emissão final**: filtrar por data de emissão, informe a data de término;
-- **Tipo do evento**: filtrar pelo evento manifestado: **confirmação da operação**, **ciência da operação**, **desconhecimento da operação** ou **operação não realizada**.
-
-Após informar o filtro desejado, basta clicar em <span class="mat-button mdi "> APLICAR</span>.
-
-### Tags
-
-De acordo com o status e eventos informados, tags serão adicionadas as notas:
-
-![tags](/compras/manifestação/tags.png)
-
-### Ordenar 
-
-Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
-
-![ordenar](/compras/manifestação/9_ordenar.png)
-
-## Eventos
-
-São quatro eventos disponíveis:
-
-### Ciência da operação
-
-Utilizado quando no retorno da consulta tiver apenas o "**resumo da NF-e**". Ele registra a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido o download do arquivo XML.
-
-> Este evento não representa a manifestação do destinatário sobre a operação, sua finalidade é a obtenção do arquivo XML. 
-{.is-warning}
-
-### Confirmação da operação
-
-Confirma a operação e o recebimento da mercadoria (para operações com circulação de mercadoria).
-
-> Após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
-{.is-success}
-
-### Operação não realizada
-
-Este evento será informado pelo destinatário, quando por algum motivo, a operação legalmente acordada entre as partes não se realizou (devolução sem entrada física da mercadoria no estabelecimento do destinatário, sinistro da carga durante seu transporte entre outros).
-
-### Desconhecimento da operação
-
-Tem como finalidade possibilitar ao destinatário se manifestar quanto a utilização indevida de sua Inscrição Estadual, por parte do emitente da NF-e, para acobertar operações fraudulentas de remessas de mercadorias para destinatário diverso. Este evento protege o destinatário de passivos tributários envolvendo o uso indevido de sua Inscrição Estadual/CNPJ.
-
-## Manifestar-se
-
-Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, informe o desejado.
- 
-![informar evento](/compras/manifestação/5_manifestar-se.png)
-
-Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar</span>.
-
-![confirmar manifestação](/compras/manifestação/6.png)
-
-# Importar XML
-
-Ao acessar o módulo **movimentações » compras** clique em "**importar XML**", localizado no painel lateral da página conforme a imagem abaixo:
-
-![importar XML](/movimentos/compras/importar_xml.png)
-
-A tela para seleção do arquivo XML será aberta, localize o desejado e clique em **abrir**, todas as informações que estiverem no XMl serão importadas. 
-
-Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela para **cadastro** será exibida, verifique as informações e clique em <span class="mat-button mdi "> confirmar</span>.
-
-## Vincular produto cadastrado
-
-Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição.
-
-> Esse produto pode já estar cadastrado no sistema, porém com uma descrição diferente, sendo assim, é possível vincular o item para não ter cadastros repetidos.
-{.is-success}
-
-Para isso, clique no botão "**vínculo**" (<em class="mdi mdi-call-merge"></em>) localizado ao lado do item desejado.
-
-![vínculo](/movimentos/compras/vincular_1.png)
-
-A tela para "**vincular item**" será mostrada, busque o "**produto**" desejado, utilize o "**fator de conversão**" se necessário e clique em <span class="mat-button mdi "> vincular</span>.
-
-![vincular](/movimentos/compras/vincular_2.png)
-
-Na observação do produto constará o vínculo:
-
-![produto vinculado](/movimentos/compras/vincular_3.png)
-
-Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) ou **concluir compra** (<em class="mdi  mdi-check"></em>):
-
-![nota pendente](/movimentos/compras/nota_pendente.png)
-
-## Cadastrar novo produto
-
-Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição:
-
-![produto](/movimentos/compras/produtos_novos_1.png)
-
-É possível **cadastrar o produto** diretamente pela nota de compra.
-Para **editar o cadastro**, basta clicar sobre o mesmo e a janela abaixo será exibida.
-Clique na aba "**novo produto**" e edite/insira as informações necessárias, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
-
-![novo produto](/movimentos/compras/novo.png)
-
-Observe que a descrição do produto foi alterada e na observação consta **novo produto**:
-
-![nova descrição](/movimentos/compras/novo_2.png)
-
-Efetue a conferência das demais informações da nota fiscal e clique em:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, , sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra** (<em class="mdi  mdi-check"></em>).
-
-Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que eles sejam adicionados ao cadastro de estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
-
-![cadastrar produtos novos](/movimentos/compras/cadastrar.png)
-
-Clique em <span class="mat-button mdi "> rever</span> se desejar efetuar alguma alteração ou [vincular](https://help.gdoorweb.com.br/pt-br/movimentos/compras#vincular-produto-cadastrado) algum produto.
 
 # Configurações
 
