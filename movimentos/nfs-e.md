@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T17:20:19.684Z
+date: 2023-02-03T17:59:16.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -16,7 +16,7 @@ Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para ve
 
 # Lista
 
-Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** de notas de serviços. Pode cadastrar nota de serviço e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfse#buscar)  para visualizar apenas dados pertinentes ao que você precisa: 
+Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** de notas de serviços. Pode cadastrar nota de serviço e fazer uma [busc![busca.png](/movimentos/nfse/busca.png)a](https://help.gdoorweb.com.br/pt-br/movimentos/nfse#buscar)  para visualizar apenas dados pertinentes ao que você precisa: 
 
 
 **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
