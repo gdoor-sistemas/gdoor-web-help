@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-03T20:54:38.699Z
+date: 2023-02-06T12:42:30.463Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -88,9 +88,13 @@ Nesta seção, há duas opções:
 
 **<em class="mdi mdi-checkbox-blank-outline"></em> Não informar pagamentos**: sem geração de histórico financeiro;
 
+![pagamentos.png](/movimentos/nfse/pagamentos.png)
+
 **Adicionar pagamento**: geração da [despesa](/financeiro/despesas) no financeiro.
 
-![pagamentos.png](/movimentos/nfse/pagamentos.png)
+![pagamento2.png](/movimentos/nfse/pagamento2.png)
+
+
 
 ---
 
