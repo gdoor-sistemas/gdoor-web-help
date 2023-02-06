@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-06T12:42:30.463Z
+date: 2023-02-06T13:00:56.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -100,7 +100,7 @@ Nesta seção, há duas opções:
 
 # Configurações
 
-Nesta seção é possível determinar as configurações para a emissão da NFS-e. Alguns dados informados nete local, dependem do auxílio da contabilidade ou diretamente com o suporte do webservice, por intermédio da prefeitura.
+Nesta seção é possível determinar as configurações para a emissão da NFS-e. Alguns dados informados neste local, dependem do auxílio da contabilidade ou diretamente com o suporte do webservice, por intermédio da prefeitura.
 
 
 ![configuracoes_nfse.png](/movimentos/nfse/configuracoes_nfse.png)
@@ -109,10 +109,32 @@ Nesta seção é possível determinar as configurações para a emissão da NFS-
 ## Certificado digital
 Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nfs-e. 
 
+![cert_conf_nfs-e.png](/movimentos/nfse/cert_conf_nfs-e.png)
+
 > O certificado digital deve ser instalado no computador para que fique disponível para a seleção.
 {.is-success .gw .gw-tip}
 
 ## Ambiente da NFS-e
+Nesta seção você configura dados para a geração da NFS-e. Abaixo, veja detalhes de cada configuração.
+
+![amb_conf_nfs-e.png](/movimentos/nfse/amb_conf_nfs-e.png)
+
+
+Série do MDF-e{.subtitle}
+
+Série de emissão do NFS-e. Esta informação pode ser obtida com sua contabilidade.
+
+Ambiente de emissão{.subtitle}
+
+Diferente da NF-e, as NFS-e somente são enviadas em ambiente de **produção**, por este motivo a seleção não está disponível. Caso necessite fazer algum teste, sugerimos emitir uma nota de baixo valor, cancelando em seguida.
+
+Nº do próximo MDF-e{.subtitle}
+
+Apenas informe um número neste campo se sua empresa já emitia NFS-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFS-e será gerada com essa numeração e as subsequentes terão o número sequencial.
+
+Forma de emissão{.subtitle}
+
+Neste campo você pode configurar a forma de emissão do MDF-e: "**normal**" ou "**contingência offline**".
 
 
 ## Configurações gerais
