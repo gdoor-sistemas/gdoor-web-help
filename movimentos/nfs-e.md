@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-06T14:05:11.929Z
+date: 2023-02-06T17:07:31.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -106,12 +106,12 @@ Nesta seção é possível determinar as configurações para a emissão da NFS-
 
 
 ## Certificado digital
-Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nfs-e. 
+Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nf-e. 
 
 ![cert_conf_nfs-e.png](/movimentos/nfse/cert_conf_nfs-e.png)
 
 > O certificado digital deve ser instalado no computador para que fique disponível para a seleção.
-{.is-success .gw .gw-tip}
+{.is-info}
 
 ## Ambiente da NFS-e
 Nesta seção você configura dados para a geração da NFS-e. Abaixo, veja detalhes de cada configuração.
@@ -159,7 +159,7 @@ Configuração necessária dependendo do webservice. Estes dados são fornecidos
 
 ## Dados da integração
 
-Dados da integração entre a **Gdoor** e a **Prefeitura**, apenas para controle interno da Gdoor, **não editáveis**.
+Estes dados se referem a integração entre a **Gdoor** e a **Prefeitura**, apenas para controle interno da Gdoor. Eles **não são editáveis**.
 
 ![integracao_conf_nfs-e.png](/movimentos/nfse/integracao_conf_nfs-e.png)
 
