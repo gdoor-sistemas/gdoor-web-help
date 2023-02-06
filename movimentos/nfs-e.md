@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-06T17:07:31.476Z
+date: 2023-02-06T17:21:04.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -106,6 +106,7 @@ Nesta seção é possível determinar as configurações para a emissão da NFS-
 
 
 ## Certificado digital
+
 Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nf-e. 
 
 ![cert_conf_nfs-e.png](/movimentos/nfse/cert_conf_nfs-e.png)
@@ -114,6 +115,7 @@ Em algumas cidades o certificado digital é exigido para a emissão. Normalmente
 {.is-info}
 
 ## Ambiente da NFS-e
+
 Nesta seção você configura dados para a geração da NFS-e. Abaixo, veja detalhes de cada configuração.
 
 ![amb_conf_nfs-e.png](/movimentos/nfse/amb_conf_nfs-e.png)
@@ -153,6 +155,7 @@ Marque a opção caso a prefeitura permita o envio automático do e-mail.
 
 
 ## Configurações da prefeitura
+
 Configuração necessária dependendo do webservice. Estes dados são fornecidos somente pela própria prefeitura.
 
 ![conf_pref_nfse.png](/movimentos/nfse/conf_pref_nfse.png)
@@ -164,4 +167,12 @@ Estes dados se referem a integração entre a **Gdoor** e a **Prefeitura**, apen
 ![integracao_conf_nfs-e.png](/movimentos/nfse/integracao_conf_nfs-e.png)
 
 # Operações
+
+Disponibilizamos o cadastro de algumas **naturezas de operação** padrão. Caso sua contabilidade solicite que deve utilizar uma natureza de operação diferente do cadastro, na parte superior da janela, informe:
+- **Código:**
+- **Descrição:**
+- **Tipo de tributação:**
+
+Clique no botão **adicionar** para finalizar o cadastro.
+
 ![operacoes_serv.png](/movimentos/nfse/operacoes_serv.png)
