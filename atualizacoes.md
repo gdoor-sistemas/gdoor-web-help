@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-01T12:06:42.994Z
+date: 2023-02-06T11:56:30.858Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 04/02/2023
+f2.9.17, b3.8.40 {.versions} 
+
+## Ajustes
+- Ajustado campo "Número" da NFS-e para aceitar uma numeração maior. Anteriormente quando o número da nota excedia o tamanho do campo apresentava erro no bando de dados.
 
 # 31/01/2023
 f2.9.16, b3.8.39 {.versions} 
