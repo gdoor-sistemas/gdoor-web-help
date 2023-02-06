@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-06T13:06:54.623Z
+date: 2023-02-06T14:01:59.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -131,23 +131,37 @@ Nº do próximo MDF-e{.subtitle}
 
 Apenas informe um número neste campo se sua empresa já emitia NFS-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFS-e será gerada com essa numeração e as subsequentes terão o número sequencial.
 
-Forma de emissão{.subtitle}
-
-Neste campo você pode configurar a forma de emissão do MDF-e: "**normal**" ou "**contingência offline**".
-
-
 ## Configurações gerais
+
+![conf_ger_nfs-e.png](/movimentos/nfse/conf_ger_nfs-e.png)
+
+Regime especial {.subtitle}
+
+Preencha esta informação com o auxílio da contabilidade, quando a empresa possuir um **regime especial de tributação**.
+
+Incentivador cultural{.subtitle}
+
+Em algumas cidades, exitem determinados benefícios para incentivadores culturais, logo, marque a opção caso a empresa se enquadre entre estes incentivadores.
+
+Enviar e-mail automaticamente{.subtitle}
+
+Marque a opção caso a prefeitura permita o envio automático do e-mail.
+> Em algumas cidades o envio do e-mail não dependerá do Gweb e sim, assim que a nfs-e for autorizada na prefeitura, a própria prefeitura efetua o envio.
+{.is-info}
+
+
+
 
 ## Configurações da prefeitura
 Configuração necessária dependendo do webservice. Estes dados são fornecidos somente pela própria prefeitura.
 
+![conf_pref_nfse.png](/movimentos/nfse/conf_pref_nfse.png)
+
 ## Dados da integração
 
+Dados da integração entre a **Gdoor** e a **Prefeitura**, apenas para controle interno da Gdoor, **não editáveis**.
 
-
-## Manifestação eletrônica
-
-Informe o último **NSU** (Número Sequencial Único) para utilização no download de documentos eletrônicos, após clique em <span class="mat-button mdi "> salvar</span>.
+![integracao_conf_nfs-e.png](/movimentos/nfse/integracao_conf_nfs-e.png)
 
 # Operações
 ![operacoes_serv.png](/movimentos/nfse/operacoes_serv.png)
