@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-06T18:27:50.660Z
+date: 2023-02-07T16:25:26.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -150,9 +150,6 @@ Enviar e-mail automaticamente{.subtitle}
 Marque a opção caso a prefeitura permita o envio automático do e-mail.
 > Em algumas cidades o envio do e-mail não dependerá do Gweb e sim, assim que a nfs-e for autorizada na prefeitura, a própria prefeitura efetua o envio.
 {.is-info}
-
-
-
 
 ## Configurações da prefeitura
 
