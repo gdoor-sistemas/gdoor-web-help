@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-06T11:56:30.858Z
+date: 2023-02-08T19:38:32.879Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/02/2023
+f2.9.17, b3.8.42 {.versions} 
+
+## Ajustes
+- Atualizadas URL de envio de eventos da NFC-e no estado do Ceará.
 
 # 04/02/2023
 f2.9.17, b3.8.40 {.versions} 
