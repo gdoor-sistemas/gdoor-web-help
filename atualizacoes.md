@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-08T19:38:32.879Z
+date: 2023-02-14T11:15:33.169Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 13/02/2023
+f2.9.18, b3.8.42 {.versions} 
+
+## Ajustes
+- Ajustado número de itens na grade dos produtos. Anteriormente a grade aceitava um total de 50 itens, agora passou a 150.
 
 # 08/02/2023
 f2.9.17, b3.8.42 {.versions} 
