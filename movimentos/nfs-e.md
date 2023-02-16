@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-16T17:15:45.868Z
+date: 2023-02-16T18:37:36.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-03T17:12:38.965Z
 
 # Introdução
 
-O módulo de NFS-e é responsável pelo lançamento das notas dos serviços praticados pela empresa, bem como as configurações para a emissão destes documentos junto a prefeitura do seu município. 
+O módulo de NFS-e é responsável pelo lançamento das notas dos serviços efetuados pela empresa, bem como as configurações para a emissão destes documentos junto a prefeitura do município. 
 
 Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para verificar se a sua cidade está homologada para a emissão dos documentos de forma eletrônica.
 
@@ -48,10 +48,10 @@ As informações para o lançamento são as seguintes:
 
 -   **Emissão**: data de emissão do documento;
 -   **Hora**: hora de emissão do documento;
--   **Código da obra**: utilizado por empresas da construção civíl;
--   **Código ART**: utilizado por empresas da construção civíl;
+-   **Código da obra**: utilizado por empresas da construção civil;
+-   **Código ART**: utilizado por empresas da construção civil;
 -   **Operação**: selecionar a tributação de acordo com a cidade em que o serviço foi prestado;
--   **Pagador retenção ISSQN**: informar o responsável pela retenção do ISSQN;
+-   **Pagador retenção ISSQN**: informar o responsável pela retenção do ISSQN.
 
 ---
 - **Tomador**
