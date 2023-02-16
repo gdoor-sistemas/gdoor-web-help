@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-16T19:16:13.770Z
+date: 2023-02-16T19:19:08.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -10,13 +10,13 @@ dateCreated: 2023-02-03T17:12:38.965Z
 
 # Introdução
 
-O módulo de NFS-e é responsável pelo lançamento das notas dos serviços efetuados pela empresa, bem como as configurações para a emissão destes documentos junto a prefeitura do município. 
+O módulo de NFS-e é responsável pelo lançamento das notas dos serviços efetuados pela empresa, bem como as configurações para a emissão destes documentos junto à prefeitura do município. 
 
 Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para verificar se a sua cidade está homologada para a emissão dos documentos de forma eletrônica.
 
 # Lista
 
-Ao acessar o módulo **movimentações » nfs-e**, você visualiza a **lista** de notas de serviços. Pode [cadastrar nota de serviço](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#cadastrar-nota-de-serviço) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#buscar) para localizar os dados que você precisa: 
+Ao acessar o módulo **movimentações » NFS-e**, você visualiza a **lista** de notas de serviços. Pode [cadastrar nota de serviço](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#cadastrar-nota-de-serviço) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#buscar) para localizar os dados que você precisa: 
 
 ![lista.png](/movimentos/nfse/lista.png)
 
@@ -72,7 +72,7 @@ Selecionando o serviço prestado, estará disponível a guia **tributos**, onde 
 ---
 
 - **Intermediador**
-Preencha as informações de [intermediador](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#intermediador) se necessário.
+Preencha as informações do [intermediador](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#intermediador) se necessário.
 
 ![intermediador.png](/movimentos/nfse/intermediador.png)
 
@@ -140,7 +140,7 @@ Preencha esta informação com o auxílio da contabilidade, quando a empresa pos
 
 Incentivador cultural{.subtitle}
 
-Em algumas cidades, exitem determinados benefícios para incentivadores culturais, logo, marque a opção caso a empresa se enquadre na condição.
+Em algumas cidades, existem determinados benefícios para incentivadores culturais, logo, marque a opção caso a empresa se enquadre na condição.
 
 Enviar e-mail automaticamente{.subtitle}
 
