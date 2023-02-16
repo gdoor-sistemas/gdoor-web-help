@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-16T18:46:24.803Z
+date: 2023-02-16T19:10:18.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -61,21 +61,20 @@ Busque o tomador pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o to
 
 ---
 - **Serviços**
-Para buscar **serviços** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique em **"adicionar serviço**". Informe a **quantidade**, **valor unitário** e em seguida clique em <span class="mat-button mdi "> confirmar</span>.
+Para buscar **serviços** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique em **adicionar serviço**. Informe a **quantidade**, **valor unitário** e em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![servicos.png](/movimentos/nfse/servicos.png)
 ![lanc_serv.png](/movimentos/nfse/lanc_serv.png)
 
-Selecionando o serviço prestado, estará disponível a guia **tributos**, onde devem ser informados os dados dos tributos do nserviço selecionado:
+Selecionando o serviço prestado, estará disponível a guia **tributos**, onde devem ser informados os dados dos tributos do serviço selecionado:
 ![lanc_trib_serv.png](/movimentos/nfse/lanc_trib_serv.png)
 
 ---
 
 - **Intermediador**
-Preencha as informações de intermediador caso a empresa prestadora do serviço seja outra empresa e não a sua.
+Preencha as informações de [intermediador](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#intermediador) se necessário.
 
 ![intermediador.png](/movimentos/nfse/intermediador.png)
-
 
 - **Totais da NFS-e**
 Apresentação dos valores totais dos serviços da nota.
@@ -94,24 +93,22 @@ Nesta seção, há duas opções:
 
 ![pagamento2.png](/movimentos/nfse/pagamento2.png)
 
-
-
 ---
 
 # Configurações
 
 Nesta seção é possível determinar as configurações para a emissão da NFS-e. Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
-**Alguns dados informados neste local, dependem do auxílio da contabilidade ou diretamente com o suporte do webservice, por intermédio da prefeitura.**
-
+> Alguns dados informados neste local, dependem do auxílio da contabilidade ou diretamente com o suporte do webservice, por intermédio da prefeitura.
+{.is-warning}
 
 ## Certificado digital
 
-Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da nf-e. 
+Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da NF-e. 
 
 ![cert_conf_nfs-e.png](/movimentos/nfse/cert_conf_nfs-e.png)
 
-> O certificado digital deve ser instalado no computador para que fique disponível para a seleção.
+> O certificado digital A1 deve ser instalado no computador para que fique disponível para a seleção.
 {.is-info}
 
 ## Ambiente da NFS-e
@@ -127,11 +124,11 @@ Série de emissão da NFS-e. Esta informação pode ser obtida com sua contabili
 
 Ambiente de emissão{.subtitle}
 
-Diferente da NF-e, as NFS-e somente são enviadas em ambiente de **produção**, por este motivo a seleção não está disponível. Caso necessite fazer algum teste, sugerimos emitir uma nota de baixo valor, cancelando em seguida.
+A NFS-e é enviada somente em ambiente de **produção**, por este motivo a seleção não está disponível.
 
 Nº da próxima NFS-e{.subtitle}
 
-Apenas informe um número neste campo se sua empresa já emitia NFS-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, a próxima NFS-e será gerada com essa numeração e as subsequentes terão o número sequencial.
+Apenas informe um número neste campo se a empresa já emitia NFS-e por outro sistema, assim você poderá continuar a numeração de onde parou.
 
 ## Configurações gerais
 
