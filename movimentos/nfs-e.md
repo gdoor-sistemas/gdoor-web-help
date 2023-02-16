@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-16T19:10:18.451Z
+date: 2023-02-16T19:14:32.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -140,12 +140,13 @@ Preencha esta informação com o auxílio da contabilidade, quando a empresa pos
 
 Incentivador cultural{.subtitle}
 
-Em algumas cidades, exitem determinados benefícios para incentivadores culturais, logo, marque a opção caso a empresa se enquadre entre estes incentivadores.
+Em algumas cidades, exitem determinados benefícios para incentivadores culturais, logo, marque a opção caso a empresa se enquadre na condição.
 
 Enviar e-mail automaticamente{.subtitle}
 
 Marque a opção caso a prefeitura permita o envio automático do e-mail.
-> Em algumas cidades o envio do e-mail não dependerá do Gweb e sim, assim que a nfs-e for autorizada na prefeitura, a própria prefeitura efetua o envio.
+
+> Em algumas cidades o envio do e-mail não dependerá do Gweb, a própria prefeitura efetuará o envio quando a NFS-e for autorizada.
 {.is-info}
 
 ## Configurações da prefeitura
