@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônica
 published: false
-date: 2023-02-07T16:25:26.618Z
+date: 2023-02-16T17:10:08.496Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -121,9 +121,9 @@ Nesta seção você configura dados para a geração da NFS-e. Abaixo, veja deta
 ![amb_conf_nfs-e.png](/movimentos/nfse/amb_conf_nfs-e.png)
 
 
-Série do NFS-e{.subtitle}
+Série da NFS-e{.subtitle}
 
-Série de emissão do NFS-e. Esta informação pode ser obtida com sua contabilidade.
+Série de emissão da NFS-e. Esta informação pode ser obtida com sua contabilidade.
 
 Ambiente de emissão{.subtitle}
 
