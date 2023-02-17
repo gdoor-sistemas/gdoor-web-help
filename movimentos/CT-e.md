@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:40:14.525Z
+date: 2023-02-17T20:43:17.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -26,7 +26,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
  
 ![busca.png](/movimentos/cte/busca.png)
  
-> O que você digitar será buscado entre as seguintes informações das notas de compra:  
+> O que você digitar será buscado entre as seguintes informações dos conhecimentos de transporte eletrônicos:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
 > **Campos textuais**: razão social e nome fantasia do fornecedor e nome dos produtos.
 {.is-success .gw .gw-tip}
