@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:59:55.568Z
+date: 2023-02-17T21:04:38.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -73,6 +73,8 @@ As opções de filtro são as seguintes:
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
 ![](/movimentos/pedidos/limpar_filtro.png)
+
+
 
 ## Cadastrar CT-e
 
