@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T21:13:36.788Z
+date: 2023-02-17T21:16:02.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -333,4 +333,38 @@ Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Manifestação eletrônica
 
-Informe o último **NSU** (Número Sequencial Único) para utilização no download de documentos eletrônicos, após clique em <span class="mat-button mdi "> salvar</span>.
+Introdução
+
+O módulo CT-e permite a configuração e emissão do Conhecimento de Transporte Eletrônico, utilizado no transporte rodoviário de cargas.
+Ao acessar o módulo  movimentações - CT-e, será possível a visualização de todos os CT-es já emitidos, pode ser lançado um novo CT-e (ICONE), efetuar busca dos CT-es emitidos utilizando os filtros (ICONE).
+
+CT-e
+
+O lançamento do CT-e se dá pela necessidade de um documento de transporte para que a mercadoria possa circular nas rodovias, nesse documento são registrados todos os dados dos participantes, produtos transportados , impostos caso incidam na prestação do serviço de transporte e referência de um ou mais documentos fiscais.
+
+Para iniciar o lançamento do CT-e primeiramente deve ser feita a configuração  acessando o módulo Configurações do CT-e.<link
+
+O módulo possui Relatórios do CT-e para busca dos documentos emitidos, Inutilização de numeração, ativação do Serviço de contingência e XML do mês para separação e envio dos arquivos a contabilidade.
+
+Preenchimento CT-e
+
+O preenchimento do CT-e é possível somente com todas as informações contidas em um outro documento fiscal como por exemplo NF-e.
+Aba Geral são preenchidos os detalhes da prestação de serviço como por exemplo o início e fim da viagem, os participantes da prestação do transporte e documento fiscal referenciado.
+Em Carga são preenchidas as informações que especificam o que será transportado assim como as informações pertinentes a mercadoria, nos Impostos são informados os valores e componentes que irão incidir na prestação do serviço de transporte.
+Na aba Cobrança é inserido a forma de pagamento que foi acordada com o Tomador ou outro participante do transporte responsável pelo pagamento do frete, em Outros são preenchidas algumas informações que tipificam alguns tipos de transportes, sendo necessário a validação da obrigatoriedade de preenchimento ou não desses campos.
+
+Dica: O CT-e é um documento no qual podem existir diversas particularidades dependendo da operação que está sendo contratada, para auxiliar no preenchimento dos dados é necessário que esteja com a NF-e em mãos.
+Alguns dos campos do CT-e não são de preenchimento obrigatório dependendo muito do tipo de transporte que está sendo realizado.
+
+Com o CT-e autorizado algumas funções são possíveis de serem feitas como por exemplo, a consulta do status do CT-e na sefaz, copiar chave de acesso, enviar por e-mail, cancelar, visualizar xml, carta de correção (CC-e) e visualizar CT-e.
+
+A Carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessário a retificação, clicando no + em Correções e escolhendo qual Grupo alterado e qual campo alterado desse grupo é necessário ser retificado assim como o valor alterado.
+Obs. é necessário a identificação do grupo alterado assim como o campo alterado no xml do CT-e, somente será possível a correção dos grupos listados conforme embasamento da carta de correção.
+
+Caso tente ser Transmitido ou Salvo o CT-e sem o preenchimento dos campos obrigatórios será apresentado uma mensagem no canto superior direito da  tela informando qual campo é necessário a revisão.
+
+O tipo do ct-e determina para qual finalidade o documento está sendo emitido, CT-e normal para transporte rodoviário, ct-e de complemento de valores, ct-e de anulação ou ct-e substituto.
+
+Em tipo do serviço é informado qual a modalidade do serviço de transporte que será realizado, normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal.
+
+O contratante e pagador do serviço deve ser selecionado em tomador do serviço podendo ser qualquer um dos participantes do transporte, geralmente sendo remetente ou destinatário.
