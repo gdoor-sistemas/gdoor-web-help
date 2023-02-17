@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T21:16:02.511Z
+date: 2023-02-17T21:23:53.633Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -70,8 +70,9 @@ As opções de filtro são as seguintes:
 -   **Município de início**;
 -   **Município de término**.
 
-A ordem de busca dos documentos por ser realizada por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
+### Ordenar 
 
+Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
 
 ![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
 
