@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:20:04.141Z
+date: 2023-02-17T20:20:42.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
