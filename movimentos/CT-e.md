@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:29:07.354Z
+date: 2023-02-17T20:34:43.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -18,12 +18,9 @@ O módulo de compras fará a movimentação de entrada dos produtos no estoque e
 
 # Lista
 
-Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** de **CT-e**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista** de **conhecimentos de transporte lançados**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
-
-Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
-
-![lista](/movimentos/CT-e/lista.png)
+![lista.png](/movimentos/cte/lista.png)
 
 ## Buscar
 
@@ -31,7 +28,7 @@ Para localizar uma nota de compra, **digite no campo de busca** no quadro indica
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
  
-![digite para buscar](/movimentos/CT-e/busca.png)
+![busca.png](/movimentos/cte/busca.png)
  
 > O que você digitar será buscado entre as seguintes informações das notas de compra:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
