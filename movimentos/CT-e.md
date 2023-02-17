@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T21:04:38.027Z
+date: 2023-02-17T21:12:58.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -51,7 +51,7 @@ No painel de filtros destacado na imagem acima temos:
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
-![opções do filtro](https://help.gdoorweb.com.br/movimentos/CT-e/opcoes-filtro-nfce.png)
+![opções do filtro](https://help.gdoorweb.com.br/movimentos/compras/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
 ![filtro aplicado](https://help.gdoorweb.com.br/movimentos/CT-e/nfce-filtro-aplicado.png)
@@ -69,6 +69,12 @@ As opções de filtro são as seguintes:
 -   **Destinatário/Recebedor**;
 -   **Município de início**;
 -   **Município de término**.
+
+A ordem de busca dos documentos por ser realizada por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
+
+
+![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
+
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
