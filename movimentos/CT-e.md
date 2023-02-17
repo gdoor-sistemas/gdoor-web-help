@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:45:01.332Z
+date: 2023-02-17T20:59:55.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -35,13 +35,18 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
-![filtrar](/movimentos/CT-e/filtro_compra.png)
+![filtro.png](/movimentos/cte/filtro.png)
+
 
 No painel de filtros destacado na imagem acima temos:
 
+<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+
 <span class="mdi mdi-refresh"></span>: atualizar as opções de filtro;
 
-<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
+<span class="mdi mdi-sort"></span>: ordenar as opções de filtro;
+
+
 
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
@@ -54,13 +59,16 @@ Para remover um filtro padrão, clique no botão "**mais opções**" (<span clas
 
 As opções de filtro são as seguintes:
 
--   **Fornecedor**;
--   **Usuário**;
--   **Data cadastro inicial**;
--   **Data cadastro final**;
 -   **Status**;
--   **Data emissão inicial**;
--   **Data emissão final**.
+-   **Data inicial**;
+-   **Data final**;
+-   **Tipoe do CT-e**;
+-   **Tipo do serviço**;
+-   **Tomador**;
+-   **Remetente/Expedidor**;
+-   **Destinatário/Recebedor**;
+-   **Município de início**;
+-   **Município de término**.
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
