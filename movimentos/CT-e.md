@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:34:43.453Z
+date: 2023-02-17T20:40:14.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -10,11 +10,7 @@ dateCreated: 2023-02-09T12:51:41.589Z
 
 # Introdução
 
-O módulo de CT-e é responsável pelo lançamento do conhecimentos de transporte eletronico, documento que tem a finalidade de registrar as prestações de serviço do transporte rodoviário de cargas.
-
-
-
-O módulo de compras fará a movimentação de entrada dos produtos no estoque e também a movimentação financeira das [despesas](/financeiro/despesas) das compras efetuadas de forma à vista ou a prazo.
+O módulo de CT-e é responsável pelo lançamento do conhecimentos de transporte eletronico, documento que tem a finalidade de registrar as prestações de serviço do transporte rodoviário de cargas e também a movimentação financeira (módulo adicional) das [receitas](/financeiro/receitas) dos conhecimentos  efetuados de forma à vista ou a prazo.
 
 # Lista
 
