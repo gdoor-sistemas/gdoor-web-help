@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:17:42.213Z
+date: 2023-02-17T20:18:07.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -18,7 +18,7 @@ O módulo de compras fará a movimentação de entrada dos produtos no estoque e
 
 # Lista
 
-Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** de **CT-e**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** de **CT-e**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/ct-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 
 Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
