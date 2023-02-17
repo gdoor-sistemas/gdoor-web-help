@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T20:22:20.311Z
+date: 2023-02-17T20:26:04.356Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -18,20 +18,20 @@ O módulo de compras fará a movimentação de entrada dos produtos no estoque e
 
 # Lista
 
-Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** de **CT-e**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** de **CT-e**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 
-Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/compras#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/compras#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo **movimentações » compras**, você visualiza a **lista** de **notas de compra**. Pode [cadastrar nota de compra](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-nota-de-compra) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
-![lista](/movimentos/compras/lista.png)
+![lista](/movimentos/CT-e/lista.png)
 
 ## Buscar
 
 Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/compras#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
  
-![digite para buscar](/movimentos/compras/busca.png)
+![digite para buscar](/movimentos/CT-e/busca.png)
  
 > O que você digitar será buscado entre as seguintes informações das notas de compra:  
 > **Campos numéricos**: código de barras e código do produto, número da nota;  
@@ -42,7 +42,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
-![filtrar](/movimentos/compras/filtro_compra.png)
+![filtrar](/movimentos/CT-e/filtro_compra.png)
 
 No painel de filtros destacado na imagem acima temos:
 
@@ -53,10 +53,10 @@ No painel de filtros destacado na imagem acima temos:
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
-![opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
+![opções do filtro](https://help.gdoorweb.com.br/movimentos/CT-e/opcoes-filtro-nfce.png)
 
 > Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
-![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+![filtro aplicado](https://help.gdoorweb.com.br/movimentos/CT-e/nfce-filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
@@ -75,32 +75,32 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ## Cadastrar CT-e
 
-Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/compras#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
+Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
 
 ---
 - **Cabeçalho**
 Insira as informações constantes na nota de compra, como: **número, modelo, série, emissão, entrada** e **natureza da operação**:
 
-![cabeçalho](/movimentos/compras/cabeçalhoo.png)
+![cabeçalho](/movimentos/CT-e/cabeçalhoo.png)
 
 ---
 - **Fornecedor**
 Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
-![fornecedor](/movimentos/compras/fornecedor.png)
+![fornecedor](/movimentos/CT-e/fornecedor.png)
 
 ---
 - **Produtos**
 Para buscar **produtos** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe a **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
-![produtos](/movimentos/compras/produtos.png)
+![produtos](/movimentos/CT-e/produtos.png)
 
 ---
 - **Totais da compra**
 Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
 
-![totais da compra](/movimentos/compras/totais_da_compra.png)
+![totais da compra](/movimentos/CT-e/totais_da_compra.png)
 
 ---
 - **Pagamentos**
@@ -110,7 +110,7 @@ Nesta seção, há duas opções:
 
 **Adicionar pagamento**: geração da [despesa](/financeiro/despesas) no financeiro.
 
-![pagamentos](/movimentos/compras/pagamentos_1.png)
+![pagamentos](/movimentos/CT-e/pagamentos_1.png)
 
 ---
 - **Transporte**
@@ -122,7 +122,7 @@ Na seção de transporte, alguns campos são exibidos de acordo com o "**tipo de
 
 **Transporte próprio por conta do remetente ou destinatário**: habilita os campos para informar a transportadora e veículo.
 
-![transporte](/movimentos/compras/transporte.png)
+![transporte](/movimentos/CT-e/transporte.png)
 
 Após a inclusão das informações conforme a nota fiscal de compra, há opção para:
 
@@ -130,7 +130,7 @@ Após a inclusão das informações conforme a nota fiscal de compra, há opçã
 
 - <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) ou **concluir compra** (<em class="mdi  mdi-check"></em>):
 
-![nota pendente](/movimentos/compras/nota_pendente.png)
+![nota pendente](/movimentos/CT-e/nota_pendente.png)
 
 # Manifestação do Destinatário eletrônica (MD-e)
 
