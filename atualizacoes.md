@@ -2,11 +2,33 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-14T11:15:33.169Z
+date: 2023-02-20T10:57:24.489Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/02/2023
+f2.9.19, b3.8.44 {.versions}
+
+## Novidades
+- Criação de relatório para a NFS-e (NFS-e emitidas).
+- Criação de relatório para o histórico de sangrias (Sangrias e Suprimentos).
+- Geração de pré-venda a partir de um pedido. Anteriormente os pedidos geravam apenas NFC-e ou NF-e.
+
+## Ajustes
+- Adicionada descrição no relatório de “Fluxo de caixa” para melhor compreensão do objetivo deste relatório.
+- Ajustada na edição da NFS-e os campos da guia “tributos”. O sistema não trazendo o que foi salvo ao editar a nota.
+- Ajustado relatório de “Total de vendas por meio de pagamento” para apresentar também a NFS-e.
+- Corrigida NF-e de importação que não estava gravando os dados de edição da DI.
+- Ajustada a edição do cadastro de pessoa estrangeira que não apresentava o campo município (exterior) preenchido.
+- Corrigida nota de complemento que exigia o serial do produto quando o mesmo possuía número de série. Agora ao informar um produto com número de série ela não será solicitada, mas deve-se informar a quantidade.
+- Ajustada a disponibilidade do botão excluir na NFC-e e pré-venda.
+- Ajustada a edição do cadastro do emitente ao desmarcar/marcar o atributo “transportador”. Anteriormente ao tentar salvar a alteração apresentava mensagem de "Este registro está em uso e não pode ser apagado".
+- Ajustada grade de produtos para permitir a inclusão de linhas e colunas em grades que já estão em uso.
+- Ajustado cadastro de Pessoa Física no envio de informações para a Focus. Anteriormente ao cadastrar um serial com pessoa física (CPF) esta informação estava sendo enviada como pessoa jurídica (CNPJ).
+- Ajustada NFS-e para buscar a cidade no item da NFS-e conforme configuração, caso ela não seja informada, o sistema ainda pode buscar essa informação do cadastro do tomador e do cadastro do emitente.
+- Adicionado novos campos no relatório de “Inventário de Estoque” (cálculo do valor pelo custo médio, custo compra estoque, custo última compra, preço de venda e inclusão dos totalizadores).
 
 # 13/02/2023
 f2.9.18, b3.8.42 {.versions} 
