@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T13:50:28.174Z
+date: 2023-02-21T14:09:19.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -82,7 +82,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 ![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
 
-> Para deixar de utilizar a ordem, clique no **X**.
+> Para limpar a ordenação, clique no  <em class="mdi mdi-close-circle"></em>.
 ![ordenar2_cte.png](/movimentos/cte/ordenar2_cte.png)
 {.is-success .gw .gw-tip}
 
@@ -91,7 +91,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 ## Cadastrar CT-e
 
-Para cadastrar uma nota de compra manualmente, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
+Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
 
 ---
