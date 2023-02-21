@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T14:51:17.377Z
+date: 2023-02-21T14:56:07.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -12,13 +12,15 @@ dateCreated: 2023-02-09T12:51:41.589Z
 
 O módulo de CT-e é responsável pelo lançamento do conhecimentos de transporte eletronico, documento que tem a finalidade de registrar as prestações de serviço do transporte rodoviário de cargas e também a movimentação financeira (módulo adicional) das [receitas](/financeiro/receitas) dos conhecimentos  efetuados de forma à vista ou a prazo.
 
-# Lista
+# Acesso
+
+## Lista
 
 Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista** de **conhecimentos de transporte lançados**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
 
 ![lista.png](/movimentos/cte/lista.png)
 
-## Buscar
+### Buscar
 
 Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
@@ -31,7 +33,7 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 > **Campos textuais**: razão social e nome fantasia do cliente.
 {.is-success .gw .gw-tip}
 
-## Filtrar
+### Filtrar
 
 Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
 
@@ -76,7 +78,7 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ![](/movimentos/pedidos/limpar_filtro.png)
 
-## Ordenar 
+### Ordenar 
 
 Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
 
@@ -89,7 +91,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 
 
-# Cadastrar CT-e
+## Cadastrar CT-e
 
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição <em class="mdi mdi-plus-circle"></em> no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
@@ -148,7 +150,9 @@ Após a inclusão das informações conforme a nota fiscal de compra, há opçã
 
 ![nota pendente](/movimentos/CT-e/nota_pendente.png)
 
-# Relatórios do CT-e
+# Relatórios
+
+## Relatórios do CT-e
 
 A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa **confirme** ou **recuse** sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
 
@@ -166,13 +170,21 @@ Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação el
 
 ![compras](/compras/manifestação/1_compras.png)
 
+
+
+# Ações
+
 ## Inutilizar numeração
+
 ## Contingência
+
 ## XML do mês
 
 
 
+# Configurações
 
+## Configurações do CT-e
 
 
 
