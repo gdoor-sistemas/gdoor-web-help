@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T20:40:53.262Z
+date: 2023-02-21T20:46:32.196Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -244,13 +244,14 @@ Para ativar a emissão, clique no botão <span data-mat-button>Contingência</sp
 ![conting_cte.png](/movimentos/cte/conting_cte.png)
 
 ## XML do mês
-O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
+O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
 
 Compactar arquivos{.subtitle}
 
-Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
+Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
 
-![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
+![xml_cte.png](/movimentos/cte/xml_cte.png)
+
 
 A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
@@ -258,6 +259,11 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 
 
 # Configurações
+
+![config_cte.png](/movimentos/cte/config_cte.png)
+![config_cte.png](/movimentos/cte/config_cte.png)
+
+![config2_cte.png](/movimentos/cte/config2_cte.png)
 
 ## Configurações do CT-e
 
