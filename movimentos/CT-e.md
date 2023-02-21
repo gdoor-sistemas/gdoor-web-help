@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-17T21:23:53.633Z
+date: 2023-02-21T13:50:28.174Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -51,10 +51,12 @@ No painel de filtros destacado na imagem acima temos:
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
-![opções do filtro](https://help.gdoorweb.com.br/movimentos/nfce/opcoes-filtro-nfce.png)
+![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
+
+
 
 > Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
-![filtro aplicado](https://help.gdoorweb.com.br/movimentos/nfce/nfce-filtro-aplicado.png)
+![filtro_aplicado_cte.png](/movimentos/cte/filtro_aplicado_cte.png)
 {.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
@@ -70,16 +72,20 @@ As opções de filtro são as seguintes:
 -   **Município de início**;
 -   **Município de término**.
 
+Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
+
+![](/movimentos/pedidos/limpar_filtro.png)
+
 ### Ordenar 
 
 Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
 
 ![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
 
+> Para deixar de utilizar a ordem, clique no **X**.
+![ordenar2_cte.png](/movimentos/cte/ordenar2_cte.png)
+{.is-success .gw .gw-tip}
 
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
-
-![](/movimentos/pedidos/limpar_filtro.png)
 
 
 
