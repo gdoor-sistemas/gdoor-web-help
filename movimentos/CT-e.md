@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T19:29:23.533Z
+date: 2023-02-21T19:49:44.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -127,6 +127,8 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 Na aba **carga**, são preenchidas as informações que especificam o que será transportado, bem como as informações pertinentes a mercadoria:
 
+![carga_cte.png](/movimentos/cte/carga_cte.png)
+
 - **Produto predominante:**
 - **Valor da carga:**
 - **Outras características da carga:**
@@ -141,14 +143,14 @@ Na aba **carga**, são preenchidas as informações que especificam o que será 
 - **Recebedor:**
 
  <em class="mdi mdi-plus-circle"></em>
- 
 
-![carga_cte.png](/movimentos/cte/carga_cte.png)
 
 ---
 ### Impostos
 
-nos Impostos são informados os valores e componentes que irão incidir na prestação do serviço de transporte.
+Nos **impostos** são informados os valores e componentes que irão incidir na prestação do serviço de transporte:
+
+![impostos_cte.png](/movimentos/cte/impostos_cte.png)
 
 - **Valor total do serviço:**
 - **Valor total a receber:**
@@ -159,28 +161,24 @@ nos Impostos são informados os valores e componentes que irão incidir na prest
 - **Componentes do valor da prestação:**
 - **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**
 
-
-![impostos_cte.png](/movimentos/cte/impostos_cte.png)
-
 ---
 ### Cobrança
 
- Cobrança é inserido a forma de pagamento que foi acordada com o Tomador ou outro participante do transporte responsável pelo pagamento do frete, em
-Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
+ Para a aba **cobrança**, deve informar a forma de pagamento que foi acordada com o **Tomador** ou outro participante do transporte responsável pelo pagamento.
 
 ![cobranca_cte.png](/movimentos/cte/cobranca_cte.png)
-
 
 
 ---
 ### Outros
 
- Outros são preenchidas algumas informações que tipificam alguns tipos de transportes, sendo necessário a validação da obrigatoriedade de preenchimento ou não desses campos.
-
-
-
-
-
+E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes.
+ 
+ ![outros_cte.png](/movimentos/cte/outros_cte.png)
+ 
+ 
+ 
+ ![outros2_cte.png](/movimentos/cte/outros2_cte.png)
 
 
 
@@ -263,6 +261,13 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 # Configurações
 
 ## Configurações do CT-e
+
+![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
+![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
+![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
+![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
+![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
+
 
 
 
