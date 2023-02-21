@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T17:13:03.881Z
+date: 2023-02-21T17:14:07.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -207,7 +207,7 @@ Todos os campos são obrigatórios. Depois de preencher as informações, clique
 
 Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver todas as numerações já inutilizadas:
 
-![inut_num3_cte.png](/movimentos/cte/inut_n![inut_num3_cte.png](/movimentos/cte/inut_num3_cte.png)um3_cte.png)
+![inut_num3_cte.png](/movimentos/cte/inut_num3_cte.png)
 
 > Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
