@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T20:38:32.809Z
+date: 2023-02-21T20:40:33.938Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -93,10 +93,15 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
 
 - **Tipo de CT-e:**
+![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
 - **CFOP:**
 - **Tipo do serviço:**
+
+![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
+
 - **Data de emissão:**
 - **Tomador do serviço:**
+![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
 - **Município de início**;
 - **Município de término**.
 - **Data de envio:**
@@ -253,9 +258,9 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 ## Configurações do CT-e
 
 
-![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
-![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
-![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
+
+
+
 
 
 
