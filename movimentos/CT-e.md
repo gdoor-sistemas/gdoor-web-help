@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T21:00:17.444Z
+date: 2023-02-21T21:09:17.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -266,7 +266,7 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 
 ![config2_cte.png](/movimentos/cte/config2_cte.png)
 
-mdi-email
+
 
 
 
@@ -288,9 +288,9 @@ Será possível:
 - <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar para fazer um processo em massa;
 - consultar status
 - <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** do ct-e em questão;
-- enviar por e-mail
+- <em class="mdi mdi-email"></em> enviar por e-mail
 - <em class="mdi mdi-cancel"></em> cancelar
 - visualizar XML
 - carta de correção (CC-e)
-- Visualizar CT-e
+- <em class="mdi mdi-pdf-box"></em> Visualizar CT-e
 
