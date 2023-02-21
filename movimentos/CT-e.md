@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T16:28:47.800Z
+date: 2023-02-21T17:13:03.881Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -178,16 +178,60 @@ Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação el
 
 Para inutilizar uma numeração de CT-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do CT-e:
 
-![inut_num2_cte.png](/movimentos/cte/inut_num2_cte.png)![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
+![inut_num2_cte.png](/movimentos/cte/inut_num2_cte.png)
 
-
+Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
 
 ![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
 
+Série{.subtitle}
+
+Série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente no CT-e.
+
+Nº inicial{.subtitle}
+
+Número inicial da faixa que deseja inutilizar.
+
+Nº final{.subtitle}
+
+Número final da faixa que deseja inutilizar.
+
+Justificativa do pedido de inutilização{.subtitle}
+
+Com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
+
+> Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
+{.is-success .gw .gw-tip}
+
+Todos os campos são obrigatórios. Depois de preencher as informações, clique em <span data-mat-button>Confirmar</span> e aguarde o retorno.
+
+Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver todas as numerações já inutilizadas:
+
+![inut_num3_cte.png](/movimentos/cte/inut_n![inut_num3_cte.png](/movimentos/cte/inut_num3_cte.png)um3_cte.png)
+
+> Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
+{.is-info}
+
 ## Contingência
 
-## XML do mês
+O modelo operacional atual da CT-e prevê a utilização alternativa de contingência. Nesta modalidade, o contribuinte que estiver com problemas técnicos (conexão com a internet) para autorização da NFC-e, poderá emitir a mesma em contingência.
 
+Para acionar o modo de contingência, clique no botão "contingência" e informe o motivo de entrada em contingência.
+
+![conting_cte.png](/movimentos/cte/conting_cte.png)
+
+## XML do mês
+O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
+
+Compactar arquivos{.subtitle}
+
+Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
+
+![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
+
+A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+
+![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
 
 
 # Configurações
