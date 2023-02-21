@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T20:33:24.652Z
+date: 2023-02-21T20:38:32.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -256,229 +256,24 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 ![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
 ![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
 ![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
-![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Para verificar se há notas para manifestar, clique no botão (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no **canto inferior direito da tela**.
-
-![consultar](/compras/manifestação/2_manifestação.png)
-
-Ao clicar para consultar, observe que no canto superior direito aparecerá a mensagem “**consultando novos documentos**”, isso poderá levar alguns segundos. 
-Após deverá aparecer a mensagem “**consulta realizada com sucesso**” e se houverem notas para manifestar, elas serão listadas na tela.
-
-![lista notas](/compras/manifestação/3_notas.png)
 
 ### Opções
 
 Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
 
-![opções](/compras/manifestação/opções.png)
+![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
 
 Será possível:
 
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar até 50 notas para manifestar juntamente;
-- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** da nota em questão;
-- <em class="mdi mdi-file-send"></em> **Manifestar-se**, abrirá a tela para informar o evento;
-- <em class="mdi mdi-download"></em> **Download XML** para baixar o arquivo;
-- <em class="mdi mdi-cart-arrow-down"></em> **Importar XML** para a nota de compra;
-- <em class="mdi mdi-refresh"></em> **Consultar na SEFAZ**, será direcionado ao site para consulta da NF-e;
-- <em class="mdi mdi-cancel"></em> **Ignorar NF-e**, retira da lista uma nota que não deseja manifestar;
-- <em class="mdi mdi-printer"></em> **Imprimir NF-e**, a tela para impressão do DANFE será aberta.
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar para fazer um processo em massa;
+- consultar status
+- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** do ct-e em questão;
+- enviar por e-mail
+- <em class="mdi mdi-cancel"></em> cancelar
+- visualizar XML
+- carta de correção (CC-e)
+- Visualizar CT-e
 
-Para visualizar apenas dados pertinentes ao que você necessita, é possível efetuar uma **busca** (<em class="mdi mdi-magnify"></em>), **filtrar** (<em class="mdi mdi-filter"></em>) e **ordenar** (<em class="mdi mdi-sort"></em>) as notas listadas. Clicando no botão (<em class="mdi mdi-refresh"></em>) a **lista é atualizada**.
-
-![menu](/compras/manifestação/7_buscar.png)
-
-### Filtrar
-
-Os filtros (<em class="mdi mdi-filter"></em>) também podem ser definidos como padrão para que sempre que você abrir a lista, ela já esteja filtrada. 
-
-![filtros](/compras/manifestação/8_filtros.png)
-
-Opções de filtros:
-
-- **Situação**: filtrar por notas “**manifestadas**” e “**não manifestadas**”;
-- **Status**: por notas “**ignoradas**”, “**importadas**” para o compras e “**não importadas**”;
-- **Emissão inicial**: filtrar por data de emissão, informe a data de início;
-- **Emissão final**: filtrar por data de emissão, informe a data de término;
-- **Tipo do evento**: filtrar pelo evento manifestado: **confirmação da operação**, **ciência da operação**, **desconhecimento da operação** ou **operação não realizada**.
-
-Após informar o filtro desejado, basta clicar em <span class="mat-button mdi "> APLICAR</span>.
-
-### Tags
-
-De acordo com o status e eventos informados, tags serão adicionadas as notas:
-
-![tags](/compras/manifestação/tags.png)
-
-### Ordenar 
-
-Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por "**tipo**","**importadas**", "**NSU**", "**data**", "**nome**", entre outros:
-
-![ordenar](/compras/manifestação/9_ordenar.png)
-
-## Eventos
-
-São quatro eventos disponíveis:
-
-### Ciência da operação
-
-Utilizado quando no retorno da consulta tiver apenas o "**resumo da NF-e**". Ele registra a solicitação do destinatário para a obtenção do arquivo XML, após o registro deste evento, será permitido o download do arquivo XML.
-
-> Este evento não representa a manifestação do destinatário sobre a operação, sua finalidade é a obtenção do arquivo XML. 
-{.is-warning}
-
-### Confirmação da operação
-
-Confirma a operação e o recebimento da mercadoria (para operações com circulação de mercadoria).
-
-> Após a confirmação da operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
-{.is-success}
-
-### Operação não realizada
-
-Este evento será informado pelo destinatário, quando por algum motivo, a operação legalmente acordada entre as partes não se realizou (devolução sem entrada física da mercadoria no estabelecimento do destinatário, sinistro da carga durante seu transporte entre outros).
-
-### Desconhecimento da operação
-
-Tem como finalidade possibilitar ao destinatário se manifestar quanto a utilização indevida de sua Inscrição Estadual, por parte do emitente da NF-e, para acobertar operações fraudulentas de remessas de mercadorias para destinatário diverso. Este evento protege o destinatário de passivos tributários envolvendo o uso indevido de sua Inscrição Estadual/CNPJ.
-
-## Manifestar-se
-
-Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, informe o desejado.
- 
-![informar evento](/compras/manifestação/5_manifestar-se.png)
-
-Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar</span>.
-
-![confirmar manifestação](/compras/manifestação/6.png)
-
-# Ações
-
-Ao acessar o módulo **movimentações » compras** clique em "**importar XML**", localizado no painel lateral da página conforme a imagem abaixo:
-
-![importar XML](/movimentos/compras/importar_xml.png)
-
-A tela para seleção do arquivo XML será aberta, localize o desejado e clique em **abrir**, todas as informações que estiverem no XMl serão importadas. 
-
-Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela para **cadastro** será exibida, verifique as informações e clique em <span class="mat-button mdi "> confirmar</span>.
-
-
-
-Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição.
-
-> Esse produto pode já estar cadastrado no sistema, porém com uma descrição diferente, sendo assim, é possível vincular o item para não ter cadastros repetidos.
-{.is-success}
-
-Para isso, clique no botão "**vínculo**" (<em class="mdi mdi-call-merge"></em>) localizado ao lado do item desejado.
-
-![vínculo](/movimentos/compras/vincular_1.png)
-
-A tela para "**vincular item**" será mostrada, busque o "**produto**" desejado, utilize o "**fator de conversão**" se necessário e clique em <span class="mat-button mdi "> vincular</span>.
-
-![vincular](/movimentos/compras/vincular_2.png)
-
-Na observação do produto constará o vínculo:
-
-![produto vinculado](/movimentos/compras/vincular_3.png)
-
-Efetue a conferência das demais informações da nota fiscal e para finalizar a importação do XML, clique em:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) ou **concluir compra** (<em class="mdi  mdi-check"></em>):
-
-![nota pendente](/movimentos/compras/nota_pendente.png)
-
-## Cadastrar novo produto
-
-Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição:
-
-![produto](/movimentos/compras/produtos_novos_1.png)
-
-É possível **cadastrar o produto** diretamente pela nota de compra.
-Para **editar o cadastro**, basta clicar sobre o mesmo e a janela abaixo será exibida.
-Clique na aba "**novo produto**" e edite/insira as informações necessárias, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
-
-![novo produto](/movimentos/compras/novo.png)
-
-Observe que a descrição do produto foi alterada e na observação consta **novo produto**:
-
-![nova descrição](/movimentos/compras/novo_2.png)
-
-Efetue a conferência das demais informações da nota fiscal e clique em:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, , sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) e **concluir compra** (<em class="mdi  mdi-check"></em>).
-
-Como produtos novos foram identificados no XML, a mensagem abaixo será exibida. Para que eles sejam adicionados ao cadastro de estoque, clique em <span class="mat-button mdi "> cadastrar</span>.
-
-![cadastrar produtos novos](/movimentos/compras/cadastrar.png)
-
-Clique em <span class="mat-button mdi "> rever</span> se desejar efetuar alguma alteração ou [vincular](https://help.gdoorweb.com.br/pt-br/movimentos/compras#vincular-produto-cadastrado) algum produto.
-
-# Configurações
-
-Nesta seção é possível determinar a [operação padrão](https://help.gdoorweb.com.br/pt-br/movimentos/compras#opera%C3%A7%C3%A3o-padr%C3%A3o) para novas compras e configurações referentes à [Manifestação do Destinatário eletrônica (MD-e)](https://help.gdoorweb.com.br/pt-br/movimentos/compras#manifesta%C3%A7%C3%A3o-eletr%C3%B4nica).
-
-![configurações de compras](/movimentos/compras/configurações_de_compras.png)
-
-## Operação padrão
-
-Configure uma operação padrão para novas compras, desta forma não será necessário escolher manualmente a cada nota. Quando for cadastrar uma nova compra, esta será a operação escolhida por padrão.
-Após informar, clique em <span class="mat-button mdi "> salvar</span>.
-
-## Manifestação eletrônica
-
-Introdução
-
-O módulo CT-e permite a configuração e emissão do Conhecimento de Transporte Eletrônico, utilizado no transporte rodoviário de cargas.
-Ao acessar o módulo  movimentações - CT-e, será possível a visualização de todos os CT-es já emitidos, pode ser lançado um novo CT-e (ICONE), efetuar busca dos CT-es emitidos utilizando os filtros (ICONE).
-
-CT-e
-
-O lançamento do CT-e se dá pela necessidade de um documento de transporte para que a mercadoria possa circular nas rodovias, nesse documento são registrados todos os dados dos participantes, produtos transportados , impostos caso incidam na prestação do serviço de transporte e referência de um ou mais documentos fiscais.
-
-Para iniciar o lançamento do CT-e primeiramente deve ser feita a configuração  acessando o módulo Configurações do CT-e.<link
-
-O módulo possui Relatórios do CT-e para busca dos documentos emitidos, Inutilização de numeração, ativação do Serviço de contingência e XML do mês para separação e envio dos arquivos a contabilidade.
-
-Preenchimento CT-e
-
-O preenchimento do CT-e é possível somente com todas as informações contidas em um outro documento fiscal como por exemplo NF-e.
-Aba Geral são preenchidos os detalhes da prestação de serviço como por exemplo o início e fim da viagem, os participantes da prestação do transporte e documento fiscal referenciado.
-Em Carga são preenchidas as informações que especificam o que será transportado assim como as informações pertinentes a mercadoria, nos Impostos são informados os valores e componentes que irão incidir na prestação do serviço de transporte.
-Na aba Cobrança é inserido a forma de pagamento que foi acordada com o Tomador ou outro participante do transporte responsável pelo pagamento do frete, em Outros são preenchidas algumas informações que tipificam alguns tipos de transportes, sendo necessário a validação da obrigatoriedade de preenchimento ou não desses campos.
-
-Dica: O CT-e é um documento no qual podem existir diversas particularidades dependendo da operação que está sendo contratada, para auxiliar no preenchimento dos dados é necessário que esteja com a NF-e em mãos.
-Alguns dos campos do CT-e não são de preenchimento obrigatório dependendo muito do tipo de transporte que está sendo realizado.
-
-Com o CT-e autorizado algumas funções são possíveis de serem feitas como por exemplo, a consulta do status do CT-e na sefaz, copiar chave de acesso, enviar por e-mail, cancelar, visualizar xml, carta de correção (CC-e) e visualizar CT-e.
-
-A Carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessário a retificação, clicando no + em Correções e escolhendo qual Grupo alterado e qual campo alterado desse grupo é necessário ser retificado assim como o valor alterado.
-Obs. é necessário a identificação do grupo alterado assim como o campo alterado no xml do CT-e, somente será possível a correção dos grupos listados conforme embasamento da carta de correção.
-
-Caso tente ser Transmitido ou Salvo o CT-e sem o preenchimento dos campos obrigatórios será apresentado uma mensagem no canto superior direito da  tela informando qual campo é necessário a revisão.
-
-O tipo do ct-e determina para qual finalidade o documento está sendo emitido, CT-e normal para transporte rodoviário, ct-e de complemento de valores, ct-e de anulação ou ct-e substituto.
-
-Em tipo do serviço é informado qual a modalidade do serviço de transporte que será realizado, normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal.
-
-O contratante e pagador do serviço deve ser selecionado em tomador do serviço podendo ser qualquer um dos participantes do transporte, geralmente sendo remetente ou destinatário.
