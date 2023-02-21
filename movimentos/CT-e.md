@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T14:56:07.592Z
+date: 2023-02-21T16:28:47.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -175,6 +175,14 @@ Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação el
 # Ações
 
 ## Inutilizar numeração
+
+Para inutilizar uma numeração de CT-e no Gweb, clique no botão <span class=mat-button><u>I</u>nutilizar numeração</span> no painel lateral do CT-e:
+
+![inut_num2_cte.png](/movimentos/cte/inut_num2_cte.png)![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
+
+
+
+![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
 
 ## Contingência
 
