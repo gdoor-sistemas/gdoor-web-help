@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T17:16:58.887Z
+date: 2023-02-21T19:29:23.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -84,92 +84,118 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 ![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
 
-> Para limpar a ordenação, clique no  <em class="mdi mdi-close-circle"></em>.
+ Para limpar a ordenação, clique no  <em class="mdi mdi-close-circle"></em>.
 ![ordenar2_cte.png](/movimentos/cte/ordenar2_cte.png)
-{.is-success .gw .gw-tip}
-
-
-
 
 ## Cadastrar CT-e
 
+> O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
+Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, dependendo muito do tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
+
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição <em class="mdi mdi-plus-circle"></em> no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
-A tela "**nova compra**" será exibida.
+A tela "**novo CT-e**" será exibida.
+
+![novo2_cte.png](/movimentos/cte/novo2_cte.png)
 
 ---
-- **Geral**
-Insira as informações constantes na nota de compra, como: **número, modelo, série, emissão, entrada** e **natureza da operação**:
+### Geral
 
-![cabeçalho](/movimentos/CT-e/cabeçalhoo.png)
+Nesta aba são preenchidos os detalhes da prestação de serviço como:
+
+![novo_cte.png](/movimentos/cte/novo_cte.png)
+
+- **Tipo de CT-e:**
+- **CFOP:**
+- **Tipo do serviço:**
+- **Data de emissão:**
+- **Tomador do serviço:**
+- **Município de início**;
+- **Município de término**.
+- **Data de envio:**
+- **Remetente:**
+- **Destinatário:**
+- **Expedidor:**
+- **Recebedor:**
+
+- **Documentos transportados pelo CT-e:**
+<em class="mdi mdi-plus-circle"></em>
+
+
 
 ---
-- **Carga**
-Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
+### Carga
 
-![fornecedor](/movimentos/CT-e/fornecedor.png)
+Na aba **carga**, são preenchidas as informações que especificam o que será transportado, bem como as informações pertinentes a mercadoria:
+
+- **Produto predominante:**
+- **Valor da carga:**
+- **Outras características da carga:**
+- **Unidade de medida:**
+- **Tipo da medida:**
+- **Quandidade:**
+- **Município de término:**
+- **Data de envio:**
+- **Remetente:**
+- **Destinatário:**
+- **Expedidor:**
+- **Recebedor:**
+
+ <em class="mdi mdi-plus-circle"></em>
+ 
+
+![carga_cte.png](/movimentos/cte/carga_cte.png)
 
 ---
-- **Impostos**
-Para buscar **produtos** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe a **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
+### Impostos
 
-![produtos](/movimentos/CT-e/produtos.png)
+nos Impostos são informados os valores e componentes que irão incidir na prestação do serviço de transporte.
+
+- **Valor total do serviço:**
+- **Valor total a receber:**
+- **CST:**
+- **Valor da base de cálculo:**
+- **Alíquota do ICMS:**
+- **Valor do ICMS:**
+- **Componentes do valor da prestação:**
+- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**
+
+
+![impostos_cte.png](/movimentos/cte/impostos_cte.png)
 
 ---
-- **Cobrança**
+### Cobrança
+
+ Cobrança é inserido a forma de pagamento que foi acordada com o Tomador ou outro participante do transporte responsável pelo pagamento do frete, em
 Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
 
-![totais da compra](/movimentos/CT-e/totais_da_compra.png)
+![cobranca_cte.png](/movimentos/cte/cobranca_cte.png)
+
+
 
 ---
-- **Outros**
-Nesta seção, há duas opções:
+### Outros
 
-**<em class="mdi mdi-checkbox-blank-outline"></em> Não informar pagamentos**: sem geração de histórico financeiro;
+ Outros são preenchidas algumas informações que tipificam alguns tipos de transportes, sendo necessário a validação da obrigatoriedade de preenchimento ou não desses campos.
 
-**Adicionar pagamento**: geração da [despesa](/financeiro/despesas) no financeiro.
 
-![pagamentos](/movimentos/CT-e/pagamentos_1.png)
 
----
-- **Transporte**
-Na seção de transporte, alguns campos são exibidos de acordo com o "**tipo de frete**" selecionado:
 
-**Sem transporte**: não haverá informação de transportadora ou veículo;
 
-**Contratado pelo remetente, destinatário** ou **terceiros**: habilita os campos para informar a transportadora e veículo;
 
-**Transporte próprio por conta do remetente ou destinatário**: habilita os campos para informar a transportadora e veículo.
 
-![transporte](/movimentos/CT-e/transporte.png)
-
-Após a inclusão das informações conforme a nota fiscal de compra, há opção para:
-
-- <span class="mat-button mdi "> concluir</span>: **salva e valida** a nota de compra para dar entrada no estoque. Isso realizará a movimentação do estoque e a nota não poderá mais ser editada nem excluída. Ficará na lista com status **concluída**.
-
-- <span class="mat-button mdi "> salvar</span>: apenas **salva** a nota de compra, que ficará na lista com status **pendente**, sendo possível realizar as ações de **editar compra** (<em class="mdi  mdi-pencil"></em>) ou **concluir compra** (<em class="mdi  mdi-check"></em>):
-
-![nota pendente](/movimentos/CT-e/nota_pendente.png)
 
 # Relatórios
 
 ## Relatórios do CT-e
 
-A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa **confirme** ou **recuse** sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
+A opção de <span data-mat-button>Relatórios do CT-e</span> busca dos documentos já emitidos.
+![relat_config2_cte.png](/movimentos/cte/relat_config2_cte.png)
 
-Através do módulo de “**compras**” no Gweb é possível informar sobre o andamento da operação na NF-e e confirmar a veracidade das informações contidas na nota.
 
-São quatro eventos possíveis: **confirmação da operação**, **desconhecimento da operação**, **operação não realizada** e **ciência da operação**.
 
-Para efetuar a manifestação é necessário ter um “**certificado digital válido**” e estar em “**ambiente de produção**”.
+Acessando a opção de <span data-mat-button>Relatórios do CT-e</span>, no botão <span data-mat-button>Configurar relatórios</span>, estão disponíveis algumas configurações, são elas:
 
-> As configurações para a Manifestação do Destinatário eletrônica são as mesmas utilizadas nas “**configurações da NF-e**”. 
-Caso utilize apenas NFC-e, não será possível utilizar a função de manifestação, pois ela trabalha em conjunto com a NF-e.
-{.is-info}
-
-Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação eletrônica**”, localizado no menu lateral direito.
-
-![compras](/compras/manifestação/1_compras.png)
-
+![relat_config_cte.png](/movimentos/cte/relat_config_cte.png)
 
 
 # Ações
