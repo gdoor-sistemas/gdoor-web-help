@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T19:49:44.685Z
+date: 2023-02-21T20:18:03.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -118,9 +118,10 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - **Recebedor:**
 
 - **Documentos transportados pelo CT-e:**
-<em class="mdi mdi-plus-circle"></em>
-
-
+	- Clicando no botão <em class="mdi mdi-export"></em>, realize a importação do XML das notas das mercadorias que serão transportadas.
+	- Clicando no botão <em class="mdi mdi-plus-circle"></em>, uma nova janela abrirá para a digitação manual dos dados das notas.
+  
+![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
 
 ---
 ### Carga
@@ -262,7 +263,7 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 
 ## Configurações do CT-e
 
-![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
+
 ![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
 ![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
 ![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
