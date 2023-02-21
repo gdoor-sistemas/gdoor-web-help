@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T14:48:10.048Z
+date: 2023-02-21T14:51:17.377Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -76,7 +76,7 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ![](/movimentos/pedidos/limpar_filtro.png)
 
-### Ordenar 
+## Ordenar 
 
 Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
 
@@ -89,7 +89,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 
 
-## Cadastrar CT-e
+# Cadastrar CT-e
 
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição <em class="mdi mdi-plus-circle"></em> no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
@@ -166,7 +166,29 @@ Para acessar o MD-e, no módulo de **compras**, clique em “**manifestação el
 
 ![compras](/compras/manifestação/1_compras.png)
 
-## Consultar 
+## Inutilizar numeração
+## Contingência
+## XML do mês
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Para verificar se há notas para manifestar, clique no botão (<em class="mdi mdi-cloud-download-outline"></em>)  “**consultar novas notas**” localizado no **canto inferior direito da tela**.
 
@@ -272,9 +294,7 @@ A tela para seleção do arquivo XML será aberta, localize o desejado e clique 
 
 Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela para **cadastro** será exibida, verifique as informações e clique em <span class="mat-button mdi "> confirmar</span>.
 
-## Inutilizar numeração
-## Contingência
-## XML do mês
+
 
 Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição.
 
