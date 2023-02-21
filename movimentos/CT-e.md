@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T20:18:03.918Z
+date: 2023-02-21T20:31:29.952Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -22,9 +22,7 @@ Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista
 
 ### Buscar
 
-Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
-Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
  
 ![busca.png](/movimentos/cte/busca.png)
  
@@ -35,31 +33,9 @@ Para atualizar a lista, considerando os registros adicionados mais recentemente,
 
 ### Filtrar
 
-Os filtros também podem ser definidos como padrão. Para efetuar um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido.
 
 ![filtro.png](/movimentos/cte/filtro.png)
-
-
-No painel de filtros destacado na imagem acima temos:
-
-<span class="mdi mdi-filter-menu"></span>: mostra ações relativas ao filtro padrão. 
-
-<span class="mdi mdi-refresh"></span>: atualizar as opções de filtro;
-
-<span class="mdi mdi-sort"></span>: ordenar as opções de filtro;
-
-
-
-Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
-Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
-
-![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
-
-
-
-> Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
-![filtro_aplicado_cte.png](/movimentos/cte/filtro_aplicado_cte.png)
-{.is-success .gw .gw-tip}
 
 As opções de filtro são as seguintes:
 
@@ -74,9 +50,21 @@ As opções de filtro são as seguintes:
 -   **Município de início**;
 -   **Município de término**.
 
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
+Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
+Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
+
+
+Para aplicar um filtro, após selecionar as opções desejadas, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
 ![](/movimentos/pedidos/limpar_filtro.png)
+
+
+
+> Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
+![filtro_aplicado_cte.png](/movimentos/cte/filtro_aplicado_cte.png)
+{.is-success .gw .gw-tip}
 
 ### Ordenar 
 
@@ -175,11 +163,7 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes.
  
- ![outros_cte.png](/movimentos/cte/outros_cte.png)
- 
- 
- 
- ![outros2_cte.png](/movimentos/cte/outros2_cte.png)
+![outros_cte.png](/movimentos/cte/outros_cte.png)
 
 
 
