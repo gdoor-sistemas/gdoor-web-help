@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-21T14:09:19.124Z
+date: 2023-02-21T14:48:10.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -91,35 +91,35 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 
 ## Cadastrar CT-e
 
-Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
+Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição <em class="mdi mdi-plus-circle"></em> no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
 A tela "**nova compra**" será exibida.
 
 ---
-- **Cabeçalho**
+- **Geral**
 Insira as informações constantes na nota de compra, como: **número, modelo, série, emissão, entrada** e **natureza da operação**:
 
 ![cabeçalho](/movimentos/CT-e/cabeçalhoo.png)
 
 ---
-- **Fornecedor**
+- **Carga**
 Busque o fornecedor pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o fornecedor não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
 ![fornecedor](/movimentos/CT-e/fornecedor.png)
 
 ---
-- **Produtos**
+- **Impostos**
 Para buscar **produtos** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique no botão (<em class="mdi mdi-barcode"></em>). Informe a **quantidade**, **valor unitário** e demais campos conforme consta na nota de compra, em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![produtos](/movimentos/CT-e/produtos.png)
 
 ---
-- **Totais da compra**
+- **Cobrança**
 Preencha as informações de acordo com a nota de compra, em caso de dúvidas, sugerimos que verifique com o contador da empresa.
 
 ![totais da compra](/movimentos/CT-e/totais_da_compra.png)
 
 ---
-- **Pagamentos**
+- **Outros**
 Nesta seção, há duas opções:
 
 **<em class="mdi mdi-checkbox-blank-outline"></em> Não informar pagamentos**: sem geração de histórico financeiro;
@@ -148,7 +148,7 @@ Após a inclusão das informações conforme a nota fiscal de compra, há opçã
 
 ![nota pendente](/movimentos/CT-e/nota_pendente.png)
 
-# Manifestação do Destinatário eletrônica (MD-e)
+# Relatórios do CT-e
 
 A **Manifestação do Destinatário eletrônica (MD-e)** possibilita que a empresa **confirme** ou **recuse** sua participação em uma transação comercial, a fim de evitar que seu CNPJ e inscrição estadual sejam vítimas de fraudes.
 
@@ -262,7 +262,7 @@ Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar
 
 ![confirmar manifestação](/compras/manifestação/6.png)
 
-# Importar XML
+# Ações
 
 Ao acessar o módulo **movimentações » compras** clique em "**importar XML**", localizado no painel lateral da página conforme a imagem abaixo:
 
@@ -272,7 +272,9 @@ A tela para seleção do arquivo XML será aberta, localize o desejado e clique 
 
 Se o **fornecedor** ou a  **transportadora** não estiverem cadastrados, a tela para **cadastro** será exibida, verifique as informações e clique em <span class="mat-button mdi "> confirmar</span>.
 
-## Vincular produto cadastrado
+## Inutilizar numeração
+## Contingência
+## XML do mês
 
 Se o sistema identificar produtos novos no XML, a observação de "**novo produto**" constará logo abaixo da descrição.
 
