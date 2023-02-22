@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T16:24:13.481Z
+date: 2023-02-22T16:24:58.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -58,8 +58,8 @@ Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi m
 As opções de filtro são as seguintes:
 
 -   **Status**: autorizado, cancelado, pendente ou rejeitado;
--   **Data inicial**;
--   **Data final**;
+-   **Data inicial**: digite uma data inicial para o filtro de documentos;
+-   **Data final**: digite uma data final para o filtro de documentos;
 -   **Tipoe do CT-e**: normal, de complemento de valores, de anulação ou substituto;
 -   **Tipo do serviço**: normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
 -   **Tomador**: disponíveis todos os tomadores já utilizados em lançamentos;
