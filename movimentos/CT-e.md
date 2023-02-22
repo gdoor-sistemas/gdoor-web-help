@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T14:59:06.094Z
+date: 2023-02-22T16:24:13.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -57,16 +57,16 @@ Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi m
 
 As opções de filtro são as seguintes:
 
--   **Status**;
+-   **Status**: autorizado, cancelado, pendente ou rejeitado;
 -   **Data inicial**;
 -   **Data final**;
--   **Tipoe do CT-e**;
--   **Tipo do serviço**;
--   **Tomador**;
--   **Remetente/Expedidor**;
--   **Destinatário/Recebedor**;
--   **Município de início**;
--   **Município de término**.
+-   **Tipoe do CT-e**: normal, de complemento de valores, de anulação ou substituto;
+-   **Tipo do serviço**: normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
+-   **Tomador**: disponíveis todos os tomadores já utilizados em lançamentos;
+-   **Remetente/Expedidor**: disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
+-   **Destinatário/Recebedor**: disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
+-   **Município de início**: disponíveis todos os municípios já utilizados em lançamentos;
+-   **Município de término**: disponíveis todos os municípios já utilizados em lançamentos;
 
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
@@ -101,7 +101,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 > O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
 Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, dependendo muito do tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
 
-Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
+Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 A tela "**novo CT-e**" será exibida.
 
 ![novo2_cte.png](/movimentos/cte/novo2_cte.png)
