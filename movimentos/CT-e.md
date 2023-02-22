@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T17:12:41.760Z
+date: 2023-02-22T17:33:48.246Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -36,7 +36,7 @@ Será possível:
 - <em class="mdi mdi-code-tags"></em> **Visualizar XML**: apresenta em tela uma cópia do xml do documento selecionado;
 - <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**: a carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessária a retificação;
 - <em class="mdi mdi-file-check"></em> **Comprovante de entrega (CE-e)**: é uma versão digital dos canhotos das notas fiscais ou do CT-e do arquivo selecionado;
-- <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**
+- <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**: proporciona a impressão, download ou visualização do documento selecionado;
 
 
 ### Buscar
@@ -58,16 +58,16 @@ Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi m
 
 As opções de filtro são as seguintes:
 
--   **Status**: autorizado, cancelado, pendente ou rejeitado;
--   **Data inicial**: digite uma data inicial para o filtro de documentos;
--   **Data final**: digite uma data final para o filtro de documentos;
--   **Tipoe do CT-e**: normal, de complemento de valores, de anulação ou substituto;
--   **Tipo do serviço**: normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
--   **Tomador**: disponíveis todos os tomadores já utilizados em lançamentos;
--   **Remetente/Expedidor**: disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
--   **Destinatário/Recebedor**: disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
--   **Município de início**: disponíveis todos os municípios já utilizados em lançamentos;
--   **Município de término**: disponíveis todos os municípios já utilizados em lançamentos;
+-   **Status:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
+-   **Data inicial:**{.subtitle} digite uma data inicial para o filtro de documentos;
+-   **Data final:**{.subtitle} digite uma data final para o filtro de documentos;
+-   **Tipoe do CT-e:**{.subtitle} normal, de complemento de valores, de anulação ou substituto;
+-   **Tipo do serviço:**{.subtitle} normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
+-   **Tomador:**{.subtitle} disponíveis todos os tomadores já utilizados em lançamentos;
+-   **Remetente/Expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
+-   **Destinatário/Recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
+-   **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
+-   **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>).
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
@@ -116,41 +116,29 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
 
 
-- **Tipo de CT-e:**  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
+- **Tipo de CT-e:**{.subtitle}  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
 - CT-e normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria;
 - CT-e complemento de valores: utilizado para emitir documentos emitidos sem ICMS ou com uma tarifa menor. Neste documento deve conter o valor da diferença faltante no primeiro conhecimento.
 - CT-e de anulação: o CT-e de anulação é emitido em situações onde o tomador do serviço não é contribuinte de ICMS, e não emite nota fiscal.
 - CT-e substituto: documento que substitui o CT-e que passou pelo processo de anulação e é emitido somente para corrigir valores, mantendo os demais campos com as mesmas informações do primeiro CT-e.
-
----
-
-- **CFOP:** este código será disponibilizado pela contabilidade para emissão do documento fiscal.
-
----
-
-
-- **Tipo do serviço:** disponível 5 opções para o tipo do serviço, sendo elas: 
+- **CFOP:**{.subtitle} este código será disponibilizado pela contabilidade para emissão do documento fiscal.
+- **Tipo do serviço:**{.subtitle} disponível 5 opções para o tipo do serviço, sendo elas: 
 - Normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
 - Subcontratação: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
 - Redespacho: quando uma transportadora contrata outra para realizar parte de uma prestação de serviço, independentemente se ela for a inicial, intermediária ou final do transporte.
 - Redespacho intermediário: quando uma empresa é contratada para realizar um trecho intermediário
 - Vinculado a multimodal: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
----
+- **Data de emissão:**{.subtitle} data de emissão do documento.
+- **Tomador do serviço:**{.subtitle} o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" pagará pelo transporte.
+- **Município de início:**{.subtitle}  informar a cidade de onde inicia o transporte.
+- **Município de término:**{.subtitle} informar a cidade de onde finaliza o transporte.
+- **Data de envio:**{.subtitle} data em que a carga será enviada.
+- **Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
+- **Destinatário:**{.subtitle} preencher as informações referentes à empresa onde a carga será entregue.
+- **Expedidor:**{.subtitle} responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente.
+- **Recebedor:**{.subtitle} é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador.
 
-- **Data de emissão:** data de emissão do documento.
-
----
-- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" pagará pelo transporte.
----
-- **Município de início:**  informar a cidade de onde inicia o transporte.
-- **Município de término:** informar a cidade de onde finaliza o transporte.
-- **Data de envio:** data em que a carga será enviada.
-- **Remetente:** informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
-- **Destinatário:** preencher as informações referentes à empresa onde a carga será entregue.
-- **Expedidor:** responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente.
-- **Recebedor:** é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador.
-
-- **Documentos transportados pelo CT-e:**
+- **Documentos transportados pelo CT-e:**{.subtitle}
 	- Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
 	- Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
   
@@ -163,20 +151,12 @@ Na aba **carga**, são preenchidas as informações que especificam o que será 
 
 ![carga_cte.png](/movimentos/cte/carga_cte.png)
 
-- **Produto predominante:** informar a descrição do produto predominante da carga.
-- **Valor da carga:** é o valor da carga sendo transportada;
-- **Outras características da carga:** informação adicional sobre a carga, como por exemplo, se a carga é resfriada;
-- **Unidade de medida:** informar o código da unidade de medida (M3, KG, TON, entre outros);
-- **Tipo da medida:** informar se é peso bruto, peso declarado. caixas, entre outros.
-- **Quandidade:**
-- **Município de término:**
-- **Data de envio:**
-- **Remetente:**
-- **Destinatário:**
-- **Expedidor:**
-- **Recebedor:**
-
- <em class="mdi mdi-plus-circle"></em>
+- **Produto predominante:**{.subtitle} informar a descrição do produto predominante da carga;
+- **Valor da carga:**{.subtitle} é o valor da carga sendo transportada;
+- **Outras características da carga:**{.subtitle} informação adicional sobre a carga, como por exemplo, se a carga é resfriada;
+- **Unidade de medida:**{.subtitle} informar o código da unidade de medida (M3, KG, TON, entre outros);
+- **Tipo da medida:**{.subtitle} informar se é peso bruto, peso declarado. caixas, entre outros;
+- **Quandidade:**{.subtitle}  necessário informar a quantidade da carga;
 
 
 ---
@@ -186,14 +166,14 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 
 ![impostos_cte.png](/movimentos/cte/impostos_cte.png)
 
-- **Valor total do serviço:**
-- **Valor total a receber:**
-- **CST:**
-- **Valor da base de cálculo:**
-- **Alíquota do ICMS:**
-- **Valor do ICMS:**
-- **Componentes do valor da prestação:**
-- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**
+- **Valor total do serviço:**{.subtitle}
+- **Valor total a receber:**{.subtitle}
+- **CST:**{.subtitle}
+- **Valor da base de cálculo:**{.subtitle}
+- **Alíquota do ICMS:**{.subtitle}
+- **Valor do ICMS:**{.subtitle}
+- **Componentes do valor da prestação:**{.subtitle}
+- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle}
 
 ---
 ### Cobrança
@@ -207,11 +187,11 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 ### Outros
 
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
-- **Documentos de transporte anterior:**
-- **Outras informações:**
-	CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
-	Informações adicionais;
-	Informações adicionais de interesse do fisco;
+- **Documentos de transporte anterior:**{.subtitle}
+- **Outras informações:**{.subtitle}
+- CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
+- Informações adicionais;
+- Informações adicionais de interesse do fisco;
  
 ![outros_cte.png](/movimentos/cte/outros_cte.png)
 
@@ -230,7 +210,6 @@ Acessando a opção de <span data-mat-button>Relatórios do CT-e</span>, no bot�
 
 ![relat_config_cte.png](/movimentos/cte/relat_config_cte.png)
 
-
 # Ações
 
 ## Inutilizar numeração
@@ -243,21 +222,10 @@ Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
 
 ![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
 
-Série{.subtitle}
-
-Série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente no CT-e.
-
-Nº inicial{.subtitle}
-
-Número inicial da faixa que deseja inutilizar.
-
-Nº final{.subtitle}
-
-Número final da faixa que deseja inutilizar.
-
-Justificativa do pedido de inutilização{.subtitle}
-
-Com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
+- **Série:**{.subtitle} série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente no CT-e.
+- **Nº inicial:**{.subtitle} número inicial da faixa que deseja inutilizar.
+- **Nº final:**{.subtitle} número final da faixa que deseja inutilizar.
+- **Justificativa do pedido de inutilização:**{.subtitle} com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
 
 > Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
 {.is-success .gw .gw-tip}
@@ -268,7 +236,7 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 ![inut_num3_cte.png](/movimentos/cte/inut_num3_cte.png)
 
-> Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
+> Se por algum motivo você inutilizar uma numeração superior ao último número de CT-e registrado no sistema, ao gerar o próximo, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
 
 ## Contingência
@@ -282,12 +250,11 @@ Para ativar a emissão, clique no botão <span data-mat-button>Contingência</sp
 ## XML do mês
 O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
 
-Compactar arquivos{.subtitle}
-
-Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
-
 ![xml_cte.png](/movimentos/cte/xml_cte.png)
 
+- **Compactar arquivos:**{.subtitle} clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
+
+![xml2_cte.png](/movimentos/cte/xml2_cte.png)
 
 A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
