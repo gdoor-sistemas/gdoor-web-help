@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T18:09:58.259Z
+date: 2023-02-22T19:08:51.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -176,7 +176,7 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 - **Alíquota do ICMS:**{.subtitle} informe a alíquota de ICMS a ser aplicada para o valor da base ICMS informado;
 - **Valor do ICMS:**{.subtitle} valor calculado automaticamente de acordo com o **valor da base de cálculo** e o percentual de **Alíquota do ICMS** preenchidos anteriormente;
 - **Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional);
-- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo. Se necessário, colicite auxílio ao contabilista para informar corretamente os valores;
+- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo. Se necessário, solicite auxílio ao contabilista para informar corretamente os valores;
 
 ---
 ### Cobrança
@@ -189,15 +189,13 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 ### Outros
 
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
-- **Documentos de transporte anterior:**{.subtitle}
+- **Documentos de transporte anterior:**{.subtitle} informe os dados de transportes que antecederam a emissão deste CT-e.
 - **Outras informações:**{.subtitle}
 - CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
 - Informações adicionais;
 - Informações adicionais de interesse do fisco;
  
 ![outros_cte.png](/movimentos/cte/outros_cte.png)
-
-
 
 # Relatórios
 
@@ -208,7 +206,7 @@ A opção de <span data-mat-button>Relatórios do CT-e</span> busca dos document
 
 
 
-Acessando a opção de <span data-mat-button>Relatórios do CT-e</span>, no botão <span data-mat-button>Configurar relatórios</span>, estão disponíveis algumas configurações, são elas:
+Acessando a opção de **relatórios do CT-e**, no botão <span data-mat-button>Configurar relatórios</span>, estão disponíveis algumas configurações, são elas:
 
 ![relat_config_cte.png](/movimentos/cte/relat_config_cte.png)
 
@@ -269,9 +267,68 @@ Ou marque a opção **enviar por e-mail**. Nesta opção, você precisará infor
 
 ## Configurações do CT-e
 
+As configurações do CT-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
+Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi ">salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
+
 ![config_cte.png](/movimentos/cte/config_cte.png)
 
-![config2_cte.png](/movimentos/cte/config2_cte.png)
+### Certificado digital
+
+Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de CT-e. Clique em <span class="mat-button mdi ">carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi ">salvar</span>.
+Para remover o certificado digital, clique no (<em class="mdi mdi-close"></em>) à direita do nome.
+
+![config_cert_cte.png](/movimentos/cte/config_cert_cte.png)
+
+
+
+
+### Ambiente do CT-e
+
+Nesta seção você configura dados para a geração do CT-e. 
+
+![config_amb_cte.png](/movimentos/cte/config_amb_cte.png)
+
+Abaixo, veja detalhes de cada configuração:
+
+- **Série do CT-e:**{.subtitle} série de emissão do CT-e. Esta informação pode ser obtida com sua contabilidade.
+
+- **Ambiente do CT-e:**{.subtitle} aqui você determina se os CT-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, os CT-e transmitidos terão valor fiscal.
+
+- **Nº do próximo CT-e:**{.subtitle} apenas informe um número neste campo se sua empresa já emitia CT-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, o próximo CT-e será gerado com esse número e os subsequentes terão o número sequencial.
+
+- **Forma de emissão:**{.subtitle} neste campo você pode configurar a forma de emissão do CT-e: "**normal**", "**EPEC pela SVC"**, "**SVC RS**", "**SVC SP**" ou "**contingência**". Altere essa informação conforme orientação da SEFAZ.
+
+
+### Autorizados a baixar o XML
+Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do CT-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
+
+![config_aut_xml_cte.png](/movimentos/cte/config_aut_xml_cte.png)
+
+
+
+### Impressão do DACTe
+
+![config_imp_cte.png](/movimentos/cte/config_imp_cte.png)
+
+
+### E-mails padrão
+
+![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
+
+### Opções de e-mail
+
+![config_op_email_cte.png](/movimentos/cte/config_op_email_cte.png)
+
+
+
+
+
+
+
+
+### E-mail
+
+![config_email_cte.png](/movimentos/cte/config_email_cte.png)
 
 
 
