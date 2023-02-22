@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T20:49:23.451Z
+date: 2023-02-22T21:13:49.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -322,7 +322,7 @@ Veja o que pode ser alterado:
 
 - **Orientação:**{.subtitle} orientação para impressão do MDF-e em modo **retrato** ou **paisagem**.
 
-- **Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial** (sem serifa) e **Courier** (monoespaçada).
+- **Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **times** (com serifa), **arial** (sem serifa) e **courier** (monoespaçada).
 
 - **Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
