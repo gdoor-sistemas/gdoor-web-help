@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T20:09:54.735Z
+date: 2023-02-22T20:14:48.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -111,7 +111,7 @@ A tela "**novo CT-e**" será exibida.
 
 ![lista.png](/movimentos/cte/lista.png)
 
----
+
 ### Geral
 
 Nesta aba são preenchidos os detalhes da prestação de serviço como:
@@ -147,7 +147,7 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
   
 ![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
 
----
+
 ### Carga
 
 Na aba **carga**, são preenchidas as informações que especificam o que será transportado, bem como as informações pertinentes a mercadoria:
@@ -162,7 +162,7 @@ Na aba **carga**, são preenchidas as informações que especificam o que será 
 - **Quandidade:**{.subtitle}  necessário informar a quantidade da carga;
 
 
----
+
 ### Impostos
 
 Nos **impostos** são informados os valores e componentes que irão incidir na prestação do serviço de transporte:
@@ -178,14 +178,14 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 - **Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional);
 - **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo. Se necessário, solicite auxílio ao contabilista para informar corretamente os valores;
 
----
+
 ### Cobrança
 
  Para a aba **cobrança**, deve informar a forma de pagamento que foi acordada com o **tomador** ou outro participante do transporte responsável pelo pagamento.
 
 ![cobranca_cte.png](/movimentos/cte/cobranca_cte.png)
 
----
+
 ### Outros
 
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
