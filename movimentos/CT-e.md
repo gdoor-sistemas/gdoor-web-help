@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T18:02:47.002Z
+date: 2023-02-22T18:04:19.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -60,16 +60,16 @@ Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi m
 
 As opções de filtro são as seguintes:
 
--   **Status:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
--   **Data inicial:**{.subtitle} digite uma data inicial para o filtro de documentos;
--   **Data final:**{.subtitle} digite uma data final para o filtro de documentos;
--   **Tipoe do CT-e:**{.subtitle} normal, de complemento de valores, de anulação ou substituto;
--   **Tipo do serviço:**{.subtitle} normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
--   **Tomador:**{.subtitle} disponíveis todos os tomadores já utilizados em lançamentos;
--   **Remetente/Expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
--   **Destinatário/Recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
--   **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
--   **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
+- **Status:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
+- **Data inicial:**{.subtitle} digite uma data inicial para o filtro de documentos;
+- **Data final:**{.subtitle} digite uma data final para o filtro de documentos;
+- **Tipo do CT-e:**{.subtitle} normal, de complemento de valores, de anulação ou substituto;
+- **Tipo do serviço:**{.subtitle} normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
+- **Tomador:**{.subtitle} disponíveis todos os tomadores já utilizados em lançamentos;
+- **Remetente/Expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
+- **Destinatário/Recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
+- **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
+- **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
 
