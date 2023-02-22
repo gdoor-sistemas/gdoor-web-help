@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T14:21:21.117Z
+date: 2023-02-22T14:22:39.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -114,16 +114,20 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
 
+
 - **Tipo de CT-e:**  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
 - CT-e normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria;
 - CT-e complemento de valores: utilizado para emitir documentos emitidos sem ICMS ou com uma tarifa menor. Neste documento deve conter o valor da diferença faltante no primeiro conhecimento.
 - CT-e de anulação: o CT-e de anulação é emitido em situações onde o tomador do serviço não é contribuinte de ICMS, e não emite nota fiscal.
 - CT-e substituto: documento que substitui o CT-e que passou pelo processo de anulação e é emitido somente para corrigir valores, mantendo os demais campos com as mesmas informações do primeiro CT-e.
 
-![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
+---
 
 - **CFOP:** este código será disponibilizado pela contabilidade para emissão do documento fiscal.
+
 ---
+
+
 - **Tipo do serviço:** disponível 5 opções para o tipo do serviço, sendo elas: 
 - Normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
 - Subcontratação: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
@@ -131,7 +135,9 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - Redespacho intermediário: quando uma empresa é contratada para realizar um trecho intermediário
 - Vinculado a multimodal: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
 ---
+
 - **Data de emissão:** data de emissão do documento.
+
 ---
 - **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Ao selecionar Tomador do Serviço também haverá algumas opções a serem utilizadas:
 - Rementente: responsável por enviar a mercadoria, geralmente o próprio emissor da NFe;
