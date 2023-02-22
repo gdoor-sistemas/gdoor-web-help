@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T19:40:46.769Z
+date: 2023-02-22T20:09:23.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -279,9 +279,6 @@ Para remover o certificado digital, clique no (<em class="mdi mdi-close"></em>) 
 
 ![config_cert_cte.png](/movimentos/cte/config_cert_cte.png)
 
-
-
-
 ### Ambiente do CT-e
 
 Nesta seção você configura dados para a geração do CT-e. 
@@ -298,23 +295,6 @@ Abaixo, veja detalhes de cada configuração:
 
 - **Forma de emissão:**{.subtitle} neste campo você pode configurar a forma de emissão do CT-e: "**normal**", "**EPEC pela SVC"**, "**SVC RS**", "**SVC SP**" ou "**contingência**". Altere essa informação conforme orientação da SEFAZ.
 
-
-### Autorizados a baixar o XML
-Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do CT-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
-
-![config_aut_xml_cte.png](/movimentos/cte/config_aut_xml_cte.png)
-
-
-
-### Impressão do DACTe
-
-![config_imp_cte.png](/movimentos/cte/config_imp_cte.png)
-
-
-### E-mails padrão
-
-![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
-
 ### Opções de e-mail
 
 Nesta seção, marque as opções desejadas em relação ao envio automático dos e-mails de CT-e.
@@ -325,12 +305,35 @@ Nesta seção, marque as opções desejadas em relação ao envio automático do
 - **Cópia para o emitente:**{.subtitle} marque esta opção para enviar cópia do do CT-e para o e-mail cadastrado no emitente. 
 - **Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
 
+### Autorizados a baixar o XML
+Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do CT-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
+
+![config_aut_xml_cte.png](/movimentos/cte/config_aut_xml_cte.png)
 
 
 
+### Impressão do DACTe
+
+Nesta seção você configura detalhes sobre a impressão do DACTe. 
+
+![config_imp_cte.png](/movimentos/cte/config_imp_cte.png)
+
+Veja o que pode ser alterado:
+
+- **Orientação:**{.subtitle} orientação para impressão do MDF-e em modo **retrato** ou **paisagem**.
+
+- **Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial** (sem serifa) e **Courier** (monoespaçada).
+
+- **Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
+
+### E-mails padrão
+Nesta seção, configure o conteúdo padrão para o corpo de e-mail, quando enviar um e-mail para "**CT-e**", "**CC-e**" ou para "**cancelamentos de CT-e**". Para cadastrar o conteúdo, clique no botão <span class="mat-button mdi ">editar</span>, correspondente a cada tipo de e-mail disponível.
+
+![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
 
 
 ### E-mail
+Configure um endereço de e-mail para receber uma **resposta** para cada envio de e-mail de CT-e.
 
 ![config_email_cte.png](/movimentos/cte/config_email_cte.png)
 
