@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T18:05:43.217Z
+date: 2023-02-22T18:09:18.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -171,12 +171,12 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 
 - **Valor total do serviço:**{.subtitle} preencha este campo com o valor total do transporte, incluindo frete, seguro, pedágios, entre outros fatores;
 - **Valor total a receber:**{.subtitle} valor líquido cobrado pelo serviço prestado;
-- **CST:**{.subtitle} informe o **Código da Situação Tributária ** do CT-e.
+- **CST:**{.subtitle} informe o **Código da Situação Tributária** do CT-e.
 - **Valor da base de cálculo:**{.subtitle} informe o valor da base do ICMS;
 - **Alíquota do ICMS:**{.subtitle} informe a alíquota de ICMS a ser aplicada para o valor da base ICMS informado;
 - **Valor do ICMS:**{.subtitle} valor calculado automaticamente de acordo com o **valor da base de cálculo** e o percentual de **Alíquota do ICMS** preenchidos anteriormente;
 - **Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional);
-- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle}
+- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo;
 
 ---
 ### Cobrança
