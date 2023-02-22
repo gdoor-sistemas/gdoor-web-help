@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T17:47:13.084Z
+date: 2023-02-22T18:02:47.002Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -20,6 +20,7 @@ Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista
 
 ![lista_limpa_cte.png](/movimentos/cte/lista_limpa_cte.png)
 
+---
 ### Opções
 
 Clique no botão  <em class="mdi mdi-dots-vertical"></em>, ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
@@ -38,7 +39,7 @@ Será possível:
 - <em class="mdi mdi-file-check"></em> **Comprovante de entrega (CE-e)**: é uma versão digital dos canhotos das notas fiscais ou do CT-e do arquivo selecionado;
 - <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**: proporciona a impressão, download ou visualização do documento selecionado;
 
-
+---
 ### Buscar
 
 Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
@@ -50,6 +51,7 @@ Para localizar uma nota de compra, **digite no campo de busca** no quadro indica
 > **Campos textuais**: razão social e nome fantasia do cliente.
 {.is-success .gw .gw-tip}
 
+---
 ### Filtrar
 
 Para efetuar um filtro da lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido.
@@ -70,13 +72,12 @@ As opções de filtro são as seguintes:
 -   **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 
 Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
-![opcoes2_filtro_cte.png](/movimentos/cte/opcoes2_filtro_cte.png)
+
 ![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
 
 Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
 
-
-
+![opcoes2_filtro_cte.png](/movimentos/cte/opcoes2_filtro_cte.png)
 
 Para aplicar um filtro, após selecionar as opções desejadas, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
@@ -88,6 +89,7 @@ Para aplicar um filtro, após selecionar as opções desejadas, clique no botão
 ![filtro_aplicado_cte.png](/movimentos/cte/filtro_aplicado_cte.png)
 {.is-success .gw .gw-tip}
 
+---
 ### Ordenar 
 
 Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, por **número** ou por **data de emissão**. Além de selecionar qual a opção desejada, é possível **definir como padrão**.
@@ -97,7 +99,6 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
  Para limpar a ordenação, clique no  <em class="mdi mdi-close-circle"></em>.
  
 ![ordenar2_cte.png](/movimentos/cte/ordenar2_cte.png)
-
 
 ---
 ## Cadastrar CT-e
@@ -109,7 +110,6 @@ Para cadastrar um conhecimento de transporte eletrônico, clique no botão de ad
 A tela "**novo CT-e**" será exibida.
 
 ![lista.png](/movimentos/cte/lista.png)
-
 
 ---
 ### Geral
@@ -169,22 +169,21 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 
 ![impostos_cte.png](/movimentos/cte/impostos_cte.png)
 
-- **Valor total do serviço:**{.subtitle}
-- **Valor total a receber:**{.subtitle}
-- **CST:**{.subtitle}
-- **Valor da base de cálculo:**{.subtitle}
-- **Alíquota do ICMS:**{.subtitle}
-- **Valor do ICMS:**{.subtitle}
-- **Componentes do valor da prestação:**{.subtitle}
+- **Valor total do serviço:**{.subtitle} preencha este campo com o valor total do transporte, incluindo frete, seguro, pedágios, entre outros fatores;
+- **Valor total a receber:**{.subtitle} valor líquido cobrado pelo serviço prestado;
+- **CST:**{.subtitle} informe o **Código da Situação Tributária ** do CT-e.
+- **Valor da base de cálculo:**{.subtitle} informe o valor da base do ICMS;
+- **Alíquota do ICMS:**{.subtitle} informe a alíquota de ICMS a ser aplicada para o valor da base ICMS informado;
+- **Valor do ICMS:**{.subtitle} valor calculado automaticamente de acordo com o **valor da base de cálculo** e o percentual de **Alíquota do ICMS** preenchidos anteriormente;
+- **Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional);
 - **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle}
 
 ---
 ### Cobrança
 
- Para a aba **cobrança**, deve informar a forma de pagamento que foi acordada com o **Tomador** ou outro participante do transporte responsável pelo pagamento.
+ Para a aba **cobrança**, deve informar a forma de pagamento que foi acordada com o **tomador** ou outro participante do transporte responsável pelo pagamento.
 
 ![cobranca_cte.png](/movimentos/cte/cobranca_cte.png)
-
 
 ---
 ### Outros
