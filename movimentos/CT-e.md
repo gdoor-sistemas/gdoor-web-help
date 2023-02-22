@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T14:56:10.000Z
+date: 2023-02-22T14:59:06.094Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -139,10 +139,8 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - **Data de emissão:** data de emissão do documento.
 
 ---
-- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" é o responsável por este pagamento.
-
-
-
+- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" pagará pelo transporte.
+---
 - **Município de início:**  informar a cidade de onde inicia o transporte.
 - **Município de término:** informar a cidade de onde finaliza o transporte.
 - **Data de envio:** data em que a carga será enviada.
