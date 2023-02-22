@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T17:43:15.140Z
+date: 2023-02-22T17:47:13.084Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -69,9 +69,13 @@ As opções de filtro são as seguintes:
 -   **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 -   **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 
-Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
-
+Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
+![opcoes2_filtro_cte.png](/movimentos/cte/opcoes2_filtro_cte.png)
 ![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
+
+Para remover um filtro padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**remover padrão**" (<span class="mdi mdi-filter-remove"></span>). A imagem abaixo mostra essas opções:
+
+
 
 
 Para aplicar um filtro, após selecionar as opções desejadas, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
