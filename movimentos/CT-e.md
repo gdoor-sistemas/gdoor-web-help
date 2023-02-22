@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T17:02:18.867Z
+date: 2023-02-22T17:12:41.760Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -18,7 +18,7 @@ O módulo de CT-e é responsável pelo lançamento do conhecimento de transporte
 
 Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista** de **conhecimentos de transporte lançados**. Pode realizar alguns procedimentos nos conhecimentos já lançados, [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
-![lista.png](/movimentos/cte/lista.png)
+![lista_limpa_cte.png](/movimentos/cte/lista_limpa_cte.png)
 
 ### Opções
 
