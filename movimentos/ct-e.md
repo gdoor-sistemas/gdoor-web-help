@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T20:46:20.464Z
+date: 2023-02-22T20:49:23.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -29,7 +29,7 @@ Clique no botão  <em class="mdi mdi-dots-vertical"></em>, ao lado direito de ca
 
 Será possível:
 
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**: pode-se selecionar para fazer um processo em massa;
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**: pode-se selecionar para fazer um processo em massa, seja ele transmitir CT-e, ou gerar MDF-e a partir dos CT-e marcados;
 - <em class="mdi mdi-refresh-circle"></em> **Consultar status**: consulta o retorno da servidor para o documento selecionado;
 - <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso**: do ct-e em questão;
 - <em class="mdi mdi-email"></em> **Enviar por e-mail**: enviar o arquivo por e-mail para o cliente;
