@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T16:24:58.714Z
+date: 2023-02-22T17:02:18.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -24,17 +24,18 @@ Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista
 
 Clique no botão  <em class="mdi mdi-dots-vertical"></em>, ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
 
-![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
+![opções_cte.png](/movimentos/cte/opções_cte.png)
 
 Será possível:
 
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar para fazer um processo em massa;
-- <em class="mdi mdi-refresh-circle"></em> **Consultar status**
-- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** do ct-e em questão;
-- <em class="mdi mdi-email"></em> **Enviar por e-mail**
-- <em class="mdi mdi-cancel"></em> **Cancelar**
-- <em class="mdi mdi-code-tags"></em> **Visualizar XML**
-- <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**: pode-se selecionar para fazer um processo em massa;
+- <em class="mdi mdi-refresh-circle"></em> **Consultar status**: consulta o retorno da servidor para o documento selecionado;
+- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso**: do ct-e em questão;
+- <em class="mdi mdi-email"></em> **Enviar por e-mail**: enviar o arquivo por e-mail para o cliente;
+- <em class="mdi mdi-cancel"></em> **Cancelar**: cancelar o documento selecionado;
+- <em class="mdi mdi-code-tags"></em> **Visualizar XML**: apresenta em tela uma cópia do xml do documento selecionado;
+- <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**: a carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessária a retificação;
+- <em class="mdi mdi-file-check"></em> **Comprovante de entrega (CE-e)**: é uma versão digital dos canhotos das notas fiscais ou do CT-e do arquivo selecionado;
 - <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**
 
 
@@ -104,7 +105,7 @@ Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, depen
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 A tela "**novo CT-e**" será exibida.
 
-![novo2_cte.png](/movimentos/cte/novo2_cte.png)
+![lista.png](/movimentos/cte/lista.png)
 
 
 ---
