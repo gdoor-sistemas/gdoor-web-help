@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T17:33:48.246Z
+date: 2023-02-22T17:39:29.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -254,9 +254,11 @@ O Gweb possui um assistente para que você possa compactar todos os arquivos XML
 
 - **Compactar arquivos:**{.subtitle} clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
 
+Selecione o mês desejado, marque a opção **baixar arquivo** e clique no botão <span data-mat-button>Confirmar</span>.
+
 ![xml2_cte.png](/movimentos/cte/xml2_cte.png)
 
-A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+Ou marque a opção **enviar por e-mail**. Nesta opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
 
