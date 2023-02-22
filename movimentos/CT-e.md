@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T14:22:39.568Z
+date: 2023-02-22T14:56:10.000Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -139,21 +139,17 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - **Data de emissão:** data de emissão do documento.
 
 ---
-- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Ao selecionar Tomador do Serviço também haverá algumas opções a serem utilizadas:
-- Rementente: responsável por enviar a mercadoria, geralmente o próprio emissor da NFe;
-- Expedidor: responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente;
-- Recebedor:  é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador. 
-- Destinatário:  é quem recebe a mercadoria ao final do trajeto de transporte.
+- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" é o responsável por este pagamento.
 
-![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
 
-- **Município de início**;
-- **Município de término**.
-- **Data de envio:**
-- **Remetente:**
-- **Destinatário:**
-- **Expedidor:**
-- **Recebedor:**
+
+- **Município de início:**  informar a cidade de onde inicia o transporte.
+- **Município de término:** informar a cidade de onde finaliza o transporte.
+- **Data de envio:** data em que a carga será enviada.
+- **Remetente:** informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
+- **Destinatário:** preencher as informações referentes à empresa onde a carga será entregue.
+- **Expedidor:** responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente.
+- **Recebedor:** é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador.
 
 - **Documentos transportados pelo CT-e:**
 	- Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
@@ -168,11 +164,11 @@ Na aba **carga**, são preenchidas as informações que especificam o que será 
 
 ![carga_cte.png](/movimentos/cte/carga_cte.png)
 
-- **Produto predominante:**
-- **Valor da carga:**
-- **Outras características da carga:**
-- **Unidade de medida:**
-- **Tipo da medida:**
+- **Produto predominante:** informar a descrição do produto predominante da carga.
+- **Valor da carga:** é o valor da carga sendo transportada;
+- **Outras características da carga:** informação adicional sobre a carga, como por exemplo, se a carga é resfriada;
+- **Unidade de medida:** informar o código da unidade de medida (M3, KG, TON, entre outros);
+- **Tipo da medida:** informar se é peso bruto, peso declarado. caixas, entre outros.
 - **Quandidade:**
 - **Município de término:**
 - **Data de envio:**
