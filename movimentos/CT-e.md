@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T19:08:51.417Z
+date: 2023-02-22T19:40:46.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -317,9 +317,13 @@ Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a f
 
 ### Opções de e-mail
 
+Nesta seção, marque as opções desejadas em relação ao envio automático dos e-mails de CT-e.
+
 ![config_op_email_cte.png](/movimentos/cte/config_op_email_cte.png)
 
-
+- **Enviar e-mail automaticamente:**{.subtitle} marque esta opção para enviar um e-mail automaticamente com o CT-e para o tomador do serviço, assim que for autorizado.
+- **Cópia para o emitente:**{.subtitle} marque esta opção para enviar cópia do do CT-e para o e-mail cadastrado no emitente. 
+- **Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
 
 
 
