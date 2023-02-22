@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T14:11:58.241Z
+date: 2023-02-22T14:21:21.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -91,8 +91,11 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 ![ordenar_cte.png](/movimentos/cte/ordenar_cte.png)
 
  Para limpar a ordenação, clique no  <em class="mdi mdi-close-circle"></em>.
+ 
 ![ordenar2_cte.png](/movimentos/cte/ordenar2_cte.png)
 
+
+---
 ## Cadastrar CT-e
 
 > O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
@@ -103,6 +106,7 @@ A tela "**novo CT-e**" será exibida.
 
 ![novo2_cte.png](/movimentos/cte/novo2_cte.png)
 
+
 ---
 ### Geral
 
@@ -110,11 +114,16 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
 
-- **Tipo de CT-e:**
+- **Tipo de CT-e:**  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
+- CT-e normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria;
+- CT-e complemento de valores: utilizado para emitir documentos emitidos sem ICMS ou com uma tarifa menor. Neste documento deve conter o valor da diferença faltante no primeiro conhecimento.
+- CT-e de anulação: o CT-e de anulação é emitido em situações onde o tomador do serviço não é contribuinte de ICMS, e não emite nota fiscal.
+- CT-e substituto: documento que substitui o CT-e que passou pelo processo de anulação e é emitido somente para corrigir valores, mantendo os demais campos com as mesmas informações do primeiro CT-e.
 
 ![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
 
 - **CFOP:** este código será disponibilizado pela contabilidade para emissão do documento fiscal.
+---
 - **Tipo do serviço:** disponível 5 opções para o tipo do serviço, sendo elas: 
 - Normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
 - Subcontratação: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
