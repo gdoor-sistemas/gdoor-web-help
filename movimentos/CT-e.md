@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T11:35:20.314Z
+date: 2023-02-22T14:11:58.241Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -16,9 +16,27 @@ O módulo de CT-e é responsável pelo lançamento do conhecimento de transporte
 
 ## Lista
 
-Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista** de **conhecimentos de transporte lançados**. Pode [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa:
+Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista** de **conhecimentos de transporte lançados**. Pode realizar alguns procedimentos nos conhecimentos já lançados, [cadastrar um ct-e](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#cadastrar-ct-e) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
 ![lista.png](/movimentos/cte/lista.png)
+
+### Opções
+
+Clique no botão  <em class="mdi mdi-dots-vertical"></em>, ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
+
+![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
+
+Será possível:
+
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar para fazer um processo em massa;
+- <em class="mdi mdi-refresh-circle"></em> **Consultar status**
+- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** do ct-e em questão;
+- <em class="mdi mdi-email"></em> **Enviar por e-mail**
+- <em class="mdi mdi-cancel"></em> **Cancelar**
+- <em class="mdi mdi-code-tags"></em> **Visualizar XML**
+- <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**
+- <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**
+
 
 ### Buscar
 
@@ -80,7 +98,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 > O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
 Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, dependendo muito do tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
 
-Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição <em class="mdi mdi-plus-circle"></em> no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
+Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/CT-e#lista) ou no botão de adição <em class="mdi mdi-plus"></em> ao lado do acesso lista.
 A tela "**novo CT-e**" será exibida.
 
 ![novo2_cte.png](/movimentos/cte/novo2_cte.png)
@@ -96,13 +114,21 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 ![tipos_de_ct-e.png](/movimentos/cte/tipos_de_ct-e.png)
 
-- **CFOP:**
-- **Tipo do serviço:**
-
-![tipo_do_serviço.png](/movimentos/cte/tipo_do_serviço.png)
-
-- **Data de emissão:**
-- **Tomador do serviço:**
+- **CFOP:** este código será disponibilizado pela contabilidade para emissão do documento fiscal.
+- **Tipo do serviço:** disponível 5 opções para o tipo do serviço, sendo elas: 
+- Normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
+- Subcontratação: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
+- Redespacho: quando uma transportadora contrata outra para realizar parte de uma prestação de serviço, independentemente se ela for a inicial, intermediária ou final do transporte.
+- Redespacho intermediário: quando uma empresa é contratada para realizar um trecho intermediário
+- Vinculado a multimodal: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
+---
+- **Data de emissão:** data de emissão do documento.
+---
+- **Tomador do serviço:**  o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Ao selecionar Tomador do Serviço também haverá algumas opções a serem utilizadas:
+- Rementente: responsável por enviar a mercadoria, geralmente o próprio emissor da NFe;
+- Expedidor: responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente;
+- Recebedor:  é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador. 
+- Destinatário:  é quem recebe a mercadoria ao final do trajeto de transporte.
 
 ![tomador_do_serviço.png](/movimentos/cte/tomador_do_serviço.png)
 
@@ -115,8 +141,8 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - **Recebedor:**
 
 - **Documentos transportados pelo CT-e:**
-	- Clicando no botão <em class="mdi mdi-export"></em>, realize a importação do XML das notas das mercadorias que serão transportadas.
-	- Clicando no botão <em class="mdi mdi-plus-circle"></em>, uma nova janela abrirá para a digitação manual dos dados das notas.
+	- Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
+	- Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
   
 ![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
 
@@ -173,7 +199,7 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
 - **Documentos de transporte anterior:**
 - **Outras informações:**
-	CT-e Globalizado;
+	CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
 	Informações adicionais;
 	Informações adicionais de interesse do fisco;
  
@@ -277,20 +303,5 @@ A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. S
 
 
 
-### Opções
 
-Clique no botão  (<em class="mdi mdi-dots-vertical"></em>) para que as opções de ações sejam exibidas.
-
-![opções_ct-e_autorizado.png](/movimentos/cte/opções_ct-e_autorizado.png)
-
-Será possível:
-
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**, pode-se selecionar para fazer um processo em massa;
-- consultar status
-- <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso** do ct-e em questão;
-- <em class="mdi mdi-email"></em> enviar por e-mail
-- <em class="mdi mdi-cancel"></em> cancelar
-- visualizar XML
-- carta de correção (CC-e)
-- <em class="mdi mdi-pdf-box"></em> Visualizar CT-e
 
