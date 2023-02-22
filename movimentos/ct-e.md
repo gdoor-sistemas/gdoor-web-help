@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-22T21:35:53.448Z
+date: 2023-02-22T21:38:25.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -82,8 +82,6 @@ Para remover um filtro padrão, clique no botão "**mais opções**" (<span clas
 Para aplicar um filtro, após selecionar as opções desejadas, clique no botão <span class="mat-button mdi "> aplicar</span>. Depois de aplicado, você pode removê-lo, clicando em <span class="mat-button mdi "> limpar filtros</span>:
 
 ![](/movimentos/pedidos/limpar_filtro.png)
-
-
 
 > Sempre que um filtro estiver aplicado na lista, você verá o **botão de filtro na cor laranja**:
 ![filtro_aplicado_cte.png](/movimentos/cte/filtro_aplicado_cte.png)
