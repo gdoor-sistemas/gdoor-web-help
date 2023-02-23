@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T20:58:29.021Z
+date: 2023-02-23T21:01:52.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -35,7 +35,7 @@ Será possível:
 - <em class="mdi mdi-email"></em> **Enviar por e-mail**: enviar o arquivo por e-mail para o cliente;
 - <em class="mdi mdi-cancel"></em> **Cancelar**: cancelar o documento selecionado;
 - <em class="mdi mdi-file-move"></em> **Gerar MDF-e:** gera um MDF-e a partir do(s) CT-e selecionado(s);
-- <em class="mdi mdi-code-tags"></em> **Visualizar XML**: apresenta em tela uma cópia do xml do documento selecionado;
+- <em class="mdi mdi-xml"></em> **Visualizar XML**: apresenta em tela uma cópia do xml do documento selecionado;
 - <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**: a carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessária a retificação;
 - <em class="mdi mdi-file-check"></em> **Comprovante de entrega (CE-e)**: é uma versão digital dos canhotos das notas fiscais ou do CT-e do arquivo selecionado;
 - <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**: proporciona a impressão, download ou visualização do documento selecionado;
