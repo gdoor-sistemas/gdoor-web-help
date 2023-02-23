@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T20:56:50.116Z
+date: 2023-02-23T20:58:29.021Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -23,7 +23,7 @@ Ao acessar o módulo  **movimentações » CT-e**, você visualiza a **lista** d
 ---
 ### Opções
 
-Clique no botão  (<em class="mdi mdi-dots-vertical"></em>), ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
+Na listagem, clique no botão (<em class="mdi mdi-dots-vertical"></em>) ao lado direito do CT-e para que as opções de ações sejam exibidas.
 
 ![opções_cte.png](/movimentos/cte/opções_cte.png)
 
