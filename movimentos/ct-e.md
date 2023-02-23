@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T20:36:41.348Z
+date: 2023-02-23T20:39:44.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -323,7 +323,7 @@ Nesta seção você configura detalhes sobre a impressão do DACTe.
 
 Veja o que pode ser alterado:
 
-- **Orientação:**{.subtitle} orientação para impressão do MDF-e em modo **retrato** ou **paisagem**.
+- **Orientação:**{.subtitle} orientação para impressão do CT-e em modo **retrato** ou **paisagem**.
 
 - **Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **times** (com serifa), **arial** (sem serifa) e **courier** (monoespaçada).
 
