@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T13:32:49.438Z
+date: 2023-02-23T13:38:09.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -188,13 +188,16 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 ### Outros
 
 E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
+
+![outros_cte.png](/movimentos/cte/outros_cte.png)
+
 - **Documentos de transporte anterior:**{.subtitle} informe os dados de transportes que antecederam a emissão deste CT-e.
 - **Outras informações:**{.subtitle}
 - CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
 - Informações adicionais;
 - Informações adicionais de interesse do fisco;
  
-![outros_cte.png](/movimentos/cte/outros_cte.png)
+
 
 # Relatórios
 
