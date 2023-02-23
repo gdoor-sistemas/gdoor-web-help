@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T13:38:09.033Z
+date: 2023-02-23T14:35:31.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -193,7 +193,7 @@ E na aba **outros** são preenchidas algumas informações que tipificam alguns 
 
 - **Documentos de transporte anterior:**{.subtitle} informe os dados de transportes que antecederam a emissão deste CT-e.
 - **Outras informações:**{.subtitle}
-- CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega.
+- CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega;
 - Informações adicionais;
 - Informações adicionais de interesse do fisco;
  
@@ -250,6 +250,7 @@ Para ativar a emissão, clique no botão <span data-mat-button>Contingência</sp
 ![conting_cte.png](/movimentos/cte/conting_cte.png)
 
 ## XML do mês
+
 O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
 
 ![xml_cte.png](/movimentos/cte/xml_cte.png)
@@ -308,11 +309,10 @@ Nesta seção, marque as opções desejadas em relação ao envio automático do
 - **Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
 
 ### Autorizados a baixar o XML
+
 Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do CT-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
 
 ![config_aut_xml_cte.png](/movimentos/cte/config_aut_xml_cte.png)
-
-
 
 ### Impressão do DACTe
 
@@ -329,12 +329,14 @@ Veja o que pode ser alterado:
 - **Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
 ### E-mails padrão
+
 Nesta seção, configure o conteúdo padrão para o corpo de e-mail, quando enviar um e-mail para "**CT-e**", "**CC-e**" ou para "**cancelamentos de CT-e**". Para cadastrar o conteúdo, clique no botão <span class="mat-button mdi ">editar</span>, correspondente a cada tipo de e-mail disponível.
 
 ![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
 
 
 ### E-mail
+
 Configure um endereço de e-mail para receber uma **resposta** para cada envio de e-mail de CT-e.
 
 ![config_email_cte.png](/movimentos/cte/config_email_cte.png)
