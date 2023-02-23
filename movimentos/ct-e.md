@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T13:10:18.753Z
+date: 2023-02-23T13:17:13.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -23,13 +23,13 @@ Ao acessar o módulo  **movimentações » CT-e**, você visualiza a sua **lista
 ---
 ### Opções
 
-Clique no botão  <em class="mdi mdi-dots-vertical"></em>, ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
+Clique no botão  (<em class="mdi mdi-dots-vertical"></em>), ao lado direito de cada CT-e na listagem,  para que as opções de ações sejam exibidas.
 
 ![opções_cte.png](/movimentos/cte/opções_cte.png)
 
 Será possível:
 
-- <em class="mdi mdi-checkbox-marked"></em> **Marcar**: pode-se selecionar para fazer um processo em massa, seja ele transmitir CT-e, ou gerar MDF-e a partir dos CT-e marcados;
+- <em class="mdi mdi-checkbox-marked"></em> **Marcar**: pode-se selecionar para fazer um processo em massa, seja ele transmitir CT-e ou gerar MDF-e a partir dos CT-e marcados;
 - <em class="mdi mdi-refresh-circle"></em> **Consultar status**: consulta o retorno da servidor para o documento selecionado;
 - <em class="mdi mdi-content-copy"></em> **Copiar chave de acesso**: do ct-e em questão;
 - <em class="mdi mdi-email"></em> **Enviar por e-mail**: enviar o arquivo por e-mail para o cliente;
@@ -42,7 +42,7 @@ Será possível:
 ---
 ### Buscar
 
-Para localizar uma nota de compra, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+Para localizar um CT-e, **digite no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>). Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
  
 ![busca.png](/movimentos/cte/busca.png)
  
