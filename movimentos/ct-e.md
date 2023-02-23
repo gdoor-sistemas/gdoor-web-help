@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T13:17:13.976Z
+date: 2023-02-23T13:32:49.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -105,10 +105,11 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, dependendo muito do tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
 
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/ct-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
-A tela "**novo CT-e**" será exibida.
+
 
 ![lista.png](/movimentos/cte/lista.png)
 
+A tela "**novo CT-e**" será exibida, dividida em abas para a digitação das informações necessárias.
 
 ### Geral
 
