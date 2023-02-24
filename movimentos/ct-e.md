@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:32:40.499Z
+date: 2023-02-24T12:33:43.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -142,7 +142,7 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 **Data de envio:**{.subtitle} data em que a carga será enviada.
 
-**Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
+**Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria (que emitiu a nota fiscal eletrônica).
 
 **Destinatário:**{.subtitle} preencher as informações referentes à empresa onde a carga será entregue.
 
