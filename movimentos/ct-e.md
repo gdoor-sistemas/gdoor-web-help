@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:38:52.747Z
+date: 2023-02-24T12:47:31.337Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -212,7 +212,7 @@ Na aba **outros** são preenchidas algumas informações que tipificam alguns ti
 - **Outras informações:**{.subtitle}
 - CT-e Globalizado: quando possui muitos remetentes ou destinatários em comum em uma mesma entrega;
 - Informações adicionais;
-- Informações adicionais de interesse do fisco;
+- Informações adicionais de interesse do fisco.
  
 # Relatórios
 
