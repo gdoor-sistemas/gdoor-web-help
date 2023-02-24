@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:10:05.672Z
+date: 2023-02-24T12:15:24.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -132,7 +132,7 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - **Subcontratação**: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
 - **Redespacho**: quando uma transportadora contrata outra para realizar parte de uma prestação de serviço, independentemente se ela for a inicial, intermediária ou final do transporte.
 - **Redespacho intermediário**: quando uma empresa é contratada para realizar um trecho intermediário.
-- **Vinculado a multimodal**: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
+- **Vinculado a multimodal**: quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
 
 **Data de emissão:**{.subtitle} data de emissão do documento.
 
@@ -142,15 +142,19 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 **Município de término:**{.subtitle} informar a cidade de onde finaliza o transporte.
 
-- **Data de envio:**{.subtitle} data em que a carga será enviada.
-- **Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
-- **Destinatário:**{.subtitle} preencher as informações referentes à empresa onde a carga será entregue.
-- **Expedidor:**{.subtitle} responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente.
-- **Recebedor:**{.subtitle} é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador.
+**Data de envio:**{.subtitle} data em que a carga será enviada.
 
-- **Documentos transportados pelo CT-e:**{.subtitle}
-	- Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
-	- Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
+**Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
+
+**Destinatário:**{.subtitle} preencher as informações referentes à empresa onde a carga será entregue.
+
+**Expedidor:**{.subtitle} responsável por entregar a carga ao transportador quando envio não for realizado pelo remetente.
+
+**Recebedor:**{.subtitle} é quem recebe a mercadoria. É considerado um intermediário entre o remetente e o destinatário final, recebendo a carga do transportador.
+
+**Documentos transportados pelo CT-e:**{.subtitle}
+- Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
+- Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
   
 ![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
 
@@ -161,14 +165,17 @@ Na aba **carga**, são preenchidas as informações que especificam o que será 
 
 ![carga_cte.png](/movimentos/cte/carga_cte.png)
 
-- **Produto predominante:**{.subtitle} informar a descrição do produto predominante da carga;
-- **Valor da carga:**{.subtitle} é o valor da carga sendo transportada;
-- **Outras características da carga:**{.subtitle} informação adicional sobre a carga, como por exemplo, se a carga é resfriada;
-- **Unidade de medida:**{.subtitle} informar o código da unidade de medida (M3, KG, TON, entre outros);
-- **Tipo da medida:**{.subtitle} informar se é peso bruto, peso declarado. caixas, entre outros;
-- **Quantidade:**{.subtitle}  necessário informar a quantidade da carga;
+**Produto predominante:**{.subtitle} informar a descrição do produto predominante da carga.
 
+**Valor da carga:**{.subtitle} é o valor da carga sendo transportada.
 
+**Outras características da carga:**{.subtitle} informação adicional sobre a carga, como por exemplo, se a carga é resfriada.
+
+**Unidade de medida:**{.subtitle} informar o código da unidade de medida (M3, KG, TON, entre outros).
+
+**Tipo da medida:**{.subtitle} informar se é peso bruto, peso declarado, caixas, entre outros.
+
+**Quantidade:**{.subtitle}  necessário informar a quantidade da carga.
 
 ### Impostos
 
@@ -176,26 +183,31 @@ Nos **impostos** são informados os valores e componentes que irão incidir na p
 
 ![impostos_cte.png](/movimentos/cte/impostos_cte.png)
 
-- **Valor total do serviço:**{.subtitle} preencha este campo com o valor total do transporte, incluindo frete, seguro, pedágios, entre outros fatores;
-- **Valor total a receber:**{.subtitle} valor líquido cobrado pelo serviço prestado;
-- **CST:**{.subtitle} informe o **Código da Situação Tributária** do CT-e.
-- **Valor da base de cálculo:**{.subtitle} informe o valor da base do ICMS;
-- **Alíquota do ICMS:**{.subtitle} informe a alíquota de ICMS a ser aplicada para o valor da base ICMS informado;
-- **Valor do ICMS:**{.subtitle} valor calculado automaticamente de acordo com o **valor da base de cálculo** e o percentual de **Alíquota do ICMS** preenchidos anteriormente;
-- **Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional);
-- **ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo. Se necessário, solicite auxílio ao contabilista para informar corretamente os valores;
+**Valor total do serviço:**{.subtitle} preencha este campo com o valor total do transporte, incluindo frete, seguro, pedágios, entre outros fatores.
 
+**Valor total a receber:**{.subtitle} valor líquido cobrado pelo serviço prestado.
+
+**CST:**{.subtitle} informe o **Código da Situação Tributária** do CT-e.
+
+**Valor da base de cálculo:**{.subtitle} informe o valor da base do ICMS.
+
+**Alíquota do ICMS:**{.subtitle} informe a alíquota de ICMS a ser aplicada para o valor da base ICMS informado.
+
+**Valor do ICMS:**{.subtitle} valor calculado automaticamente de acordo com o **valor da base de cálculo** e o percentual de **alíquota do ICMS** preenchidos anteriormente.
+
+**Componentes do valor da prestação:**{.subtitle} caso houver algum componente da prestação do serviço que deve ser informado no CT-e, informe neste campo com o devido valor (opcional).
+
+**ICMS de partilha com a UF de término do serviço de transporte na operação interestadual:**{.subtitle} caso houverem valores de partilha do ICMS para operação interestadual, informe neste campo. Se necessário, solicite auxílio ao contabilista para informar corretamente os valores.
 
 ### Cobrança
 
- Para a aba **cobrança**, deve informar a forma de pagamento que foi acordada com o **tomador** ou outro participante do transporte responsável pelo pagamento.
+Na aba **cobrança**, informe a forma de pagamento que foi acordada com o **tomador** ou outro participante do transporte responsável pelo pagamento.
 
 ![cobranca_cte.png](/movimentos/cte/cobranca_cte.png)
 
-
 ### Outros
 
-E na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
+Na aba **outros** são preenchidas algumas informações que tipificam alguns tipos de transportes:
 
 ![outros_cte.png](/movimentos/cte/outros_cte.png)
 
@@ -251,7 +263,7 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 ## Contingência
 
-O modelo operacional atual do CT-e prevê a utilização alternativa de contingência. Nesta modalidade, quando houverem problemas técnicos com o servidor da SEFAZ para autorização do CT-e, poderá emitir a mesma em contingência conforme será orientado pela própria SEFAZ.
+O modelo operacional atual do CT-e prevê a utilização alternativa de contingência. Nesta modalidade, o contribuinte que estiver com problemas técnicos (conexão com a internet) para autorização do CT-e, poderá emitir a mesma em contingência.
 
 Para ativar a emissão, clique no botão <span data-mat-button>Contingência</span> e informe o motivo de entrada em contingência.
 
