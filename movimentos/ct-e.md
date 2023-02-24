@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:15:48.477Z
+date: 2023-02-24T12:16:13.796Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -217,16 +217,12 @@ Na aba **outros** são preenchidas algumas informações que tipificam alguns ti
 - Informações adicionais;
 - Informações adicionais de interesse do fisco;
  
-
-
 # Relatórios
 
 ## Relatórios do CT-e
 
 A opção de <span data-mat-button>Relatórios do CT-e</span> busca dos documentos já emitidos.
 ![relat_config2_cte.png](/movimentos/cte/relat_config2_cte.png)
-
-
 
 Acessando a opção de **relatórios do CT-e**, no botão <span data-mat-button>Configurar relatórios</span>, estão disponíveis algumas configurações, são elas:
 
