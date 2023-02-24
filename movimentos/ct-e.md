@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:49:30.993Z
+date: 2023-02-24T12:56:34.026Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -259,7 +259,7 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 ## Contingência
 
-O modelo operacional atual do CT-e prevê a utilização alternativa de contingência. Nesta modalidade, o contribuinte que estiver com problemas técnicos (conexão com a internet) para autorização do CT-e, poderá emitir a mesma em contingência.
+O modelo operacional atual do CT-e prevê a utilização alternativa de contingência. Nesta modalidade, quando houverem problemas técnicos com o servidor da SEFAZ para autorização do CT-e, poderá emitir a mesma em contingência, conforme será orientado pela própria SEFAZ.
 
 Para ativar a emissão, clique no botão <span data-mat-button>Contingência</span> e informe o motivo de entrada em contingência.
 
