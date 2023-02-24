@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:19:48.525Z
+date: 2023-02-24T12:30:04.460Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -233,19 +233,22 @@ Para inutilizar uma numeração de CT-e no Gweb, clique no botão <span class=ma
 
 ![inut_num2_cte.png](/movimentos/cte/inut_num2_cte.png)
 
-A tela abaixo será exibida para preenchimento:
+A tela abaixo será exibida para preenchimento (todos os campos são obrigatórios):
 
 ![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
 
-- **Série:**{.subtitle} série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente no CT-e.
-- **Nº inicial:**{.subtitle} número inicial da faixa que deseja inutilizar.
-- **Nº final:**{.subtitle} número final da faixa que deseja inutilizar.
-- **Justificativa do pedido de inutilização:**{.subtitle} com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
+**Série:**{.subtitle} série da numeração a ser inutilizada, geralmente, a que você está utilizando atualmente no CT-e.
+
+**Nº inicial:**{.subtitle} número inicial da faixa que deseja inutilizar.
+
+**Nº final:**{.subtitle} número final da faixa que deseja inutilizar.
+
+**Justificativa do pedido de inutilização:**{.subtitle} com no mínimo 15 caracteres, descreva o motivo da inutilização dessa numeração.
 
 > Para inutilizar apenas 1 número, preencha o mesmo nos campos **Nº inicial** e **Nº final**.
 {.is-success .gw .gw-tip}
 
-Todos os campos são obrigatórios. Depois de preencher as informações, clique em <span data-mat-button>Confirmar</span> e aguarde o retorno.
+Depois de preencher as informações, clique em <span data-mat-button>Confirmar</span> e aguarde o retorno.
 
 Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver todas as numerações já inutilizadas:
 
@@ -264,11 +267,11 @@ Para ativar a emissão, clique no botão <span data-mat-button>Contingência</sp
 
 ## XML do mês
 
-O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
+O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade:
 
 ![xml_cte.png](/movimentos/cte/xml_cte.png)
 
-- **Compactar arquivos:**{.subtitle} clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
+**Compactar arquivos:**{.subtitle} clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
 
 Selecione o mês desejado, marque a opção **baixar arquivo** e clique no botão <span data-mat-button>Confirmar</span>.
 
@@ -277,7 +280,6 @@ Selecione o mês desejado, marque a opção **baixar arquivo** e clique no botã
 Ou marque a opção **enviar por e-mail**. Nesta opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
 
 ![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
-
 
 # Configurações
 
@@ -290,7 +292,7 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button md
 
 ### Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de CT-e. Clique em <span class="mat-button mdi ">carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi ">salvar</span>.
+Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de CT-e. Clique em <span class="mat-button mdi ">carregar certificado</span> e selecione o arquivo do **certificado digital A1** no computador. Em seguida informe a senha e clique em <span class="mat-button mdi ">salvar</span>.
 Para remover o certificado digital, clique no (<em class="mdi mdi-close"></em>) à direita do nome.
 
 ![config_cert_cte.png](/movimentos/cte/config_cert_cte.png)
@@ -303,13 +305,13 @@ Nesta seção você configura dados para a geração do CT-e.
 
 Abaixo, veja detalhes de cada configuração:
 
-- **Série do CT-e:**{.subtitle} série de emissão do CT-e. Esta informação pode ser obtida com sua contabilidade.
+**Série do CT-e:**{.subtitle} série de emissão do CT-e. Esta informação pode ser obtida com sua contabilidade.
 
-- **Ambiente do CT-e:**{.subtitle} aqui você determina se os CT-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, os CT-e transmitidos terão valor fiscal.
+**Ambiente do CT-e:**{.subtitle} aqui você determina se os CT-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, os CT-e transmitidos terão valor fiscal.
 
-- **Nº do próximo CT-e:**{.subtitle} apenas informe um número neste campo se sua empresa já emitia CT-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, o próximo CT-e será gerado com esse número e os subsequentes terão o número sequencial.
+**Nº do próximo CT-e:**{.subtitle} apenas informe um número neste campo se sua empresa já emitia CT-e por outro sistema, assim você poderá continuar a numeração de onde parou.
 
-- **Forma de emissão:**{.subtitle} neste campo você pode configurar a forma de emissão do CT-e: "**normal**", "**EPEC pela SVC"**, "**SVC RS**", "**SVC SP**" ou "**contingência**". Altere essa informação conforme orientação da SEFAZ.
+**Forma de emissão:**{.subtitle} neste campo você pode configurar a forma de emissão do CT-e: "**normal**", "**EPEC pela SVC"**, "**SVC RS**", "**SVC SP**" ou "**contingência**". Altere essa informação conforme orientação da SEFAZ.
 
 ### Opções de e-mail
 
@@ -317,9 +319,11 @@ Nesta seção, marque as opções desejadas em relação ao envio automático do
 
 ![config_op_email_cte.png](/movimentos/cte/config_op_email_cte.png)
 
-- **Enviar e-mail automaticamente:**{.subtitle} marque esta opção para enviar um e-mail automaticamente com o CT-e para o tomador do serviço, assim que for autorizado.
-- **Cópia para o emitente:**{.subtitle} marque esta opção para enviar cópia do do CT-e para o e-mail cadastrado no emitente. 
-- **Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
+**Enviar e-mail automaticamente:**{.subtitle} marque esta opção para enviar um e-mail automaticamente com o CT-e para o tomador do serviço, assim que for autorizado.
+
+**Cópia para o emitente:**{.subtitle} marque esta opção para enviar cópia do do CT-e para o e-mail cadastrado no emitente. 
+
+**Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
 
 ### Autorizados a baixar o XML
 
@@ -335,18 +339,17 @@ Nesta seção você configura detalhes sobre a impressão do DACTe.
 
 Veja o que pode ser alterado:
 
-- **Orientação:**{.subtitle} orientação para impressão do CT-e em modo **retrato** ou **paisagem**.
+**Orientação:**{.subtitle} orientação para impressão do CT-e em modo **retrato** ou **paisagem**.
 
-- **Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **times** (com serifa), **arial** (sem serifa) e **courier** (monoespaçada).
+**Fonte:**{.subtitle} estilo da fonte da impressão. As opções são: **times** (com serifa), **arial** (sem serifa) e **courier** (monoespaçada).
 
-- **Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
+**Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
 ### E-mails padrão
 
 Nesta seção, configure o conteúdo padrão para o corpo de e-mail, quando enviar um e-mail para "**CT-e**", "**CC-e**" ou para "**cancelamentos de CT-e**". Para cadastrar o conteúdo, clique no botão <span class="mat-button mdi ">editar</span>, correspondente a cada tipo de e-mail disponível.
 
 ![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
-
 
 ### E-mail
 
