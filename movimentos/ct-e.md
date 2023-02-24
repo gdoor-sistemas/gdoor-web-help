@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:47:31.337Z
+date: 2023-02-24T12:49:30.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -70,7 +70,7 @@ As opções de filtro são as seguintes:
 - **Remetente/expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
 - **Destinatário/recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
 - **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
-- **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
+- **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos.
 
 Para definir um filtro como padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
 
