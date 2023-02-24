@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-23T21:01:52.816Z
+date: 2023-02-24T11:55:13.971Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -38,7 +38,7 @@ Será possível:
 - <em class="mdi mdi-xml"></em> **Visualizar XML**: apresenta em tela uma cópia do xml do documento selecionado;
 - <em class="mdi mdi-file-check"></em> **Carta de correção (CC-e)**: a carta de correção é feita caso algum dado preenchido no CT-e esteja equivocado sendo necessária a retificação;
 - <em class="mdi mdi-file-check"></em> **Comprovante de entrega (CE-e)**: é uma versão digital dos canhotos das notas fiscais ou do CT-e do arquivo selecionado;
-- <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**: proporciona a impressão, download ou visualização do documento selecionado;
+- <em class="mdi mdi-pdf-box"></em> **Visualizar CT-e**: proporciona a impressão, download ou visualização do documento selecionado.
 
 ---
 ### Buscar
@@ -67,12 +67,12 @@ As opções de filtro são as seguintes:
 - **Tipo do CT-e:**{.subtitle} normal, de complemento de valores, de anulação ou substituto;
 - **Tipo do serviço:**{.subtitle} normal, subcontratação, redespacho, redespacho intermediário ou serviço vinculado a multimodal;
 - **Tomador:**{.subtitle} disponíveis todos os tomadores já utilizados em lançamentos;
-- **Remetente/Expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
-- **Destinatário/Recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
+- **Remetente/expedidor:**{.subtitle} disponíveis todos os remetentes/expedidores já utilizados em lançamentos;
+- **Destinatário/recebedor:**{.subtitle} disponíveis todos os destinatários/recebedores já utilizados em lançamentos;
 - **Município de início:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 - **Município de término:**{.subtitle} disponíveis todos os municípios já utilizados em lançamentos;
 
-Para definir um filtro como padrão, clique no botão "**mais opções** (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
+Para definir um filtro como padrão, clique no botão "**mais opções**" (<span class="mdi mdi-filter-menu"></span>), depois em "**definir como padrão**" (<span class="mdi mdi-filter-plus"></span>). 
 
 ![opcoes_filtro_cte.png](/movimentos/cte/opcoes_filtro_cte.png)
 
@@ -103,7 +103,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 ## Cadastrar CT-e
 
 > O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
-Alguns dos campos do CT-e **não** são de **preenchimento obrigatório**, dependendo muito do tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
+Alguns dos campos do CT-e são de **preenchimento facultativo**, pois variam de acordo com o tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
 
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/ct-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 
@@ -119,22 +119,29 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
 
 
-- **Tipo de CT-e:**{.subtitle}  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
-- CT-e normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria;
-- CT-e complemento de valores: utilizado para emitir documentos emitidos sem ICMS ou com uma tarifa menor. Neste documento deve conter o valor da diferença faltante no primeiro conhecimento.
-- CT-e de anulação: o CT-e de anulação é emitido em situações onde o tomador do serviço não é contribuinte de ICMS, e não emite nota fiscal.
-- CT-e substituto: documento que substitui o CT-e que passou pelo processo de anulação e é emitido somente para corrigir valores, mantendo os demais campos com as mesmas informações do primeiro CT-e.
-- **CFOP:**{.subtitle} este código será disponibilizado pela contabilidade para emissão do documento fiscal.
-- **Tipo do serviço:**{.subtitle} disponível 5 opções para o tipo do serviço, sendo elas: 
-- Normal: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
-- Subcontratação: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
-- Redespacho: quando uma transportadora contrata outra para realizar parte de uma prestação de serviço, independentemente se ela for a inicial, intermediária ou final do transporte.
-- Redespacho intermediário: quando uma empresa é contratada para realizar um trecho intermediário
-- Vinculado a multimodal: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
-- **Data de emissão:**{.subtitle} data de emissão do documento.
-- **Tomador do serviço:**{.subtitle} o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" pagará pelo transporte.
-- **Município de início:**{.subtitle}  informar a cidade de onde inicia o transporte.
-- **Município de término:**{.subtitle} informar a cidade de onde finaliza o transporte.
+**Tipo de CT-e:**{.subtitle}  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
+- **CT-e normal**: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
+- **CT-e complemento de valores**: utilizado para emitir documentos emitidos sem ICMS ou com uma tarifa menor. Neste documento deve conter o valor da diferença faltante no primeiro conhecimento.
+- **CT-e de anulação**: o CT-e de anulação é emitido em situações onde o tomador do serviço não é contribuinte de ICMS, e não emite nota fiscal.
+- **CT-e substituto**: documento que substitui o CT-e que passou pelo processo de anulação e é emitido somente para corrigir valores, mantendo os demais campos com as mesmas informações do primeiro CT-e.
+
+**CFOP:**{.subtitle} este código será disponibilizado pela contabilidade para emissão do documento fiscal.
+
+**Tipo do serviço:**{.subtitle} disponível 5 opções para o tipo do serviço, sendo elas: 
+- **Normal**: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
+- **Subcontratação**: quando uma transportadora X subcontrata uma transportadora Y para uma prestação de serviço. 
+- **Redespacho**: quando uma transportadora contrata outra para realizar parte de uma prestação de serviço, independentemente se ela for a inicial, intermediária ou final do transporte.
+- **Redespacho intermediário**: quando uma empresa é contratada para realizar um trecho intermediário.
+- **Vinculado a multimodal**: : quando o OTM (Operador de Transporte Multimodal) contrata uma ou mais transportadoras para realizar o transporte.
+
+**Data de emissão:**{.subtitle} data de emissão do documento.
+
+**Tomador do serviço:**{.subtitle} o tomador do serviço é a pessoa física ou jurídica que é responsável pelo pagamento do frete. Neste campo, selecione a qual dos "participantes" pagará pelo transporte.
+
+**Município de início:**{.subtitle}  informar a cidade de onde inicia o transporte.
+
+**Município de término:**{.subtitle} informar a cidade de onde finaliza o transporte.
+
 - **Data de envio:**{.subtitle} data em que a carga será enviada.
 - **Remetente:**{.subtitle} informar os dados da empresa que está enviando a mercadoria e emitiu a nota fiscal eletrônica.
 - **Destinatário:**{.subtitle} preencher as informações referentes à empresa onde a carga será entregue.
