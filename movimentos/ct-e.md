@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: false
-date: 2023-02-24T12:16:13.796Z
+date: 2023-02-24T12:19:48.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -107,7 +107,6 @@ Alguns dos campos do CT-e são de **preenchimento facultativo**, pois variam de 
 
 Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/ct-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 
-
 ![lista.png](/movimentos/cte/lista.png)
 
 A tela "**novo CT-e**" será exibida, dividida em abas para a digitação das informações necessárias.
@@ -117,7 +116,6 @@ A tela "**novo CT-e**" será exibida, dividida em abas para a digitação das in
 Nesta aba são preenchidos os detalhes da prestação de serviço como:
 
 ![novo_cte.png](/movimentos/cte/novo_cte.png)
-
 
 **Tipo de CT-e:**{.subtitle}  no campo **Tipo de CT-e**, estão disponíveis quatro opções para emissão do documento, são elas:
 - **CT-e normal**: utilizado para acobertar prestações de serviço de transporte de uma mercadoria.
@@ -157,7 +155,6 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 - Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
   
 ![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
-
 
 ### Carga
 
@@ -236,7 +233,7 @@ Para inutilizar uma numeração de CT-e no Gweb, clique no botão <span class=ma
 
 ![inut_num2_cte.png](/movimentos/cte/inut_num2_cte.png)
 
-Será aberta a tela apresentada abaixo, os campos a serem preenchidos são:
+A tela abaixo será exibida para preenchimento:
 
 ![inut_num_cte.png](/movimentos/cte/inut_num_cte.png)
 
