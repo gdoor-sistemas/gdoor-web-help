@@ -2,11 +2,30 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-20T10:57:24.489Z
+date: 2023-02-27T12:38:01.854Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 26/02/2023
+f2.10.0, b3.9.0 {.versions}
+
+## Novidades
+- Adicionada a funcionalidade de Conhecimento de Transporte Eletrônico (CT-e) 🎉.
+- Adicionado o campo de “informações adicionais” na NFS-e.
+- Criada configuração para definir qual tributação de PIS/COFINS será considerada na NFS-e (padrão ou com retenção).
+- Adicionado campo “telefone” na impressão da pré-venda. A exibição deste campo vai respeitar o que estiver definido nas configurações do PDV.
+- Adicionada opção do “Custo médio” no relatório “Inventário de estoque”. Agora é possível gerar o total também através desta opção.
+
+## Ajustes
+- Ajustado o Relatório de Produtos por Categoria que estava duplicando os produtos com grade.
+- Corrigida na geração do arquivo Sintegra o campo de IE para que contenha apenas números.
+- Limitado na geração do arquivo Sintegra o número de caracteres no campo Razão Social.
+- Renomeada a opção “NF-e” dentro dos documentos fiscais referenciados na Nota Fiscal Eletrônica.
+- Ajustado campo de pesquisa na lista de categorias.
+
+
 
 # 18/02/2023
 f2.9.19, b3.8.44 {.versions}
