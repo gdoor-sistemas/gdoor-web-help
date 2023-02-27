@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-02-27T12:38:01.854Z
+date: 2023-02-27T12:40:02.261Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 f2.10.0, b3.9.0 {.versions}
 
 ## Novidades
-- Adicionada a funcionalidade de Conhecimento de Transporte Eletrônico (CT-e) 🎉.
+- Adicionada a funcionalidade de Conhecimento de Transporte Eletrônico (CT-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/ct-e).
 - Adicionado o campo de “informações adicionais” na NFS-e.
 - Criada configuração para definir qual tributação de PIS/COFINS será considerada na NFS-e (padrão ou com retenção).
 - Adicionado campo “telefone” na impressão da pré-venda. A exibição deste campo vai respeitar o que estiver definido nas configurações do PDV.
