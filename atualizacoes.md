@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-02T16:34:13.564Z
+date: 2023-03-02T20:06:38.300Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 02/03/2023
-f2.10.2, b3.9.1 {.versions}
+f2.10.2, f2.10.3, b3.9.1 {.versions}
 
 ## Ajustes
 - Ajustada as informações adicionais do produto para permitir quebras de linha na impressão.
+- Ajustada a busca de categoria de produtos quando estiverem vinculadas a uma categoria superior.
 
 # 28/02/2023
 f2.10.1, b3.9.0 {.versions}
