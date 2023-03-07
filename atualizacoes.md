@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-07T13:03:23.011Z
+date: 2023-03-07T16:16:59.609Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 07/03/2023
-f2.10.3, b3.9.3 {.versions}
+f2.10.3, b3.9.3, b3.9.4 {.versions}
 
 ## Ajustes
 - Ajustada URL de consulta da NFC-e via QRCode e a URL de consulta por chave (portal) para homologação e produção no estado de Minas Gerais.
+- Ajustado componente do CT-e que estava gerando a chave errada quando o emitente era Pessoa Física.
 
 # 06/03/2023
 f2.10.3, b3.9.2 {.versions}
