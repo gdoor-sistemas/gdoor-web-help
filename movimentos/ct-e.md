@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: 
 published: true
-date: 2023-02-27T13:15:02.041Z
+date: 2023-03-07T17:22:13.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -153,6 +153,7 @@ Nesta aba são preenchidos os detalhes da prestação de serviço como:
 **Documentos transportados pelo CT-e:**{.subtitle}
 - Clicando no botão (<em class="mdi mdi-export"></em>), realize a importação do XML das notas das mercadorias que serão transportadas.
 - Clicando no botão (<em class="mdi mdi-plus-circle"></em>), uma nova janela abrirá para a digitação manual dos dados das notas.
+- Ao colocar a chave de uma NF-e e confirmar, o sistema ira procurar o XML desta NF-e nas NF-e emitidas no sistema e na manifestação de documentos eletrônicos, caso não encontre, o sistema ira fazer a busca pela chave na Sefaz, e assim realizando o download do XML (esse processo apenas ocorre se o emitente estiver liberado para realizar o download da nota em especifico).
   
 ![novo_doc_trsnp_cte.png](/movimentos/cte/novo_doc_trsnp_cte.png)
 
