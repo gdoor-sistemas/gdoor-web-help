@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-07T16:20:03.359Z
+date: 2023-03-08T11:55:18.447Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/03/2023
+f2.10.3, b3.9.5 {.versions}
+
+## Ajustes
+- Corrigida na NF-e as vendas para fora do estado com operação presencial que estavam gerando o valor errado na tag idDEst.
 
 # 07/03/2023
 f2.10.3, b3.9.3, b3.9.4 {.versions}
