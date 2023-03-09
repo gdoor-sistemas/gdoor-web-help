@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-09T16:29:21.939Z
+date: 2023-03-09T16:39:43.585Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -56,8 +56,6 @@ f2.10.0, b3.9.0 {.versions}
 - Limitado na geração do arquivo Sintegra o número de caracteres no campo Razão Social.
 - Renomeada a opção “NF-e” dentro dos documentos fiscais referenciados na Nota Fiscal Eletrônica.
 - Ajustado campo de pesquisa na lista de categorias.
-
-
 
 # 18/02/2023
 f2.9.19, b3.8.44 {.versions}
@@ -131,7 +129,6 @@ f2.9.13, b3.8.35 {.versions}
 
 ## Ajustes
 - Ajustada NFC-e que apresentava falha no envio. O sistema estava buscando informações nas configurações da NF-e mesmo quando o cliente não tinha este módulo habilitado.
-
 
 # 15/01/2023
 f2.9.13, b3.8.34 {.versions} 
@@ -235,6 +232,8 @@ f2.9.6, b3.8.18 {.versions}
 
 # 06/12/2022
 f2.9.6, b3.8.11 {.versions} 
+
+## Novidades
 - Adicionada a funcionalidade de Nota Fiscal de Serviços Eletrônica (NFS-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/nfs-e).
 
 # 01/12/2022
