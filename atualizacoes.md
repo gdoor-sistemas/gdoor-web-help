@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-09T15:09:12.501Z
+date: 2023-03-09T15:10:17.470Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -235,7 +235,7 @@ f2.9.6, b3.8.18 {.versions}
 
 # 06/12/2022
 f2.9.6, b3.8.11 {.versions} 
-- Adicionada a funcionalidade de Nota Fiscal de Serviços Eletrônica (NFS-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/nfs-e).
+- Adicionada a funcionalidade de Nota Fiscal de Serviços Eletrônica (NFS-e) 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](movimentos/nfs-e).
 
 # 01/12/2022
 f2.9.6, b3.8.11 {.versions} 
