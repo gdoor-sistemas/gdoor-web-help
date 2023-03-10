@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-10T17:50:11.306Z
+date: 2023-03-10T19:56:09.770Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 10/03/2023
-f2.10.4, b3.9.5 {.versions}
+f2.10.4, f.2.10.5, b3.9.5 {.versions}
 
 ## Ajustes
 - Ajustado o "Código do serviço do município" que ao transmitir a NFS-e com esta informação vazia esta pegando os dados do "Campo da atividade" causando rejeição em algumas cidades.
+- Ajustado na transmissão da NFS-e os campos valor_iss_retido que estava enviando o campo com valor maior que zero e iss_retido que estava sendo enviado como false.
 
 # 08/03/2023
 f2.10.3, b3.9.5 {.versions}
