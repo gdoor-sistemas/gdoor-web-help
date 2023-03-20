@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-20T11:25:31.111Z
+date: 2023-03-20T18:20:30.066Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 20/03/2023
+f2.10.6, b3.9.7 {.versions}
+
+## Ajustes
+- Ajustada listagem do PDV que não estava sendo exibida.
 
 # 18/03/2023
 f2.10.6, b3.9.6 {.versions}
