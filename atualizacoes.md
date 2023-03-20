@@ -2,11 +2,45 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-10T19:59:56.603Z
+date: 2023-03-20T11:17:15.717Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 18/03/2023
+f2.10.6, b3.9.6 {.versions}
+
+## Novidades
+- Criada opção de gerar nota de devolução a partir de uma nota de compra.
+- Preenchimento automático das configurações do último Sintegra lançado, desta forma ao criar um arquivo novo as opções selecionadas no arquivo anterior serão selecionadas automaticamente no arquivo que está sendo criado.
+- Criada opção de buscar NF-e da manifestação sem que ela tenha sido baixada.
+- Adicionado campo para informar o CST de escrituração fiscal na compra.
+- Inserido no rodapé da impressão do DACT-e a emissão através do Gweb.
+- Movido os “Arquivos Fiscais” para dentro do menu principal do sistema.
+
+## Ajustes
+- Ajustada nota de complemento com NF-e de fora do sistema que ao editar não estava mostrando as informações do produto.
+- Corrigida nota de ajuste que não estava somando o ICMS dos produtos.
+- Ajustado nas configurações do emitente o CRT que ao trocar não estava apresentando a conversão de regime de tributação.
+- Incluso no relatório de “Contas a pagar” a opção de incluir pré-vendas geradas de troco.
+- Ajustado o PDV para permitir o cancelamento de pré-vendas que geraram NFC-es.
+- Ajustado relatório de “Margem de lucro sobre o preço de venda” para não apresentar kits que tenham o mesmo código dos produtos inclusos na venda.
+- Ajustada nas configurações do PDV o plano de contas para que seja aplicado nos registros das receitas.
+- Ajustado na tela de detalhes o campo “Alterado por” para que registre a data/hora das alterações e por quem ela foi feita.
+- Ajustado no arquivo Sintegra que estava gerando dois registros 50 quando os itens têm alíquotas de ICMS diferente na nota.
+- Ajustado no arquivo Sintegra o número das notas de compra que estavam sendo gerados na sequência incorreta.
+- Melhoria na pesquisa das notas de compra. Incluso o número da nota nos detalhes e otimizada a busca pelo número da nota.
+- Ajustado no MDF-e com NF do exterior o campo município que não estava buscando a informação do local correto.
+- Ajustado o MDF-e para buscar as informações de peso/qtde do produto e tomador do serviço da NF-e de origem.
+- Aprimorada busca na listagem de CT-e para buscar não só pela chave do CT-e mas também pela chave da NF-e e pela razão do tomador.
+- Ajustado no PDV a exclusão de itens que tem a quantidade fracionada.
+- Corrigida a importação de XML de NF-e dentro do CT-e que não estava mostrando o remetente e destinatário.
+- Ajustada mensagem de erro do MDF-e ao incluir uma NF-e onde o emitente é prestador de serviço de transporte.
+- Ajustada a NFS-e para não permitir a inclusão de mais de um serviço na nota (botão Insert).
+- Ajustada visualização do XML na carta de correção que não estava sendo exibida.
+- Ajustada na configuração dos serviços o campo UF que não estava sendo exibido corretamente ao selecionar a opção “Cidade específica”.
+- Corrigido arquivos .xlsx provenientes de relatórios para que possam ser abertos no Excel.
 
 # 10/03/2023
 f2.10.4, f.2.10.5, b3.9.5 {.versions}
