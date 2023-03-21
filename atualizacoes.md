@@ -2,18 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-21T16:53:19.667Z
+date: 2023-03-21T18:37:21.326Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 21/03/2023
-f2.10.7, b3.9.8 {.versions}
+f2.10.7, b3.9.8, b3.9.9, b3.9.10, b3.9.11 {.versions}
 
 ## Ajustes
 - Corrigida a permissão para acesso ao módulo dos arquivos fiscais.
 - Ajustado o arquivo do Sintegra para gerar o CNPJ do emitente ao invés do CNPJ do destinatário da nota nos registros 50, 51, 53 e 54.
+- Ajustada pesquisa na lista do PDV. Anteriormente não estava fazendo buscas através do nome, número da nota/pré-venda ou chave de acesso.
+- Corrigido erro na transmissão do CT-e em alguns casos específicos.
 
 # 20/03/2023
 f2.10.6, b3.9.7 {.versions}
