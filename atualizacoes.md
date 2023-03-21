@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-20T18:20:30.066Z
+date: 2023-03-21T16:52:04.947Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 21/03/2023
+f2.10.7, b3.9.8 {.versions}
+
+## Ajustes
+- Corrigida a permissão para acesso ao módulo dos arquivos fiscais.
+- Ajustado o arquivo do Sintegra para gerar o CNPJ do emitente ao invés do CNPJ do destinatário da nota nos registros 50, 51, 53 e 54.
 
 # 20/03/2023
 f2.10.6, b3.9.7 {.versions}
