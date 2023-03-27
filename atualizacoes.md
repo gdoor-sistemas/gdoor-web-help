@@ -2,11 +2,21 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-21T18:40:37.827Z
+date: 2023-03-27T13:05:55.257Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 26/02/2023
+f2.10.8, b3.9.13 {.versions}
+
+## Ajustes
+- Ajustado Pedido de Venda que estava com sobrepondo a frase “Gerado pelo GWEB” com o último item da lista.
+- Ajustado cadastro rápido de clientes do exterior.
+- Disponibilizada a opção de reenvio do e-mail de confirmação pelo Admin para cliente que perderam o prazo.
+- Corrigido relatório de “Contas a pagar” para que sejam exibidos também os lançamentos cadastrados manualmente.
+
 
 # 21/03/2023
 f2.10.7, b3.9.8, b3.9.9, b3.9.10, b3.9.11 {.versions}
