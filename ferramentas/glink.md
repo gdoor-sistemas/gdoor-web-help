@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T19:46:10.687Z
+date: 2023-03-31T19:49:27.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -34,9 +34,15 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
 
-
+Na tela apresentada para habilitar a integração, informe os seguintes dados do dispositivo:
 
 ![tela-habilitacao.png](/config/ferramentas/tela-habilitacao.png)
+
+- **Identificação**:
+- **Validade da habilitação**: 
+- **Usuário**:
+- **Vendedor**:
+- **Vendedor fixo**: 
 
 
 
