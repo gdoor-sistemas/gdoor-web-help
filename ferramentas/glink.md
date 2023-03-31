@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T17:34:14.825Z
+date: 2023-03-31T17:58:24.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -10,17 +10,23 @@ dateCreated: 2023-03-31T17:12:12.758Z
 
 # Introdução
 
-O Glink é um aplicativo de força de vendas, ideal para empresas que realizam vendas externas e querem ter um gerenciamento efetivo dos pedidos de venda realizados. Através dele é possível:
+O Glink é um aplicativo de auxílio nas vendas, ideal para empresas que realizam vendas externas e querem ter um gerenciamento efetivo dos pedidos de venda realizados. Através dele é possível:
 
-Emitir, enviar e imprimir pedidos fora do estabelecimento;
-Visualização de clientes por vendedor preferencial;
-Cadastrar, visualizar e editar cadastros de clientes;
-Visualizar pedidos realizados;
-Acompanhar pedidos de venda em tempo real;
-Reservar produtos no estoque;
-Preço de venda, atacado e tabela de preços;
-Selecionar formas de pagamento;
-Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.
+- **Emitir, enviar e imprimir pedidos fora do estabelecimento;**
+- **Cadastrar, visualizar e editar cadastros de clientes;**
+- **Visualizar pedidos realizados;**
+- **Acompanhar pedidos de venda em tempo real;**
+- **Reservar produtos no estoque;**
+- **Preço de venda, atacado e tabela de preços;**
+- **Selecionar formas de pagamento;**
+- **Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.**
+
+
+
+
+
+
+
 
 
 
