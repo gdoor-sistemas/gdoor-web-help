@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T20:32:33.757Z
+date: 2023-03-31T20:36:12.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -40,11 +40,11 @@ Na tela apresentada para habilitar a integração, informe os seguintes dados do
 
 ![tela-habilitacao.png](/config/ferramentas/tela-habilitacao.png)
 
-- **Identificação**:
-- **Validade da habilitação**: 
-- **Usuário**:
-- **Vendedor**:
-- **Vendedor fixo**: 
+- **Identificação**: escolha um nome para a identificação do dispositivo;
+- **Validade da habilitação**: selecione uma validade de 15 dias, 1 mês, 2 meses, 3 meses ou por tempo indeterminado;
+- **Usuário**: informe um usuário cadastrado no sistema Gweb;
+- **Vendedor**: informe um vendedor cadastrado no sistema Gweb;
+- **Vendedor fixo**: marcando esta opção, ao acessar o aplicativo no seu dispositivo não será possível alterar o vendedor no pedido;
 
 
 
