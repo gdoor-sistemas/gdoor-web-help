@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T17:33:37.368Z
+date: 2023-03-31T17:34:14.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -43,7 +43,7 @@ Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.
 
 Após ativar o Ghub, é necessário efetuar a ativação do Glink. Clique aqui ver como ativar o dispositivo móvel.
 
-[Clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/) para saber mais sobre a utilização do App Glink.
+[Clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard) para saber mais sobre a utilização do App Glink.
 
 
 
