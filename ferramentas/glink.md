@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T19:29:20.690Z
+date: 2023-03-31T19:33:48.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -28,11 +28,16 @@ Acessando **Configurações » Ferramentas » Integrações**, você visualiza a
 
 
 # Ativar dispositivo móvel
-Selecione a oção **Glink** para que seja apresentada a listagem de todos os equipamentos (celular ou tablet) que foram liberados para a empresa.
+Selecionando a oção **Glink** mostrada na tela anterior, será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
+
+![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
+
+
+Para ativar um novo digpositivo, clique no botão 
 
 ![tela-habilitacao.png](/config/ferramentas/tela-habilitacao.png)
 
-Para ativar um novo digpositivo, clique no botão 
+
 
 
 
