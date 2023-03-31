@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T20:21:24.353Z
+date: 2023-03-31T20:32:33.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -25,9 +25,12 @@ Acessando **Configurações » Ferramentas » Integrações**, você visualiza a
 
 ![tela-integracoes.png](/config/ferramentas/tela-integracoes.png)
 
-
 ## Habilitar novo dispositivo móvel
-Selecionando a integração **Glink**, será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
+Selecionando a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+
+![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
+
+Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no lado direito da tela.
 
