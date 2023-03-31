@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-03-31T17:58:24.579Z
+date: 2023-03-31T19:12:22.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -21,25 +21,14 @@ O Glink é um aplicativo de auxílio nas vendas, ideal para empresas que realiza
 - **Selecionar formas de pagamento;**
 - **Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.**
 
+# Lista
+Ao acessar o módulo **Configurações » Ferramentas » Integrações**, você visualiza a lista de integrações disponíveis para seu sistema.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![tela-integracoes.png](/config/ferramentas/tela-integracoes.png)
 
 
 # Ativar dispositivo móvel
+Acessando a oção **Glink**, é apresentada a listagem de todos os equipamentos (celular ou tablet) liberados para a empresa.
 
 
 
