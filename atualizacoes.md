@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-03T11:28:36.228Z
+date: 2023-04-03T19:09:39.128Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 03/04/2023
+f2.10.10, b3.9.16 {.versions}
+
+## Ajustes
+- Adicionada tela para informar os dados da autorização do pagamento em cartão na NF-e/NFC-e.
+
 
 # 01/04/2023
 f2.10.9, b3.9.15 {.versions}
