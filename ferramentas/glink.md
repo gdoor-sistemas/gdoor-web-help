@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-04-03T13:28:42.738Z
+date: 2023-04-03T13:28:52.975Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -32,7 +32,7 @@ Selecionando a integração **Glink**, clique no botão (<em class="mdi mdi-cog"
 
 Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
-Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no lado direito da listagem.
+Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
 ![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
 
