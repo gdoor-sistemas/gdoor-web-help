@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-03-29T13:13:05.269Z
+date: 2023-04-03T11:18:19.448Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 01/04/2023
+f2.10.9, b3.9.15 {.versions}
+
+## Novidades
+- Lançamento da integração do Glink com o Gweb 🎉.
+
+## Ajustes
+- Implementado envio do DAMDF-e para o proprietário do veículo.
+- Implementado nos relatórios de “Contas a receber” e “Contas a pagar” os filtros para “Vencimento inicial” e “Vencimento final”, além de incluir a coluna “Pagamento” para indicar a data em que foi feito o pagamento quando houver.
+
 
 # 29/03/2023
 f2.10.8, b3.9.14 {.versions}
