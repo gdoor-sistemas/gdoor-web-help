@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-04-03T13:41:48.334Z
+date: 2023-04-03T17:33:13.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -50,6 +50,10 @@ Na tela apresentada para habilitar a integração, informe os seguintes dados do
 Finalizando a digitação dos dados, clique no botão **gerar código**. No seu dispositivo móvel, baixe o app **"Glink: Pedido de venda externo"** na playstore do Google. Acesse o aplicativo e realize a leitura do **qrcode**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
 
 ![tela-qrcode.png](/config/ferramentas/tela-qrcode.png)
+
+Após a habilitação dos dispositivos, todos os equipamentos liberados serão apresentados na listagem. Para remover uma habilitação (como ocorre quando a empresa "desligar" um vendedor), clique no botão **"revogar"**.
+
+![revogar.png](/config/ferramentas/revogar.png)
 
 
 Para conhecer o funcionamento do aplicativo **Glink** no seu celular, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
