@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-04-03T20:03:17.005Z
+date: 2023-04-03T20:07:56.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -45,10 +45,10 @@ Na tela apresentada para habilitar a integração, informe os seguintes dados do
 - **Validade da habilitação**: selecione uma validade de 15 dias, 1 mês, 2 meses, 3 meses ou por tempo indeterminado;
 - **Usuário**: informe um usuário cadastrado no sistema Gweb;
 - **Vendedor**: informe um vendedor cadastrado no sistema Gweb;
-- **Vendedor fixo**: marcando esta opção, ao acessar o aplicativo no seu dispositivo não será possível alterar o vendedor no pedido;
+- **Vendedor fixo**: marcando esta opção, ao acessar o aplicativo no seu dispositivo não será possível alterar o vendedor no pedido.
 
 
-Finalizando a digitação dos dados, clique no botão **gerar código**. No seu dispositivo móvel, baixe o app **"Glink: Pedido de venda externo"** na playstore do Google. Acesse o aplicativo e realize a leitura do **qrcode**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
+Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o App **"Glink: Pedido de venda externo"** na Play Store ou App Store do seu dispositivo móvel. Acesse o aplicativo e realize a leitura do **QR Code**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
 
 ![tela-qrcode.png](/config/ferramentas/tela-qrcode.png)
 
