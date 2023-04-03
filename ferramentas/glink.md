@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-04-03T20:08:30.657Z
+date: 2023-04-03T20:09:12.222Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
