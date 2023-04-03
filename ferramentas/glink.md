@@ -2,7 +2,7 @@
 title: Glink
 description: 
 published: true
-date: 2023-04-03T20:07:56.788Z
+date: 2023-04-03T20:08:30.657Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-31T17:12:12.758Z
@@ -57,7 +57,7 @@ Após a habilitação dos dispositivos, todos os equipamentos liberados serão a
 ![revogar.png](/config/ferramentas/revogar.png)
 
 
-Para conhecer o funcionamento do aplicativo **Glink** no seu celular, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
+Para conhecer o funcionamento do aplicativo **Glink**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
 
 
 
