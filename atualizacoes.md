@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-03T19:09:39.128Z
+date: 2023-04-05T19:13:40.596Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/04/2023
+f2.10.10, b3.9.17 {.versions}
+
+## Ajustes
+- Corrigida exigência de campos que não são obrigatórios para o CT-e de Complementar.
 
 # 03/04/2023
 f2.10.10, b3.9.16 {.versions}
