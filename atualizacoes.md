@@ -2,11 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-05T19:19:45.908Z
+date: 2023-04-10T18:14:23.847Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 09/04/2023
+f2.10.11, b3.9.18 {.versions}
+
+## Ajustes
+- Adicionado no cadastro do serviço o campo CNAE.
+- Criado campos para Substituição de RPS na emissão da NFS-e.
+- Ajustada a seleção de NF-es para permitir a importação de mais de 10 notas por vez.
+- Ajustado relatório de “Documentos fiscais emitidos” para filtrar os dados do “Status” e “Operações” conforme selecionado.
 
 # 05/04/2023
 f2.10.10, b3.9.17 {.versions}
