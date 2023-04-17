@@ -2,11 +2,22 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-10T18:32:24.990Z
+date: 2023-04-17T11:21:50.947Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 15/04/2023
+f2.10.12, b3.9.19 {.versions}
+
+## Novidades
+- Implementada a geração do Sped pelo módulo de Arquivos Fiscais 🎉.
+
+## Ajustes
+- Ajustados os filtros do Relatório Total de NF-e/NFC-e por situação que estavam gerando dados vazios.
+- Ajustada exportação de bases de dados a partir do Admin.
+
 
 # 09/04/2023
 f2.10.11, b3.9.18 {.versions}
