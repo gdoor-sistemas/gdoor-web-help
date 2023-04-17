@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-17T11:21:50.947Z
+date: 2023-04-17T14:59:37.683Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 17/04/2023
+f2.10.13, b3.9.22 {.versions}
+
+## Ajustes
+- Ajustada geração do Sintegra quando não há regra Geral de tributação.
 
 # 15/04/2023
 f2.10.12, b3.9.19 {.versions}
