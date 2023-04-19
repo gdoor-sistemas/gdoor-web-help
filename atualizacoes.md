@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-19T13:59:04.721Z
+date: 2023-04-19T17:28:26.215Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 19/04/2023
-f2.10.13, b3.9.24 {.versions}
+f2.10.13, b3.9.24, b3.9.25 {.versions}
 
 ## Ajustes
 - Ajustado agendamento de alertas e geração do Sintegra e Sped.
+- Ajustada a tag VTroco para pagamentos na NF-e com valores menores que o total da NF-e.
 
 # 17/04/2023
 f2.10.13, b3.9.22, b3.9.23 {.versions}
