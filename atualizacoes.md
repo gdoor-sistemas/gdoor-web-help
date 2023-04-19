@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-17T20:14:24.462Z
+date: 2023-04-19T13:59:04.721Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 19/04/2023
+f2.10.13, b3.9.24 {.versions}
+
+## Ajustes
+- Ajustado agendamento de alertas e geração do Sintegra e Sped.
 
 # 17/04/2023
 f2.10.13, b3.9.22, b3.9.23 {.versions}
