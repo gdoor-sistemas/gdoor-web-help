@@ -2,11 +2,26 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-19T17:28:26.215Z
+date: 2023-04-25T11:29:26.385Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 23/04/2023
+f2.10.13, b3.9.26 {.versions}
+
+## Novidades
+- Integração com SmartPOS para pagamentos em cartão 🎉.
+
+## Ajustes
+- Corrigida falha nos produtos com tabela de preços ativa. Anteriormente estava apresentando tabelas de preços onde os produtos não estavam inseridos.
+- Ajustada logomarca do emitente para ser exibida também na visualização do DACT-e.
+- Ajustado Relatório de Inventário que estava apresentando itens negativos quando a quantidade atual do item é positiva.
+- Corrigida falha de geração dos relatórios Movimentos NFC-e e Pagamentos NFC-e em alguns clientes.
+- Ajustada operação de Retorno de Remessa quando a definição da operação for de entrada.
+
+
 
 # 19/04/2023
 f2.10.13, b3.9.24, b3.9.25 {.versions}
