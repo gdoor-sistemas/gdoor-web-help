@@ -2,14 +2,20 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-25T11:50:12.914Z
+date: 2023-04-25T16:31:56.938Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
+# 25/04/2023
+f2.10.14, b3.9.26 {.versions}
+
+## Ajustes
+- Ajustada operação de Retorno de Remessa quando a definição da operação for de entrada.
+
 # 23/04/2023
-f2.10.13, b3.9.26 {.versions}
+f2.10.13, f2.10.14, b3.9.26 {.versions}
 
 ## Novidades
 - Integração com SmartPOS Vero para pagamentos em cartão 🎉.
@@ -19,9 +25,6 @@ f2.10.13, b3.9.26 {.versions}
 - Ajustada logomarca do emitente para ser exibida também na visualização do DACT-e.
 - Ajustado Relatório de Inventário que estava apresentando itens negativos quando a quantidade atual do item é positiva.
 - Corrigida falha de geração dos relatórios Movimentos NFC-e e Pagamentos NFC-e em alguns clientes.
-- Ajustada operação de Retorno de Remessa quando a definição da operação for de entrada.
-
-
 
 # 19/04/2023
 f2.10.13, b3.9.24, b3.9.25 {.versions}
@@ -47,7 +50,6 @@ f2.10.12, b3.9.19 {.versions}
 - Ajustados os filtros do Relatório Total de NF-e/NFC-e por situação que estavam gerando dados vazios.
 - Ajustada exportação de bases de dados a partir do Admin.
 
-
 # 09/04/2023
 f2.10.11, b3.9.18 {.versions}
 
@@ -69,7 +71,6 @@ f2.10.10, b3.9.16 {.versions}
 ## Ajustes
 - Adicionada tela para informar os dados da autorização do pagamento em cartão na NF-e/NFC-e.
 
-
 # 01/04/2023
 f2.10.9, b3.9.15 {.versions}
 
@@ -79,7 +80,6 @@ f2.10.9, b3.9.15 {.versions}
 ## Ajustes
 - Implementado envio do DAMDF-e para o proprietário do veículo.
 - Implementado nos relatórios de “Contas a receber” e “Contas a pagar” os filtros para “Vencimento inicial” e “Vencimento final”, além de incluir a coluna “Pagamento” para indicar a data em que foi feito o pagamento quando houver.
-
 
 # 29/03/2023
 f2.10.8, b3.9.14 {.versions}
