@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-25T11:29:26.385Z
+date: 2023-04-25T11:48:36.082Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 f2.10.13, b3.9.26 {.versions}
 
 ## Novidades
-- Integração com SmartPOS para pagamentos em cartão 🎉.
+- Integração com SmartPOS Vero para pagamentos em cartão 🎉.
 
 ## Ajustes
 - Corrigida falha nos produtos com tabela de preços ativa. Anteriormente estava apresentando tabelas de preços onde os produtos não estavam inseridos.
