@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-27T13:22:21.579Z
+date: 2023-04-27T19:32:55.571Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,6 +13,7 @@ f2.10.14, b3.9.27 {.versions}
 
 ## Ajustes
 - Corrigido tamanho do campo no registro 0450 no Sped.
+- Ajustada opção para inserir dados de pagamento cartão no PDV.
 
 # 25/04/2023
 f2.10.14, b3.9.26 {.versions}
