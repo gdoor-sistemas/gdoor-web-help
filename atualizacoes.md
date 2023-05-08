@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-04-27T19:34:29.439Z
+date: 2023-05-08T11:51:33.177Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/05/2023
+f2.10.15, b3.9.28, b3.9.29 {.versions}
+
+## Ajustes
+- Ajustada falha ao informar chave de NF-e no CT-e quando o mesmo possui reboque.
 
 # 27/04/2023
 f2.10.14, f2.10.15, b3.9.27 {.versions}
