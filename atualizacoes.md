@@ -2,11 +2,30 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-08T11:51:33.177Z
+date: 2023-05-08T20:02:14.043Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 08/05/2023
+f2.10.16, b3.9.30 {.versions}
+
+## Novidades
+- Implementado o Registro 1601 no Sped.
+- Melhorada a usabilidade do campo de data/hora.
+- Adicionado carregamento dinâmico de itens na pesquisa de produtos no PDV e NF-e.
+
+## Ajustes
+- Ajustada na regra de tributação as novas alíquotas para bases novas e antigas.
+- Corrigido o Registro 61 do Sintegra para NFC-e canceladas.
+- Ajustado botão salvar no MDF-e para inativar no primeiro clique.
+- Ajustado Registro 0400 do Sped para gerar os dados apenas uma vez.
+- Ajustado Registro C190 do Sped para não gerar ICMS quando a empresa é do Simples Nacional.
+- Ajustado cadastro do emitente para gravar e-mail e telefone adicional.
+- Corrigida falha ao gerar o Relatório de Inventário. 
+- Ajustado XML de compra para trazer o código CEST nos produtos novos.
+- Ajustada compra de mercadorias para importar XML de produtos sem o código CEST.
 
 # 05/05/2023
 f2.10.15, b3.9.28, b3.9.29 {.versions}
