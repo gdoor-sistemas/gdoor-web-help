@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-10T20:05:49.225Z
+date: 2023-05-10T20:07:00.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -18,7 +18,7 @@ A comunicação entre sistema e equipamento é feita por meio de um app instalad
 # Habilitar novo dispositivo
 Selecionando a integração **Gdoor Pay**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
-![acesso-configurar-glink.png](/config/ferramentas/acesso-configurar-glink.png)
+![acesso-configurar-gdoorpay.png](/config/ferramentas/acesso-configurar-gdoorpay.png)
 
 Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
