@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-10T19:56:17.526Z
+date: 2023-05-10T20:05:29.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -26,7 +26,7 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
 
-
+![acesso-configurar-glink.png](/config/ferramentas/acesso-configurar-glink.png)
 
 
 
