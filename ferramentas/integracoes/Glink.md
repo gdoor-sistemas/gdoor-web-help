@@ -1,8 +1,8 @@
 ---
 title: Glink
-description: 
+description: Veja como interligar seu sistema com o aplicativo de pedidos Glink
 published: true
-date: 2023-05-10T19:26:13.374Z
+date: 2023-05-10T19:28:20.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
