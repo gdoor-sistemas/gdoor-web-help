@@ -2,7 +2,7 @@
 title: Integrações
 description: 
 published: false
-date: 2023-05-10T19:14:33.273Z
+date: 2023-05-10T19:14:45.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:14:10.660Z
