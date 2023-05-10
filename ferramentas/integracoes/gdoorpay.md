@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-10T19:53:03.414Z
+date: 2023-05-10T19:56:17.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -14,13 +14,9 @@ A integração do sistema **Gweb** com a maquininha do **POS Vero Smart** possib
 
 A comunicação entre sistema e equipamento é feita por meio de um app instalado no **POS Vero Smart**. Para esta comunicação, é necessário contactar o **POS Vero Smart** à internet.
 
-# Lista
-Acessando **Configurações » Ferramentas » Integrações**, você visualiza a lista de integrações disponíveis para seu sistema.
 
-![tela-integracoes.png](/config/ferramentas/tela-integracoes.png)
-
-## Habilitar novo dispositivo móvel
-Selecionando a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+# Habilitar novo dispositivo
+Selecionando a integração **Gdoor Pay**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
 ![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
 
@@ -30,27 +26,7 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
 
-Na tela apresentada para habilitar a integração, informe os seguintes dados do dispositivo:
 
-![tela-habilitacao.png](/config/ferramentas/tela-habilitacao.png)
-
-- **Identificação**: escolha um nome para a identificação do dispositivo;
-- **Validade da habilitação**: selecione uma validade de 15 dias, 1 mês, 2 meses, 3 meses ou por tempo indeterminado;
-- **Usuário**: informe um usuário cadastrado no sistema Gweb;
-- **Vendedor**: informe um vendedor cadastrado no sistema Gweb;
-- **Vendedor fixo**: marcando esta opção, ao acessar o aplicativo no seu dispositivo não será possível alterar o vendedor no pedido.
-
-
-Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o App **"Glink: Pedido de venda externo"** na Play Store ou App Store do seu dispositivo móvel. Acesse o aplicativo e realize a leitura do **QR Code**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
-
-![tela-qrcode.png](/config/ferramentas/tela-qrcode.png)
-
-Após a habilitação dos dispositivos, todos os equipamentos liberados serão apresentados na listagem. Para remover uma habilitação (como ocorre quando a empresa "desligar" um vendedor), clique no botão **"revogar"**.
-
-![revogar.png](/config/ferramentas/revogar.png)
-
-
-Para conhecer o funcionamento do aplicativo **Glink**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
 
 
 
