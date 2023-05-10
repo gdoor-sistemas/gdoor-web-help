@@ -2,7 +2,7 @@
 title: Ferramentas
 description: Conheças as ferramentas disponíveis para manutenção do seu Gweb
 published: true
-date: 2023-05-10T19:33:21.173Z
+date: 2023-05-10T19:34:00.717Z
 tags: configurações, ferramentas
 editor: markdown
 dateCreated: 2021-03-03T19:49:37.106Z
@@ -22,7 +22,7 @@ Em determinadas circunstâncias, você precisará de algumas das feramentas list
 
 -----------------------------------------------------------------------------------------------------
 
-- [Integrações *Veja como interligar seu sistema com os aplicativos integrados ao sistema*](/ferramentas/integracoes)
+- [Integrações *Veja como interligar seu sistema com os aplicativos integrados*](/ferramentas/integracoes)
 {.links-list}
 
 
