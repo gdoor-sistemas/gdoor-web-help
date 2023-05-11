@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-08T20:02:53.202Z
+date: 2023-05-11T11:16:31.930Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 10/05/2023
+f2.10.16, b3.9.32, b3.9.33 {.versions}
+
+## Ajustes
+- Corrigida falha ao gerar o Sped em alguns clientes.
 
 # 08/05/2023
 f2.10.16, b3.9.30 {.versions}
