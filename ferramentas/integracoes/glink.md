@@ -2,7 +2,7 @@
 title: Glink
 description: Veja como interligar seu sistema com o aplicativo de pedidos Glink
 published: true
-date: 2023-05-10T20:06:32.781Z
+date: 2023-05-12T17:45:36.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
@@ -22,7 +22,7 @@ Os pedidos efetuados no App serão sincronizados com a solução Gweb para fatur
 - **Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.**
 
 # Habilitar novo dispositivo móvel
-Selecionando a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
 ![acesso-configurar-glink.png](/config/ferramentas/acesso-configurar-glink.png)
 
