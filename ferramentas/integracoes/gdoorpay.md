@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-12T21:12:58.542Z
+date: 2023-05-12T21:22:55.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -54,7 +54,13 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ## Utilizando a integração com POS Vero Smart
 
-![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
+![venda01.png](/config/ferramentas/venda01.png)
+
+![venda02.png](/config/ferramentas/venda02.png)
+
+![venda03.png](/config/ferramentas/venda03.png)
+
+![venda04.png](/config/ferramentas/venda04.png)
 
 
 
