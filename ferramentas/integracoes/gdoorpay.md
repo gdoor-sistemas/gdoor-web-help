@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-12T21:22:55.751Z
+date: 2023-05-12T21:50:13.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -33,8 +33,23 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ## Cadastros de dispositivos
 
+Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
+
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
+
+
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
+
+![inicial.png](/config/ferramentas/inicial.png)
+
+
+
+![ativacao-web.png](/config/ferramentas/ativacao-web.png)
+
+
+
+
+
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
 
 
@@ -54,7 +69,7 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ## Utilizando a integração com POS Vero Smart
 
-![venda01.png](/config/ferramentas/venda01.png)
+![aguardando-pgto.png](/config/ferramentas/aguardando-pgto.png)
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
@@ -66,13 +81,14 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 
 
+![inserir-cartao-vero.png](/config/ferramentas/inserir-cartao-vero.png)
+
+
 
 
 listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
-Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
-![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
 
 
 
