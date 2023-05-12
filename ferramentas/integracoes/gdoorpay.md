@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-12T20:59:11.195Z
+date: 2023-05-12T21:07:49.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -35,6 +35,11 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
+![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
+![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
+![form-pgto01.png](/config/ferramentas/form-pgto01.png)
+![form-pgto02png.png](/config/ferramentas/form-pgto02png.png)
+
 
 
 ## Vincular dispositivo com meio de pagamento
