@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-10T20:07:12.648Z
+date: 2023-05-12T20:59:11.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -16,11 +16,34 @@ A comunicação entre sistema e equipamento é feita por meio de um app instalad
 
 
 # Habilitar novo dispositivo
-Selecionando a integração **Gdoor Pay**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+
+## Ativação do Gdoor Pay
+
+Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
 ![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
 
-Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
+Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ativada. 
+
+
+![integ-ativa.png](/config/ferramentas/integ-ativa.png)
+
+> É necessário ativar a integração uma única vez.
+{.is-info}
+
+## Cadastros de dispositivos
+
+![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
+![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
+
+
+## Vincular dispositivo com meio de pagamento
+
+
+## Utilizando a integração com POS Vero Smart
+
+
+listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
