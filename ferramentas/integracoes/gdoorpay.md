@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-12T21:07:49.185Z
+date: 2023-05-12T21:12:58.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -36,16 +36,30 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
+
+
+
+
+
+## Vincular dispositivo com meio de pagamento
 ![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
 ![form-pgto01.png](/config/ferramentas/form-pgto01.png)
 ![form-pgto02png.png](/config/ferramentas/form-pgto02png.png)
 
 
+## Configuração do PDV
 
-## Vincular dispositivo com meio de pagamento
+![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
 
 
 ## Utilizando a integração com POS Vero Smart
+
+![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
+
+
+
+
+
 
 
 listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
