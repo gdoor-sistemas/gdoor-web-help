@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T13:55:02.576Z
+date: 2023-05-15T14:00:44.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -69,7 +69,7 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ## Utilizando a integração com POS Vero Smart
 
-![aguardando-pgto.png](/config/ferramentas/aguardando-pgto.png)
+![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
