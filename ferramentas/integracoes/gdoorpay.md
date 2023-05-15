@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T20:36:31.625Z
+date: 2023-05-15T20:43:39.970Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
