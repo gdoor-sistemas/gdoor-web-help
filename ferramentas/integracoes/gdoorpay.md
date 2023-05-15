@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T14:00:44.726Z
+date: 2023-05-15T18:42:43.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-10T19:42:10.949Z
 
 # Introdução
 
-A integração do sistema **Gweb** com a maquininha do **POS Vero Smart** possibilita ao sistema uma funcionalidade similar a utilização do TEF(Transferência Eletrônica de Fundos), onde o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente.
+A integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente no XML.
 
 A comunicação entre sistema e equipamento é feita por meio de um app instalado no **POS Vero Smart**. Para esta comunicação, é necessário contactar o **POS Vero Smart** à internet.
 
@@ -33,28 +33,36 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ## Cadastros de dispositivos
 
+A ativação do dispositivo é feita de forma rápida, acessando o seu PDV (computador) e o dispositivo (POS Vero smart).
+
+### PDV - Computador
+
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
 
+Um aviso será apresentado em tela, informando um **"código de vinculação"** que deve ser informado no app do POS Vero Smart.
 
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
 
+### Dispositivo - POS Vero smart
 
-
-
-
+Acesse a **loja de aplicativos** no seu **POS Vero Smart**, pesquise por **"Gdoor pay"** e efetue a instalação.
 
 ![inicial3.png](/config/ferramentas/inicial3.png)
-![ativacao-web3.png](/config/ferramentas/ativacao-web3.png)
-![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
+Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes opções para ativação:
+
+<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"pdv"</strong>. </li>
+<li><strong>Nome do terminal:</strong> cadastre um nome, com até 30 caracteres, para a identificação do dispositivo.</li>
+
+![ativacao-web3.png](/config/ferramentas/ativacao-web3.png)
+
+Digite o código de **6 dígitos**, informe o **nome do terminal** e clique no botão **"ativar"**.
+
+Ao retornar para o pdv no computador, verifique que o novo dispositivo aparece na listagem.
 
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
-
-
-
-
 
 ## Vincular dispositivo com meio de pagamento
 ![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
@@ -63,6 +71,8 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 
 ## Configuração do PDV
+![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
+
 
 ![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
 
@@ -77,11 +87,6 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![venda04.png](/config/ferramentas/venda04.png)
 
-
-
-
-
-![inserir-cartao-vero.png](/config/ferramentas/inserir-cartao-vero.png)
 
 
 
