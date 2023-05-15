@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T20:19:33.607Z
+date: 2023-05-15T20:29:33.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -79,13 +79,18 @@ Realize o mesmo processo de cadastro para todas as formas de pagamento que utili
 Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **formas de pagamento**, clique em **Salvar**.
 
 ## Configuração do PDV
-![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
+
+Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos **meios de pagamento disponíveis para uso no PDV** se estão selecionados os meios de pagamento onde vinculou a utilização da maquininha.
+
+Caso não estejam marcados, marque as formas de pagamento e clique em **salvar**.
 
 
 ![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
 
 
 ## Utilizando a integração com POS Vero Smart
+
+![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
 ![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
 
