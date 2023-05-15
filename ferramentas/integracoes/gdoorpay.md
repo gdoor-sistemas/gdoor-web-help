@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T20:43:39.970Z
+date: 2023-05-15T20:49:02.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -94,7 +94,7 @@ Após ativar o seu aplicativo e abrir ele na sua maquininha, será apresentada u
 
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
-Na finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone  (canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
+Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone  (canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
