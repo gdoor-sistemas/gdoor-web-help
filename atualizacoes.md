@@ -2,17 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-15T12:53:02.952Z
+date: 2023-05-15T19:09:51.685Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
 
 # 12/05/2023
-f2.10.17, b3.9.34 {.versions}
+f2.10.17, b3.9.34, b3.9.35 {.versions}
 
 ## Ajustes
 - Possibilitada a geração de notas de complementares destacando ICMS, mesmo que na nota original não seja destacado.
+- Ajustada a nota de complemento para apresentar os dados configurados no campo "Autorizados a baixar o XML" no XML da nota.
 
 # 10/05/2023
 f2.10.16, b3.9.32, b3.9.33, b3.9.34 {.versions}
