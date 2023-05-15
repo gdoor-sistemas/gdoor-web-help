@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T20:31:08.819Z
+date: 2023-05-15T20:36:31.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -60,7 +60,7 @@ Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes
 
 Digite o código de **6 dígitos**, informe o **nome do terminal** e clique no botão **"ativar"**.
 
-Ao retornar para o pdv no computador, verifique que o novo dispositivo aparece na listagem.
+Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado aparece na listagem.
 
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
 
@@ -90,21 +90,30 @@ Caso não estejam marcados, marque os meios de pagamento e clique em **salvar**.
 
 ## Utilizando a integração com POS Vero Smart
 
+Após ativar o seu aplicativo e abrir ele na sua maquininha, será apresentada uma mensagem com o nome do terminal cadastrado anteriormente e a mensagem "aguardando pagamentos".
+
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
-![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
+Na finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone  (canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
+É possível selecionar o meio de pagamento utilizando as teclas de atalho, identificadas por letras ao lado direito do nome do meio de pagamento.
+
 ![venda03.png](/config/ferramentas/venda03.png)
+
+
 
 ![venda04.png](/config/ferramentas/venda04.png)
 
 
+No POS Vero smart, verifique a solicitação para que "aproxime ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
+
+![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
 
 
+A partir deste momento, basta seguir as orientações solicitadas em sua maquininha. Ao finalizar o processo no POS Vero smart, o sistema finalizará a venda com a impressão do documento fiscal.
 
-listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
 
 
