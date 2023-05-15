@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-12T21:50:31.678Z
+date: 2023-05-15T13:55:02.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -40,14 +40,14 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
 
-![inicial.png](/config/ferramentas/inicial.png)
 
 
 
-![ativacao-web.png](/config/ferramentas/ativacao-web.png)
 
 
-
+![inicial3.png](/config/ferramentas/inicial3.png)
+![ativacao-web3.png](/config/ferramentas/ativacao-web3.png)
+![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
 
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
