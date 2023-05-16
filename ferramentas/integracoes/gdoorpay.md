@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T18:35:47.985Z
+date: 2023-05-16T19:40:13.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-10T19:42:10.949Z
 
 # Introdução
 
-A integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente.
+Na integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente.
 
 A comunicação entre sistema e equipamento é feita por meio de um app instalado no **POS Vero Smart**. Para esta comunicação, é necessário contactar o **POS Vero Smart** à internet.
 
@@ -23,7 +23,7 @@ Acessando **Configurações » Ferramentas » Integrações**, selecione a integ
 
 ![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
 
-Será apresentada a uma mensagem informando que a **integração** Gdoor Pay foi **ativada**. 
+Será apresentada uma mensagem informando que a **integração** Gdoor Pay foi **ativada**. 
 
 ![integ-ativa.png](/config/ferramentas/integ-ativa.png)
 
@@ -40,7 +40,7 @@ Para habilitar um novo dispositivo móvel, clique no botão de adição (<em cla
 
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
 
-Um aviso será apresentado em tela, informando um **"código de vinculação"** que deve ser informado no app do POS Vero Smart.
+Será apresentado um aviso na tela, informando um **"código de vinculação"** que deve ser informado no app do POS Vero Smart.
 
 ![cad-dispositivo02.png](/config/ferramentas/cad-dispositivo02.png)
 
@@ -52,7 +52,7 @@ Acesse a **loja de aplicativos** no seu **POS Vero Smart**, pesquise por **"Gdoo
 
 Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes opções para ativação:
 
-<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"pdv"</strong>. </li>
+<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"PDV Gweb"</strong>. </li>
 <li><strong>Nome do terminal:</strong> cadastre um nome, com até 30 caracteres, para a identificação do dispositivo.</li>
 
 ![ativacao-web3.png](/config/ferramentas/ativacao-web3.png)
@@ -65,7 +65,7 @@ Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado ap
 
 # Vincular dispositivo com meio de pagamento
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
-Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamentos que utilizarão a maquininha.
+Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamento que serão utilizados na maquininha.
 
 ![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
 
@@ -79,7 +79,7 @@ Realize o mesmo processo de cadastro para todas as formas de pagamento que utili
 
 Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **formas de pagamento**, clique em **Salvar**.
 
-# Configuração do PDV
+# Configuração do PDV Gweb
 
 Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos **meios de pagamento disponíveis para uso no PDV** se estão selecionados os meios de pagamento onde vinculou a utilização da maquininha.
 
@@ -95,7 +95,7 @@ Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome
 
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
-Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
+Na tela de finalização da venda em seu PDV Gweb, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
