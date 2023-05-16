@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-16T20:53:03.473Z
+date: 2023-05-16T20:53:46.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -63,7 +63,7 @@ Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado ap
 
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
 
-# Vincular dispositivo com meio de pagamento
+# Vincular dispositivo com o meio de pagamento
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
 Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamento que serão utilizados na maquininha.
 
