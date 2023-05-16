@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T18:09:40.422Z
+date: 2023-05-16T18:10:41.926Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -95,7 +95,7 @@ Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome
 
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
-Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
+Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
