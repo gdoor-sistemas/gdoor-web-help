@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-15T20:49:02.897Z
+date: 2023-05-16T17:17:52.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-10T19:42:10.949Z
 
 # Introdução
 
-A integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente no XML.
+A integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente.
 
 A comunicação entre sistema e equipamento é feita por meio de um app instalado no **POS Vero Smart**. Para esta comunicação, é necessário contactar o **POS Vero Smart** à internet.
 
