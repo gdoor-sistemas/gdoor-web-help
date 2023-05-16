@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T17:17:52.535Z
+date: 2023-05-16T17:23:40.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -23,8 +23,7 @@ Acessando **Configurações » Ferramentas » Integrações**, selecione a integ
 
 ![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
 
-Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ativada. 
-
+Será apresentada a uma mensagem informando que a **integração** Gdoor Pay foi **ativada**. 
 
 ![integ-ativa.png](/config/ferramentas/integ-ativa.png)
 
@@ -33,7 +32,7 @@ Será apresentada a uma mensagem informando que a integração Gdoor Pay foi ati
 
 ## Cadastros de dispositivos
 
-A ativação do dispositivo é feita de forma rápida, acessando o seu PDV (computador) e o dispositivo (POS Vero smart).
+A ativação do dispositivo é feita de forma rápida, acessando o seu **PDV (computador)** e o **dispositivo (POS Vero smart)**.
 
 ### PDV - Computador
 
@@ -66,11 +65,12 @@ Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado ap
 
 ## Vincular dispositivo com meio de pagamento
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
-Acessando **Cadastros » Pagamentos**, localize os meios de pagamentos que utilizaão a maquininha.
+Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamentos que utilizarão a maquininha.
 
 ![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
 
-Dê um duplo clique para abrir o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada anteriormente.
+Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada anteriormente.
+
 ![form-pgto01.png](/config/ferramentas/form-pgto01.png)
 
 Realize o mesmo processo de cadastro para todas as formas de pagamento que utilizarão a comunicação com a maquininha.
