@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T17:23:40.630Z
+date: 2023-05-16T18:04:21.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -69,11 +69,12 @@ Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagament
 
 ![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
 
-Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada anteriormente.
+Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada que deseja utilizar para este meio de pagamento.
 
 ![form-pgto01.png](/config/ferramentas/form-pgto01.png)
 
 Realize o mesmo processo de cadastro para todas as formas de pagamento que utilizarão a comunicação com a maquininha.
+
 ![form-pgto02png.png](/config/ferramentas/form-pgto02png.png)
 
 Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **formas de pagamento**, clique em **Salvar**.
@@ -82,7 +83,7 @@ Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **fo
 
 Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos **meios de pagamento disponíveis para uso no PDV** se estão selecionados os meios de pagamento onde vinculou a utilização da maquininha.
 
-Caso não estejam marcados, marque os meios de pagamento e clique em **salvar**.
+Caso não estejam marcados, marque os meios de pagamento e clique em <span class="mat-button mdi ">salvar</span>.
 
 
 ![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
@@ -90,11 +91,11 @@ Caso não estejam marcados, marque os meios de pagamento e clique em **salvar**.
 
 ## Utilizando a integração com POS Vero Smart
 
-Após ativar o seu aplicativo e abrir ele na sua maquininha, será apresentada uma mensagem com o nome do terminal cadastrado anteriormente e a mensagem "aguardando pagamentos".
+Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado anteriormente e a mensagem **"aguardando pagamentos"**.
 
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
-Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone  (canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
+Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagamento no ícone <em class="mdi-credit-card-plus"></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão **realizar cobrança**.
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
