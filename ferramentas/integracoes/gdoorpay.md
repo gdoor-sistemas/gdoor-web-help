@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T19:43:44.839Z
+date: 2023-05-16T19:44:18.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -112,7 +112,9 @@ No POS Vero smart, verifique a solicitação para que "aproxime ou passe o cart�
 ![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
 
 
-A partir deste momento, basta seguir as orientações solicitadas em sua maquininha. Ao finalizar o processo no **POS Vero smart**, o sistema **finalizará a venda com a impressão do documento fiscal**.
+A partir deste momento, basta seguir as orientações solicitadas em sua maquininha. 
+
+Ao finalizar o processo no **POS Vero smart**, o sistema **finalizará a venda com a impressão do documento fiscal**.
 
 
 
