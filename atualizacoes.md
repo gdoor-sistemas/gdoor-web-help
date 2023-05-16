@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-15T19:13:39.661Z
+date: 2023-05-16T19:26:16.756Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 16/05/2023
+f2.10.17, b3.9.36 {.versions}
+
+## Ajustes
+- Ajustada a exibição dos tomadores na NFS-e. Anteriormente o sistema estava usando o código da referência da NFS-e para exibir o tomador.
 
 # 15/05/2023
 f2.10.17, b3.9.35 {.versions}
