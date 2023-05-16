@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T18:13:30.988Z
+date: 2023-05-16T18:35:47.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -30,7 +30,7 @@ Será apresentada a uma mensagem informando que a **integração** Gdoor Pay foi
 > É necessário ativar a integração uma única vez.
 {.is-info}
 
-## Cadastros de dispositivos
+## Cadastro de dispositivos
 
 A ativação do dispositivo é feita de forma rápida, acessando o seu **PDV (computador)** e o **dispositivo (POS Vero smart)**.
 
@@ -63,7 +63,7 @@ Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado ap
 
 ![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
 
-## Vincular dispositivo com meio de pagamento
+# Vincular dispositivo com meio de pagamento
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
 Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamentos que utilizarão a maquininha.
 
@@ -79,7 +79,7 @@ Realize o mesmo processo de cadastro para todas as formas de pagamento que utili
 
 Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **formas de pagamento**, clique em **Salvar**.
 
-## Configuração do PDV
+# Configuração do PDV
 
 Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos **meios de pagamento disponíveis para uso no PDV** se estão selecionados os meios de pagamento onde vinculou a utilização da maquininha.
 
@@ -89,7 +89,7 @@ Caso não estejam marcados, marque os meios de pagamento e clique em <span class
 ![marcar-meio-pgto.png](/config/ferramentas/marcar-meio-pgto.png)
 
 
-## Utilizando a integração com POS Vero Smart
+# Utilizando a integração com POS Vero Smart
 
 Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado anteriormente e a mensagem **"aguardando pagamentos"**.
 
