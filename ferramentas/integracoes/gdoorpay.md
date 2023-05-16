@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: false
-date: 2023-05-16T18:10:41.926Z
+date: 2023-05-16T18:13:30.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -99,14 +99,13 @@ Na tela de finalização da venda em seu PDV, quando selecionar a forma de pagam
 
 ![venda02.png](/config/ferramentas/venda02.png)
 
-É possível selecionar o meio de pagamento utilizando as teclas de atalho, identificadas por letras ao lado direito do nome do meio de pagamento.
-
+> É possível selecionar o meio de pagamento utilizando as teclas de atalho, identificadas por letras ao lado direito do nome do meio de pagamento.
 ![venda03.png](/config/ferramentas/venda03.png)
+{.is-info}
 
-
+O sistema inicia neste momento a comunicação com a maquininha **POS Vero smart** e aguarda o retorno do pagamento.
 
 ![venda04.png](/config/ferramentas/venda04.png)
-
 
 No POS Vero smart, verifique a solicitação para que "aproxime ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
 
