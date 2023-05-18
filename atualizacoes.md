@@ -2,11 +2,35 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-16T19:32:51.244Z
+date: 2023-05-18T12:08:14.121Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 17/05/2023
+f2.10.18, b3.9.37 {.versions}
+
+## Novidades
+- Criado relatório de “Total de produtos vendidos por cliente”.
+- Adicionado o CT-e na geração dos registros do Sintegra.
+- Possibilitada a vinculação da regra de imposto na compra de mercadorias.
+- Criado relatório de “Listagem de Pessoas”.
+- Possibilitada a inclusão de veículos diretamente na nota sem a necessidade de um cadastro prévio.
+- Ajustado cadastro de telefone estrangeiro no cadastro de Pessoas.
+- Disponibilizada a opção de gerar o XML do mês para a NFS-e.
+
+## Ajustes
+- Ajustado cálculo de ICMS ST para considerar alíquotas internas e interestaduais.
+- Ocultado botão “Editar” em notas com status “XML enviado a SEFAZ - Sem resposta”.
+- Ajustado campo “CNAE” referente ao cadastro de serviço para que possa receber 9 dígitos no campo.
+- Corrigido falha que bloqueava contas com data de bloqueio futura indevidamente.
+- Ajustada edição de NF-e com CSOSN 500 que não estava mostrando os valores gravados.
+- Ajustado o registro 0450 do Sped para mostrar este registro somente quando ele for vinculado a uma nota.
+- Corrigido erro na importação do XML no MDF-e.
+- Ajustada listagem de CST de IPI para escrituração para apresentar somente as opções de entrada.
+- Ajustada a geração do registro C100 do Sped.
+
 
 # 16/05/2023
 f2.10.17, b3.9.36 {.versions}
