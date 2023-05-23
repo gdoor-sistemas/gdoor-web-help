@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-23T18:35:56.802Z
+date: 2023-05-23T18:44:04.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -55,27 +55,28 @@ Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes
 <li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"PDV Gweb"</strong>. </li>
 <li><strong>Nome do terminal:</strong> cadastre um nome com até 30 caracteres, para a identificação do dispositivo.</li>
 
-![ativacao-web3.png](/config/ferramentas/ativacao-web3.png)
+![ativacao Gweb](/config/ferramentas/ativacao-web3.png)
 
 Digite o código de **6 dígitos**, informe o **nome do terminal** e clique no botão **"ativar"**.
 
-Ao retornar para o pdv no computador, verifique se o novo dispositivo ativado aparece na listagem.
+Ao retornar para o PDV no computador, verifique se o novo dispositivo ativado consta na listagem.
 
-![cad-dispositivo03.png](/config/ferramentas/cad-dispositivo03.png)
+![dispositivos cadastrados](/config/ferramentas/cad-dispositivo03.png)
 
 # Vincular dispositivo com o meio de pagamento
+
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
 Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamento que serão utilizados na maquininha.
 
-![meio-pgto01.png](/config/ferramentas/meio-pgto01.png)
+![meios de pagamento](/config/ferramentas/meio-pgto01.png)
 
 Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada que deseja utilizar para este meio de pagamento.
 
-![form-pgto01.png](/config/ferramentas/form-pgto01.png)
+![editar forma pgto](/config/ferramentas/form-pgto01.png)
 
 Realize o mesmo processo de cadastro para todas as formas de pagamento que utilizarão a comunicação com a maquininha.
 
-![form-pgto02png.png](/config/ferramentas/form-pgto02png.png)
+![editar forma pgto](/config/ferramentas/form-pgto02png.png)
 
 Finalizando os vínculos entre todas as maquininhas **POS Vero smart** e as **formas de pagamento**, clique em **Salvar**.
 
