@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-23T18:49:36.467Z
+date: 2023-05-23T19:04:08.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -92,40 +92,24 @@ Caso não estejam marcados, marque os meios de pagamento e clique em <span class
 
 Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado com a mensagem **"aguardando pagamentos"**.
 
-![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
+![aguardando pagamentos](/config/ferramentas/aguardando-pgto3.png)
 
-Na tela de finalização da venda em seu PDV Gweb, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
+Na tela de finalização da venda no PDV Gweb, quando selecionar a forma de pagamento no ícone <em class= "mdi mdi-credit-card-plus" ></em> (no canto direito superior da tela), escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
 
-![venda02.png](/config/ferramentas/venda02.png)
+![realizar cobrança](/config/ferramentas/venda02.png)
 
 > É possível selecionar o meio de pagamento utilizando as teclas de atalho, identificadas por letras ao lado direito do nome do meio de pagamento.
-![venda03.png](/config/ferramentas/venda03.png)
+![teclas atalho](/config/ferramentas/venda03.png)
 {.is-info}
 
-O sistema inicia neste momento a comunicação com a maquininha **POS Vero smart** e aguarda o retorno do pagamento.
+O sistema inicia neste momento a comunicação com a maquininha **POS Vero Smart** e aguarda o retorno do pagamento.
 
-![venda04.png](/config/ferramentas/venda04.png)
+![enviando pagamento](/config/ferramentas/venda04.png)
 
-No POS Vero smart, verifique a solicitação para que "aproxime ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
+No POS Vero Smart, verifique a solicitação para que "aproxime ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
 
-![inserir-cartao-vero3.png](/config/ferramentas/inserir-cartao-vero3.png)
+![aproxime ou insira cartao](/config/ferramentas/inserir-cartao-vero3.png)
 
+A partir deste momento, basta seguir as orientações apresentadas na maquininha. 
 
-A partir deste momento, basta seguir as orientações solicitadas em sua maquininha. 
-
-Ao finalizar o processo no **POS Vero smart**, o sistema **finalizará a venda com a impressão do documento fiscal**.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ao concluir o processo no **POS Vero Smart**, o sistema **finalizará a venda com a impressão do documento fiscal**.
