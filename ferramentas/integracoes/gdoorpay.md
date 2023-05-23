@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-23T18:05:12.915Z
+date: 2023-05-23T18:24:27.587Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -19,15 +19,15 @@ A comunicação entre sistema e equipamento é feita por meio de um App instalad
 
 ## Ativação do Gdoor Pay
 
-Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
-![acesso-configurar.png](/config/ferramentas/acesso-configurar.png)
+![configurar](/config/ferramentas/acesso-configurar.png)
 
 Será apresentada uma mensagem informando que a **integração** Gdoor Pay foi **ativada**. 
 
-![integ-ativa.png](/config/ferramentas/integ-ativa.png)
+![integração ativa](/config/ferramentas/integ-ativa.png)
 
-> É necessário ativar a integração uma única vez.
+> É necessário ativar a integração apenas uma vez.
 {.is-info}
 
 ## Cadastro de dispositivos
