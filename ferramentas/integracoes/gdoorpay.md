@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-23T18:46:26.406Z
+date: 2023-05-23T18:49:36.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -90,7 +90,7 @@ Caso não estejam marcados, marque os meios de pagamento e clique em <span class
 
 # Utilizando a integração com POS Vero Smart
 
-Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado anteriormente e a mensagem **"aguardando pagamentos"**.
+Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado com a mensagem **"aguardando pagamentos"**.
 
 ![aguardando-pgto3.png](/config/ferramentas/aguardando-pgto3.png)
 
