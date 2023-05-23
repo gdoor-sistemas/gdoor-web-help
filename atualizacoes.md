@@ -2,11 +2,18 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-18T12:08:14.121Z
+date: 2023-05-23T11:05:28.246Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 22/05/2023
+f2.10.18, b3.9.38, b3.9.39 {.versions}
+
+## Ajustes
+- Ajustado registro C110 do Sped para identificar as informações adicionais da nota corretamente.
+- Corrigido registro 71 do Sintegra para não enviar esta informação caso o cliente não emita CT-e.
 
 # 17/05/2023
 f2.10.18, b3.9.37 {.versions}
