@@ -2,7 +2,7 @@
 title: Glink
 description: Veja como interligar seu sistema com o aplicativo de pedidos Glink
 published: true
-date: 2023-05-12T19:53:51.499Z
+date: 2023-05-23T19:22:19.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
@@ -24,17 +24,17 @@ Os pedidos efetuados no App serão sincronizados com a solução Gweb para fatur
 # Habilitar novo dispositivo móvel
 Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
-![acesso-configurar-glink.png](/config/ferramentas/acesso-configurar-glink.png)
+![acesso configurar glink](/config/ferramentas/acesso-configurar-glink.png)
 
 Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
-![listagem-equipamentos.png](/config/ferramentas/listagem-equipamentos.png)
+![listagem equipamentos](/config/ferramentas/listagem-equipamentos.png)
 
 Na tela apresentada para habilitar a integração, informe os seguintes dados do dispositivo:
 
-![tela-habilitacao.png](/config/ferramentas/tela-habilitacao.png)
+![habilitacao](/config/ferramentas/tela-habilitacao.png)
 
 - **Identificação**: escolha um nome para a identificação do dispositivo;
 - **Validade da habilitação**: selecione uma validade de 15 dias, 1 mês, 2 meses, 3 meses ou por tempo indeterminado;
@@ -45,11 +45,11 @@ Na tela apresentada para habilitar a integração, informe os seguintes dados do
 
 Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o App **"Glink: Pedido de venda externo"** na Play Store ou App Store do seu dispositivo móvel. Acesse o aplicativo e realize a leitura do **QR Code**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
 
-![tela-qrcode.png](/config/ferramentas/tela-qrcode.png)
+![qrcode](/config/ferramentas/tela-qrcode.png)
 
-Após a habilitação dos dispositivos, todos os equipamentos liberados serão apresentados na listagem. Para remover uma habilitação (como ocorre quando a empresa "desligar" um vendedor), clique no botão **"revogar"**.
+Após a habilitação dos dispositivos, todos os equipamentos liberados serão apresentados na listagem. Para remover uma habilitação clique no botão **"revogar"**.
 
-![revogar.png](/config/ferramentas/revogar.png)
+![revogar](/config/ferramentas/revogar.png)
 
 
 Para conhecer o funcionamento do aplicativo **Glink**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
