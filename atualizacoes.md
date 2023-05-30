@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-30T12:50:26.175Z
+date: 2023-05-30T17:36:25.733Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 30/05/2023
+f2.10.18, b3.9.41 {.versions}
+
+## Ajustes
+- Ajustado na geração do Sped as referências de notas que não possuem o vínculo com o documento original.
 
 # 29/05/2023
 f2.10.18, b3.9.40 {.versions}
