@@ -2,11 +2,37 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-05-30T17:36:25.733Z
+date: 2023-06-05T11:26:12.743Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 03/06/2023
+f2.10.19, b3.9.42 {.versions}
+
+## Novidades
+- Criado relatório de “Vendas por CFOP”.
+- Criado relatório de “Total de produtos com entrada por Fornecedor”.
+
+## Ajustes
+- Ajustada a importação de XMLs com ICMS desonerado para que seja considerado (ou não) no valor total dos produtos.
+- Ajustado o cadastro rápido para que sejam exibidos os dados do contador.
+- Alterada a CSOSN 101 para 102 na tributação para consumidor final para novos clientes.
+- Ajustada a importação de XMLs com base de cálculo de ICMS para que sejam exibidos em seus respectivos campos.
+- Ajustado os valores de ICMS ST no registro C100 do Sped.
+- Ajustada a geração dos registros E200 e E210 no Sped.
+- Ajustada as notas de compras que estavam sendo geradas pela data da emissão e não pela data de entrada no Sped.
+- Adicionado botão fechar nos vínculos de regras de tributação.
+- Ajustada para que as novas regras de tributação criadas busquem o MVA do estado do destinatário da nota.
+- Ajustada a exibição das despesas/receitas em estados com fuso horário diferente de Brasília.
+- Otimizada mensagem ao importar documentos transportados no MDF-e.
+- Ajustado relatório “Total de vendas por meio de pagamento” para que respeite as datas informadas no filtro.
+- Ajustado relatório de “Serviços Prestados” que não estava considerando as NFS-es emitidas.
+- Ajustada a visualização/impressão da DANFS-e para alguns municípios.
+- Ajustada a geração de MDF-e e CT-e em ambientes diferentes para não gerar conflitos.
+- Ajustado relatório de “Inventário de estoque” que estava com erro na data base.
+- Adicionado novos campos no relatório de “Listagem de pessoas”.
 
 # 30/05/2023
 f2.10.18, b3.9.41 {.versions}
