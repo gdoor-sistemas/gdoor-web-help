@@ -2,11 +2,17 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-05T11:26:12.743Z
+date: 2023-06-05T16:41:45.082Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
 ---
+
+# 05/06/2023
+f2.10.19, b3.9.43 {.versions}
+
+## Ajustes
+- Ajustado valores de BC ICMS e Alíquota ICMS que ao editar a nota estavam aparecendo em branco.
 
 # 03/06/2023
 f2.10.19, b3.9.42 {.versions}
