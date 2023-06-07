@@ -2,10 +2,25 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-05T16:41:45.082Z
+date: 2023-06-07T12:14:26.460Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
+---
+
+## Sumário
+
+Em **2023** já foram implementados:
+- Novidades: 36
+- Ajustes: 148
+
+**Total: 184**
+
+--- 
+ir para [2022](#2022)
+
+ir para [2021](#2021)
+
 ---
 
 # 05/06/2023
@@ -459,6 +474,9 @@ f2.9.9, b3.8.25 {.versions}
 
 ## Ajustes
 - Corrigido erro ao enviar uma NFS-e onde o campo codigo_cnae estava enviando o código de tributação do serviço.
+
+
+# 2022
 
 # 29/12/2022
 f2.9.9, b3.8.24 {.versions} 
@@ -1156,6 +1174,8 @@ b2.6.0, f1.16.0 {.versions}
 
 ## Ajustes
 - Corrigida a geração do inventário quando solicitada a geração com produtos de uso e consumo e ativo imobilizado. Esses itens não apareciam no inventário mesmo com as opções marcadas.
+
+# 2021 {.year}
 
 # 27/12/2021
 b2.5.3, f1.15.2 {.versions}
