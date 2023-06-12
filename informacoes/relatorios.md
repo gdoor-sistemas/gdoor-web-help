@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-12T20:42:41.582Z
+date: 2023-06-12T20:54:49.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -27,6 +27,14 @@ Para visualizar os relatórios disponíveis, acesse no menu principal: **Informa
 
 
 ## Aparência
+Nas configurações de aparência, será possível selecionar o tipo de fonte de letra para a impressão dos relatórios. 
+
+![aparencia_relatorios.png](/informações/aparencia_relatorios.png)
+
+Estão disponíveis as opções de fonte de letra:
+- **Padrão do sistema**
+- **Monospace**
+- **Arial**
 
 
 
