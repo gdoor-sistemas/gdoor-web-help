@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-12T21:10:14.804Z
+date: 2023-06-12T21:22:55.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -19,7 +19,9 @@ Para visualizar os relatórios, acesse no menu principal **Informações &raquo;
 ![lista_relatorios.png](/informações/lista_relatorios.png)
 
 # Lista
-Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possível efetuar uma "**busca**" para localizar o que você precisa.
+Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possível efetuar uma **busca** ou utilizar a **barra de rolagem** a direita da tela para localizar o que você precisa.
+
+**FALAR DAS TAGS**
 
 ![lista_relatorios2.png](/informações/lista_relatorios2.png)
 
