@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-12T20:40:49.523Z
+date: 2023-06-12T20:42:41.582Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -26,16 +26,15 @@ Para visualizar os relatórios disponíveis, acesse no menu principal: **Informa
 ![config_relatorios.png](/informações/config_relatorios.png)
 
 
-cadastre previamente as naturezas de operação que serão utilizadas na emissão de [NF-e](/movimentos/nf-e) e [NFC-e](/movimentos/pdv) e para referência na [compras](/movimentos/compras). Apesar de no [XML](/glossario#xml) da NF-e a natureza da operação ser somente um campo textual para descrição, dentro do Gweb essas naturezas de operação determinam o tipo de operação sendo realizada e podem determinar também a tributação dessa operação.
+## Aparência
 
-Para visualizar e alterar o cadastro de operações, acesse no menu principal: **Cadastros &raquo; Operações**:
 
-![Acessar o módulo de operações](/cadastros/operacoes/acessar-operacoes.png)
 
-O Gweb vem com as operações mais comuns já cadastradas, prontas para serem utilizadas. As operações são:
 
-- **Venda de mercadorias**
-- **Devolução de venda de mercadorias**
+## Impressão
+
+- **Cabeçalho**
+- **Rodapé**
 - **Compra de mercadorias**
 - **Devolução de compra de mercadorias**
 - Transferência de mercadorias
