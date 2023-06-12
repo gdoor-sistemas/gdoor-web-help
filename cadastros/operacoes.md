@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no Gweb para usar nos documentos
 published: true
-date: 2022-03-14T20:17:13.338Z
+date: 2023-06-12T20:40:47.897Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
