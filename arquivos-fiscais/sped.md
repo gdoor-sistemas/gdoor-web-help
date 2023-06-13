@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T14:51:22.920Z
+date: 2023-06-13T14:52:11.394Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -16,10 +16,10 @@ Os relatórios desempenham um papel importante na comunicação de informações
 
 Para visualizar os relatórios, acesse no menu principal **Informações &raquo; Relatórios**:
 
-![config_sintegra.png](/arquivos_fiscais/sintegra/config_sintegra.png)
-![lista_sintegra.png](/arquivos_fiscais/sintegra/lista_sintegra.png)
-![registro_sintegra.png](/arquivos_fiscais/sintegra/registro_sintegra.png)
-![registro_sintegra1.png](/arquivos_fiscais/sintegra/registro_sintegra1.png)
+![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
+![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
+![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
+![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 
 # Lista
 Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possível efetuar uma **busca** ou utilizar a **barra de rolagem** a direita da tela para localizar o que você precisa.
