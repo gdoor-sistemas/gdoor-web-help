@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-13T11:44:28.380Z
+date: 2023-06-13T11:45:38.170Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -28,7 +28,7 @@ Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possí
 
 
 # Configurações dos Relatórios
-Nesta seção é possível determinar as configurações para a impressão dos relatórios, permitindo alterar a fonte de letra, cadastrar um cabeçalho ou um rodapé.
+Nesta seção é possível determinar as configurações para a impressão dos relatórios, permitindo alterar a fonte de letra e cadastrar um cabeçalho ou um rodapé.
 
 > Após realizar a configuração desejada, será necessário clicar em <span class="mat-button mdi "> salvar</span> individualmente.
 {.is-info}
