@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T19:42:48.908Z
+date: 2023-06-13T19:45:31.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -34,7 +34,7 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 
 ## Download do arquivo
 
-
+mdi-chevron-down
 
 
 
@@ -47,7 +47,7 @@ clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto di
 ![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
-
+![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
 > Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
 {.is-info}
