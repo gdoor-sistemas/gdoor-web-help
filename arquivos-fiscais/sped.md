@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T19:47:01.178Z
+date: 2023-06-13T19:54:38.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -18,12 +18,8 @@ Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu 
 
 ![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
 
-
-
-
-
-
 # Lista
+
 Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão armazenados na listagem contendo **nome**, **período**, **status** e **data e hora** da geração do arquivo.
 
 ![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
@@ -32,7 +28,7 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 
 ## Download do arquivo
 
-mdi-chevron-down
+No lado direito de cada arquivo, clique no botão (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>.
 
 ![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
@@ -51,8 +47,24 @@ clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto di
 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 
-> Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
-{.is-info}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,6 +81,15 @@ Nesta seção é possível determinar as configurações para a impressão dos r
 {.is-info}
 
 ![config_relatorios.png](/informações/config_relatorios.png)
+
+
+
+
+
+
+
+
+
 
 
 ## Aparência
