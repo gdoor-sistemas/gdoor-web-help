@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-13T18:37:24.928Z
+date: 2023-06-13T18:37:58.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
