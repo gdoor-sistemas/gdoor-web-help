@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-13T12:04:45.329Z
+date: 2023-06-13T18:37:24.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -16,7 +16,7 @@ Os relatórios desempenham um papel importante na comunicação de informações
 
 Para visualizar os relatórios, acesse no menu principal **Informações &raquo; Relatórios**:
 
-![lista_relatorios.png](/informações/lista_relatorios.png)
+![lista_relatorios.png](/informações/relatórios/lista_relatorios.png)
 
 # Lista
 Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possível efetuar uma **busca** ou utilizar a **barra de rolagem** a direita da tela para localizar o que você precisa.
@@ -24,7 +24,9 @@ Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possí
 > Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
 {.is-info}
 
-![lista_relatorios2.png](/informações/lista_relatorios2.png)
+![lista_relatorios2.png](/informações/relatórios/lista_relatorios2.png)
+
+![parametro_relatorio.png](/informações/relatórios/parametro_relatorio.png)
 
 
 # Configurações dos Relatórios
@@ -33,13 +35,13 @@ Nesta seção é possível determinar as configurações para a impressão dos r
 > Após realizar a configuração desejada, será necessário clicar em <span class="mat-button mdi "> salvar</span> individualmente.
 {.is-info}
 
-![config_relatorios.png](/informações/config_relatorios.png)
+![config_relatorios.png](/informações/relatórios/config_relatorios.png)
 
 
 ## Aparência
 Nas configurações de aparência, será possível selecionar o tipo de fonte de letra para a impressão dos relatórios. 
 
-![aparencia_relatorios.png](/informações/aparencia_relatorios.png)
+![aparencia_relatorios.png](/informações/relatórios/aparencia_relatorios.png)
 
 Estão disponíveis as opções de fonte de letra:
 - **Padrão do sistema**
@@ -51,7 +53,7 @@ Estão disponíveis as opções de fonte de letra:
 ## Impressão
 As configurações de impressão permitem cadastrar dados que serão impressos no **cabeçalho** ou no **rodapé** dos relatórios. Para cadastrar as informações, clique no botão (<em class="mdi mdi-pencil"></em>) "**editar conteúdo**".
 
-![impressao_relatorios.png](/informações/impressao_relatorios.png)
+![impressao_relatorios.png](/informações/relatórios/impressao_relatorios.png)
 
 
 
