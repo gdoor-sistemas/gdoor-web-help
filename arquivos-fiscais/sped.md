@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T16:15:58.743Z
+date: 2023-06-13T18:19:20.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -16,9 +16,11 @@ O Sped Fiscal é um conjunto de obrigações e procedimentos estabelecidos pelo 
 
 Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu principal **Arquivos Fiscais &raquo; Sped**:
 
+![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
+
 ![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
 ![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
-![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
+
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 
 # Lista
@@ -27,7 +29,8 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Nela é possível 
 > Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
 {.is-info}
 
-![lista_relatorios2.png](/informações/lista_relatorios2.png)
+
+![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
 # Configurações dos Relatórios
