@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-13T13:27:15.384Z
+date: 2023-06-13T13:32:29.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -16,13 +16,14 @@ Os relatórios desempenham um papel importante na comunicação de informações
 
 Para visualizar os relatórios, acesse no menu principal **Informações &raquo; Relatórios**:
 
-![lista_sintegra.png](/arquivos fiscais/lista_sintegra.png)
+![lista_sintegra.png](/arquivos_fiscais/lista_sintegra.png)
 
-![registro_sintegra.png](/arquivos fiscais/registro_sintegra.png)
+![registro_sintegra.png](/arquivos_fiscais/registro_sintegra.png)
 
-![config_sintegra.png](/arquivos fiscais/config_sintegra.png)
+![config_sintegra.png](/arquivos_fiscais/config_sintegra.png)
+![config_sintegra.png](/informações/config_sintegra.png)
 
-![registro_sintegra1.png](/arquivos fiscais/registro_sintegra1.png)
+![registro_sintegra1.png](/arquivos_fiscais/registro_sintegra1.png)
 
 ![lista_relatorios.png](/informações/lista_relatorios.png)
 
