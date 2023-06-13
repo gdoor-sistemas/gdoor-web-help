@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T14:52:11.394Z
+date: 2023-06-13T16:15:00.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -10,11 +10,11 @@ dateCreated: 2023-05-31T12:52:16.620Z
 
 # Introdução
 
-Este módulo permite gerar diversos relatórios das operações realizadas no sistema.
+Este módulo permite gerar o arquivo do SPED conforme solicitado pela contabilidade da empresa.
 
-Os relatórios desempenham um papel importante na comunicação de informações objetivas e fundamentadas. Eles ajudam a tomar decisões, documentar resultados e transmitir conhecimentos de forma clara e sistemática.
+O Sped Fiscal é um conjunto de obrigações e procedimentos estabelecidos pelo governo brasileiro para a escrituração e transmissão eletrônica de informações fiscais pelas empresas. O objetivo do Sped Fiscal é modernizar e agilizar o processo de prestação de informações fiscais, reduzir a burocracia e combater a sonegação fiscal.
 
-Para visualizar os relatórios, acesse no menu principal **Informações &raquo; Relatórios**:
+Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu principal **Arquivos Fiscais &raquo; Sped**:
 
 ![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
 ![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
