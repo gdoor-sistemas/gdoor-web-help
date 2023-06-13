@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T16:15:00.731Z
+date: 2023-06-13T16:15:58.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -22,7 +22,7 @@ Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 
 # Lista
-Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possível efetuar uma **busca** ou utilizar a **barra de rolagem** a direita da tela para localizar o que você precisa.
+Na tela inicial, a lista dos arquivos já gerados é exibida. Nela é possível efetuar uma **busca** ou utilizar a **barra de rolagem** a direita da tela para localizar o que você precisa.
 
 > Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
 {.is-info}
