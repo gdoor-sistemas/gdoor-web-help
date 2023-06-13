@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T20:05:13.063Z
+date: 2023-06-13T21:02:57.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -25,7 +25,6 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 ![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
-
 ## Download do arquivo
 
 No lado direito de cada arquivo, clique no botão (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>.
@@ -33,14 +32,22 @@ No lado direito de cada arquivo, clique no botão (<em class="mdi mdi-chevron-do
 ![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
 
+# Configurações do SPED
+Nesta seção é possível determinar as configurações para a geração do arquivo. São elas: 
+
+![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
+
+- **Não gerar automaticamente;**
+- **Lembrar-me de gerar o arquivo SPED fiscal;**
+- **Gerar o arquivo SPED automaticamente.**
 
 # Gerar novo arquivo SPED
 
 Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
-- **Período:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
-- **Blocos:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
+- **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
+- **Blocos:**{.subtitle} são as informações que devem constar no arquivo;
 
 
 
@@ -48,7 +55,10 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 
 ![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
 - **Finalidade do arquivo:**{.subtitle} arquivo original ou arquivo substituto;
-- **Perfil de apresentação:**{.subtitle} detalhado, sintético ou simples nacional;
+- **Perfil de apresentação:**{.subtitle} detalhado, sintético ou simples nacional.
+
+
+Após selecionar as informações desejadas, clique no botão <span class="mat-button mdi "> salvar</span>.
 
 
 
@@ -80,13 +90,6 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 
 
 
-
-
-# Configurações do SPED
-Nesta seção é possível determinar as configurações para a impressão dos relatórios, permitindo alterar a fonte de letra e cadastrar um cabeçalho ou um rodapé.
-
-
-![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
 
 
 > Após realizar a configuração desejada, será necessário clicar em <span class="mat-button mdi "> salvar</span> individualmente.
