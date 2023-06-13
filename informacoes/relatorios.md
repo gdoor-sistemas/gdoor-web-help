@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-13T18:37:58.950Z
+date: 2023-06-13T18:43:19.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -25,6 +25,10 @@ Na tela inicial, a lista dos relatórios disponíveis é exibida. Nela é possí
 {.is-info}
 
 ![lista_relatorios2.png](/informações/relatórios/lista_relatorios2.png)
+
+## Parâmetros
+
+Ao escolher um relatório, informe os dados solicitados na tela de **Parâmetros** e clique no botão <span class="mat-button mdi "> gerar</span>.
 
 ![parametro_relatorio.png](/informações/relatórios/parametro_relatorio.png)
 
