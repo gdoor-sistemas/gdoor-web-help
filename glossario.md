@@ -2,7 +2,7 @@
 title: Glossário
 description: Definição de alguns nomes e siglas usados nas páginas desta ajuda
 published: true
-date: 2022-03-17T12:27:27.041Z
+date: 2022-04-29T18:51:32.193Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-22T17:53:25.624Z

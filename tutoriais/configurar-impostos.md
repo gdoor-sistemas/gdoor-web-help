@@ -2,7 +2,7 @@
 title: Configurar impostos
 description: Veja como funcionam os impostos no GDOOR WEB
 published: true
-date: 2020-02-03T20:40:46.406Z
+date: 2022-04-29T18:51:37.197Z
 tags: tutorial, como fazer, impostos, tributos, icms, icms st, ipi, pis, cofins, ncm, cest
 editor: markdown
 dateCreated: 2019-12-23T17:51:31.827Z

@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: Veja como você pode cadastrar os Conhecimentos de Transporte Eletrônico 
 published: true
-date: 2023-05-10T19:20:45.146Z
+date: 2023-05-10T19:20:47.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z

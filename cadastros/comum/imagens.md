@@ -2,7 +2,7 @@
 title: Imagens
 description: Veja como adicionar imagens aos cadastros no GDOOR WEB
 published: true
-date: 2020-02-17T14:13:20.290Z
+date: 2022-04-29T18:52:20.287Z
 tags: cadastros, imagens
 editor: markdown
 dateCreated: 2020-01-06T20:26:37.025Z

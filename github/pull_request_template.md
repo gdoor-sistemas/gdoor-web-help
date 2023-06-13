@@ -2,7 +2,7 @@
 title: pull_request_template
 description: 
 published: true
-date: 2020-09-04T15:58:42.484Z
+date: 2022-04-29T18:53:20.123Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-04T15:58:40.455Z

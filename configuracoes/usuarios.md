@@ -2,7 +2,7 @@
 title: Usuários
 description: Veja como controlar quem tem acesso ao seu Gweb
 published: true
-date: 2022-03-29T19:51:30.015Z
+date: 2022-04-29T18:52:08.200Z
 tags: cadastros, usuários, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:51:56.610Z

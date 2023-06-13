@@ -2,7 +2,7 @@
 title: Configurações de impostos
 description: Veja em detalhes como configurar o Gweb para calcular os impostos nos documentos fiscais
 published: true
-date: 2022-03-25T12:23:47.467Z
+date: 2022-04-29T18:51:59.078Z
 tags: impostos, icms, icms st, ipi, pis, cofins, configurações, fcp
 editor: markdown
 dateCreated: 2020-01-03T19:45:16.736Z

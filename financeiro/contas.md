@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no Gweb
 published: true
-date: 2022-05-26T14:09:34.988Z
+date: 2022-05-26T14:09:38.792Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z

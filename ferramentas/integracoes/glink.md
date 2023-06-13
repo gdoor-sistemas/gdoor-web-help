@@ -2,7 +2,7 @@
 title: Glink
 description: Veja como interligar seu sistema com o aplicativo de pedidos Glink
 published: true
-date: 2023-05-23T19:22:19.819Z
+date: 2023-05-23T19:23:09.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
@@ -50,7 +50,6 @@ Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o
 Após a habilitação dos dispositivos, todos os equipamentos liberados serão apresentados na listagem. Para remover uma habilitação clique no botão **"revogar"**.
 
 ![revogar](/config/ferramentas/revogar.png)
-
 
 Para conhecer o funcionamento do aplicativo **Glink**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
 

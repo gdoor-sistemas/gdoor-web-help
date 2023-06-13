@@ -2,7 +2,7 @@
 title: Localizar regras
 description: Entenda como funciona a busca de regras de tributação a partir de códigos NCM ou CEST
 published: true
-date: 2021-03-04T22:15:14.083Z
+date: 2022-04-29T18:53:35.059Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:15:11.710Z

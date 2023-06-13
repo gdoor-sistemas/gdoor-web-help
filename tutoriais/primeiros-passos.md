@@ -2,7 +2,7 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2021-07-13T18:38:47.276Z
+date: 2022-04-29T18:51:34.516Z
 tags: primeiros passos, tutorial, gdoor web, como fazer
 editor: markdown
 dateCreated: 2019-12-23T13:46:41.107Z
