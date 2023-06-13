@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T19:45:31.892Z
+date: 2023-06-13T19:47:01.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -18,17 +18,15 @@ Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu 
 
 ![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
 
-![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
-![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
 
-![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
+
 
 
 
 # Lista
 Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão armazenados na listagem contendo **nome**, **período**, **status** e **data e hora** da geração do arquivo.
 
-![lista_sped.png](/arquivos_fiscais/sped/lista_sped.png)
+![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
 
@@ -36,7 +34,7 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 
 mdi-chevron-down
 
-
+![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
 
 
@@ -44,10 +42,14 @@ mdi-chevron-down
 
 clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da
 
-![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
-![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
+
+
+
+![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
+
+![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 
 > Cada relatório está vinculado a uma ou mais tags, afim de facilitar na identificação das informações contidas em cada relatório e auxiliar no momento em que realizar a busca.
 {.is-info}
@@ -56,8 +58,12 @@ clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto di
 
 
 
-# Configurações dos Relatórios
+# Configurações do SPED
 Nesta seção é possível determinar as configurações para a impressão dos relatórios, permitindo alterar a fonte de letra e cadastrar um cabeçalho ou um rodapé.
+
+
+![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
+
 
 > Após realizar a configuração desejada, será necessário clicar em <span class="mat-button mdi "> salvar</span> individualmente.
 {.is-info}
