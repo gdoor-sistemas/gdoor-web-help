@@ -2,7 +2,7 @@
 title: Relatórios
 description: 
 published: false
-date: 2023-06-13T11:45:38.170Z
+date: 2023-06-13T11:46:21.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:48:03.254Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-31T12:48:03.254Z
 
 # Introdução
 
-Este módulo permite que você gere diversos relatórios das operações realizadas no sistema.
+Este módulo permite gerar diversos relatórios das operações realizadas no sistema.
 
 Os relatórios desempenham um papel importante na comunicação de informações objetivas e fundamentadas. Eles ajudam a tomar decisões, documentar resultados e transmitir conhecimentos de forma clara e sistemática.
 
