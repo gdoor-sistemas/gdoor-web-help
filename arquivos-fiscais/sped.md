@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T19:54:38.392Z
+date: 2023-06-13T20:05:13.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -36,16 +36,28 @@ No lado direito de cada arquivo, clique no botão (<em class="mdi mdi-chevron-do
 
 # Gerar novo arquivo SPED
 
-clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da
+Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
 
+![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
+- **Período:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
+- **Blocos:**{.subtitle} autorizado, cancelado, pendente ou rejeitado;
 
 
 
 
 
 ![registro_sped1.png](/arquivos_fiscais/sped/registro_sped1.png)
+- **Finalidade do arquivo:**{.subtitle} arquivo original ou arquivo substituto;
+- **Perfil de apresentação:**{.subtitle} detalhado, sintético ou simples nacional;
 
-![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
+
+
+
+
+
+
+
+
 
 
 
