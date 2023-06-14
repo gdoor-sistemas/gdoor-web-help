@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-13T21:02:57.459Z
+date: 2023-06-14T12:28:29.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -20,14 +20,15 @@ Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu 
 
 # Lista
 
-Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão armazenados na listagem contendo **nome**, **período**, **status** e **data e hora** da geração do arquivo.
+Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão armazenados na listagem contendo **nome**, **período**, **status** e **data e hora** da geração do arquivo. Para excluir um arquivo, basta clicar no botão da lixeira (<em class="mdi mdi-delete"></em>) a direita. 
 
 ![lista_sped1.png](/arquivos_fiscais/sped/lista_sped1.png)
 
 
+
 ## Download do arquivo
 
-No lado direito de cada arquivo, clique no botão (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>.
+No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>.
 
 ![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
@@ -37,9 +38,9 @@ Nesta seção é possível determinar as configurações para a geração do arq
 
 ![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
 
-- **Não gerar automaticamente;**
-- **Lembrar-me de gerar o arquivo SPED fiscal;**
-- **Gerar o arquivo SPED automaticamente.**
+- **Não gerar automaticamente:** selecionando esta opção a geração do arquivo é feita somente quando o usuário solicitar.
+- **Lembrar-me de gerar o arquivo SPED fiscal:** selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
+- **Gerar o arquivo SPED automaticamente:** selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
 
 # Gerar novo arquivo SPED
 
@@ -71,56 +72,4 @@ Após selecionar as informações desejadas, clique no botão <span class="mat-b
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> Após realizar a configuração desejada, será necessário clicar em <span class="mat-button mdi "> salvar</span> individualmente.
-{.is-info}
-
-![config_relatorios.png](/informações/config_relatorios.png)
-
-
-
-
-
-
-
-
-
-
-
-## Aparência
-Nas configurações de aparência, será possível selecionar o tipo de fonte de letra para a impressão dos relatórios. 
-
-![aparencia_relatorios.png](/informações/aparencia_relatorios.png)
-
-Estão disponíveis as opções de fonte de letra:
-- **Padrão do sistema**
-- **Monospace**
-- **Arial**
-
-
-
-## Impressão
-As configurações de impressão permitem cadastrar dados que serão impressos no **cabeçalho** ou no **rodapé** dos relatórios. Para cadastrar as informações, clique no botão (<em class="mdi mdi-pencil"></em>) "**editar conteúdo**".
-
-![impressao_relatorios.png](/informações/impressao_relatorios.png)
 
