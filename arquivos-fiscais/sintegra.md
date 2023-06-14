@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-14T13:00:12.257Z
+date: 2023-06-14T13:01:59.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -44,7 +44,7 @@ Nesta seção é possível determinar as configurações para a geração do arq
 
 # Gerar novo arquivo Sintegra
 
-Para gerar um novo arquivo do Sintegra, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
+Para gerar um novo arquivo do sintegra, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os registros solicitados por sua contabilidade. Os registros disponíveis são:
 
 ![registro_sintegra.png](/arquivos_fiscais/sintegra/registro_sintegra.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
