@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-14T13:04:07.674Z
+date: 2023-06-14T13:40:18.922Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -28,7 +28,7 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 
 ## Download do arquivo
 
-No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>, utilizado para baixar o arquivo em seu computador.
+No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações e disponibilizar o botão <span class="mat-button mdi "> download</span>, utilizado para baixar o arquivo em seu computador.
 
 ![lista_sintegra2.png](/arquivos_fiscais/sintegra/lista_sintegra2.png)
 
