@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-14T12:58:55.697Z
+date: 2023-06-14T12:59:29.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -39,7 +39,7 @@ Nesta seção é possível determinar as configurações para a geração do arq
 ![config_sintegra.png](/arquivos_fiscais/sintegra/config_sintegra.png)
 
 - **Não gerar automaticamente:**{.subtitle} selecionando esta opção a geração do arquivo é feita somente quando o usuário solicitar.
-- **Lembrar-me de gerar o arquivo sintegra:**{.subtitle} selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
+- **Lembrar-me de gerar o arquivo sintegra:**{.subtitle} selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do sintegra.
 - **Gerar o arquivo sintegra automaticamente:**{.subtitle} selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
 
 # Gerar novo arquivo Sintegra
