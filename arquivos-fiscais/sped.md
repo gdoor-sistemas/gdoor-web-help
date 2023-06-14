@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-14T12:52:30.085Z
+date: 2023-06-14T12:52:57.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-31T12:52:16.620Z
 
 # Introdução
 
-Este módulo permite gerar o arquivo do SPED conforme solicitado pela contabilidade da empresa.
+Este módulo permite gerar o arquivo do **SPED** conforme solicitado pela contabilidade da empresa.
 
 O Sped Fiscal é um conjunto de obrigações e procedimentos estabelecidos pelo governo brasileiro para a escrituração e transmissão eletrônica de informações fiscais pelas empresas. O objetivo do Sped Fiscal é agilizar o processo de prestação de informações fiscais e reduzir a burocracia.
 
