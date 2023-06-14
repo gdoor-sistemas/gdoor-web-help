@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-14T12:47:50.406Z
+date: 2023-06-14T12:56:11.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -10,24 +10,11 @@ dateCreated: 2023-05-31T12:51:42.570Z
 
 # Introdução
 
-Este módulo permite gerar diversos relatórios das operações realizadas no sistema.
+Este módulo permite gerar o arquivo do **Sintegra** conforme solicitado pela contabilidade da empresa.
 
-Os relatórios desempenham um papel importante na comunicação de informações objetivas e fundamentadas. Eles ajudam a tomar decisões, documentar resultados e transmitir conhecimentos de forma clara e sistemática.
+O Sintegra (Sistema Integrado de Informações sobre Operações Interestaduais com Mercadorias e Serviços) é um sistema utilizado no Brasil para o controle e acompanhamento das operações de circulação de mercadorias e prestação de serviços entre os estados. Foi criado com o objetivo de promover a integração das informações fiscais entre as unidades federativas.
 
-Para visualizar os relatórios, acesse no menu principal **Informações &raquo; Relatórios**:
-
-
-
-
-
-
-# Introdução
-
-Este módulo permite gerar o arquivo do SPED conforme solicitado pela contabilidade da empresa.
-
-O Sped Fiscal é um conjunto de obrigações e procedimentos estabelecidos pelo governo brasileiro para a escrituração e transmissão eletrônica de informações fiscais pelas empresas. O objetivo do Sped Fiscal é modernizar e agilizar o processo de prestação de informações fiscais, reduzir a burocracia e combater a sonegação fiscal.
-
-Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu principal **Arquivos Fiscais &raquo; Sped**:
+Para visualizar os arquivos já enviados e gerar novos arquivos, acesse no menu principal **Arquivos Fiscais &raquo; Sintegra**:
 
 ![lista_sintegra.png](/arquivos_fiscais/sintegra/lista_sintegra.png)
 
@@ -46,18 +33,18 @@ No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down
 ![lista_sintegra2.png](/arquivos_fiscais/sintegra/lista_sintegra2.png)
 
 
-# Configurações do SPED
+# Configurações do arquivo sintegra
 Nesta seção é possível determinar as configurações para a geração do arquivo. São elas: 
 
 ![config_sintegra.png](/arquivos_fiscais/sintegra/config_sintegra.png)
 
 - **Não gerar automaticamente:**{.subtitle} selecionando esta opção a geração do arquivo é feita somente quando o usuário solicitar.
-- **Lembrar-me de gerar o arquivo SPED fiscal:**{.subtitle} selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
-- **Gerar o arquivo SPED automaticamente:**{.subtitle} selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
+- **Lembrar-me de gerar o arquivo sintegra:**{.subtitle} selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
+- **Gerar o arquivo sintegra automaticamente:**{.subtitle} selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
 
-# Gerar novo arquivo SPED
+# Gerar novo arquivo Sintegra
 
-Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
+Para gerar um novo arquivo do Sintegra, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
 
 ![registro_sintegra.png](/arquivos_fiscais/sintegra/registro_sintegra.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
