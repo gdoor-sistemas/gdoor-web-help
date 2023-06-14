@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: false
-date: 2023-06-14T12:56:11.615Z
+date: 2023-06-14T12:58:34.060Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -48,7 +48,7 @@ Para gerar um novo arquivo do Sintegra, clique no botão de adição (<em class=
 
 ![registro_sintegra.png](/arquivos_fiscais/sintegra/registro_sintegra.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
-- **Blocos:**{.subtitle} em resumo, são as informações que devem constar no arquivo;
+- **Registros:**{.subtitle} em resumo, são as informações que devem constar no arquivo;
 
 
 
@@ -56,9 +56,9 @@ Para gerar um novo arquivo do Sintegra, clique no botão de adição (<em class=
 
 ![registro_sintegra1.png](/arquivos_fiscais/sintegra/registro_sintegra1.png)
 
+- **Opções:**{.subtitle} nenhuma, simples nacional-impostos zerados, valor em outras isentas zeradas ou regra por CFOP.
+- **Finalidade do arquivo:**{.subtitle} normal, retificação aditiva, retificação total ou desfazimento;
 
-- **Finalidade do arquivo:**{.subtitle} arquivo original ou arquivo substituto;
-- **Perfil de apresentação:**{.subtitle} detalhado, sintético ou simples nacional.
 
 > Para gerar um arquivo com todas as informações necessárias, solicite o auxílio da contabilidade antes de marcar as opções.
 {.is-info}
