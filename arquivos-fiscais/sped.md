@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-14T12:38:47.130Z
+date: 2023-06-14T12:39:38.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -58,11 +58,12 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 - **Finalidade do arquivo:**{.subtitle} arquivo original ou arquivo substituto;
 - **Perfil de apresentação:**{.subtitle} detalhado, sintético ou simples nacional.
 
+> Para gerar um arquivo com todas as informações necessárias, solicite o auxílio da contabilidade antes de marcar as opções.
+{.is-info}
 
 Após selecionar as informações desejadas, clique no botão <span class="mat-button mdi "> salvar</span>.
 
-> Para gerar um arquivo com todas as informações necessárias, solicite o auxílio da contabilidade antes de marcar as opções.
-{.is-info}
+
 
 
 
