@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-14T12:53:47.008Z
+date: 2023-06-14T12:56:03.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -33,7 +33,7 @@ No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down
 ![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
 
-# Configurações do SPED
+# Configurações do arquivo SPED fiscal
 Nesta seção é possível determinar as configurações para a geração do arquivo. São elas: 
 
 ![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
