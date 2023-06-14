@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-14T12:28:29.411Z
+date: 2023-06-14T12:38:47.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -28,7 +28,7 @@ Na tela inicial, a lista dos arquivos já gerados é exibida. Os arquivos serão
 
 ## Download do arquivo
 
-No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>.
+No lado direito de cada arquivo, clique na seta (<em class="mdi mdi-chevron-down"></em>) para expandir algumas informações do arquivo e disponibilizar o botão <span class="mat-button mdi "> download</span>, utilizado para baixar o arquivo em seu computador.
 
 ![lista_sped2.png](/arquivos_fiscais/sped/lista_sped2.png)
 
@@ -38,9 +38,9 @@ Nesta seção é possível determinar as configurações para a geração do arq
 
 ![config_sped.png](/arquivos_fiscais/sped/config_sped.png)
 
-- **Não gerar automaticamente:** selecionando esta opção a geração do arquivo é feita somente quando o usuário solicitar.
-- **Lembrar-me de gerar o arquivo SPED fiscal:** selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
-- **Gerar o arquivo SPED automaticamente:** selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
+- **Não gerar automaticamente:**{.subtitle} selecionando esta opção a geração do arquivo é feita somente quando o usuário solicitar.
+- **Lembrar-me de gerar o arquivo SPED fiscal:**{.subtitle} selecionando esta opção, configure um dia para que o sistema envie mensagem  avisando quando deve gerar o arquivo do SPED.
+- **Gerar o arquivo SPED automaticamente:**{.subtitle} selecionando esta opção, configure um dia para o sistema gerar o arquivo do SPED automaticamente. É possível também informar um endereço de e-mail para que o arquivo seja enviado após a geração.
 
 # Gerar novo arquivo SPED
 
@@ -48,7 +48,7 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
-- **Blocos:**{.subtitle} são as informações que devem constar no arquivo;
+- **Blocos:**{.subtitle} em resumo, são as informações que devem constar no arquivo;
 
 
 
@@ -60,6 +60,9 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 
 
 Após selecionar as informações desejadas, clique no botão <span class="mat-button mdi "> salvar</span>.
+
+> Para gerar um arquivo com todas as informações necessárias, solicite o auxílio da contabilidade antes de marcar as opções.
+{.is-info}
 
 
 
