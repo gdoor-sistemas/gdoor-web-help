@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: false
-date: 2023-06-14T13:03:07.539Z
+date: 2023-06-14T13:03:47.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -44,7 +44,7 @@ Nesta seção é possível determinar as configurações para a geração do arq
 
 # Gerar novo arquivo SPED
 
-Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações solicitadas são:
+Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da listagem de arquivos e selecione os dados conforme for solicitado por sua contabilidade. As informações disponíveis são:
 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
