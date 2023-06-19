@@ -2,7 +2,7 @@
 title: Sped
 description: 
 published: true
-date: 2023-06-19T17:11:10.080Z
+date: 2023-06-19T17:13:17.059Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:52:16.620Z
@@ -48,7 +48,7 @@ Para gerar um novo arquivo do SPED, clique no botão de adição (<em class="mdi
 
 ![registro_sped.png](/arquivos_fiscais/sped/registro_sped.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
-- **Blocos:**{.subtitle} em resumo, são as informações que devem constar no arquivo. Possibilitamos a geração dos blocos:**0** (obrigatório), **C**, **D**, **E**, **H**, **K** (registro K200), **1** (obrigatório), **1700** e **1710**.
+- **Blocos:**{.subtitle} em resumo, são as informações que devem constar no arquivo. Possibilitamos a geração dos blocos: **0** (obrigatório), **C**, **D**, **E**, **H**, **K** (registro K200), **1** (obrigatório), **1700** e **1710**.
 
 
 
