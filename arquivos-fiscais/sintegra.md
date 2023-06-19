@@ -1,8 +1,8 @@
 ---
 title: Sintegra
 description: 
-published: false
-date: 2023-06-14T13:40:18.922Z
+published: true
+date: 2023-06-19T16:42:33.032Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
