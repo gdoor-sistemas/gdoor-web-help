@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-07T12:21:34.222Z
+date: 2023-06-19T11:11:59.380Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 36
-- Ajustes: 148
+- Novidades: 39
+- Ajustes: 158
 
-**Total: 184**
+**Total: 197**
 
 --- 
 
@@ -23,6 +23,27 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 18/06/2023
+f2.10.20, b3.9.44 {.versions}
+
+## Novidades
+- Incluso nos documentos transportados a opção para informar o código de barras referente a documentos emitidos em Formulário de Segurança no MDF-e.
+- Adicionada a pré-visualização dos dados que estão sendo enviados na NFS-e.
+- Criada configuração na NFS-e indicando se é para incluir a alíquota de ISS Retido no envio das notas já que algumas cidades exigem o envio desta alíquota junto a alíquota de ISS.
+
+## Ajustes
+- Ajustado o custo médio ao importar XML de compra com produtos com fator de conversão.
+- Corrigido nas regras de tributação uma falha ao salvar informações com campos vazios. Agora sempre que a regra for salva e houver campos não preenchidos eles serão automaticamente preenchidos com o valor 0 (zero), exceto o CFOP.
+- Ajustada a importação de XML de compra para gravar o código ANP dos produtos quando houver.
+- Corrigida permissão do PDV que não permitia a edição de vendas próprias (não finalizadas) mesmo estando marcada.
+- Ajustada a exibição dos dados de IPI para preenchimento em notas de compras feitas manualmente.
+- Ajustado no SPED e Sintegra a IE dos cadastros em geral para que ao gerar esses arquivos sejam enviados os dados sem nenhum tipo de pontuação.
+- Ajustada falha na geração do SPED que estavam relacionadas as informações adicionais contendo caracteres especiais.
+- Ajustada grade de produtos para exibir no cadastro do produto os dados corretos ao adicionar novas linhas/colunas.
+- Ajustado o campo CRC do Emitente que não estava sendo exibido no cadastro depois de salvo.
+- Ajustada geração do Sintegra que em alguns clientes estava trazendo os dados do destinatário no Registro 71.
+
 
 # 05/06/2023
 f2.10.19, b3.9.43 {.versions}
