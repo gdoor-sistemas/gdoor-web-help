@@ -2,7 +2,7 @@
 title: Sintegra
 description: 
 published: true
-date: 2023-06-19T17:05:53.840Z
+date: 2023-06-19T17:06:42.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-31T12:51:42.570Z
@@ -48,7 +48,7 @@ Para gerar um novo arquivo do sintegra, clique no botão de adição (<em class=
 
 ![registro_sintegra.png](/arquivos_fiscais/sintegra/registro_sintegra.png)
 - **Período:**{.subtitle} informe a **data inicial** e a **data final** que deve ser considerada no arquivo;
-- **Registros:**{.subtitle} em resumo, são as informações que devem constar no arquivo. Possibilitamos a geração dos registros dos tipos: **10** (obrigatório), **11**(obrigatório), **50**, **51**, **53**, **54**, **61** e **61R** ( NFC-e obrigatório), **70**, **71**, **74** e **75**.
+- **Registros:**{.subtitle} em resumo, são as informações que devem constar no arquivo. Possibilitamos a geração dos registros dos tipos: **10** (obrigatório), **11**(obrigatório), **50**, **51**, **53**, **54**, **70**, **71**, **74**, **75**, **61** e **61R** ( NFC-e obrigatório).
 
 
 
