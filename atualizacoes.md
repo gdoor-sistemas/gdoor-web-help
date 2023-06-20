@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-19T11:12:50.070Z
+date: 2023-06-20T14:45:18.768Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 39
-- Ajustes: 158
+- Ajustes: 159
 
-**Total: 197**
+**Total: 198**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 20/06/2023
+f2.10.20, b3.9.45 {.versions}
+
+## Ajustes
+- Corrigido erro ao atualizar o preço de custo em notas de compra de emissão própria.
 
 # 18/06/2023
 f2.10.20, b3.9.44 {.versions}
