@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-20T14:45:59.823Z
+date: 2023-06-26T12:23:47.690Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 39
-- Ajustes: 159
+- Novidades: 40
+- Ajustes: 168
 
-**Total: 198**
+**Total: 208**
 
 --- 
 
@@ -23,6 +23,23 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 23/06/2023
+f2.10.20, b3.9.46 {.versions}
+
+## Novidades
+- Criada a consulta de produtos por referência e código de barras.
+
+## Ajustes
+- Corrigida a importação de XML de compra com produtos de mesmo código de barras, mas com descrição diferente.
+- Corrigida a geração do Sintegra que estava considerando a data de emissão na compra e não a data de entrada no registro 50.
+- Ajustado no arquivo do Sintegra a ordem dos itens das notas de compra com vários produtos.
+- Corrigida a geração de notas de compra manuais no arquivo do Sintegra.
+- Ajustado o tamanho do limite dos campos dos dados complementares do informante no arquivo do Sintegra.
+- Ajustado no arquivo Sintegra a geração do registro 61.
+- Corrigida a geração do registro 50 do Sintegra para cadastros de pessoas que estejam com a IE em branco ou como ISENTO.
+- Ajustado no registro 0200 do SPED, o CEST dos produtos que estavam sendo preenchidos com zeros quando o item não tinha esta informação.
+- Ajustado no registro C191 do SPED o valor do FCP que não deveria ser gerado para clientes do regime Simples Nacional.
 
 # 20/06/2023
 f2.10.20, b3.9.45 {.versions}
@@ -49,7 +66,6 @@ f2.10.20, b3.9.44 {.versions}
 - Ajustada grade de produtos para exibir no cadastro do produto os dados corretos ao adicionar novas linhas/colunas.
 - Ajustado o campo CRC do Emitente que não estava sendo exibido no cadastro depois de salvo.
 - Ajustada geração do Sintegra que em alguns clientes estava trazendo os dados do destinatário no Registro 71.
-
 
 # 05/06/2023
 f2.10.19, b3.9.43 {.versions}
