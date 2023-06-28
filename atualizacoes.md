@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-26T16:56:33.718Z
+date: 2023-06-28T19:59:42.362Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 40
-- Ajustes: 168
+- Ajustes: 170
 
-**Total: 208**
+**Total: 210**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 28/06/2023
+f2.10.20, b3.9.48 {.versions}
+
+## Ajustes
+- Ajustada transmissão do CT-e que depois de autorizado em alguns clientes não estava atualizando o status.
 
 # 23/06/2023
 f2.10.20, b3.9.47 {.versions}
