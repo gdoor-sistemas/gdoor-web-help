@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-03T11:02:48.699Z
+date: 2023-07-03T19:13:33.524Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 42
-- Ajustes: 175
+- Ajustes: 176
 
-**Total: 217**
+**Total: 218**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 03/07/2023
+f2.10.22, b3.9.49 {.versions}
+
+## Ajustes
+- Ajustado o módulo de compras para permitir notas lançadas manualmente com série zerada.
 
 # 01/07/2023
 f2.10.21, b3.9.49 {.versions}
