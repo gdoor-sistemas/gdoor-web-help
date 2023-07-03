@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-06-28T20:01:53.549Z
+date: 2023-07-03T11:01:19.808Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 40
-- Ajustes: 170
+- Novidades: 42
+- Ajustes: 175
 
-**Total: 210**
+**Total: 217**
 
 --- 
 
@@ -23,6 +23,20 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 01/07/2023
+f2.10.21, b3.9.49 {.versions}
+
+## Novidades
+- Adicionadas novas opções para os documentos transportados no CT-e.
+- Criada opção para informar o Código de Benefício Fiscal para o regime Simples Nacional.
+
+## Ajustes
+- Ajustado no arquivo do Sintegra o cancelamento de notas que estavam sendo exibidas no registro 54.
+- Ajustado o filtro de operações do relatório de Documentos Fiscais Emitidos.
+- Ajustado relatório de Pagamentos NFC-e que não estava apresentando todas as formas de pagamento.
+- Corrigido o relatório de Pedidos de Venda que não estava apresentando pedidos antigos.
+- Criado no relatório de Pedidos de Venda, duas novas colunas “Faturado em” e “N° Fatura” para substituir a coluna “Faturado”, permitindo assim que os dados possam ser filtrados mais facilmente.
 
 # 28/06/2023
 f2.10.20, b3.9.48 {.versions}
