@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-03T19:13:51.108Z
+date: 2023-07-05T13:54:20.794Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 42
-- Ajustes: 176
+- Ajustes: 177
 
-**Total: 218**
+**Total: 219**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 05/07/2023
+f2.10.23, b3.9.50 {.versions}
+
+## Ajustes
+- Ajustado erro ao editar um CT-e com rejeição e que foi emitido em contingência.
 
 # 03/07/2023
 f2.10.22, b3.9.49 {.versions}
