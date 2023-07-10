@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-06T20:20:39.224Z
+date: 2023-07-10T11:17:57.795Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 42
-- Ajustes: 178
+- Novidades: 45
+- Ajustes: 183
 
-**Total: 220**
+**Total: 228**
 
 --- 
 
@@ -23,6 +23,21 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 07/07/2023
+f2.10.24, b3.9.51 {.versions}
+
+## Novidades
+- Criada configuração para imprimir automaticamente o comprovante ao concluir uma pré-venda.
+- Inclusas duas novas permissões na NFS-e: transmitir e cancelar notas de serviço.
+- Criado alerta para importação de XML de compras com produtos sem CFOP.
+
+## Ajustes
+- Otimizada a busca de produtos na NFC-e ao informar uma quantidade maior que 1.
+- Ajustado Bloco K do SPED para gerar as informações dos produtos corretamente.
+- Corrigida opção de "Não informar pagamentos" na NF-e que ao editar não apresentava a opção marcada.
+- Ajustado Registro 75 do Sintegra que não estava sendo gerado em algumas movimentações.
+- Corrigido na edição da NFC-e/Pré-venda o campo "transportadora" quando o tipo de retirada é entrega domiciliar.
 
 # 05/07/2023
 f2.10.23, b3.9.50 {.versions}
