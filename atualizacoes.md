@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-10T11:18:16.847Z
+date: 2023-07-14T11:17:55.997Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/07/2023
+f2.10.25, b3.9.51 {.versions}
+
+## Ajustes
+- Removido o intervalo de 30 segundos para consultar uma NFS-e depois de transmitida.
+
 
 # 07/07/2023
 f2.10.24, b3.9.51 {.versions}
