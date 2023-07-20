@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-14T11:18:24.657Z
+date: 2023-07-20T14:08:00.336Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 45
-- Ajustes: 184
+- Ajustes: 186
 
 **Total: 229**
 
@@ -23,6 +23,19 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/07/2023
+b3.9.53 {.versions}
+
+## Ajustes
+- Corrigida situação que duplicava registros financeiros durante emissão da NFC-e que já haviam sido lançados durante a pré-venda.
+
+# 17/07/2023
+b3.9.52 {.versions}
+
+## Ajustes
+- Ajustadas alíquotas para cálculo do DIFAL no ICMS interestadual.
+
+
 # 13/07/2023
 f2.10.25, b3.9.51 {.versions}
 
