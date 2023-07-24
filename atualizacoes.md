@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-20T14:08:00.336Z
+date: 2023-07-24T14:35:06.597Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 45
-- Ajustes: 186
+- Novidades: 49
+- Ajustes: 193
 
 **Total: 229**
 
@@ -23,6 +23,29 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/07/2023
+b3.9.55 {.versions}
+
+## Ajustes
+- Corrigido problema que impedia usuário salvar configurações gerais.
+
+# 22/07/2023
+f2.10.26, b3.9.54 {.versions}
+
+## Novidades
+- Adicionada configuração para notificar a quantidade insuficiente do estoque já ao adicionar o item na NF-e e PDV.
+- Adicionados filtros à listagem dos produtos no cadastro de produtos.
+- Incluída nova mensagem de alerta no Perfil do Usuário, referente às alterações. Deixando mais claro que estas alterações afetam todas as contas em que o usuário está incluído.
+- Bloqueada a edição do endereço de e-mail pelo Perfil do Usuário, esta estava causando efeitos indesejados.
+
+## Ajustes
+- Corrigida edição de NFS-e que não apresentava a operação utilizada anteriormente.
+- Corrigido problema ao salvar um MDF-e com numeração igual a de um outro que havia sido excluído.
+- Ajustada exibição de quantidade fracionada ao inserir um produto no PDV
+- Ajustado relatório do inventário que duplicava descrições de itens pertencentes a grades.
+- Corrigida exibição do relatório de auditoria que estava registrando exclusões de NFC-e como Pré-vendas.
+- Ajustado cadastro de pessoas que não estava aplicando alterações em endereços adicionais.
+
 # 19/07/2023
 b3.9.53 {.versions}
 
