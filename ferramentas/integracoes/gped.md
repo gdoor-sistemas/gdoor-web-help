@@ -2,7 +2,7 @@
 title: Gped
 description: Veja como interligar seu sistema com o aplicativo de pedidos Gped
 published: true
-date: 2023-07-27T16:43:56.137Z
+date: 2023-07-27T16:44:30.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
@@ -24,7 +24,7 @@ Os pedidos efetuados no App serão sincronizados com a solução Gweb para fatur
 # Habilitar novo dispositivo móvel
 Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gped**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
-![acesso configurar glink](/config/ferramentas/acesso-configurar-glink.png)
+![acesso configurar gped](/config/ferramentas/acesso-configurar-gped.png)
 
 Será apresentada a listagem de todos os equipamentos (celular ou tablet) que foram habilitados para a empresa utilizar na emissão de pedidos.
 
