@@ -1,8 +1,8 @@
 ---
-title: Glink
-description: Veja como interligar seu sistema com o aplicativo de pedidos Glink
+title: Gped
+description: Veja como interligar seu sistema com o aplicativo de pedidos Gped
 published: true
-date: 2023-05-23T19:23:09.302Z
+date: 2023-07-27T16:43:56.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:26:13.374Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-10T19:26:13.374Z
 
 # Introdução
 
-O Glink é um aplicativo para agilizar as vendas, ideal para empresas que realizam vendas externas e necessitam de um gerenciamento efetivo dos pedidos de venda. 
+O Gped é um aplicativo para agilizar as vendas, ideal para empresas que realizam vendas externas e necessitam de um gerenciamento efetivo dos pedidos de venda. 
 Os pedidos efetuados no App serão sincronizados com a solução Gweb para faturamento. Por meio dele é possível:
 
 - **Emitir, enviar e imprimir pedidos fora do estabelecimento;**
@@ -22,7 +22,7 @@ Os pedidos efetuados no App serão sincronizados com a solução Gweb para fatur
 - **Compartilhar pedidos de venda via WhatsApp, e-mail entre outros.**
 
 # Habilitar novo dispositivo móvel
-Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Glink**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gped**, clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
 ![acesso configurar glink](/config/ferramentas/acesso-configurar-glink.png)
 
@@ -43,7 +43,7 @@ Na tela apresentada para habilitar a integração, informe os seguintes dados do
 - **Vendedor fixo**: marcando esta opção, ao acessar o aplicativo no seu dispositivo não será possível alterar o vendedor no pedido.
 
 
-Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o App **"Glink: Pedido de venda externo"** na Play Store ou App Store do seu dispositivo móvel. Acesse o aplicativo e realize a leitura do **QR Code**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
+Finalizando a digitação dos dados, clique no botão **gerar código**. Baixe o App **"Gped: Pedido de venda externo"** na Play Store ou App Store do seu dispositivo móvel. Acesse o aplicativo e realize a leitura do **QR Code**. Caso não tenha câmera no dispositivo, copie o código e cole no aplicativo.
 
 ![qrcode](/config/ferramentas/tela-qrcode.png)
 
@@ -51,7 +51,7 @@ Após a habilitação dos dispositivos, todos os equipamentos liberados serão a
 
 ![revogar](/config/ferramentas/revogar.png)
 
-Para conhecer o funcionamento do aplicativo **Glink**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
+Para conhecer o funcionamento do aplicativo **Gped**, [clique aqui](https://bdc.gdoor.com.br/artigos/novo-glink/#dashboard).
 
 
 
