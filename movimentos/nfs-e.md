@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônicas
 published: true
-date: 2023-09-19T12:03:21.474Z
+date: 2023-09-19T12:04:17.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -18,14 +18,14 @@ Antes de iniciar a utilização do módulo, entre em contato com a Gdoor para ve
 
 Ao acessar o módulo **movimentações » NFS-e**, você visualiza a **lista** de notas de serviços. Pode [cadastrar nota de serviço](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#cadastrar-nota-de-serviço) e fazer uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/nfs-e#buscar) para localizar os dados que você precisa: 
 
-![lista.png](/movimentos/nfse/lista.png)
+![Lista de NFS-e](/movimentos/nfse/lista.png)
 
 ## Buscar
 
 Para localizar uma nota de serviço, **digite a informação no campo de busca** no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 
  
-![busca.png](/movimentos/nfse/busca.png)
+![Campo de busca](/movimentos/nfse/busca.png)
  
 > O que você digitar será buscado entre as seguintes informações das notas de serviço:  
 > **Campos numéricos**: número da nota;  
@@ -42,7 +42,7 @@ A tela "**nova nota de serviço**" será exibida.
 - **Cabeçalho**
 Insira os dados referente ao serviço prestado no **cabeçalho da nota**.
 
-![cabecalho.png](/movimentos/nfse/cabecalho.png)
+![Cabeçalho da NFS-e](/movimentos/nfse/cabecalho.png)
 
 As informações para o lançamento são as seguintes:
 
@@ -57,13 +57,13 @@ As informações para o lançamento são as seguintes:
 - **Tomador**
 Busque o tomador pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o tomador não esteja cadastrado, clique no botão (<em class="mdi mdi-plus"></em>) para cadastrar.
 
-![tomador.png](/movimentos/nfse/tomador.png)
+![Tomador da NFS-e](/movimentos/nfse/tomador.png)
 
 ---
 - **Serviços**
 Para buscar **serviços** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique em **adicionar serviço**. Informe a **quantidade**, **valor unitário** e em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
-![servicos.png](/movimentos/nfse/servicos.png)
+![Tela inicial de lançamento do serviço](/movimentos/nfse/servicos.png)
 ![Lançamento do serviço](/movimentos/nfse/lanc_serv.png)
 
 Selecionando o serviço prestado, estará disponível a guia **tributos**, onde devem ser informados os dados dos tributos do serviço selecionado:
