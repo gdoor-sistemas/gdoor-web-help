@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e no Gweb
 published: false
-date: 2023-09-19T12:11:53.000Z
+date: 2023-09-19T12:18:09.952Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -129,7 +129,7 @@ Caso seja necessário, você pode adicionar um **endereço de entrega** para o c
 
 ![Endereco de entrega](/movimentos/nf-e/endereco_de_entrega.png)
 
-Você pode **cadastrar um novo endereço** para o cliente selecionado através do botão <kbd>CADASTRAR ENDEREÇO</kbd>.
+Você pode **cadastrar um novo endereço** para o cliente selecionado através do botão <span class="mat-button mdi">CADASTRAR ENDEREÇO</span>.
 
 ## Produtos
 Você pode **adicionar produtos** pesquisando por qualquer parte do **nome** ou da **descrição adicional**, ou lançar eles através do **código do produto**, **referência** ou **código de barras**.
@@ -145,7 +145,7 @@ Caso o produto tenha **número de série**, esteja dentro da **regra de medicame
 {.is-info}
 
 
-Ao adicionar o produto que deseja, informe sua quantidade e valor unitário (se necessário), e clique em <kbd>CONFIRMAR</kbd> para adicionar o produto na nota fiscal.
+Ao adicionar o produto que deseja, informe sua quantidade e valor unitário (se necessário), e clique em <span class="mat-button mdi">CONFIRMAR</span> para adicionar o produto na nota fiscal.
 
 ## Serviços
 Você pode pesquisar serviços pelo **nome** ou lançar pelo **código**.
@@ -222,12 +222,12 @@ Insira os 44 dígitos da chave da NF-e ou clique em **"Ajuste sem NF-e"**. Esta 
 
 ![NF-e ajuste passo 1](/movimentos/nf-e/nfe-ajuste_passo_1.png)
 
-Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os produtos que deseja ajustar, após isso clique em <kbd>PRÓXIMO</kbd>.
+Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os produtos que deseja ajustar, após isso clique em <span class="mat-button mdi">PRÓXIMO</span>.
 
 ## Escolha o que ajustar
 ![NF-e ajuste passo 2](/movimentos/nf-e/nfe-ajuste_passo_2.png)
 
-Informe os **valores** que deseja **complementar** em cada **produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**. Após informar os dados necessários clique em <kbd>PRÓXIMO</kbd>.
+Informe os **valores** que deseja **complementar** em cada **produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**. Após informar os dados necessários clique em <span class="mat-button mdi">PRÓXIMO</span>.
 
 ## Informar os valores
 
@@ -258,7 +258,7 @@ Insira os 44 dígitos da chave da NF-e. Esta etapa será **pulada** caso selecio
 
 ![NF-e complemento passo 1](/movimentos/nf-e/nfe-complemento_passo_1.png)
 
-Insira os **produtos** que deseja **complementar** na nota fiscal. Após informar, pode clicar em <kbd>PRÓXIMO</kbd>.
+Insira os **produtos** que deseja **complementar** na nota fiscal. Após informar, pode clicar em <span class="mat-button mdi">PRÓXIMO</span>.
 
 ## Escolha o que complementar
 
@@ -284,11 +284,11 @@ Ao clicar na opção **“Relatórios”** você será redirecionado ao [**módu
 
 # Inutilizar Numeração
 
-Ao clicar em **inutilizar numeração**, será aberta a tela de **inutilização de NF-es**. Informe a **série**, **número inicial e final** que deseja inutilizar e clique em <kbd>CONFIRMAR</kbd>.
+Ao clicar em **inutilizar numeração**, será aberta a tela de **inutilização de NF-es**. Informe a **série**, **número inicial e final** que deseja inutilizar e clique em <span class="mat-button mdi">CONFIRMAR</span>.
 
 ![Inutilizar Numeração](/movimentos/nf-e/inutilizar_numeracao.png)
 
-Também é possível ver as numerações que foram **inutilizadas** na opção <kbd>VER INUTILIZADOS</kbd>.
+Também é possível ver as numerações que foram **inutilizadas** na opção <span class="mat-button mdi">VER INUTILIZADOS</span>.
 
 ![Numeros inutilizados](/movimentos/nf-e/numeros_inutilizados.png)
 
@@ -348,7 +348,7 @@ Outras configurações referentes a **emissão da nota fiscal.**
 ## Autorizados a baixar o XML
 
 Caso seja necessário que as notas fiscais emitidas possam ser **baixadas e consultadas** por outros CNPJ’s que não os participantes da NF-e, poderá adicioná-los nesta configuração.
-Basta **informar o CNPJ** e **clicar na seta** <span class="mdi mdi-arrow-right"></span>, após isso clique em <kbd>SALVAR</kbd>.
+Basta **informar o CNPJ** e **clicar na seta** <span class="mdi mdi-arrow-right"></span>, após isso clique em <span class="mat-button mdi">SALVAR</span>.
 
 ![Autorizados a baixar o XML](/movimentos/nf-e/autorizados_baixar_xml.png)
 
@@ -387,9 +387,9 @@ Nesta seção você pode configurar o **conteúdo dos e-mails de NF-e**, tanto p
 
 ![E-mails padrão](/movimentos/nf-e/emails_padrao.png)
 
-Para alterar o conteúdo, clique no botão <kbd>EDITAR</kbd> à direita da opção que deseja. Será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para efetuar as modificações.
+Para alterar o conteúdo, clique no botão <span class="mat-button mdi">EDITAR</span> à direita da opção que deseja. Será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para efetuar as modificações.
 
-No **conteúdo do e-mail**, você pode adicionar algumas **variáveis** que serão **substituídas** pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o **caractere** <kbd>[</kbd> (abre colchetes) e uma lista de opções será sugerida.
+No **conteúdo do e-mail**, você pode adicionar algumas **variáveis** que serão **substituídas** pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o **caractere** <span class="mat-button mdi">[</span> (abre colchetes) e uma lista de opções será sugerida.
 
 ![Editor de texto e-mail](/movimentos/nf-e/editor_texto_email.png)
 
