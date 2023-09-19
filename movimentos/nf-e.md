@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e no Gweb
 published: false
-date: 2023-09-19T12:18:09.952Z
+date: 2023-09-19T12:25:53.791Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -222,7 +222,7 @@ Insira os 44 dígitos da chave da NF-e ou clique em **"Ajuste sem NF-e"**. Esta 
 
 ![NF-e ajuste passo 1](/movimentos/nf-e/nfe-ajuste_passo_1.png)
 
-Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os produtos que deseja ajustar, após isso clique em <span class="mat-button mdi">PRÓXIMO</span>.
+Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os produtos que deseja ajustar, após isso clique em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
 
 ## Escolha o que ajustar
 ![NF-e ajuste passo 2](/movimentos/nf-e/nfe-ajuste_passo_2.png)
@@ -389,7 +389,7 @@ Nesta seção você pode configurar o **conteúdo dos e-mails de NF-e**, tanto p
 
 Para alterar o conteúdo, clique no botão <span class="mat-button mdi">EDITAR</span> à direita da opção que deseja. Será aberto o [editor de texto estilizado](/dicas/editor-de-texto-estilizado) para efetuar as modificações.
 
-No **conteúdo do e-mail**, você pode adicionar algumas **variáveis** que serão **substituídas** pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o **caractere** <span class="mat-button mdi">[</span> (abre colchetes) e uma lista de opções será sugerida.
+No **conteúdo do e-mail**, você pode adicionar algumas **variáveis** que serão **substituídas** pelo valor correspondente na hora de enviar o e-mail. Para isso, basta digitar o **caractere** <span class="mat-button mdi ">[</span> (abre colchetes) e uma lista de opções será sugerida.
 
 ![Editor de texto e-mail](/movimentos/nf-e/editor_texto_email.png)
 
