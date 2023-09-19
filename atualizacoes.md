@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-07-24T14:35:06.597Z
+date: 2023-09-19T20:30:56.298Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 49
-- Ajustes: 193
+- Novidades: 55
+- Ajustes: 247
 
-**Total: 229**
+**Total: 302**
 
 --- 
 
@@ -23,6 +23,141 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/09/2023
+b3.9.75 {.versions}
+
+## Ajustes
+- Ajustada falha na geração do Sintegra ao marcar a opção Inventário.
+
+# 14/09/2023
+b3.9.73 {.versions}
+
+## Ajustes
+- Ajustada tag na emissão do CT-e para respeitar o valor da carga informada.
+
+# 13/09/2023
+f2.10.35, b3.9.69, b3.9.70, b3.9.71 b3.9.72 {.versions}
+
+## Ajustes
+- Atualização do CT-e 4.0
+- Ajustada emissão de CT-e para pessoa física com RG informado.
+- Implementação de 3 casas decimais no peso bruto e líquido do transporte.
+- Ajustado valor das despesas acessórioas no registro 54 do Sintegra.
+- Retirado o campo CST de escrituração da NF-e/NFC-e
+
+# 12/09/2023
+f2.10.34, b3.9.68 {.versions}
+
+## Ajustes
+- Alterada sigla da unidade de medida Quilate, a partir de agora no DANF-e passa ser Quilate e não mais K.
+
+# 08/09/2023
+f2.10.33, b3.9.67 {.versions}
+
+## Novidades
+- Adicionada a coluna Data de Envio no relatório de CT-e emitidos.
+- Adicionadas as colunas NCM, CEST e PIS/COFINS no relatório de Produtos vendidos por tipo de imposto.
+
+## Ajustes
+- Ajustado produtos com grade que estavam gerando quantidades diferentes após serem inseridos novas colunas e linhas a grade.
+- Ajustado produtos com grade que não faziam a marcação correta ao selecionar o item na grade.
+- Ajustada quebra de linha da mensagem promocional no PDV.
+- Otimizado o processo de gravação do certificado digital.
+- Ajustado na geração do Sintegra o valor do IPI e ICMS Desonerado que não estavam sendo gerados corretamente.
+- Ajustada falha ao habilitar Gped para clientes que possuem nome com caracteres especiais.
+- Ajustado na geração do Sintegra o Registro 50 para que passe a somar o valor do ICMS ST no valor total.
+- Ajustado na geração do SPED o Registro C100 para desconsiderar notas inutilizadas.
+- Ajustada mensagem no MDF-e para solicitar os dados de preenchimento obrigatório informando qual registro precisa ser verificado.
+- Corrigido na emissão do CT-e a data de envio para que seja respeitada a data informada.
+- Ajustada a importação de XML de compra para manter os valores da redução de base de cálculo de ICMS/ICMS ST mesmo depois de editar o produto.
+- Ajustada mensagem no MDF-e quando não informado o reboque no modal rodoviário.
+- Ajustada mensagem de aviso ao criar ou editar um usuário.
+- Reorganizada nas configurações do PDV a opção de impressão do comprovante ao concluir a pré-venda.
+- Ajustada na criação de novas bases a operação de Devolução para que siga o padrão CSOSN 900.
+- Ajustada a visualização da quantidade nos detalhes do produto para produtos com mais de uma categoria adicionada.
+- Corrigida a Alíquota de ICMS na nota de complemento para que respeite o que for informado no campo.
+- Ajustado relatório de Contas a receber e a pagar para ordenar os dados também pela data de pagamento.
+
+# 01/09/2023
+b3.9.66 {.versions}
+
+## Ajustes
+- Ajustada falha na geração dos registros 0150 e C113 do SPED.
+
+# 31/08/2023
+f2.10.32, b3.9.65 {.versions}
+
+## Novidades
+- Adicionada a unidade de medida "Metro Estéreo" ao cadastro de produtos.
+
+# 30/08/2023
+b3.9.64 {.versions}
+
+## Ajustes
+- Ajustada inscrição do SUFRAMA para que a tag correspondente seja criada no XML.
+
+# 22/08/2023
+f2.10.31 {.versions}
+
+## Ajustes
+- Ajustado o campo UF de percurso do MDF-e para permitir a inclusão do mesmo UF mais de uma vez.
+
+# 16/08/2023
+f2.10.29, f2.10.30, b3.9.60 {.versions}
+
+## Ajustes
+- Corrigido envio do certificado digital para emissão de NFS-e.
+- Ajustada falha na importação de XML de compra ao informar o CFOP nos tributos.
+
+# 12/08/2023
+f2.10.28, b3.9.59 {.versions}
+
+## Novidades
+- Centralizado dentro das Configurações Gerais a inserção do Certificado Digital.
+- Criado novos campos para abranger a nova forma de tributação monofásica sobre combustíveis.
+- Criadas permissões de acesso para os Arquivos Fiscais.
+
+## Ajustes
+- Ajustada exibição das informações adicionais do produto que são inseridas dentro da pré-venda de acordo com a configuração aplicada.
+- Ajustada a geração de NFC-e a partir de uma pré-venda para fora do estado.
+- Corrigida a importação de XML de compra com CST 61.
+- Ajustado cadastro rápido de pessoas para não permitir documentos repetidos.
+- Corrigida falha ao informar o emitente como proprietário de veículos.
+- Ajustada soma de valores de ICMS na compra para o Registro E210 do SPED.
+- Corrigido campo Cliente de pedidos gerados a partir de um orçamento.
+- Otimizado layout da NFC-e.
+- Ajustado na importação de XML de compra a alteração do preço dos produtos que não possuem vínculo na base de dados, para que seja aplicado conforme alteração.
+- Corrigido no Registro 50 do Sintegra clientes com RG preenchido e estavam gerando dados inválidos.
+- Ajustadas compras com séries 890 a 899 na geração do SPED.
+- Corrigido no Registro C170 do SPED o CST de IPI para produtos que não tributam IPI.
+- Ajustado Bloco K do SPED para produtos que não possuem preço de venda.
+- Ajustadas advertências em notas quando o Registro 53 é gerado.
+- Corrigida falha ao importar documentos transportados no CT-e.
+- Corrigida falha nos valores gerados ao importar um XML com ICMS Desonerado e ICMS ST.
+- Ajustado código do participante no Registro C100 do SPED.
+- Ajustada geração do Registro C190 no SPED para NF-e Complementar.
+- Corrigida a geração dos Registros C do SPED para NF-es Canceladas.
+
+# 09/08/2023
+b3.9.58 {.versions}
+
+## Ajustes
+- Ajustada nota de devolução para que não altere a margem de lucro do produto.
+
+# 28/07/2023
+f2.10.27, b3.9.57 {.versions}
+
+## Ajustes
+- Ajustada a apresentação dos descontos dos itens na impressão da pré-venda.
+- Incluído na NF-e Complementar os campos xPed e nItemPed.
+- Corrigido cálculo do preço de custo ao importar nota de compra que possui produto com preço R$ 0,00 (zero).
+
+# 26/07/2023
+b3.9.56 {.versions}
+
+## Ajustes
+- Corrigido erro na geração de CTe com CFOP 5359.
+
 # 24/07/2023
 b3.9.55 {.versions}
 
@@ -60,7 +195,7 @@ b3.9.52 {.versions}
 
 
 # 13/07/2023
-f2.10.25, b3.9.51 {.versions}
+f2.10.25 {.versions}
 
 ## Ajustes
 - Removido o intervalo de 30 segundos para consultar uma NFS-e depois de transmitida.
