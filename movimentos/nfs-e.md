@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as notas de serviço eletrônicas
 published: true
-date: 2023-02-17T19:17:47.017Z
+date: 2023-09-19T12:03:21.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -64,22 +64,22 @@ Busque o tomador pelo **CNPJ, nome, código, e-mail** ou **telefone**. Caso o to
 Para buscar **serviços** utilize a tecla <kbd>Insert</kbd> do teclado, ou clique em **adicionar serviço**. Informe a **quantidade**, **valor unitário** e em seguida clique em <span class="mat-button mdi "> confirmar</span>.
 
 ![servicos.png](/movimentos/nfse/servicos.png)
-![lanc_serv.png](/movimentos/nfse/lanc_serv.png)
+![Lançamento do serviço](/movimentos/nfse/lanc_serv.png)
 
 Selecionando o serviço prestado, estará disponível a guia **tributos**, onde devem ser informados os dados dos tributos do serviço selecionado:
-![lanc_trib_serv.png](/movimentos/nfse/lanc_trib_serv.png)
+![Lançamento dos tributos do serviço](/movimentos/nfse/lanc_trib_serv.png)
 
 ---
 
 - **Intermediador**
 Preencha as informações do [intermediador](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#intermediador) se necessário.
 
-![intermediador.png](/movimentos/nfse/intermediador.png)
+![Intermediador](/movimentos/nfse/intermediador.png)
 
 - **Totais da NFS-e**
 Apresentação dos valores totais dos serviços da nota.
 
-![totais_nfse.png](/movimentos/nfse/totais_nfse.png)
+![Totais da NFS-e](/movimentos/nfse/totais_nfse.png)
 
 ---
 - **Pagamentos**
@@ -87,11 +87,11 @@ Nesta seção, há duas opções:
 
 **<em class="mdi mdi-checkbox-blank-outline"></em> Não informar pagamentos**: sem geração de histórico financeiro;
 
-![pagamentos.png](/movimentos/nfse/pagamentos.png)
+![Pagamentos](/movimentos/nfse/pagamentos.png)
 
 **Adicionar pagamento**: geração da [receita](/financeiro/receitas) no financeiro (módulo adicional).
 
-![pagamento2.png](/movimentos/nfse/pagamento2.png)
+![Seleção de pagamentos](/movimentos/nfse/pagamento2.png)
 
 ---
 
@@ -104,18 +104,14 @@ Nesta seção é possível determinar as configurações para a emissão da NFS-
 
 ## Certificado digital
 
-Em algumas cidades o certificado digital é exigido para a emissão. Normalmente é utilizado o mesmo certificado digital da NF-e. 
+Em algumas cidades o certificado digital é exigido para a emissão, para configurar o certificado digital para emissão de NFS-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
 
-![cert_conf_nfs-e.png](/movimentos/nfse/cert_conf_nfs-e.png)
-
-> O certificado digital A1 deve ser instalado no computador para que fique disponível para a seleção.
-{.is-info}
 
 ## Ambiente da NFS-e
 
 Nesta seção você configura dados para a geração da NFS-e. Abaixo, veja detalhes de cada configuração.
 
-![amb_conf_nfs-e.png](/movimentos/nfse/amb_conf_nfs-e.png)
+![Configuração do ambiente da NFS-e](/movimentos/nfse/amb_conf_nfs-e.png)
 
 
 Série da NFS-e{.subtitle}
@@ -132,7 +128,7 @@ Apenas informe um número neste campo se a empresa já emitia NFS-e por outro si
 
 ## Configurações gerais
 
-![conf_ger_nfs-e.png](/movimentos/nfse/conf_ger_nfs-e.png)
+![Configurações gerais da NFS-e](/movimentos/nfse/conf_ger_nfs-e.png)
 
 Regime especial {.subtitle}
 
@@ -153,13 +149,13 @@ Marque a opção caso a prefeitura permita o envio automático do e-mail.
 
 Configuração necessária dependendo do webservice. Estes dados são fornecidos somente pela própria prefeitura.
 
-![conf_pref_nfse.png](/movimentos/nfse/conf_pref_nfse.png)
+![Configurações de preferência da NFS-e](/movimentos/nfse/conf_pref_nfse.png)
 
 ## Dados da integração
 
 Se referem a integração entre a Gdoor e a prefeitura, não são editáveis.
 
-![integracao_conf_nfs-e.png](/movimentos/nfse/integracao_conf_nfs-e.png)
+![Dados da integração da NFS-e](/movimentos/nfse/integracao_conf_nfs-e.png)
 
 # Operações
 
@@ -168,4 +164,4 @@ Disponibilizamos o cadastro de algumas **naturezas de operação** padrão. Caso
 - **Descrição**
 - **Tipo de tributação**
 
-![operacoes_serv.png](/movimentos/nfse/operacoes_serv.png)
+![Naturezas de operação](/movimentos/nfse/operacoes_serv.png)
