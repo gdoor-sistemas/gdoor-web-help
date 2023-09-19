@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2022-11-11T18:46:32.568Z
+date: 2023-09-19T12:08:01.220Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -22,7 +22,7 @@ Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: *
 
 A tela para "**novo cadastro**" será aberta:
 
-![Novo cadastro de produto](/produtos/novo_cadastro..png)
+![Novo cadastro de produto](/produtos/novo_cadastro.png)
 
 ## Identificação
 
@@ -61,7 +61,7 @@ Escolha a "**informação a ser editada**", neste caso queremos editar a **quant
 
 Ao visualizar <span class="mat-button mdi ">mais detalhes</span> do produto cadastrado no estoque, observe que cada tamanho/cor gerou um "**subitem**", com seu respectivo código (#1, #2, #3...). Ao clicar no código, é possível visualizar as quantidades de cada item da grade:
 
-![animação.gif](/produtos/animação.gif) 
+![Detalhes do produto grade](/produtos/animação.gif) 
 
 <em class="mdi mdi-check-box-outline"></em> **Nº de série**
 
@@ -70,6 +70,10 @@ Ao marcar o checkbox, a seção para "**gerenciar números de série**" será mo
 ![Números de série](/produtos/número_serie.png)
 
 Para adicionar clique em <span class="mat-button mdi "> gerenciar números de série</span> e em seguida em <span class="mat-button mdi "> adicionar nº de série</span>. Informe o número e clique em <span class="mat-button mdi "> confirmar</span>.
+
+<em class="mdi mdi-check-box-outline"></em> **Sync. Ghub**
+
+Ao marcar essa opção, o produto será enviado ao Ghub quando for ativada a integração com o [Gped](/pt-br/ferramentas/integracoes/gped).
 
 ## Categorias
 
@@ -110,6 +114,11 @@ Seção para informações tributárias do produto.
 
 - **Origem**: indique a origem do produto, se é **nacional** ou **estrangeira**;
 - **NCM**: a Nomenclatura Comum do MERCOSUL é o código fiscal que identifica a classe do produto e é obrigatório para a emissão dos documentos fiscais como NFC-e e NF-e. Ao clicar na "lupa" ao lado do campo é possível **procurar NCM** pelo código ou pela descrição;
+
+> Caso o NCM do produto inicie entre **3001** e **3006**, será exibido o quadro **informações ANVISA**. ![Quadro informações ANVISA](/produtos/quadro-informacoes-anvisa.png)
+{.is-info}
+
+
 - **CEST**: o Código Especificador da Substituição Tributária possui 7 dígitos e deve ser preenchido de acordo com cada produto. Ao clicar na "lupa" ao lado do campo é possível **procurar CEST** pelo código ou pela descrição; 
 - **ANP**: código a ser informado em produtos lubrificantes, combustíveis e derivados do petróleo;
 **»** No cadastro de **gás de cozinha (GLP)**, ao informar o código ANP, a seção abaixo será habilitada para inclusão das informações de "**perc. GLP**", "**perc. GLGNn**", "**perc. GLGNi**" e "**valor de partida**":
@@ -172,7 +181,7 @@ Lista das grades cadastradas:
 
 ![Lista de grades](/produtos/lista_gradesw.png)
 
-> Após a grade ser indicada em um produto, não será mais possível **adicionar linhas** ou **colunas**, apenas as existentes poderão ser editadas.
+> Após a grade ser indicada em um produto, ainda é possível **adicionar linhas ou colunas**, mas não é possível remove-las.
 {.is-warning}
 
 # Kits
@@ -194,7 +203,7 @@ Digite um "**nome**" para kit e na seção "**itens**" clique em (<em class="mdi
 Busque os "**produtos**" desejados pelo **código** ou **descrição**. 
 Insira a "**quantidade**" e se preferir, é possível alterar o **valor unitário** desse produto no kit. Clique em <span class="mat-button mdi "> confirmar</span>.
 
-![Iten do kit](/produtos/3.png)
+![Item do kit](/produtos/3.png)
 
 Após incluir os itens que irão compor o kit, basta clicar em <span class="mat-button mat-accent">salvar</span>.
 
