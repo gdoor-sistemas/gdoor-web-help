@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2022-10-07T12:33:09.976Z
+date: 2023-09-19T11:17:20.447Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -12,7 +12,7 @@ dateCreated: 2021-05-25T12:24:39.280Z
 
 O pedido de venda é uma operação  importante para gerenciamento das vendas, nele constam as intenções de compra do cliente, e por ser um documento que antecede a venda, não é necessário que todos os dados do cliente estejam cadastrados, podendo ser emitido também para **consumidor final**.
 
-No pedido de venda você pode indicar o [cliente](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#cliente), [vendedor](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#vendedor), [produtos](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#mercadorias), [serviços](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#servi%C3%A7os), formas de [pagamento](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#pagamentos) negociadas e [outras informações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#outras-informa%C3%A7%C3%B5es).
+No pedido de venda você pode indicar o [cliente](/pt-br/movimentos/pedidos#cliente), [vendedor](/pt-br/movimentos/pedidos#vendedor), [produtos](/pt-br/movimentos/pedidos#mercadorias), [serviços](/pt-br/movimentos/pedidos#servi%C3%A7os), formas de [pagamento](/pt-br/movimentos/pedidos#pagamentos) negociadas e [outras informações](/pt-br/movimentos/pedidos#outras-informações).
 
 Os pedidos de venda podem ser **impressos** ou enviados para o cliente via **e-mail**. Quando houver a confirmação da compra, o pedido de venda poderá ser enviado diretamente para faturamento e geração de [NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#nfc-e) ou [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
@@ -33,7 +33,7 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 A imagem abaixo é de um novo pedido de venda:
 
-![Novo pedido](/movimentos/pedidos/novo_pedido_de_venda..png)
+![Novo pedido](/movimentos/pedidos/novo_pedido_de_venda.png)
 
 ## Cabeçalho
 
@@ -49,7 +49,7 @@ Para informar o vendedor no pedido de venda, basta selecionar o desejado no cabe
 
 ### Origem do preço
 
-Selecione o preço que será aplicado no pedido: [venda ou atacado](https://help.gdoorweb.com.br/pt-br/cadastros/produtos).
+Selecione o preço que será aplicado no pedido: [venda, atacado](/pt-br/cadastros/produtos) ou [tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços).
 
 > Para selecionar o preço de atacado é necessário possuir a [permissão](https://help.gdoorweb.com.br/pt-br/configuracoes/permissoes) para "**alternar para preço de atacado**" marcada nos **pedidos**. 
 {.is-info}
@@ -134,13 +134,17 @@ Ao lado de cada item na lista, há um botão com ações de contexto para o pedi
 
 Visível para todos os pedidos de venda. Inicia o modo de [seleção múltipla](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#sele%C3%A7%C3%A3o-m%C3%BAltipla).
 
-<span class="mat-button ![br-map.png](/movimentos/pedidos/br-map.png)"> GERAR NF-e</span> 
+<span class="mat-button"> GERAR NF-e</span> 
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
 <span class="mat-button mdi mdi-qrcode"> gerar NFC-e</span>
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/movimentos/pdv/formulario#criando-uma-nfc-e).
+
+<span class="mat-button mdi mdi-cash-register"> gerar Pré-venda</span>
+
+Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [Pré-venda](/pt-br/movimentos/pdv#pré-venda).
 
 <span class="mat-button mdi mdi-content-duplicate"> duplicar</span>
 
@@ -168,7 +172,7 @@ Visível apenas para NFC-e faturadas. Possibilita a visualização da NFC-e.
 
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span> e <span class="mat-button mdi "> gerar nfc-e</span>.  
+O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span>, <span class="mat-button mdi "> gerar nfc-e</span> e <span class="mat-button mdi"> gerar Pré-venda</span>.  
 Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) do pedido de venda na opção <span class="mat-button mdi mdi-check"> Selecionar</span>, ou no caso de dispositivos de toque, dar um toque longo no item.
 
 ![](/movimentos/pedidos/selecionar.png)
@@ -180,8 +184,10 @@ Depois de selecionar um pedido de venda, você poderá clicar em outros para mar
 As ações disponíveis conforme indicado na imagem acima são:  
 1. Caixa que permite marcar/desmarcar todos os pedidos de venda em exibição na página;  
 2. Gerar NF-e para os pedidos de venda selecionados;  
-3. Gerar NFC-e para os pedidos de venda selecionados;  
-4. Desmarcar todos e fechar o modo de seleção múltipla.  
+3. Gerar NFC-e para os pedidos de venda selecionados;
+3. Gerar Pré-venda para os pedidos de venda selecionados;
+5. Excluir os pedidos de venda selecionados;
+6. Desmarcar todos e fechar o modo de seleção múltipla.  
 
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todos os pedidos de venda selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar um pedido de venda faturado e outro em aberto, as ações não estarão disponíveis.
 
