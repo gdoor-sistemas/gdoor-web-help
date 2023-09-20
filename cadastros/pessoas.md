@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2022-09-27T18:55:45.399Z
+date: 2023-09-20T13:27:19.929Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor**, **contador** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
 
 # Lista
 
@@ -29,7 +29,7 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (<em class="mdi mdi-pencil"></em>) e mais opções (<em class="mdi mdi-dots-vertical"></em>). As opções de ação para esta tela são:
 
 - **Ver detalhes**: direciona para a tela de [detalhes](#detalhes);
-- **Nova venda**: direciona para a [tela de NF-e](/movimentos/nf-e/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Nova venda**: direciona para a [tela de NF-e](/movimentos/nf-e) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
 - **Apagar**: apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
@@ -72,13 +72,14 @@ Neste quadro as informações são para a definição da pessoa. São as informa
 
 Os atributos são usados para identificar onde a pessoa pode ser referenciada e também para possibilitar informações adicionais ao cadastro.
 
-![Atributos](/cadastros/pessoas/atributoos.png)
+![Atributos](/cadastros/pessoas/atributos.png)
 
 - **Cliente**: indica que a pessoa pode ser referenciada nas movimentações;
 - **Fornecedor**: indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
 - **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
-- **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação.
-- **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação.
+- **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação;
+- **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação;
+- **Contador**: Indica que a pessoa jurídica poderá ser referenciada como contador para a geração do [SPED Fiscal](/pt-br/arquivos-fiscais/sped);
 - **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
@@ -97,25 +98,48 @@ Também é possível inativar um cadastro desmarcando a caixa **ativo**. Isto po
 > Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [imagens](/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
 
+### Cliente
+
+Este quadro será exibido quando o [atributo](#atributos) **cliente** estiver marcado.
+
+- **Dia de acerto**: indica o dia do mês em que vencerão as contas geradas para o cliente;
+- **Limite de crédito**: limite de crédito do cliente para contas parceladas;
+- **Tabela de preços preferencial**: indica a [tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços) que deve ser utilizada quando esse cliente for indicado em uma venda.
+
+![Quadro cliente](/cadastros/pessoas/campos-cliente.png)
+
 ### Vendedor
 
-Este quadro será exibido quando o [atributo](#atributos) **vendedor** estiver marcado. 
+Este quadro será exibido quando o [atributo](#atributos) **vendedor** estiver marcado.
 
 - **Comissão à vista**: percentual de comissão para vendas à vista;
-- **Percentual máx. desconto**: máximo de desconto em percentual que um vendedor pode aplicar em um documento. O percentual se aplica em relação ao valor total do documento;
-- **Valor máx. desconto**: máximo de desconto em valor que um vendedor pode aplicar em um documento.
-
-> **Campos de desconto**: se o campo estiver **vazio**, o vendedor não tem limite de desconto. Se o campo estiver **zerado**, o vendedor não poderá aplicar descontos.
-{.is-info}
+- **Comissão a prazo**: percentual de comissão para vendas a prazo. 
 
 ![Quadro vendedor](/cadastros/pessoas/campos-vendedor.png)
 
 ### Intermediador
 
 Este quadro será exibido quando o [atributo](#atributos) **intermediador** estiver marcado. 
+
 O cadastro da pessoa jurídica deve ser preenchido com todas as informações do intermediador (razão social, CNPJ...) e no quadro indicado na imagem abaixo, inserir o código de identificação do **intermediador/marketplace**, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
-![Intermediador](/cadastros/pessoas/intermediador.png)
+![Quadro intermediador](/cadastros/pessoas/intermediador.png)
+
+### Transportador
+Este quadro será exibido quando o [atributo](#atributos) **transportador** estiver marcado.
+
+- **RNTRC - Registro Nacional de Transporte Rodoviário de Carga**: é o registro obrigatório para profissionais que exercem atividades ligadas ao transporte rodoviário de carga;
+- **Tipo da transportadora**: indica o tipo da empresa transportadora de acordo com a atividade que exerce;
+- **Tipo do proprietário**: indica o tipo do proprietário de acordo com o veículo e como ele é fretado.
+
+![Quadro transportador](/cadastros/pessoas/campos-transportadora.png)
+
+### Contador
+Este quadro será exibido quando o [atributo](#atributos) **contador** estiver marcado. 
+
+- **CRC**: É o registro regular do contador no Conselho Regional de Contabilidade(CRC).
+
+![Quadro contador](/cadastros/pessoas/campos-contador.png)
 
 ## Endereços
 
@@ -145,7 +169,7 @@ Além do e-mail principal e do site, você pode adicionar ao cadastro outros end
 
 ## Observações
 
-Campo livre para preenchimento de informações adicionais.
+Campo livre para preenchimento de informações adicionais. 
 
 ![Quadro observações](/cadastros/pessoas/observacoes.png)
 
