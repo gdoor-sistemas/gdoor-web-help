@@ -1,8 +1,8 @@
 ---
 title: Nota Fiscal eletrônica (NF-e)
-description: Conheça o módulo de emissão de NF-e no Gweb
+description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: false
-date: 2023-09-19T12:27:09.915Z
+date: 2023-09-20T11:43:30.881Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
