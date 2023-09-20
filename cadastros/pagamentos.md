@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2022-08-16T18:46:04.788Z
+date: 2023-09-20T13:43:31.896Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -26,6 +26,10 @@ A tela para identificação da forma de pagamento será aberta:
 - **Descrição**: campo opcional;
 - **Tipo de pagamento**: selecione entre as opções disponíveis (campo obrigatório);
 - **Referência na NF-e**: selecione entre as opções disponíveis (campo obrigatório);
-- **Conta financeira**: selecione uma [conta financeira](/financeiro/contas) já cadastrada para ser associada a este meio de pagamento.
+- **Conta financeira**: selecione uma [conta financeira](/financeiro/contas) já cadastrada para ser associada a este meio de pagamento;
+- **Dispositivo**: Selecione o dispositivo que essa forma de pagamento utilizar.
 
-Após preencher as informações clique em <span class="mat-button mdi "> salvar</span>.
+> Na aba de **dispositivos**, na direita, fica a lista de dispositivos cadastrados para integração com o [Gdoor Pay](/ferramentas/integracoes/gdoorpay).
+{.is-info}
+
+Após preencher as informações clique em <span class="mat-button mat-accent mdi"> salvar</span>.
