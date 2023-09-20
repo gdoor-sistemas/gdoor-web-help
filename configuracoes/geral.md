@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2022-04-29T18:52:15.736Z
+date: 2023-09-20T14:01:54.358Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -17,6 +17,16 @@ Para iniciar, acesse no menu principal: **configurações » geral**.
 A tela abaixo será mostrada:
 
 ![configurações gerais](/config/gerais/configurações_gerais.png)
+
+# Certificado digital
+
+Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para utilizar em todos os módulos do sistema. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> ENVIAR</span>.
+Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
+
+![Configurar Certificado digital](/config/gerais/configurar-certificado.png)
+
+> No momento, o GDOOR WEB só é compatível com certificado digital do tipo A1.
+{.is-warning}
 
 # Precisão numérica
 
@@ -44,10 +54,18 @@ Em seguida indique o "**local padrão do fato gerador do ISS**" que se trata do 
 
 ![cidade específica](/config/gerais/serviços2.png)
 
-Após o preenchimento das informações, clique em <span class="mat-button mdi "> salvar</span>.
+Após o preenchimento das informações, clique em <span class="mat-button mat-accent mdi "> salvar</span>.
 
 > Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
 {.is-info}
+
+# Contador
+
+Selecione o contador que irá ser referenciado na geração do [SPED FISCAL](/pt-br/arquivos-fiscais/sped), é necessário que a pessoa tenha o atributo [Contador](/pt-br/cadastros/pessoas#formulário).
+
+![geral-contador.png](/config/gerais/geral-contador.png)
+
+Após selecionar a pessoa, clique em <span class="mat-button mdi "> salvar</span>.
 
 # Comissões
 
@@ -61,11 +79,22 @@ Após selecionar, clique em <span class="mat-button mdi "> salvar</span>.
 
 # Quantidade negativa de estoque
 
-Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque.
+Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque. Ao desmarcar, é habilitada a opção **avisar quantidade insuficiente no lançamento do produto** para o sistema exibir um aviso no [PDV](/pt-br/movimentos/pdv) e na [NF-e](/pt-br/tutoriais/como-emitir-uma-nfe).
 
 ![quantidade negativa de estoque](/config/gerais/quantidade_negativa_de_estoque.png)
 
 Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
+
+# Parcelamentos
+
+Defina como será o comportamento do sistema em vendas parceladas.
+
+- **Data inicial dos parcelamentos**: Define se a primeira parcela deve assumir a data do movimento ou se fica para o próximo período;
+- **Prazo mínimo para considerar dia de acerto**: Para clientes que possuem dia de acerto no [cadastro de cliente](/pt-br/cadastros/pessoas);
+- **Vencimento em dias úteis**: Define o comportamento do sistema caso a data de vencimento não caia em um dia útil.
+
+![geral-parcelamento.png](/config/gerais/geral-parcelamento.png)
+Após configurar como deseja, clique em <span class="mat-button mdi "> salvar</span>.
 
 # Autenticação
 
