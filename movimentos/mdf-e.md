@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2022-09-30T13:31:41.243Z
+date: 2023-09-20T13:57:21.117Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -76,7 +76,7 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 
 ![Seguro](/movimentos/mdf-e/aba_seguro.png)
 
-Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mdi "> salvar</span> o MDF-e.
+Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mat-accent mdi "> salvar</span> o MDF-e.
 
 # Lista
 
@@ -225,10 +225,8 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button md
 
 ## Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de MDF-e. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> salvar</span>.
-Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
+Para configurar o certificado digital para emissão de MDF-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
 
-![Certificado digital](/movimentos/mdf-e/certificado_digital.png)
 
 ## Ambiente do MDF-e
 
