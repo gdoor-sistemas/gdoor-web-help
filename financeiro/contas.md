@@ -2,7 +2,7 @@
 title: Contas
 description: Veja como identificar a localização do dinheiro da empresa no Gweb
 published: true
-date: 2022-05-26T14:09:38.792Z
+date: 2023-09-20T14:00:18.587Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
@@ -30,7 +30,7 @@ Informe o "**banco**", "**número da conta**", "**agência**", "**tipo da conta*
 As “**tags**” são utilizadas para categorizar os registros de cada módulo: contas, receitas e despesas, assim é possível efetuar filtros nas listas. Ex.: a empresa participará de uma feira. Para verificar todas as despesas e receitas oriundas deste evento pode-se criar uma tag “Feira 2021” e vincular todas as entradas e saídas geradas para esta finalidade.
 {.is-success .gw .gw-tip}
 
-Clique em <span class="mat-button mdi "> salvar</span>.
+Clique em <span class="mat-button mat-accent mdi "> salvar</span>.
 
 # Acessos
 Na barra lateral direita há um menu padrão que integra o quadro de contas, despesas e receitas:
@@ -76,30 +76,27 @@ Ao clicar em uma movimentação, pode-se verificar alguns detalhes como:
 Logo abaixo dos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/contas#acessos), podemos visualizar os campos auxiliares, esses estão padronizados em todo o módulo financeiro. 
 
  
-## Planos de contas
+## Planos de contas 
 
-O plano de contas é uma ferramenta de organização, com a finalidade de **identificar as contas da empresa**, facilitando os registros de **entradas e saídas**.
-
-Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
-
-- **Nome**: nome do plano de contas, exemplo: aluguel;
-- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Centro de custos**: informe a tag.
+Aqui é possível visualizar e cadastrar os planos de contas que serão utilizados no financeiro.
 
 ![planos de contas](/contas/8_planos_de_contas.png)
 
+Para saber mais sobre os planos de contas acesse:
+- [Planos de contas *Veja detalhes sobre o cadastro de planos de contas no GWEB*](/pt-br/financeiro/planos-de-contas)
+{.links-list}
+
 ## Centros de custos
 
-Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são **unidades dentro de um plano de contas**. Exemplo: o aluguel é um plano de conta, mas o aluguel da sala 01 e da sala 02 são exemplos de centro de custos.
-
-
-Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
-
-- **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
-- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Centro de custos**: informe a tag.
+Aqui é possível visualizar e cadastrar os centros de custos que serão utilizados no financeiro.
 
 ![centros de custos](/contas/9_centros_de_custos.png)
+
+Para saber mais sobre os centros de custos acesse:
+- [Centros de custos *Veja detalhes sobre o cadastro de centros de custos no GWEB*](/pt-br/financeiro/centros-de-custos)
+{.links-list}
+
+
 
 ## Transferências
 
