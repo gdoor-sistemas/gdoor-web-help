@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: false
-date: 2023-09-20T11:43:30.881Z
+date: 2023-09-20T13:47:01.811Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -227,7 +227,7 @@ Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os prod
 ## Escolha o que ajustar
 ![NF-e ajuste passo 2](/movimentos/nf-e/nfe-ajuste_passo_2.png)
 
-Informe os **valores** que deseja **complementar** em cada **produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**. Após informar os dados necessários clique em <span class="mat-button mdi">PRÓXIMO</span>.
+Informe os **valores** que deseja **complementar** em cada **produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**. Após informar os dados necessários clique em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
 
 ## Informar os valores
 
@@ -258,7 +258,7 @@ Insira os 44 dígitos da chave da NF-e. Esta etapa será **pulada** caso selecio
 
 ![NF-e complemento passo 1](/movimentos/nf-e/nfe-complemento_passo_1.png)
 
-Insira os **produtos** que deseja **complementar** na nota fiscal. Após informar, pode clicar em <span class="mat-button mdi">PRÓXIMO</span>.
+Insira os **produtos** que deseja **complementar** na nota fiscal. Após informar, pode clicar em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
 
 ## Escolha o que complementar
 
