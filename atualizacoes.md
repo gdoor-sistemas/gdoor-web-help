@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-09-19T20:38:01.772Z
+date: 2023-09-21T11:25:08.425Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 55
+- Novidades: 56
 - Ajustes: 248
 
-**Total: 303**
+**Total: 304**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/09/2023
+f2.10.36, b3.9.76 {.versions}
+
+## Ajustes
+- Adicionada nova unidade de medida: Comprimido (CPR).
+
 # 19/09/2023
 b3.9.75 {.versions}
 
@@ -43,7 +49,7 @@ f2.10.35, b3.9.69, b3.9.70, b3.9.71 b3.9.72 {.versions}
 - Ajustada emissão de CT-e para pessoa física com RG informado.
 - Implementação de 3 casas decimais no peso bruto e líquido do transporte.
 - Ajustado valor das despesas acessórioas no registro 54 do Sintegra.
-- Retirado o campo CST de escrituração da NF-e/NFC-e
+- Retirado o campo CST de escrituração da NF-e/NFC-e.
 
 # 12/09/2023
 f2.10.34, b3.9.68 {.versions}
