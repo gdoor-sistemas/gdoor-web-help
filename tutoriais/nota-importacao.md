@@ -1,8 +1,8 @@
 ---
 title: Nota de importação de mercadorias
 description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
-published: true
-date: 2023-09-22T17:31:41.650Z
+published: false
+date: 2023-09-22T19:22:26.318Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
