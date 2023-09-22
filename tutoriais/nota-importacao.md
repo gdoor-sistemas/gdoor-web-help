@@ -2,7 +2,7 @@
 title: Nota de importação de mercadorias
 description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
 published: true
-date: 2023-09-22T16:50:02.813Z
+date: 2023-09-22T17:00:35.766Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
@@ -13,3 +13,12 @@ O módulo de NF-e do GWEB atende a emissão de **notas fiscais eletrônicas de i
 
 Abaixo segue um **passo a passo** de como emitir esta nota fiscal no GWEB.
 
+# Cadastrando a operação
+
+Inicialmente é preciso cadastrar a natureza de operação acessando o menu de operações e no canto inferior direito clicar no botão com o **+**.
+
+![Botão nova NF-e](/tutoriais/nota-importacao/botao_nova_nfe.png)
+
+No formulário da operação, é necessário preencher ao menos o **nome da operação**, selecionar **entrada** e marcar a **caixa de importação**. Após isso, clique em <span class="mat-button mat-accent">SALVAR</span>.
+
+![Cadastro da operação](/tutoriais/nota-importacao/cadastro_operacao.png)
