@@ -2,7 +2,7 @@
 title: Nota de importação de mercadorias
 description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
 published: true
-date: 2023-09-22T17:07:34.576Z
+date: 2023-09-22T17:28:07.089Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
@@ -27,6 +27,15 @@ Após o cadastro da operação, podemos partir para o cadastro do fornecedor.
 
 # Cadastrando o fornecedor
 
-Para cadastrar o fornecedor, é necessário primeiro acessar o menu de pessoas e no canto inferior direito clicar no **+**.
+Para cadastrar o fornecedor, é necessário primeiro acessar o menu de **pessoas** e no canto inferior direito clicar no **+**.
+
+![Botão nova pessoa](/tutoriais/nota-importacao/botao_nova_pessoa.png)
+
+No cadastro da pessoa que será o fornecedor, é necessário marcar a caixa de **fornecedor**, preencher o **nome** e alterar o campo do **país** para o **país correto do fornecedor**. Estas informações estão destacadas na imagem abaixo
+
+![Botão nova pessoa](/tutoriais/nota-importacao/cadastro_pessoa.png)
+
+> Note que ao alterar o **país**, o sistema exibe o campo **documento de identificação** (destacado acima), este campo é **obrigatório** para emissão da nota de importação e corresponde a algum documento que identifique o fornecedor no país dele.
+{.is-info}
 
 
