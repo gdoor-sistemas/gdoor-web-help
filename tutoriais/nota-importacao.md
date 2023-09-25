@@ -2,7 +2,7 @@
 title: Nota de importação de mercadorias
 description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
 published: false
-date: 2023-09-25T14:24:10.938Z
+date: 2023-09-25T20:23:54.959Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
@@ -69,8 +69,54 @@ Após selecionar a **operação**, selecione no campo correspondente o **fornece
 
 ## Produto
 
-Com o **fornecedor** e a **operação** devidamente selecionados, é possível incluir os produtos da importação, clicando no botão ícone de código de barras destacado abaixo ou pelo atalho INSERT do teclado.
+Com o **fornecedor** e a **operação** selecionados, é possível incluir os **produtos** da importação, basta clicar no botão **adicionar produto** ou pelo atalho <kbd>INSERT</kbd> do teclado.
 
+Ao **selecionar** o produto da nota de importação, serão exibidas as abas de, **identificação**, **tributos**, **D.I.** e **adicionais**.
+
+### Identificação
+Na aba de **identificação**, ficam os dados da entrada do produto, como **quantidade**, **valor unitário**, **desconto** e **valor total do produto**.
+
+![Aba de identificação](/tutoriais/nota-importacao/aba_identificacao_importacao.png)
+
+### Tributos
+
+Na aba de tributos, você pode preencher o **CFOP**, os dados de **ICMS**, **IPI**, **PIS/COFINS** e **II(Imposto de Importação)**.
+
+![Tributos parte 1 - ICMS e PIS/COFINS](/tutoriais/nota-importacao/tributos_parte_1_icms_pis_cofins.png)
+
+> **Para o correto preenchimento das informações tributárias, é necessário o auxílio da contabilidade.**
+{.is-danger}
+
+![Tributos parte 2 - IPI e II](/tutoriais/nota-importacao/tributos_parte_2_ipi_ii.png)
+
+### D.I. (declaração de importação)
+
+Na aba de **D.I.** você pode incluir os dados de uma ou mais **declarações de importação**, bem como as **adições** de cada uma das **D.I.** da nota.
+
+Para adicionar uma nova D.I. clique no botão <span class="mat-button">INCLUIR D.I.</span>.
+
+![Formulário da declaração de importação](/tutoriais/nota-importacao/formulario_di.png)
+
+> **Para o correto preenchimento das informações da D.I. é necessário o auxílio da contabilidade.**
+{.is-danger}
+
+Após a inclusão de pelo menos uma **D.I.** o botão <span class="mat-button">INCLUIR ADIÇÃO</span> será liberado. Clique para abrir o formulário da adição.
+
+![Formulário da adição da D.I.](/tutoriais/nota-importacao/formulario_adicao_di.png)
+
+> **Para o correto preenchimento das informações da adição é necessário o auxílio da contabilidade.**
+{.is-danger}
+
+Após informar os **dados do produto**, clique em <span class="mat-button">CONFIRMAR</span> para lançá-lo na NF-e.
+
+## Pagamento e finalização
+
+Para finalizar, é possível informar os **dados de pagamento** conforme as [**formas de pagamento**](/cadastros/pagamentos) cadastradas anteriormente.
+
+Após o **pagamento**, clique em <span class="mat-button mat-accent">SALVAR</span> para **salvar** a nota fiscal e ter a possibilidade de pré-visualizar a **DANFE** e o **XML** da nota de importação, ou clique em <span class="mat-button">SALVAR E TRANSMITIR</span> caso deseje **transmitir** a nota fiscal para a **SEFAZ**.
+
+> **É recomendado que você clique em <span class="mat-button mat-accent">SALVAR</span> e assim gerar o XML e a DANFE da nota de importação para verificar com a contabilidade se os dados estão corretos ou precisam de ajuste.**
+{.is-danger}
 
 # Conclusão
 
