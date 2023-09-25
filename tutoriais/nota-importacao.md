@@ -2,7 +2,7 @@
 title: Nota de importação de mercadorias
 description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
 published: false
-date: 2023-09-25T13:13:06.340Z
+date: 2023-09-25T13:27:23.033Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
@@ -15,7 +15,7 @@ Abaixo segue um **passo a passo** de como emitir esta nota fiscal no GWEB.
 
 # Cadastrando a operação
 
-Inicialmente é preciso cadastrar a natureza de operação acessando o menu de operações e no canto inferior direito clicar no botão com o **+**.
+Inicialmente é preciso cadastrar a natureza de operação acessando o menu de operações e no canto inferior direito clique em nova operação, conforme exibido abaixo.
 
 ![Botão nova operação](/tutoriais/nota-importacao/botao_nova_operacao.png)
 
@@ -27,7 +27,7 @@ Após o cadastro da operação, podemos partir para o cadastro do fornecedor.
 
 # Cadastrando o fornecedor
 
-Para cadastrar o fornecedor, é necessário primeiro acessar o menu de **pessoas** e no canto inferior direito clicar no **+**.
+Para cadastrar o fornecedor, é necessário primeiro acessar o menu de **pessoas** e no canto inferior direito clique em nova pessoa, conforme exibido abaixo.
 
 ![Botão nova pessoa](/tutoriais/nota-importacao/botao_nova_pessoa.png)
 
@@ -41,7 +41,29 @@ Estas informações estão destacadas na imagem abaixo:
 
 Além do campo do país citado anteriormente, também é necessário preencher os dados de **endereço** do **fornecedor**.
 
-## Conclusão
+# Cadastrando o produto
+
+Para cadastrar o **produto** para uma **nota de importação** não existe nenhum detalhe adicional, basta seguir o [**cadastro de um produto**](/cadastros/produtos) comum.
+
+# Lançamento
+
+Para efetuar o lançamento de uma nota fiscal de importação, você deve acessar o menu de NF-e e no canto inferior direito clique em nova NF-e, conforme exibido abaixo.
+
+![Botão nova NF-e](/tutoriais/nota-importacao/botao_nova_nfe.png)
+
+## Natureza da operação
+
+No **formulário da NF-e** o primeiro passo é alterar a **natureza da operação** para a natureza de **importação de mercadorias** cadastrada anteriormente.
+
+![Natureza da operação de importação de mercadorias](/tutoriais/nota-importacao/natureza_operacao_importacao.png)
+
+## Fornecedor
+
+Após selecionar a **operação**, selecione no campo correspondente o **fornecedor** criado anteriormente.
+
+![cadastro_pessoa.png](/tutoriais/nota-importacao/cadastro_pessoa.png)
+
+# Conclusão
 
 O processo para o **lançamento** de uma **nota de importação de mercadorias** no GWEB é esse, ao **transmitir a nota**, será gerado o **financeiro** no módulo [**despesas**](/financeiro/despesas) e **entrará** no seu estoque a **quantidade** declarada na nota fiscal.
 
