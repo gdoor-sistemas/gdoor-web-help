@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: false
-date: 2023-09-26T20:00:36.368Z
+date: 2023-09-26T20:01:36.851Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -20,7 +20,7 @@ Caso deseje um **passo a passo**, veja o tutorial de [como emitir uma NF-e](/tut
 
 ![Lista de NF-e](/movimentos/nf-e/lista-nfe.png)
 
-> É possível acompanhar o status das notas fiscais na listagem das notas nos **tags coloridos** ao lado delas.
+> É possível acompanhar o status das notas fiscais na listagem das notas nas **tags coloridas** ao lado delas.
 {.is-info}
 
 # Busca e filtros
@@ -46,13 +46,13 @@ As informações exibidas para as notas fiscais, variam de acordo com a situaç�
 **Nota fiscal autorizada:**
 ![Status Nf-e Autorizada](/movimentos/nf-e/status-nfe-autorizada.png)
 
-> Caso a empresa esteja no ambiente de **produção**, o tag do ambiente não aparecerá.
+> Caso a empresa esteja no ambiente de **produção**, a tag do ambiente não aparecerá.
 {.is-info}
 
 **Nota fiscal rejeitada:**
 ![Status NF-e Rejeitada](/movimentos/nf-e/status-nfe-rejeitada.png)
 
-> Caso a NF-e esteja **rejeitada**, o tag ficará **laranja** com o **motivo da rejeição** dentro.
+> Caso a NF-e esteja **rejeitada**, a tag ficará **laranja** com o **motivo da rejeição** dentro.
 {.is-info}
 
 Dentro de cada NF-e, no **lado direito** você pode: **duplicar a nota fiscal**, **editar a NF-e** caso ela esteja pendente ou rejeitada, ou abrir as opções da NF-e.
