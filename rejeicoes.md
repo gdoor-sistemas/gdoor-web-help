@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-09-28T17:15:40.615Z
+date: 2023-09-28T18:05:39.262Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -19,7 +19,8 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 {.links-list}
 
 ## MDF-e
-Em breve...
+- [Rejeição 663 *UF de percurso inválido*](/pt-br/rejeicoes/rejeicao-663-percurso-informado-invalido)
+{.links-list}
 
 ## CT-e
 - [Rejeição 210 *IE do destinatário inválida*](/pt-br/rejeicoes/rejeicao-210-ie-do-destinatario-invalida)
