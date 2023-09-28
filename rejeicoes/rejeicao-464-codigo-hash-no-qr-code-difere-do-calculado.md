@@ -1,8 +1,8 @@
 ---
 title: Rejeição 464: Código Hash no QR-code difere do calculado
-description: 
+description: Veja como solucionar a rejeição 464: Código Hash no QR-code difere do calculado no Gweb.
 published: false
-date: 2023-09-28T14:21:37.362Z
+date: 2023-09-28T14:22:18.239Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-09-28T14:21:37.362Z
