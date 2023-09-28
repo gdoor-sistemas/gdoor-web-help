@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-09-28T16:43:49.449Z
+date: 2023-09-28T17:15:04.175Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -22,4 +22,5 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 Em breve...
 
 ## CT-e
-Em breve...
+- [Rejeição 210 *IE do destinatário inválida*](/pt-br/rejeicoes/rejeicao-210-ie-do-destinatario-invalida)
+{.links-list}
