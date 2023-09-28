@@ -2,7 +2,7 @@
 title: Rejeição 663: Percurso informado inválido
 description: Veja como solucionar a rejeição 663: Percurso informado inválido no Gweb.
 published: true
-date: 2023-09-28T18:04:55.092Z
+date: 2023-09-28T18:16:21.117Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T18:04:55.092Z
@@ -28,7 +28,7 @@ Algumas **dicas importantes** na hora de determinar as **UFs** percorridas:
 
 - Você pode utilizar o **mapa** disponível no site do [**SINTEGRA**](http://www.sintegra.gov.br/) caso tenha dúvidas referente aos **estados do trajeto**.
 - Caso o MDF-e **inicie** e **termine** no **mesmo estado**, **não** é necessário informar nenhum estado na **UF de percurso**.
-- Caso os estados de **início** e **término** do MDF-e forem **fronteiriços**, também não é **necessário** informar nenhuma estado na **UF de percurso**.
+- Caso os estados de **início** e **término** do MDF-e forem **fronteiriços**, também não é **necessário** informar nenhuma **UF de percurso**.
 - Se o **transporte** passar pelo **DF** existe uma situação específica que é necessária atenção:
 	- Caso o trajeto entre e saia no **DF** pelo estado de **Goiás** (**GO**), você deve informar a ordem **GO > DF > GO**
   - Caso o trajeto passe por **GO > DF > MG**, é possível seguir a **ordem comum**, **sem** repetir os **estados**.
