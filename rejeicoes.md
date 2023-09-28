@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-09-28T14:35:02.186Z
+date: 2023-09-28T16:43:49.449Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -12,8 +12,8 @@ dateCreated: 2023-09-28T13:48:58.583Z
 Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições no Gweb.
 
 ## NF-e
-Em breve...
-
+- [Rejeição 203 *Emissor não habilitado para emissão da NF-e*](/pt-br/rejeicoes/rejeicao-203-emissor-nao-habilitado-para-emissao-da-nf-e)
+{.links-list}
 ## NFC-e
 - [Rejeição 464 *Código Hash no QR-code difere do calculado*](/pt-br/rejeicoes/rejeicao-464-codigo-hash-no-qr-code-difere-do-calculado)
 {.links-list}
