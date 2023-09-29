@@ -2,7 +2,7 @@
 title: Rejeição 464: Código Hash no QR-code difere do calculado
 description: Veja como solucionar a rejeição 464: Código Hash no QR-code difere do calculado no Gweb.
 published: true
-date: 2023-09-28T18:20:12.705Z
+date: 2023-09-29T14:47:17.176Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-09-28T14:21:37.362Z
@@ -18,7 +18,7 @@ Essa mensagem ocorre quando as informações de **token Id**, **código CSC** ou
 
 ## Solução
 
-Acesse primeiramente o [**PDV**](/movimentos/pdv), e, no canto inferior direito, acesse as [**Configurações da NFC-e**](/movimentos/pdv#configurações-da-nfc-e). Na aba de **Ambiente da NFC-e**, informe os campos **token Id**, **código CSC** e **ambiente** corretamente.
+Acesse primeiramente o [**PDV**](/movimentos/pdv), e no canto inferior direito, acesse as [**Configurações da NFC-e**](/movimentos/pdv#configurações-da-nfc-e). Na aba de **Ambiente da NFC-e**, informe os campos **token Id**, **código CSC** e **ambiente** corretamente.
 
 > Essas informações são **fornecidas** pela **contabilidade** da empresa, pois é ela quem registra o cadastro junto a **SEFAZ**.
 {.is-info}
