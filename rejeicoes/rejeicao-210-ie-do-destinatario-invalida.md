@@ -2,7 +2,7 @@
 title: Rejeição 210: IE do destinatário inválida
 description: Veja como solucionar a rejeição 210: IE do destinatário inválida no Gweb.
 published: true
-date: 2023-09-28T17:13:17.934Z
+date: 2023-09-29T14:48:46.573Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T17:13:17.934Z
@@ -22,7 +22,7 @@ Essa mensagem ocorre quando a **inscrição estadual (IE)** do **destinarário**
 
 ![Solução da rejeição 210 - Cadastro de pessoa](/tutoriais/rejeicoes/210/sol_rej_210.png)
 
-> Você mesmo pode consultar a **inscrição estadual** do destinatário através do [**CCC (Cadastro Centralizado de Contribuinte)**](https://dfe-portal.svrs.rs.gov.br/nfe/ccc) basta informar a **UF** e o **CNPJ** do mesmo.
+> Você mesmo pode consultar a **inscrição estadual** do destinatário através do [**CCC (Cadastro Centralizado de Contribuinte)**](https://dfe-portal.svrs.rs.gov.br/nfe/ccc). Basta informar a **UF** e o **CNPJ** do mesmo.
 {.is-info}
 
 
