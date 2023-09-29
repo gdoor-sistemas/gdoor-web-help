@@ -2,7 +2,7 @@
 title: Rejeição 210: IE do destinatário inválida
 description: Veja como solucionar a rejeição 210: IE do destinatário inválida no Gweb.
 published: true
-date: 2023-09-29T14:48:46.573Z
+date: 2023-09-29T16:04:18.803Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T17:13:17.934Z
