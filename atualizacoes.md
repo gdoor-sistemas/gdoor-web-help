@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-09-21T11:25:22.625Z
+date: 2023-10-02T11:16:11.523Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 56
-- Ajustes: 248
+- Novidades: 63
+- Ajustes: 271
 
-**Total: 304**
+**Total: 334**
 
 --- 
 
@@ -23,6 +23,43 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/09/2023
+f2.10.37, b3.9.77 {.versions}
+
+## Novidades
+- Adicionada a opção “Não informar pagamentos” nas configurações da NF-e.
+- Unificado o envio do XML do mês para os módulos de NF-e, NFC-e, CT-e e NFS-e.
+- Adicionado ao DACT-e a unidade de medida Litros.
+- Adicionada opção para somar o valor de ICMS no total de uma nota de compra através da importação de XML.
+- Criada configuração para impressão de MD-e na compra.
+- Incluso na compra um campo para informar a chave do documento de entrada.
+- Adicionado filtro de múltipla escolha no relatório de Plano de Contas para o centro de custos e plano de contas.
+
+## Ajustes
+- Ajustados os filtros do cadastro de produtos.
+- Corrigido o estorno de pagamentos para apresentar o valor atualizado no relatório de Fluxo de Caixa.
+- Ajustado criação de contas financeiras com valor para apresentar os valores correspondentes no relatório de Fluxo de Caixa.
+- Corrigida NF-e de devolução com produtos que contenham número de série.
+- Ajustado falhas no estorno de parcelas que haviam sido recebidas parcialmente.
+- Corrigida permissão de cancelamento de CT-e para que outros perfis de usuários também possa efetuar o cancelamento.
+- Revisado filtros do relatório de Total de Vendas por meio de Pagamento.
+- Ajustado na geração do Sintegra o registro de notas de complemento e notas de ajuste.
+- Ajustado campo série da NFS-e para aceitar letras e números.
+- Ajustada edição de produtos com ANP para apresentar os campos correspondentes.
+- Corrigida falha na geração de CT-es sem destinatário.
+- Corrigido cálculo do FCP ST.
+- Alterada forma de tratamento do campo logradouro no envio da NFS-e.
+- Ajustada falha na edição das propriedades da grade em produtos com grade.
+- Ajustada forma de pagamento para que seja atualizada automaticamente no PDV.
+- Ajustada pré-vendas para respeitar as configurações de Movimentar estoque e Gerar financeiro mesmo depois de gerada a PV.
+- Corrigida mensagem de erro ao editar perfil do usuário.
+- Ajustada geração de XML de notas inutilizadas.
+- Ajustada na nota de importação a geração das tags referentes ao IPI.
+- Ajustada na NF-e a venda de produtos com número de série para que ao duplicar não permita a venda do produto com o mesmo número de série da nota original.
+- Ajustada geração do registro 70 do Sintegra referente ao CT-e de entrada.
+- Ajustada falha ao consultar o MD-e quando o módulo de NF-e não está habilitado.
+- Ajustadas configurações de desoneração ao editar uma nota.
+
 # 20/09/2023
 f2.10.36, b3.9.76 {.versions}
 
