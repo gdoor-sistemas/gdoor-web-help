@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-03T11:32:48.044Z
+date: 2023-10-03T11:58:25.963Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -42,24 +42,39 @@ Os **widgets** são as sessões que separam cada **gráfico**, dentro deles exis
 
 ![Widget de exemplo](/dashboard/grafico_opcoes_exemplo.png)
 
-As **opções dos gráficos** são:
+As **opções** internas de cada gráfico são:
 
-### Informações
+### <span class="mdi mdi-information"></span> Informações
 
-Clique para exibir uma caixa de diálogo explicando o conteúdo do gráfico.
+Clique para exibir uma **caixa de diálogo** explicando o conteúdo do gráfico.
 
-![Informações do gráfico de Documentos Fiscais Emitidos](/dashboard/informacoes_grafico.png)
+![Informações do gráfico](/dashboard/informacoes_grafico.png)
 
-### Relatório
+### <span class="mdi mdi-file-document"></span> Relatório
 
-Clique para ser redirecionado ao relatório correspondente ao gráfico.
+Clique para ser redirecionado ao **relatório** correspondente ao gráfico.
 
-![relatorios_grafico.gif](/dashboard/relatorios_grafico.gif)
+![Relatório do gráfico](/dashboard/relatorios_grafico.gif)
 
-### Detalhar
+### <span class="mdi mdi-launch"></span> Detalhar
 
-Clique para exibir uma caixa de diálogo detalhando os dados contidos nos gráficos.
+Clique para exibir uma caixa de diálogo **detalhando os dados contidos** nos gráficos.
 
+![Detalhes do gráfico](/dashboard/detalhar_grafico.png)
 
+### <span class="mdi mdi-filter"></span> Filtrar
 
-### Filtrar
+Clique para exibir uma caixa de diálogo com os **filtros disponíveis** para o relatório.
+
+![Filtros do gráfico](/dashboard/filtros_grafico.png)
+
+#### Filtros
+Os filtros ficam **disponíveis** de acordo com as opções contidas no **relatório do gráfico**. Caso o gráfico **não** tenha um **relatório** correspondente, os filtros são **específicos** dele.
+
+#### Configurações
+
+Nas **configurações** você pode alterar o **tipo do gráfico** entre, **pizza**, **donut**, **radial**, **linha** ou **barra**, de acordo com a **compatibilidade** do gráfico com o layout.
+
+### <span class="mdi mdi-refresh"></span> Recarregar
+
+Clique para **recarregar** e **atualizar** as informações do **widget**.
