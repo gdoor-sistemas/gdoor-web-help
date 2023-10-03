@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-03T12:12:25.607Z
+date: 2023-10-03T12:21:45.918Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -42,7 +42,7 @@ Ao deixar **marcado** apenas os **widgets** que deseja **visualizar**, clique em
 
 ## Os widgets
 
-Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para o **controle dos gráficos** e como são exibidos. Neste exemplo utilizaremos o gráfico de **"Documentos fiscais emitidos"** como exemplo.
+Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para o **controle dos gráficos** e como são exibidos. Neste exemplo utilizaremos o gráfico de **"Documentos fiscais emitidos"**.
 
 ![Widget de exemplo](/dashboard/grafico_opcoes_exemplo.png)
 
@@ -50,35 +50,38 @@ As **opções** internas de cada gráfico são:
 
 ### <span class="mdi mdi-information"></span> Informações
 
-Clique para exibir uma **caixa de diálogo** explicando o conteúdo do gráfico.
+Clique para exibir uma **caixa de diálogo** explicando o conteúdo do **widget**.
 
 ![Informações do gráfico](/dashboard/informacoes_grafico.png)
 
 ### <span class="mdi mdi-file-document"></span> Relatório
 
-Clique para ser redirecionado ao **relatório** correspondente ao gráfico.
+Clique para ser redirecionado ao **relatório** correspondente ao **widget**.
 
 ![Relatório do gráfico](/dashboard/relatorios_grafico.gif)
 
 ### <span class="mdi mdi-launch"></span> Detalhar
 
-Clique para exibir uma caixa de diálogo **detalhando os dados contidos** nos gráficos.
+Clique para exibir uma caixa de diálogo **detalhando os dados contidos** no **widget**.
 
 ![Detalhes do gráfico](/dashboard/detalhar_grafico.png)
 
 ### <span class="mdi mdi-filter"></span> Filtrar
 
-Clique para exibir uma caixa de diálogo com os **filtros disponíveis** para o relatório.
+Clique para exibir uma caixa de diálogo com os **filtros disponíveis** para o **widget**.
 
 ![Filtros do gráfico](/dashboard/filtros_grafico.png)
 
 #### Filtros
-Os filtros ficam **disponíveis** de acordo com as opções contidas no **relatório do gráfico**. Caso o gráfico **não** tenha um **relatório** correspondente, os filtros são **específicos** dele.
+Os filtros ficam **disponíveis** de acordo com as opções contidas no **relatório do gráfico**.
 
 #### Configurações
 
 Nas **configurações** você pode alterar o **tipo do gráfico** entre, **pizza**, **donut**, **radial**, **linha** ou **barra**, de acordo com a **compatibilidade** do gráfico com o layout.
-Além disso, em alguns **widgets** é possível alterar o **agrupamento** das informações.
+
+Além disso, em alguns **widgets** é possível alterar o **agrupamento** das informações. No **widget** de **documentos fiscais emitidos** estão disponíveis os agrupamentos de **valor total** e **quantidade**:
+- **Valor total**: O **widget** apresenta as **informações** com base nos **valores** dos documentos fiscais emitidos, separando por **documento**.
+- **Quantidade**: O **widget** apresenta as **informações** com base na **quantidade** de documentos fiscais emitidos, separando por **documento**.
 
 ### <span class="mdi mdi-refresh"></span> Recarregar
 
