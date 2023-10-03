@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-03T11:58:25.963Z
+date: 2023-10-03T12:00:10.862Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -74,6 +74,7 @@ Os filtros ficam **disponíveis** de acordo com as opções contidas no **relat�
 #### Configurações
 
 Nas **configurações** você pode alterar o **tipo do gráfico** entre, **pizza**, **donut**, **radial**, **linha** ou **barra**, de acordo com a **compatibilidade** do gráfico com o layout.
+Além disso, em alguns **widgets** é possível alterar o **agrupamento** das informações.
 
 ### <span class="mdi mdi-refresh"></span> Recarregar
 
