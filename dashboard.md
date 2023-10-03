@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-03T12:46:54.501Z
+date: 2023-10-03T12:47:49.445Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -80,8 +80,8 @@ Os filtros ficam **disponíveis** de acordo com as opções contidas no **relat�
 Nas **configurações** você pode alterar o **tipo do gráfico** entre, **pizza**, **donut**, **radial**, **linha** ou **barra**, de acordo com a **compatibilidade** do gráfico com o layout.
 
 Além disso, em alguns **widgets** é possível alterar o **agrupamento** das informações. No **widget** de **documentos fiscais emitidos** estão disponíveis os agrupamentos de **valor total** e **quantidade**:
-- **Valor total**: O **widget** apresenta as **informações** com base nos **valores** dos documentos fiscais emitidos, separando por **documento**.
-- **Quantidade**: O **widget** apresenta as **informações** com base na **quantidade** de documentos fiscais emitidos, separando por **documento**.
+- **valor total**: O **widget** apresenta as **informações** com base nos **valores** dos documentos fiscais emitidos, separando por **documento**.
+- **quantidade**: O **widget** apresenta as **informações** com base na **quantidade** de documentos fiscais emitidos, separando por **documento**.
 
 ### <span class="mdi mdi-refresh"></span> Recarregar
 
