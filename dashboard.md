@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-03T12:00:10.862Z
+date: 2023-10-03T12:12:25.607Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -10,21 +10,25 @@ dateCreated: 2023-10-02T19:51:39.356Z
 
 # Introdução
 
-Na tela inicial do **Gweb** é exibido o **dashboard** no qual é possível **visualizar** **rapidamente** dados **importantes** para o controle da **empresa**, o dashboard é **composto** por diversos **widgets**, que configuram **sessões** que separam cada **gráfico** e possuem **detalhamento próprio de informações**, **filtros** e **links para relatórios**.
+Na tela inicial do **Gweb** é exibido o **dashboard** no qual é possível **visualizar** **rapidamente** dados **importantes** para o controle da **empresa**. O dashboard é **composto** por diversos **widgets**, que configuram **sessões** que separam cada **gráfico** e possuem **detalhamento próprio de informações**, **filtros** e **links para relatórios**.
 
 ![Tela principal do dashboard](/dashboard/dashboard_main.png)
 
 ## Período Geral
 
-O filtro de **período geral** no canto irá **aplicar a seleção** para todos os **widgets** que consideram **períodos** para gerar o gráfico.
-Ao **selecionar** um período e clicar em <span class="mdi mdi-refresh"></span>, o sistema vai **recarregar os widgets com o período marcado**.
+O filtro de **período geral** no canto superior esquerdo é um **filtro geral** para os **gráficos**.
+Ao **selecionar** um período e clicar no ícone (<span class="mdi mdi-refresh"></span>), os widgets serão **recarregados** com base no **período selecionado**.
 
 ![Período Geral](/dashboard/período_geral.png)
 
 Os períodos disponíveis são: **Uma semana**, **1 mês**, **6 meses** e **1 ano**.
 
-## Visualização de widgets
-No canto **superior direito** clique no ícone <span class="mdi mdi-menu"></span> e selecione a opção **Lista de visualização** para alterar quais **gráficos** **aparecerão** no dashboard.
+## <span class="mdi mdi-bell"></span> Notificações
+
+Clique no ícone (<span class="mdi mdi-bell"></span>) para ser **redirecionado** ao menu de [mensagens](/usuario/mensagens) do Gweb.
+
+## <span class="mdi mdi-menu"></span> Visualização de widgets
+No canto **superior direito** clique no ícone (<span class="mdi mdi-menu"></span>) e selecione a opção **Lista de visualização** para alterar quais **widgets aparecerão** no dashboard.
 
 ![Visualização de widgets](/dashboard/visualizacao_widgets.png)
 
@@ -38,7 +42,7 @@ Ao deixar **marcado** apenas os **widgets** que deseja **visualizar**, clique em
 
 ## Os widgets
 
-Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para **controle dos gráficos** e como são exibidos. Neste exemplo utilizaremos o gráfico de **"Documentos fiscais emitidos"** como exemplo.
+Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para o **controle dos gráficos** e como são exibidos. Neste exemplo utilizaremos o gráfico de **"Documentos fiscais emitidos"** como exemplo.
 
 ![Widget de exemplo](/dashboard/grafico_opcoes_exemplo.png)
 
