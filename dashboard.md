@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: false
-date: 2023-10-02T21:00:10.911Z
+date: 2023-10-03T11:32:48.044Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -32,13 +32,34 @@ Ao deixar **marcado** apenas os **widgets** que deseja **visualizar**, clique em
 
 ### Movimentação dos widgets
 
-É possível **arrastar** os **widgets** para trocar eles de lugar e **deixá-los** na posição que achar melhor.
+É possível **arrastar** os **widgets** e **deixá-los** na posição que desejar.
 
 ![Alterar ordem dos widgets](/dashboard/alterar_ordem.gif)
 
 ## Os widgets
 
-Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para **controle dos gráficos** e como são exibidos, são elas:
+Os **widgets** são as sessões que separam cada **gráfico**, dentro deles existem diversas **opções** para **controle dos gráficos** e como são exibidos. Neste exemplo utilizaremos o gráfico de **"Documentos fiscais emitidos"** como exemplo.
 
-![grafico_opcoes_exemplo.png](/dashboard/grafico_opcoes_exemplo.png)
+![Widget de exemplo](/dashboard/grafico_opcoes_exemplo.png)
 
+As **opções dos gráficos** são:
+
+### Informações
+
+Clique para exibir uma caixa de diálogo explicando o conteúdo do gráfico.
+
+![Informações do gráfico de Documentos Fiscais Emitidos](/dashboard/informacoes_grafico.png)
+
+### Relatório
+
+Clique para ser redirecionado ao relatório correspondente ao gráfico.
+
+![relatorios_grafico.gif](/dashboard/relatorios_grafico.gif)
+
+### Detalhar
+
+Clique para exibir uma caixa de diálogo detalhando os dados contidos nos gráficos.
+
+
+
+### Filtrar
