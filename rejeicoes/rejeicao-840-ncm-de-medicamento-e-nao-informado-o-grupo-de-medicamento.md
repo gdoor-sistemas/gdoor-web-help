@@ -2,7 +2,7 @@
 title: Rejeição 840: NCM de medicamento e não informado o grupo de medicamento
 description: Veja como solucionar a rejeição 840: NCM de medicamento e não informado o grupo de medicamento no Gweb.
 published: true
-date: 2023-10-04T18:13:40.741Z
+date: 2023-10-05T11:57:27.068Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-10-04T17:29:44.124Z
@@ -22,6 +22,9 @@ Acesse o cadastro de [produtos](/cadastros/produtos) e **edite** o produto da no
 Dentro do formulário do produto, é necessário preencher os campos **Código de produto da ANVISA** e **preço máximo ao consumidor** dentro da sessão **informações ANVISA**, ambos destacados abaixo:
 
 ![Campos no formulário do produto](/tutoriais/rejeicoes/840/sol_rej_840_1.png)
+
+> **Para o preenchimento correto das informações ANVISA, é necessário o auxílio da contabilidade.**
+{.is-danger}
 
 Além disso, também é **obrigatório** informar o **lote** na venda para os produtos dentro dessa faixa de **NCM**.
 Para informar o lote no GWEB, após lançar o item no módulo [NF-e](/tutoriais/como-emitir-uma-nfe), ficará disponível a aba **rastreamento**:
