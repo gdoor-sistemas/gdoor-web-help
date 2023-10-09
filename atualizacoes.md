@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-10-09T11:37:07.069Z
+date: 2023-10-09T11:38:06.491Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -27,7 +27,7 @@ ir para [2021](#h-2021) {.goto}
 f2.11.0, b3.10.0 {.versions}
 
 ## Novidades
-Lançamento do Dashboard no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/dashboard).
+- Lançamento do Dashboard no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/dashboard).
 
 # 02/10/2023
 b3.9.78 {.versions}
