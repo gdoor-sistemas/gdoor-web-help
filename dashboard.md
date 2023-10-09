@@ -1,8 +1,8 @@
 ---
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
-published: false
-date: 2023-10-09T11:03:55.094Z
+published: true
+date: 2023-10-09T11:25:45.421Z
 tags: nf-e, tutorial, nfc-e, financeiro, pré-venda, dashboard
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
