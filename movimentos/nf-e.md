@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: false
-date: 2023-09-26T20:01:36.851Z
+date: 2023-10-09T13:58:49.833Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -357,6 +357,7 @@ Também é possível **clicar no ícone** <span class="mdi mdi-eye"></span> para
 ## Pagamentos
 
 Defina qual será a **forma de pagamento padrão** para a NF-e, caso a nota seja finalizada **sem nenhuma** forma de pagamento definida.
+Caso selecione a opção <span class="mdi mdi-checkbox-blank-outline"></span>**Não informar pagamentos**, o sistema deixará a NF-e **sem pagamento** por padrão.
 
 ![Pagamentos](/movimentos/nf-e/pagamento_padrao.png)
 
