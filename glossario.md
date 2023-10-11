@@ -2,7 +2,7 @@
 title: Glossário
 description: Definição de alguns nomes e siglas usados nas páginas desta ajuda
 published: true
-date: 2022-04-29T18:51:32.193Z
+date: 2023-10-11T13:57:26.506Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-22T17:53:25.624Z
@@ -20,19 +20,23 @@ O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo Gweb �
 
 ## CEST
 
-//
+**C**ódigo **E**specificador de **S**ubstituição **T**ributária. Essa informação é devida somente para os produtos que incidam em substituição tributária.
+
+## CFOP
+
+**C**ódigo **F**iscal de **O**perações e de **P**restações  é um código do sistema tributarista brasileiro, determinado pelo governo. É indicado nas emissões de notas fiscais, declarações, guias e escrituração de livros.
 
 ## CONFAZ
 
-//
+**Con**selho Nacional de Política **Faz**endária. Órgão responsável pela elaboração de políticas, procedimentos e normas de competência tributária dos estados.
 
 ## CSOSN
 
-//
+**C**ódigo de **S**ituação Tributária da **O**peração do **S**imples **N**acional. Código responsável por identificar as operações realizadas por empresas que pertencem ao regime do Simples Nacional.
 
 ## CST
 
-//
+**C**ódigo de **S**ituação **T**ributária. Código responsável por identificar as operações realizadas por empresas que pertencem ao regime Normal, determina a incidência do ICMS sobre um produto ou serviço.
 
 ## DANFe
 
@@ -45,11 +49,11 @@ O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo Gweb �
 
 ## FCP
 
-//
+**F**undo **C**ombate a **P**obreza, previsto no artigo 82 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, foi criado com a intenção de minimizar as desigualdades sociais nos estados brasileiros.
 
 ## GTIN
 
-//
+***G**lobal **T**rade **I**tem **N**umber*, sequência de números que são apresentados logo abaixo do código de barras, é um identificador para itens comerciais desenvolvido e controlado pela **GS1**.
 
 ## ICMS
 
