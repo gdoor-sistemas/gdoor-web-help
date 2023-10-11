@@ -2,7 +2,7 @@
 title: Glossário
 description: Definição de alguns nomes e siglas usados nas páginas desta ajuda
 published: true
-date: 2023-10-11T13:57:26.506Z
+date: 2023-10-11T14:01:18.935Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-22T17:53:25.624Z
@@ -40,12 +40,12 @@ O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo Gweb �
 
 ## DANFe
 
-**DANFe** é a sigla para Documento Auxiliar da Nota Fiscal eletrônica. A Nota Fiscal eletrônica é um documento de existência apenas digital. Já o DANFe, como o próprio nome diz, é um documento auxiliar para acompanhar o transporte das mercadorias. Ele não tem valor fiscal, pois pode ser facilmente forjado, mas tem informações que permitem acessar o documento válido no [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=completa).
+**DANFe** é a sigla para **D**ocumento **Au**xiliar da **N**ota **F**iscal **e**letrônica. A Nota Fiscal eletrônica é um documento de existência apenas digital. Já o DANFe, como o próprio nome diz, é um documento auxiliar para acompanhar o transporte das mercadorias. Ele não tem valor fiscal, pois pode ser facilmente forjado, mas tem informações que permitem acessar o documento válido no [Portal da NF-e](https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=completa).
 
 
 ## DANFCe
 
-**DANFCe** é a sigla para Documento Auxiliar da Nota Fiscal de Consumidor eletrônica. A NFC-e é um documento de existência apenas digital. Já o DANFCe, como o próprio nome diz, é um documento auxiliar que serve como comprovante para o consumidor. Ele contém a impressão de um link para consultar a NFC-e nos servidores da SEFAZ, codificado em um QRCode.
+**DANFCe** é a sigla para **D**ocumento **A**uxiliar da **N**ota **F**iscal de **C**onsumidor **e**letrônica. A NFC-e é um documento de existência apenas digital. Já o DANFCe, como o próprio nome diz, é um documento auxiliar que serve como comprovante para o consumidor. Ele contém a impressão de um link para consultar a NFC-e nos servidores da SEFAZ, codificado em um QRCode.
 
 ## FCP
 
