@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2023-09-20T14:01:54.358Z
+date: 2023-10-11T11:15:24.735Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -62,10 +62,11 @@ Após o preenchimento das informações, clique em <span class="mat-button mat-a
 # Contador
 
 Selecione o contador que irá ser referenciado na geração do [SPED FISCAL](/pt-br/arquivos-fiscais/sped), é necessário que a pessoa tenha o atributo [Contador](/pt-br/cadastros/pessoas#formulário).
+Também é possível definir em que **dia do mês** o sistema irá **notificar** o usuário para enviar os **documentos fiscais** a **contabilidade**.
 
 ![geral-contador.png](/config/gerais/geral-contador.png)
 
-Após selecionar a pessoa, clique em <span class="mat-button mdi "> salvar</span>.
+Após selecionar a pessoa, clique em <span class="mat-button mat-accent"> salvar</span>.
 
 # Comissões
 
