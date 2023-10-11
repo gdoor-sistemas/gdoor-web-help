@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-10-11T13:27:03.320Z
+date: 2023-10-11T13:52:58.999Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -17,11 +17,11 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 - [Rejeição 840 *NCM de medicamento e não informado o grupo de medicamento*](/pt-br/rejeicoes/rejeicao-840-ncm-de-medicamento-e-nao-informado-o-grupo-de-medicamento)
 {.links-list}
 ## NFC-e
+- [Rejeição 383 *Item com CSOSN indevido*](/pt-br/rejeicoes/rejeicao-383-item-com-csosn-indevido)
 - [Rejeição 464 *Código Hash no QR-code difere do calculado*](/pt-br/rejeicoes/rejeicao-464-codigo-hash-no-qr-code-difere-do-calculado)
 {.links-list}
 
 ## MDF-e
-- [Rejeição 383 *Item com CSOSN indevido*](/pt-br/rejeicoes/rejeicao-383-item-com-csosn-indevido)
 - [Rejeição 663 *Percurso informado inválido*](/pt-br/rejeicoes/rejeicao-663-percurso-informado-invalido)
 {.links-list}
 
