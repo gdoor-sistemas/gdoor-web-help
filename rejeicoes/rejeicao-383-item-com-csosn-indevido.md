@@ -2,7 +2,7 @@
 title: Rejeição 383: Item com CSOSN indevido
 description: Veja como solucionar a rejeição 383: Item com CSOSN indevido no Gweb.
 published: false
-date: 2023-10-11T12:58:47.284Z
+date: 2023-10-11T13:00:02.980Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-10-11T12:14:57.056Z
@@ -36,10 +36,10 @@ Localize o **cadastro do produto** e abra o cadastro dele clicando em <span clas
 
 ![Abrir o cadastro do produto](/tutoriais/rejeicoes/383/sol_1_rej_383.png)
 
-Dentro do **cadastro do produto**, desça até o final da página nas **regras de tributação** vinculadas ao produto.
+Dentro do **cadastro do produto**, desça até o final da página nas **regras de tributação** vinculadas a ele.
 Localize a regra para **consumidor final** que foi aplicada no produto na **NFC-e**.
 
-Neste exemplo, é a **regra** chamada **venda para consumo** que devemos alterar.
+Neste exemplo é a **regra** chamada **venda para consumo** que devemos alterar.
 
 ![Localizar a regra para consumidor](/tutoriais/rejeicoes/383/sol_2_rej_383.png)
 
@@ -52,7 +52,7 @@ Dentro do cadastro da regra, na aba número **4 - Impostos**, é necessário alt
 
 ![Alterar o CSOSN dentro da regra](/tutoriais/rejeicoes/383/sol_4_rej_383.png)
 
-Após alterar o **CSOSN**, clique em <span class="mat-button mat-accent">SALVAR</span> para gravar os dados.
+Após alterar o **CSOSN**, clique em <span class="mat-button mat-accent">SALVAR</span> para gravar os dados da regra de tributação.
 
 > Na **NFC-e** é necessário **remover** o item e **inserir novamente** para **aplicar** as alterações feitas na **regra de tributação**.
 {.is-warning}
