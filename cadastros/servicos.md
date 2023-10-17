@@ -2,7 +2,7 @@
 title: Cadastro de serviços
 description: Veja como cadastrar serviços no Gweb
 published: true
-date: 2022-04-29T18:53:00.141Z
+date: 2023-10-17T14:45:38.207Z
 tags: cadastros, serviços
 editor: markdown
 dateCreated: 2020-09-03T20:30:32.639Z
@@ -25,12 +25,22 @@ Para adicionar um serviço, clique no botão de adição (<em class="mdi mdi-plu
 
 A tela "**novo serviço**" será aberta:
 
-![2.png](/cadastros/serviços/2.png)
+![2.png](/cadastros/serviços/campos-cadastro-servico.png)
 
 Efetue a **identificação** do serviço:
 - **Nome do serviço**: informe a descrição desejada;
 - **Código de atividade**: selecione o código de atividade do serviço;
-- **Valor do serviço**: preço a ser cobrado pelo serviço.
+- **CNAE**: é o código da Classificação Nacional de Atividades Econômicas que deve ser utilizado junto ao serviço;
+- **Valor do serviço**: preço a ser cobrado pelo serviço;
+<!-- 
+Campo comentado pois ele ainda não funciona no sistema
+- **Comissão**: percentual de comissão do serviço; 
+-->
+- **Código do serviço no município**: de uso exclusivo da NFS-e, é o código específico do serviço na prefeitura;
+- **Regra de tributação**: A regra de tributação que o serviço vai utilizar.
+
+> Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
+{.is-info}
 
 Após o preenchimento, clique em <span class="mat-button mdi "> salvar</span>  para que o serviço seja adicionado.
 
@@ -46,8 +56,6 @@ Ao clicar sobre um serviço cadastrado, algumas informações serão exibidas, s
 
 ![4.png](/cadastros/serviços/4.png)
 
-> Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
-{.is-info}
 
 
 
