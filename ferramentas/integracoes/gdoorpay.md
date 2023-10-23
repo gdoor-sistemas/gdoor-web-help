@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-05-23T19:04:11.899Z
+date: 2023-10-23T13:20:11.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -52,7 +52,7 @@ Acesse a **loja de aplicativos** no seu **POS Vero Smart**, pesquise por **"Gdoo
 
 Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes opções para ativação:
 
-<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"PDV Gweb"</strong>. </li>
+<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"Gweb"</strong>. </li>
 <li><strong>Nome do terminal:</strong> cadastre um nome com até 30 caracteres, para a identificação do dispositivo.</li>
 
 ![ativacao Gweb](/config/ferramentas/ativacao-web3.png)
