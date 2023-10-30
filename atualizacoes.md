@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-10-16T11:04:24.079Z
+date: 2023-10-30T11:27:12.517Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 64
-- Ajustes: 274
+- Novidades: 68
+- Ajustes: 289
 
-**Total: 338**
+**Total: 357**
 
 --- 
 
@@ -23,6 +23,32 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 28/10/2023
+f2.11.1, b3.10.3 {.versions}
+
+## Novidades
+- Criada uma nova coluna no relatório de Contas a Pagar, agora será possível ver o número da nota, modelo e série.
+- Inseridas duas novas instituições de pagamento: CloudWalk e SumUp.
+- Inserido no DAMDF-e o campo Seguradora.
+- Criada permissão para vendas que excedem o limite de crédito.
+
+## Ajustes
+- Ajustado no arquivo XML do mês a geração das notas inutilizadas na NFC-e.
+- Ajustada descrição do produto ao desvincular o produto na nota de compra.
+- Ajustado o relatório de Margem de Lucro sobre Preço de Venda que estava apresentando divergências nos campos de lucro bruto e margem.
+- Ajustada falha na consulta da NFS-e no município de Vitória/ES.
+- Ajustado o fator de conversão nas notas de compra e no cadastro do produto para não aceitar valores abaixo de 1.
+- Ajustados os níveis e subníveis do relatório de Plano de Contas para exportação do arquivo em CSV.
+- Ajustado relatório de Inventário de Estoque no modelo “para impressão” que quando salvo em CSV ficava desconfigurado.
+- Corrigida a gravação dos dados na configuração do e-mail padrão no MDF-e.
+- Ajustada nas configurações do MD-e o NSU zero.
+- Ajustado botão de remover vínculos do produto no lançamento de um XML de compra.
+- Corrigido o número de série em vendas originárias de pedidos de venda.
+- Ajustado número de série que estava duplicando ao ser excluído e na sequência incluso novamente.
+- Ajustado filtros do relatório de Auditoria.
+- Ajustado botão “Prosseguir” em vendas feitas por usuários que não tem perfil de administrador.
+- Ajustada mensagem de limite de crédito excedido que estava sendo exibida para todas as formas de pagamento.
+
 # 16/10/2023
 b3.10.2 {.versions}
 
