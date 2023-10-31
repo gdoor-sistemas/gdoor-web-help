@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-10-30T18:36:10.478Z
+date: 2023-10-31T17:21:30.592Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 68
-- Ajustes: 291
+- Novidades: 69
+- Ajustes: 292
 
-**Total: 359**
+**Total: 361**
 
 --- 
 
@@ -23,6 +23,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 31/10/2023
+f2.11.2, b3.10.6 {.versions}
+
+## Novidades
+- Adicionada CST 61 e 02 para clientes do Simples Nacional.
+
+## Ajustes
+- Ajustado XML do mês para gerar pela data de emissão da NF-e.
+
 # 30/10/2023
 b3.10.4, b3.10.5 {.versions}
 
