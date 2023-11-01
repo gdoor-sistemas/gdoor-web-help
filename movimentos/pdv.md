@@ -1,9 +1,9 @@
 ---
 title: Ponto de venda
-description: Veja como funciona o módulo de PDV no Gweb
+description: Veja como funciona o módulo de PDV no Gweb - Pré-vendas e NFC-e
 published: true
-date: 2022-10-06T18:14:58.037Z
-tags: movimentos, nfc-e, estoque, visão geral
+date: 2023-11-01T12:47:22.295Z
+tags: estoque, movimentos, nfc-e, visão geral, pré-venda
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
 ---
@@ -12,26 +12,26 @@ dateCreated: 2020-08-05T19:18:19.255Z
 
 O módulo PDV é totalmente online, o que significa que será necessário ter uma conexão com a internet para utilizá-lo.
 
-No **PDV** é possível configurar o comportamento do sistema de acordo com a dinâmica de trabalho da sua empresa: emissão direta de **NFC-e**, ou emissão de **pré-venda** seguido de geração de **NFC-e** para finalização da venda.
+No **PDV** é possível configurar o comportamento do sistema de acordo com a dinâmica de trabalho da sua empresa: emissão direta de **NFC-e**, ou emissão de **pré-venda gerencial** seguido de geração de **NFC-e** para finalização da venda.
 Além disso, você também pode definir o momento em que será efetuada a **movimentação do estoque** e **geração dos registros financeiros**.
 
 O módulo foi desenvolvido visando a praticidade do uso, para que o operador possa utilizar as funções mais importantes sem utilizar o mouse e em modo **tela cheia**. Para entrar ou sair do modo tela cheia, você pode clicar no botão [<i class="mdi mdi-fullscreen"></i> ou <i class="mdi mdi-fullscreen-exit"></i>] na barra superior ou pressionar a tecla <kbd>F11</kbd>.
 
 ![PDV](/movimentos/pdv/pdv.png)
 
-# Pré-venda
+# Pré-venda gerencial Gerencial
 
-O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda** (que antecede a emissão do documento fiscal), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
-- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
+O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda gerencial** (que antecede a emissão do documento fiscal), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
+- **Apenas salvar**: selecionando esta opção, uma **pré-venda gerencial em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda gerencial**: ao selecionar esta opção, uma pré-venda gerencial será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
 
 > Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
-Todas as ações disponíveis para o **lançamento de pré-venda** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
+Todas as ações disponíveis para o **lançamento de pré-venda gerencial** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
-Para criar uma **nova pré-venda**, você pode:
+Para criar uma **nova pré-venda gerencial**, você pode:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do PDV;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso à lista, no painel lateral do PDV;
@@ -40,11 +40,14 @@ Para criar uma **nova pré-venda**, você pode:
 
 Todas as opções acima estão indicadas na imagem abaixo:
 
-![Opcões de criação de pré-venda](/movimentos/nfce/pdv_livre.png)
+![Opcões de criação de pré-venda gerencial](/movimentos/nfce/pdv_livre.png)
 
 ## Adicionar produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os **kits** de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
+
+> Inicialmente irão aparecer apenas **15** produtos, ao chegar no último produto, será carregado outros 15 e assim sucessivamente.
+{.is-info}
 
 ![Buscar produtos](/movimentos/pdv/adicionar_produto.png)
 
@@ -57,7 +60,7 @@ No cadastro de produtos há o campo [referência](https://help.gdoorweb.com.br/p
 
 Para adicionar o produto pela referência, basta digitar um ponto (.) e o código da referência, depois pressionar <kbd>Enter</kbd>.
 
-> É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na pré-venda.
+> É possível imprimir etiquetas com a referência em código de barras no padrão UPC, que aceita caracteres não numéricos. Se você gerar a etiqueta com o ponto e o código de referência, poderá usar o leitor de código de barras para adicionar o produto na pré-venda gerencial.
 {.is-success .gw .gw-tip}
 
 ### Preço de atacado
@@ -75,7 +78,7 @@ Os produtos com preço de atacado ficarão com a tag "**atacado**" na cor azul:
 
 ## Adicionar kits de produtos
 
-Caso possua [kits de produtos](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#kits) cadastrados, você poderá lançá-los na pré-venda. 
+Caso possua [kits de produtos](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#kits) cadastrados, você poderá lançá-los na pré-venda gerencial. 
 Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código numérico do kit e o sistema mostrará os resultados de kits encontrados:
 
 ![Buscar kits de produtos](/movimentos/pdv/adicionar_kitt.png)
@@ -85,7 +88,7 @@ Para isso, digite o caractere <kbd>+</kbd> seguido da descrição ou do código 
 
 ## Adicionar serviços
 
-Para adicionar serviços na pré-venda, você precisa habilitar o uso de serviços nas [configurações](https://help.gdoorweb.com.br/pt-br/configuracoes/geral#serviços) e depois [cadastrar os serviços](/cadastros/servicos).
+Para adicionar serviços na pré-venda gerencial, você precisa habilitar o uso de serviços nas [configurações](https://help.gdoorweb.com.br/pt-br/configuracoes/geral#serviços) e depois [cadastrar os serviços](/cadastros/servicos).
 
 Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no campo de busca, seguida da descrição ou do código numérico do serviço e o sistema mostrará os resultados dos serviços encontrados:
 
@@ -93,14 +96,14 @@ Para adicionar serviços, digite uma barra (<kbd>\\</kbd> ou <kbd>/</kbd>) no ca
 
 ## Informar vendedor
 
-Ao informar o vendedor na pré-venda, ele não ficará vinculado à venda como um todo, mas sim em cada item, sendo vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens lançados. 
+Ao informar o vendedor na pré-venda gerencial, ele não ficará vinculado à venda como um todo, mas sim em cada item, sendo vinculado aos próximos itens adicionados. Se o vendedor for alterado, o novo será vinculado aos próximos itens lançados. 
 Caso você não tenha adicionado o vendedor antes de adicionar os itens, poderá informá-lo no final da venda e o sistema sugerirá vinculá-lo a todos os itens sem vendedor.
 
-Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na pré-venda aberta. Em seguida clique em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>, escolha o desejado e clique em <span data-mat-button>Confirmar</span>.
+Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de opções (<em class="mdi mdi-dots-vertical"></em>) na pré-venda gerencial aberta. Em seguida clique em <span class="mat-button mdi mdi-badge-account">Alterar vendedor</span>, escolha o desejado e clique em <span data-mat-button>Confirmar</span>.
 
 ## Informar cliente
 
-Informar o cliente na pré-venda é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
+Informar o cliente na pré-venda gerencial é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
 
 Para informar o cliente, pressione a tecla <kbd>Ctrl</kbd> + <kbd>2</kbd>, em seguida clique em <kbd>INFORMAR CLIENTE</kbd>, busque um cliente ou cadastre um novo. 
 
@@ -114,7 +117,7 @@ Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida
 
 ![Finalizar venda](/movimentos/nfce/fina_venda.png)
 
-As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
+As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados no PDV](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
@@ -127,6 +130,8 @@ Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectiv
 > A opção de **pagamento PIX com geração de QR code** para leitura trata-se de um facilitador para agilizar a venda, **não é integrada com a conta**, sendo assim, **não haverá confirmação do recebimento na tela**.
 {.is-warning}
 
+Caso deseje configurar a **forma de pagamento pix** como mostrado acima, siga o nosso [passo a passo](/tutoriais/cadastrar-pix).
+
 O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode ser obrigatório informá-lo.
 
 # NFC-e
@@ -137,18 +142,14 @@ Veja uma série de vídeos que fornecem uma visão geral sobre o módulo de NFC-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtTr046tMpDsgQ9YIG1F3UEUSG7LX9w7Z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar **somente com emissão de NFC-e** (sem pré-venda), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione a opção "**gerar NFC-e**".
+O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar **somente com emissão de NFC-e** (sem pré-venda gerencial), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione a opção "**gerar NFC-e**".
 
 > Clique aqui para saber mais sobre as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-do-pdv) e [configurações da NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#configura%C3%A7%C3%B5es-da-nfc-e).
 {.is-info}
 
 Todas as ações disponíveis para o **lançamento de NFC-e** estão disponíveis por atalho e por algum lugar clicável na tela, possibilitando o uso prático tanto em um computador, mesmo que só com o teclado, quanto em um dispositivo com tela de toque, como um tablet, por exemplo.
 
-Se preferir, veja um vídeo que mostra alguns detalhes de como lançar uma NFC-e:
-
-<div class=text-center>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2PUfV6476j0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Se preferir, veja um vídeo que mostra alguns detalhes de [como fazer vendas na NFC-e](https://youtu.be/2PUfV6476j0) do GWEB:
 
 Para criar uma **nova NFC-e**, você pode:
 
@@ -164,6 +165,9 @@ Todas as opções acima estão indicadas na imagem abaixo:
 ## Adicionar produtos
 
 Você pode lançar um produto informando o **código**, **código de barras** ou buscando pela **descrição** (também serão considerados os kits de produtos). Se você digitar apenas números e pressionar <kbd>Enter</kbd> o sistema imediatamente tentará encontrar um produto com esse código ou com esse código de barras. Se digitar caracteres não numéricos, será feita uma busca e os resultados serão apresentados para você escolher:
+
+> Inicialmente irão aparecer apenas **15** produtos, ao chegar no último produto, será carregado outros 15 e assim sucessivamente.
+{.is-info}
 
 ![Buscar produtos](/movimentos/nfce/nfce-busca-produtos.png)
 
@@ -219,7 +223,7 @@ Para informar o vendedor, pressione a tecla <kbd>F6</kbd> ou acesse o menu de op
 
 ## Informar cliente
 
-Informar o cliente na pré-venda é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
+Informar o cliente na pré-venda gerencial é opcional. Além disso, se você quiser informar ou tiver no seu estado algum incentivo fiscal, é possível adicionar apenas o CPF do consumidor sem ele estar cadastrado.
 
 Para informar o cliente, pressione a tecla <kbd>Ctrl</kbd> + <kbd>2</kbd>, em seguida clique em <kbd>INFORMAR CLIENTE</kbd>, busque um cliente ou cadastre um novo. 
 
@@ -247,7 +251,7 @@ Ao clicar em "**finalizar**" a venda, a tela com os valores totais será exibida
 
 ![Finalizar venda](/movimentos/nfce/fina_venda.png)
 
-As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados na NFC-e](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
+As formas de [pagamentos](/cadastros/pagamentos) disponíveis serão exibidas de acordo com os [meios de pagamento configurados no PDV](https://help.gdoorweb.com.br/movimentos/pdv#meios-de-pagamento), basta utilizar a desejada: cartão, dinheiro, boleto...
 
 Ao selecionar a opção de pagamento "**PIX**" a mensagem será exibida:
 
@@ -264,33 +268,33 @@ O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode
 
 # Lista
 
-Na lista, você visualiza as pré-vendas e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza as pré-vendas gerenciais e NFC-e emitidas, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) informações para visualizar apenas dados pertinentes ao que você precisa.
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "**por página**", além de poder navegar entre elas **< >**.
 {.is-info}
 
 As informações mostradas variam de acordo com a **situação atual** e o **tipo de documento** exibido na lista do PDV, veja mais detalhes abaixo:
 
-### Pré-venda em aberto
+### Pré-venda gerencial em aberto
 
-Note que enquanto a pré-venda estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**".
+Note que enquanto a pré-venda gerencial estiver **em aberto** será possível **editá-la**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar**".
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-check"></em> concluir**   ou **<em class="mdi mdi-delete"></em> excluir** a pré-venda. 
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-check"></em> concluir**   ou **<em class="mdi mdi-delete"></em> excluir** a pré-venda gerencial. 
 
-![Pré-venda aberta](/movimentos/pdv/pv_aberta.png)
+![Pré-venda gerencial aberta](/movimentos/pdv/pv_aberta.png)
 
-### Pré-venda concluída
+### Pré-venda gerencial concluída
 
-Quando a pré-venda estiver **concluída**, ela **não poderá** mais ser editada. 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda.
+Quando a pré-venda gerencial estiver **concluída**, ela **não poderá** mais ser editada. 
+Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-qrcode"></em> gerar NFC-e** ou **<em class="mdi mdi-printer"></em> imprimir** a pré-venda gerencial.
 
 A [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **podem ou não ser efetuadas** nesta etapa, de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#comportamento) selecionada.
 
-![Pré-venda concluída](/movimentos/pdv/pv_concluida.png)
+![Pré-venda gerencial concluída](/movimentos/pdv/pv_concluida.png)
 
 ### Autorizado o uso da NFC-e
 
-Nesta etapa as edições não são permitidas. Se a [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
+Nesta etapa as edições não são permitidas. Se a [movimentação do estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e [geração do financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) **não tiver ocorrido ao concluir a pré-venda gerencial**, ela ocorrerá nesta etapa (ao emitir o documento fiscal).
 
 Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). 
 Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-content-copy"></em> copiar chave de acesso**, **<em class="mdi mdi-email"></em> enviar por e-mail**, **<em class="mdi mdi-file-pdf"></em> visualizar DANFCE**, **<em class="mdi mdi-xml"></em> visualizar XML**, **<em class="mdi mdi-download"></em> salvar documento** ou **<em class="mdi mdi-cancel"></em> cancelar NFC-e**.
@@ -319,42 +323,42 @@ Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em cla
 
 ## Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione várias **pré-vendas** ou **NFC-e** para executar uma ação com todas simultaneamente. 
+O modo de seleção múltipla permite que você selecione várias **pré-vendas gerenciais** ou **NFC-e** para executar uma ação com todas simultaneamente. 
 
 > As opções de seleção múltipla ficarão visíveis apenas se **todas as vendas selecionadas** pertencerem ao mesmo **tipo de documento** e possuírem a **mesma situação**.
-Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeitada**, as ações não estarão disponíveis, assim como se selecionar uma **pré-venda** e uma **NFC-e**.
+Por exemplo, se você selecionar uma **NFC-e autorizada** e outra **NFC-e rejeitada**, as ações não estarão disponíveis, assim como se selecionar uma **pré-venda gerencial** e uma **NFC-e**.
 {.is-success}
 
 Você pode ativar o modo de **seleção múltipla** utilizando a opção <em class="mdi mdi-checkbox-marked"></em> **marcar** ou clicando sobre o **campo imagem** a esquerda do documento (no caso de dispositivos touch dê um toque longo no item):
 
 ![Marcar item](/movimentos/pdv/marcar.gif)
 
-> Só é possível marcar as pré-vendas ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar).
+> Só é possível marcar as pré-vendas gerenciais ou NFC-e exibidas na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens exibidos por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar).
 {.is-info}
 
 As opções mostradas na seleção múltipla variam de acordo com a **situação atual** e o **tipo de documento** selecionado na lista do PDV, veja mais detalhes abaixo:
 
-**Seleção múltipla de pré-venda em aberto**{.subtitle}
+**Seleção múltipla de pré-venda gerencial em aberto**{.subtitle}
 
 As ações disponíveis são:
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![Seleção múltipla pré-venda em aberto](/movimentos/pdv/aberta.png)
+![Seleção múltipla pré-venda gerencial em aberto](/movimentos/pdv/aberta.png)
 
-**Seleção múltipla de pré-venda concluída**{.subtitle}
+**Seleção múltipla de pré-venda gerencial concluída**{.subtitle}
 
 As ações disponíveis são:
 - <em class="mdi mdi-qrcode"></em>: gerar NFC-e
 - <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
-![Seleção múltipla pré-venda concluída](/movimentos/pdv/concluid.png)
+![Seleção múltipla pré-venda gerencial concluída](/movimentos/pdv/concluid.png)
 
-> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
+> Ao **<em class="mdi mdi-qrcode"></em> gerar NFC-e** pelo modo de seleção múltipla, elas serão enviadas para processamento em segundo plano. Dependendo da quantidade, o processo poderá levar alguns minutos para ser concluído (veja como a opção [mesclar pré-venda gerencial](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#mesclar-pr%C3%A9-venda) pode acelerar essa rotina). Assim que forem processadas, seu sistema será notificado e elas serão atualizadas instantaneamente.
 > Ainda, enquanto as NFC-e estiverem aguardando processamento, elas terão um indicativo conforme a imagem abaixo:
 ![Indicativo de envio de NFC-e em segundo plano](/movimentos/nfce/nfce-envio-segundo-plano.png)
-Ao gerar NFC-e de múltiplas pré-vendas, com diferentes clientes informados, será informado apenas o primeiro cliente na NFC-e.
+Ao gerar NFC-e de múltiplas pré-vendas gerenciais, com diferentes clientes informados, será gerado gerado uma NFC-e para cada cliente distinto.
 {.is-info}
 
 **Seleção múltipla de NFC-e autorizado o uso**{.subtitle}
@@ -377,7 +381,7 @@ As ações disponíveis são:
 
 ## Buscar
 
-Para localizar alguma pré-venda ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
+Para localizar alguma pré-venda gerencial ou NFC-e rapidamente, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão para "**limpar a busca**" (<em class="mdi mdi-close"></em>). 
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
@@ -405,8 +409,8 @@ As opções de filtro são:
 - **Ambiente de emissão**;
 - **Espécie de pagamento**;
 - **Tipo de documento**;
-- <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda, essa pré-venda é ocultada da lista.
-Quando o **tipo de documento** filtrado for **pré-venda**, ao marcar esse checkbox, além das pré-vendas **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e (ocultas).
+- <em class="mdi mdi-checkbox-blank-outline"></em> **Incluir pré-vendas gerenciais com documento fiscal emitido**: quando uma NFC-e é gerada a partir de uma pré-venda gerencial, essa pré-venda gerencial é ocultada da lista.
+Quando o **tipo de documento** filtrado for **pré-venda gerencial**, ao marcar esse checkbox, além das pré-vendas gerenciais **em aberto** e **concluída**, também serão exibidas as que já geraram NFC-e (ocultas).
 
 Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
 
@@ -429,7 +433,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 # Configurações do PDV
 
-As configurações do PDV envolvem as emissões de pré-venda e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
+As configurações do PDV envolvem as emissões de pré-venda gerencial e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
 Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Comportamento
@@ -439,15 +443,15 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 ![Configurar comportamento do PDV](/movimentos/pdv/comportamento_pdv.png)
 
 ### Movimentar estoque?{.subtitle}
-Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda).
+Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando esta opção, a movimentação do estoque se dará na conclusão da pré-venda gerencial (posteriormente, ao emitir a NFC-e o estoque não será movimentado, pois a baixa já ocorreu na pré-venda gerencial).
 - **Não**: o estoque será movimentado ao emitir o documento fiscal.
-- **Sim**: o estoque será movimentado quando a pré-venda for concluída.
+- **Sim**: o estoque será movimentado quando a pré-venda gerencial for concluída.
 
 ### Gerar financeiro?{.subtitle}
 
-Por padrão, a geração dos registros financeiros ocorre na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda).
+Por padrão, a geração dos registros financeiros ocorre na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda gerencial (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda gerencial).
 - **Não**: os registros financeiros serão gerados ao emitir o documento fiscal.
-- **Sim**: os registros financeiros serão gerados quando a pré-venda for concluída.
+- **Sim**: os registros financeiros serão gerados quando a pré-venda gerencial for concluída.
 
 ### Solicitar cliente{.subtitle}
 
@@ -469,9 +473,9 @@ Com esta opção marcada, caso o valor da venda seja maior do que o valor config
 
 Esta configuração permite escolher o comportamento do sistema em relação às vendas:
 
-- **Apenas salvar**: selecionando esta opção, uma **pré-venda em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
+- **Apenas salvar**: selecionando esta opção, uma **pré-venda gerencial em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
 
-- **Concluir pré-venda**: ao selecionar esta opção, uma pré-venda será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e geração do [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
+- **Concluir pré-venda gerencial**: ao selecionar esta opção, uma pré-venda gerencial será **salva** e **concluída**, ela **não** poderá mais ser alterada. A movimentação do [estoque](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#movimentar-estoque) e geração do [financeiro](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#gerar-financeiro) dependerá da configuração selecionada. Será possível gerar uma NFC-e a partir dela.
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
@@ -479,18 +483,30 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 ![PDV perguntar sempre](/movimentos/pdv/o_que.gif)
 
-> É possível selecionar a opção desejada utilizando apenas as teclas no teclado <kbd>S</kbd> (apenas **s**alvar), <kbd>C</kbd> (**c**oncluir pré-venda) e <kbd>N</kbd> (gerar **N**FC-e), seguido de <kbd>Enter</kbd> para confirmar.
+> É possível selecionar a opção desejada utilizando apenas as teclas no teclado <kbd>S</kbd> (apenas **s**alvar), <kbd>C</kbd> (**c**oncluir pré-venda gerencial) e <kbd>N</kbd> (gerar **N**FC-e), seguido de <kbd>Enter</kbd> para confirmar.
 {.is-info}
 
-### Mesclar pré-venda{.subtitle}
+### Mesclar pré-venda gerencial{.subtitle}
 
-Selecione a rotina do Gweb ao converter várias pré-vendas em NFC-e: 
-- **Perguntar sempre**: ao selecionar esta opção, sempre será solicitado se deseja **mesclar as pré-vendas em uma única NFC-e**.
-- **Mesclar**: uma única NFC-e (por cliente) será gerada com todas as pré-vendas selecionadas.
-> Ao selecionar pré-vendas que tenham o **cliente informado** e pré-vendas para **consumidor final**, o sistema assumirá que são todas do mesmo cliente informado (mesclando as pré-vendas do cliente informado e do consumidor).
+Selecione a rotina do Gweb ao converter várias pré-vendas gerenciais em NFC-e: 
+- **Perguntar sempre**: ao selecionar esta opção, sempre será solicitado se deseja **mesclar as pré-vendas gerenciais em uma única NFC-e**.
+- **Mesclar**: uma única NFC-e (por cliente) será gerada com todas as pré-vendas gerenciais selecionadas.
+> Ao selecionar pré-vendas gerenciais que tenham o **cliente informado** e pré-vendas gerenciais para **consumidor final**, o sistema assumirá que são todas do mesmo cliente informado (mesclando as pré-vendas gerenciais do cliente informado e do consumidor).
 {.is-info}
 
-- **Não mesclar**: uma NFC-e por pré-venda será gerada em segundo plano. Você poderá continuar utilizando o sistema normalmente enquanto as NFC-e são geradas.
+- **Não mesclar**: uma NFC-e por pré-venda gerencial será gerada em segundo plano. Você poderá continuar utilizando o sistema normalmente enquanto as NFC-e são geradas.
+
+### Tabela de preços{.subtitle}
+
+Defina o comportamento padrão para as tabelas de preços, é necessário [cadastrar uma tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços) anteriormente:
+- **Não utilizar**: não utilizar tabela de preços no PDV;
+- **Perguntar ao iniciar***: perguntar qual tabela de preços que o cliente quer utilizar ao iniciar a venda no PDV, ele pode optar por **Não utilizar tabela de preço**;
+
+![Opção perguntar ao iniciar](/movimentos/pdv/perguntar-ao-iniciar.png)
+
+- **Iniciar com padrão**: Iniciar com uma tabela de preço padrão, ao selecionar essa opção, irá habilitar o quadro da **Tabela de preços padrão**.
+
+![Tabela de preços padrão](/movimentos/pdv/tabela-de-precos-padrao.png)
 
 ## Financeiro
 
@@ -515,7 +531,7 @@ Nesta seção você pode informar uma mensagem a ser impressa junto com as infor
 
 ## Sangria e suprimento
 
-Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da [lista de sangria/suprimento](../nfc-e/sangria-suprimento#lista) do dia.
+Nesta seção você pode configurar o sistema para abrir a janela de impressão do comprovante de sangria/suprimento logo após a sua emissão. Você ainda poderá imprimir posteriormente o comprovante a partir da **lista de sangria/suprimento do dia**.
 
 ![Configurações de sangria e suprimento](/movimentos/nfce/nfce-configurar-sangria-suprimento.png)
 
@@ -527,7 +543,7 @@ Nesta seção você pode definir como tratar o intermediado ao converter em NFC-
 
 ## Preferências de impressão
 
-Nesta seção você pode definir as configurações de impressão da pré-venda, quais informações serão impressas.
+Nesta seção você pode definir as configurações de impressão da pré-venda gerencial, quais informações serão impressas.
 
 ![Preferências de impressão](/movimentos/pdv/pref_impressao.png)
 
@@ -543,10 +559,7 @@ Nesta seção você configura a natureza da operação que será aplicada às no
 
 ## Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de NFC-e. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> salvar</span>.
-Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
-
-![Configuração do certificado digital na NFC-e](/movimentos/nfce/nfce-configurar-certificado.png)
+Para configurar o certificado digital para emissão de NFC-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
 
 ## Ambiente da NFC-e
 
@@ -570,7 +583,7 @@ Forma de emissão{.subtitle}
 
 Neste campo você pode configurar a forma de emissão da NFC-e para: 
 - **Normal**: emissão mais comum, sem condições específicas.
-- **Contingência offline**: emissão da NFC-e em modo offline, para quando o servidor da [SEFAZ](/glossario#sefaz) estiver indisponível. [Entenda melhor](./contingencia).
+- **Contingência offline**: emissão da NFC-e em modo offline, para quando o servidor da [SEFAZ](/glossario#sefaz) estiver indisponível.
 
 Token ID{.subtitle}
 
