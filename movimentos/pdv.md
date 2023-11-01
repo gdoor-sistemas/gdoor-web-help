@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV no Gweb - Pré-vendas gerenciais e NFC-e
 published: true
-date: 2023-11-01T12:52:45.754Z
+date: 2023-11-01T16:48:18.109Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -19,7 +19,7 @@ O módulo foi desenvolvido visando a praticidade do uso, para que o operador pos
 
 ![PDV](/movimentos/pdv/pdv.png)
 
-# Pré-venda gerencial Gerencial
+# Pré-venda gerencial
 
 O comportamento do sistema ao efetuar uma venda será de acordo com as configurações efetuadas na seção [ação ao salvar a venda](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda). Se desejar trabalhar com **emissão de pré-venda gerencial** (que antecede a emissão do documento fiscal), na [configuração](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#a%C3%A7%C3%A3o-ao-salvar-a-venda) selecione uma das opções:
 - **Apenas salvar**: selecionando esta opção, uma **pré-venda gerencial em aberto** será salva, sendo que a mesma poderá ser **alterada** e **concluída** posteriormente.
