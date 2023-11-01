@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2023-09-19T11:17:20.447Z
+date: 2023-11-01T12:32:00.573Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -142,9 +142,9 @@ Visível para os pedidos de venda com status aberto. Direciona para geração de
 
 Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/movimentos/pdv/formulario#criando-uma-nfc-e).
 
-<span class="mat-button mdi mdi-cash-register"> gerar Pré-venda</span>
+<span class="mat-button mdi mdi-cash-register"> gerar pré-venda gerencial</span>
 
-Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [Pré-venda](/pt-br/movimentos/pdv#pré-venda).
+Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [pré-venda gerencial](/pt-br/movimentos/pdv#pré-venda gerencial).
 
 <span class="mat-button mdi mdi-content-duplicate"> duplicar</span>
 
@@ -172,7 +172,7 @@ Visível apenas para NFC-e faturadas. Possibilita a visualização da NFC-e.
 
 ### Seleção múltipla
 
-O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span>, <span class="mat-button mdi "> gerar nfc-e</span> e <span class="mat-button mdi"> gerar Pré-venda</span>.  
+O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span>, <span class="mat-button mdi "> gerar nfc-e</span> e <span class="mat-button mdi"> gerar pré-venda gerencial</span>.  
 Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) do pedido de venda na opção <span class="mat-button mdi mdi-check"> Selecionar</span>, ou no caso de dispositivos de toque, dar um toque longo no item.
 
 ![](/movimentos/pedidos/selecionar.png)
@@ -185,7 +185,7 @@ As ações disponíveis conforme indicado na imagem acima são:
 1. Caixa que permite marcar/desmarcar todos os pedidos de venda em exibição na página;  
 2. Gerar NF-e para os pedidos de venda selecionados;  
 3. Gerar NFC-e para os pedidos de venda selecionados;
-3. Gerar Pré-venda para os pedidos de venda selecionados;
+3. Gerar pré-venda gerencial para os pedidos de venda selecionados;
 5. Excluir os pedidos de venda selecionados;
 6. Desmarcar todos e fechar o modo de seleção múltipla.  
 
