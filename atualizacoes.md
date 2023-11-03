@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-10-31T17:21:30.592Z
+date: 2023-11-03T19:58:44.081Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 69
-- Ajustes: 292
+- Ajustes: 293
 
-**Total: 361**
+**Total: 362**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/11/2023
+b3.10.7 {.versions}
+
+## Ajustes
+- Ajustada fila de envios de NFC-es em segundo plano.
+
 # 31/10/2023
 f2.11.2, b3.10.6 {.versions}
 
