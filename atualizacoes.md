@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-03T20:06:31.724Z
+date: 2023-11-14T11:46:36.459Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/11/2023
+b3.10.8 {.versions}
+
+## Ajustes
+- Ajustado fator de conversão dos produtos na compra para gravar o relacionamento do produto com o fornecedor, caso não houver, será buscado diretamente da unidade de medida do produto.
+
 # 03/11/2023
 b3.10.7 {.versions}
 
