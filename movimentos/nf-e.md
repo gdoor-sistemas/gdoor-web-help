@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-11-16T17:38:05.786Z
+date: 2023-11-16T17:42:47.171Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -248,13 +248,13 @@ Clicando nela, o sistema já irá importar os dados da nota fiscal original para
 
 ![Opção Complementar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_complementar.png)
 
-A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e Complementar**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
+A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e complementar**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
 
 ![Opções nova NF-e complemento](/movimentos/nf-e/opcoes_nova_nfe_complemento.png)
 
 ## Referenciar uma NF-e
 
-Insira os 44 dígitos da chave da NF-e. Esta etapa será **pulada** caso selecionar a opção **"Complementar (NF-e de Complemento)"** em uma nota fiscal.
+Insira os 44 dígitos da chave da NF-e. Esta etapa será **pulada** caso selecionar a opção **"complementar (NF-e de complemento)"** em uma nota fiscal.
 
 ![NF-e complemento passo 1](/movimentos/nf-e/nfe-complemento_passo_1.png)
 
@@ -278,11 +278,11 @@ Por fim, **revise as informações** e **transmita** a nota fiscal.
 
 # Relatórios
 
-Ao clicar na opção **“Relatórios”** você será redirecionado ao [**módulo de relatórios**](https://help.gdoorweb.com.br/pt-br/informacoes/relatorios) filtrando pela tag de NF-e.
+Ao clicar na opção **“relatórios”** você será redirecionado ao [**módulo de relatórios**](https://help.gdoorweb.com.br/pt-br/informacoes/relatorios) filtrando pela tag de NF-e.
 
 ![Menu relatórios](/movimentos/nf-e/menu_relatórios.png)
 
-# Inutilizar Numeração
+# Inutilizar numeração
 
 Ao clicar em **inutilizar numeração**, será aberta a tela de **inutilização de NF-es**. Informe a **série**, **número inicial e final** que deseja inutilizar e clique em <span class="mat-button mdi">CONFIRMAR</span>.
 
@@ -292,13 +292,13 @@ Também é possível ver as numerações que foram **inutilizadas** na opção <
 
 ![Numeros inutilizados](/movimentos/nf-e/numeros_inutilizados.png)
 
-# XML do Mês
+# XML do mês
 
-Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do Mês** no GWEB.
+Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
 
 ![XML do mês](/movimentos/nf-e/xml_do_mes.png)
 
-Você pode informar o **mês** que deseja separar os XML’s e abaixo marque se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo GWEB. caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
 
 # Configurações da NF-e
 
@@ -308,9 +308,9 @@ Configure a [**operação**](/pt-br/cadastros/operacoes) que será selecionada p
 
 ![Operação padrão](/movimentos/nf-e/operacao_padrao.png)
 
-## Certificado Digital
+## Certificado digital
 
-Para configurar o **certificado digital** para emissão de NF-e, acesse as [**Configurações Gerais**](/configuracoes/geral) do GWEB.
+Para configurar o **certificado digital** para emissão de NF-e, acesse as [**Configurações Gerais**](/configuracoes/geral) do Gweb.
 
 ## Ambiente da NF-e
 
@@ -332,13 +332,13 @@ Aqui é possível alterar **configurações da impressão do DANFe:**
 
 - **Orientação:** Se é paisagem ou retrato.
 - **Imprimir canhoto:** Ao marcar, será impresso o **canhoto** no topo do DANFe.
-- **Imprimir impostos opcionais no produto:** Ao desmarcar, **não será impresso** os Impostos opcionais abaixo do nome do produto.
+- **Imprimir impostos opcionais no produto:** Ao desmarcar, **não será impresso** os impostos opcionais abaixo do nome do produto.
 
 Também é possível alterar a **fonte**, **posição da logomarca** e a **quantidade de casas decimais** que será impresso para **preço** e **quantidade**.
 
 ![Impressão do DANF-e](/movimentos/nf-e/impressao_do_danfe.png)
 
-## Outras Configurações
+## Outras configurações
 
 Outras configurações referentes a **emissão da nota fiscal.**
 **Adicionar valor das retenções às informações adicionais:** Caso marcada, as informações adicionais serão preenchidas com o valor das retenções.
