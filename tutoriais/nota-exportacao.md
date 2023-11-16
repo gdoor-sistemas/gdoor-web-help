@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-16T14:09:49.165Z
+date: 2023-11-16T14:13:37.128Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -73,4 +73,26 @@ Caso não tenha certeza de qual é a unidade de medida tributável do produto, �
 
 # Lançamento
 
+## Natureza da operação
+
+## Cliente
+
+## Produto
+
+### Identificação
+
+### Tributos
+
+## Pagamento e finalização
+
 # Conclusão
+O processo para o **lançamento** de uma **nota de exportação de mercadorias** no GWEB é esse, ao **transmitir a nota**, será gerado o **financeiro** no módulo [**receitas**](/financeiro/receitas) e **sairá** do seu estoque a **quantidade** declarada na nota fiscal.
+
+Para ver mais detalhes sobre cada módulo envolvido neste processo, acesse os tópicos:
+
+- [Operações](/pt-br/cadastros/operacoes)
+- [Regras de tributação](/configuracoes/impostos/regras-de-tributacao)
+- [Pessoas](/pt-br/cadastros/pessoas)
+- [Produtos](/pt-br/cadastros/produtos)
+- [NF-e](/pt-br/tutoriais/como-emitir-uma-nfe)
+- [Receitas](/pt-br/financeiro/receitas)
