@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: true
-date: 2023-11-01T12:27:04.424Z
+date: 2023-11-16T17:28:24.826Z
 tags: nf-e, tutorial, nfc-e, financeiro, dashboard, pré-venda-gerencial
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -21,7 +21,7 @@ Ao **selecionar** um período e clicar no ícone (<span class="mdi mdi-refresh">
 
 ![Período Geral](/dashboard/período_geral.png)
 
-Os períodos disponíveis são: **uma semana**, **1 mês**, **6 meses** e **1 ano**.
+Os períodos disponíveis são: **1 semana**, **1 mês**, **6 meses** e **1 ano**.
 
 ## <span class="mdi mdi-bell"></span> Notificações
 
@@ -82,8 +82,8 @@ Os filtros ficam **disponíveis** de acordo com as opções contidas no **relat�
 Nas **configurações** você pode alterar o **tipo do gráfico** entre, **pizza**, **donut**, **radial**, **linha** ou **barra**, de acordo com a **compatibilidade** do gráfico com o layout.
 
 Além disso, em alguns **widgets** é possível alterar o **agrupamento** das informações. No **widget** de **documentos fiscais emitidos** estão disponíveis os agrupamentos de **valor total** e **quantidade**:
-- **valor total**: O **widget** apresenta as **informações** com base nos **valores** dos documentos fiscais emitidos, separando por **documento**.
-- **quantidade**: O **widget** apresenta as **informações** com base na **quantidade** de documentos fiscais emitidos, separando por **documento**.
+- **Valor total**: o **widget** apresenta as **informações** com base nos **valores** dos documentos fiscais emitidos, separando por **documento**.
+- **Quantidade**: o **widget** apresenta as **informações** com base na **quantidade** de documentos fiscais emitidos, separando por **documento**.
 
 ### <span class="mdi mdi-refresh"></span> Recarregar
 
