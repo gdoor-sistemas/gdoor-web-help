@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-16T13:48:46.479Z
+date: 2023-11-16T14:08:11.194Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -47,7 +47,29 @@ Após finalizar o cadastro da operação, pode clicar em <span class="mat-button
 
 # Cadastrando o cliente
 
+Para cadastrar o cliente, é necessário primeiro acessar o menu de **pessoas** e no canto inferior direito clique em nova pessoa, conforme exibido abaixo.
+
+![Botão nova pessoa](/tutoriais/nota-exportacao/botao_nova_pessoa.png)
+
+No cadastro da pessoa que será o cliente, é necessário marcar a caixa de **cliente**, preencher o **nome** e alterar o campo do **país** para o **país correto do fornecedor**.
+Estas informações estão destacadas na imagem abaixo:
+
+![Campos do cadastro da pessoa](/tutoriais/nota-exportacao/cadastro_pessoa.png)
+
+> Note que ao alterar o **país**, o sistema exibe o campo **documento de identificação** (destacado acima). Este campo é **obrigatório** e corresponde a algum documento que identifique o cliente no país dele.
+{.is-info}
+
+Além do campo do país citado anteriormente, também é necessário preencher os dados de **endereço** do **cliente**.
+
 # Cadastrando o produto
+
+Para cadastrar o **produto** para uma **nota de exportação** basta seguir o [**cadastro de um produto**](/cadastros/produtos) comum.
+
+Dentro do cadastro do produto, deve atentar-se ao campo **unidade de medida tributável**, que fica dentro do ícone <span class="mdi mdi-plus"></span> ao lado da unidade de medida de venda, como destacado abaixo:
+
+![Cadastro do produto](/tutoriais/nota-exportacao/cadastro_produto.png)
+
+Caso não tenha certeza de qual é a unidade de medida tributável do produto, é possível realizar a consulta pelo NCM em um planilha disponibilizada pela secretaria da fazenda [aqui](https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=/NJarYc9nus=), localize por *Tabela de NCM e respectiva uTrib(Comércio Exterior)*.
 
 # Lançamento
 
