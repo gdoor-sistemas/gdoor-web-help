@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-16T14:16:04.602Z
+date: 2023-11-16T18:59:38.515Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -74,16 +74,51 @@ Caso não tenha certeza de qual é a unidade de medida tributável do produto, �
 # Lançamento
 
 ## Natureza da operação
+No **formulário da NF-e** o primeiro passo é alterar a **natureza da operação** para a natureza de **exportação de mercadorias**, cadastrada anteriormente.
+
+![Natureza de exportação](/tutoriais/nota-exportacao/natura_operacao_exportacao.png)
 
 ## Cliente
 
+Após selecionar a **operação**, selecione no campo correspondente o **cliente** criado anteriormente.
+
+![Cliente da exportação](/tutoriais/nota-exportacao/cliente_exportacao.png)
+
+> Dica:
+> Caso **não** consiga localizar o **cliente**, é possível que não tenha informado o **país** ou não o marcou como **cliente**, ambos no cadastro de [pessoas](/cadastros/pessoas).
+{.is-success}
+
 ## Produto
 
+Com o **cliente** e a **operação** selecionados, é possível incluir os **produtos** da exportação. Basta clicar no botão **adicionar produto** ou pelo atalho <kbd>INSERT</kbd> do teclado.
+
+Ao **selecionar** o produto da nota de exportação, serão exibidas as abas de: **identificação**, **tributos**, **D.I.** e **adicionais**.
+
 ### Identificação
+Na aba de **identificação**, ficam os dados da entrada do produto, como **quantidade**, **valor unitário**, **desconto** e **valor total do produto**.
+
+![Identificação do produto](/tutoriais/nota-exportacao/produto_exportacao_identificacao.png)
 
 ### Tributos
 
+Na aba de tributos, você pode preencher o **CFOP** da exportação, iniciado em **7**, os dados de **ICMS** serão puxados da **regra de tributação** cadastrada anteriormente.
+
+![Tributos do produto](/tutoriais/nota-exportacao/produto_exportacao_tributos.png)
+
+## Informações de exportação
+
+Em uma exportação, existem informações obrigatórias a serem preenchidas na nota fiscal, estas ficam no final da nota fiscal, são elas: **UF de embarque**, **Local do embarque** e **UF de despacho**.
+
+![informacoes_exportacao.png](/tutoriais/nota-exportacao/informacoes_exportacao.png)
+
 ## Pagamento e finalização
+
+Para finalizar, é possível informar os **dados de pagamento** conforme as [**formas de pagamento**](/cadastros/pagamentos) cadastradas anteriormente.
+
+Após o **pagamento**, clique em <span class="mat-button mat-accent">SALVAR</span> para **salvar** a nota fiscal e ter a possibilidade de pré-visualizar a **DANFE** e o **XML** da nota de exportação, ou clique em <span class="mat-button">SALVAR E TRANSMITIR</span> caso deseje **transmitir** a nota fiscal para a **SEFAZ**.
+
+> **É recomendado que você clique em <span class="mat-button mat-accent">SALVAR</span> e assim gerar o XML e a DANFE da nota de exportação, para verificar com a contabilidade se os dados estão corretos ou precisam de ajuste.**
+{.is-danger}
 
 # Conclusão
 O processo para o **lançamento** de uma **nota de exportação de mercadorias** no GWEB é esse, ao **transmitir a nota**, será gerado o **financeiro** no módulo [**receitas**](/financeiro/receitas) e **sairá** do seu estoque a **quantidade** declarada na nota fiscal.
