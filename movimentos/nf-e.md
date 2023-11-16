@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-10-09T14:07:58.522Z
+date: 2023-11-16T17:32:34.690Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T19:32:43.427Z
 
 # Introdução
 
-O módulo **NF-e** é o local onde são efetuadas as emissões das **Notas Fiscais Eletrônicas**, operações de **cancelamento**, **inutilização**, notas de **ajuste** ou de **complemento** e, por fim, a lista de **XML mensais**. 
+O módulo **NF-e** é o local onde são efetuadas as emissões das **Notas Fiscais eletrônicas**, operações de **cancelamento**, **inutilização**, notas de **ajuste** ou de **complemento** e, por fim, a lista de **XML mensais**. 
 O módulo é totalmente online, o que significa que será necessário ter uma conexão com a internet para utilizá-lo.
 
 > **Dica.**
@@ -31,7 +31,7 @@ O módulo NF-e possibilita localizar as notas emitidas através do campo de busc
 - **Usuário:** Selecione um [usuário](/configuracoes/usuarios) do sistema;
 - **Vendedor:** Selecione uma pessoa que possua o atributo [vendedor](/cadastros/pessoas);
 - **Status:** Selecione um dos status disponíveis nas suas notas fiscais, como autorizadas, canceladas, rejeitadas, etc.;
-- **Data inicial e final:** Selecione a data inicial ou final da **Emissão**;
+- **Data inicial e final:** Selecione a data inicial ou final da **emissão**;
 - **Ambiente de emissão:** Localize as nota de homologação e produção;
 - **Espécie de pagamento:** Selecione uma das [formas de pagamento](/cadastros/pagamentos) que foram utilizadas nas notas fiscais.
 
@@ -79,7 +79,7 @@ As ações de cada uma das opções são as seguintes:
 
 <span class="mdi mdi-file-check"></span> **Carta de Correção(CC-e)**: Abre a tela para incluir uma nova carta de correção para a NF-e.
 
-<span class="mdi mdi-file-document-edit"></span> **Ajustar(NF-e de ajuste)**: Opção para o lançamento rápido da NF-e de ajuste.
+<span class="mdi mdi-file-document-edit"></span> **Ajustar (NF-e de ajuste)**: Opção para o lançamento rápido da NF-e de ajuste.
 
 <span class="mdi mdi-file-plus"></span> **Complementar (NF-e de complemento)**: Opção para o lançamento rápido da NF-e de complemento.
 
