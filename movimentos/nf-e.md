@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-11-16T17:46:04.589Z
+date: 2023-11-16T17:47:24.872Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -243,7 +243,7 @@ Por fim, **revise as informações** e **transmita** a nota fiscal.
 
 Caso seja necessário emitir uma **NF-e de complemento** para **complementar** algum valor da nota fiscal original, como **valor unitário**, **quantidade** ou **valor de ICMS**, no Gweb é possível lançar uma NF-e de de complemento de duas formas.
 
-A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá ter a opção **“complementar (NF-e de complemento)”**.
+A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá a opção **“complementar (NF-e de complemento)”**.
 Clicando nela, o sistema já irá importar os dados da nota fiscal original para a nota de complemento.
 
 ![Opção Complementar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_complementar.png)
