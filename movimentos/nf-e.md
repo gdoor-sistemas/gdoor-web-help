@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-11-16T17:32:34.690Z
+date: 2023-11-16T17:38:05.786Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -118,9 +118,9 @@ Caso selecione tabela de preço, aparecerá um campo para escolher a tabela de p
 
 ## Cliente
 
-Você pode selecionar o **cliente** da NF-e pesquisando pelo **nome**, **CPF/CNPJ**, **telefone** ou **e-mail**. Para ser selecionado, é necessário que o cliente tenha marcado o atributo [**Cliente**](/pt-br/cadastros/pessoas) no **cadastro de pessoa**.
+Você pode selecionar o **cliente** da NF-e pesquisando pelo **nome**, **CPF/CNPJ**, **telefone** ou **e-mail**. Para ser selecionado, é necessário que o cliente tenha marcado o atributo [**cliente**](/pt-br/cadastros/pessoas) no **cadastro de pessoa**.
 
-> Caso mude a **natureza de operação** para uma de entrada (como a compra de mercadorias, por exemplo), este campo mudará para **Fornecedor** e só buscará pessoas que estejam com o atributo [**Fornecedor**](/pt-br/cadastros/pessoas) marcado.
+> Caso mude a **natureza de operação** para uma de entrada (como a compra de mercadorias, por exemplo), este campo mudará para **fornecedor** e só buscará pessoas que estejam com o atributo [**fornecedor**](/pt-br/cadastros/pessoas) marcado.
 {.is-info}
 
 ![Cliente da NF-e.png](/movimentos/nf-e/cliente_nfe.png)
@@ -160,7 +160,7 @@ Você pode selecionar qualquer uma das [**formas de pagamentos**](/cadastros/pag
 
 ![Adicionar pagamentos](/movimentos/nf-e/adicionar_pagamentos.png)
 
-Caso o pagamento seja em **Pix**, é possível exibir o **Qr Code** clicando no ícone <span class="mdi mdi-qrcode"></span> ao lado da conta financeira.
+Caso o pagamento seja em **PIX**, é possível exibir o **Qr Code** clicando no ícone <span class="mdi mdi-qrcode"></span> ao lado da conta financeira.
 
 ![Adicionar pagamento por Pix](/movimentos/nf-e/adicionar_pagamentos_pix.png)
 
@@ -171,11 +171,11 @@ Caso a mercadoria da NF-e passe por uma [**transportadora**](/cadastros/pessoas)
 
 ![Transporte](/movimentos/nf-e/transporte.png)
 
-Caso o tipo de frete seja diferente de **Sem transporte** o sistema mostrará os campos de [veículos](/cadastros/veiculos) (<span class="mdi mdi-truck"></span>) e volumes (<span class="mdi mdi-package"></span>) para serem incluídos.
+Caso o tipo de frete seja diferente de **sem transporte** o sistema mostrará os campos de [veículos](/cadastros/veiculos) (<span class="mdi mdi-truck"></span>) e volumes (<span class="mdi mdi-package"></span>) para serem incluídos.
 
 ![Adicionar Volume e veículo](/movimentos/nf-e/volume_veiculos.png)
 
-Além disso, logo abaixo dos [veículos](/cadastros/veiculos) e **volumes** o campo [**Transportadora**](/cadastros/pessoas) também aparecerá, nele você pode selecionar qualquer pessoa com o atributo [**transportadora**](/cadastros/pessoas) para ser o responsável pelo transporte da mercadoria.
+Além disso, logo abaixo dos [veículos](/cadastros/veiculos) e **volumes** o campo [**transportadora**](/cadastros/pessoas) também aparecerá, nele você pode selecionar qualquer pessoa com o atributo [**transportadora**](/cadastros/pessoas) para ser o responsável pelo transporte da mercadoria.
 
 ![Transportadora NF-e](/movimentos/nf-e/transportadora_nfe.png)
 
@@ -191,7 +191,7 @@ Caso você tenha **outras obrigações tributárias** que deve destacá-las para
 
 ## Download do XML - CNPJ/CPF Autorizados
 
-Nesta sessão é possível visualizar os **CNPJ/CPF’s autorizados a baixar o XML** ou **incluir novos**. Você pode configurar isso previamente nas [**Configurações da NF-e**](#Configurações).
+Nesta sessão é possível visualizar os **CNPJ/CPF’s autorizados a baixar o XML** ou **incluir novos**. Você pode configurar isso previamente nas [**configurações da NF-e**](#Configurações).
 
 ![Download do XML CNPJ/CPF's autorizados](/movimentos/nf-e/download_xml_cpf_cnpj_autorizados.png)
 
@@ -207,18 +207,18 @@ Para isto basta clicar no ícone <svg xmlns="http://www.w3.org/2000/svg" width="
 
 # NF-e de ajuste
 Caso seja necessário emitir uma **NF-e de ajuste**, para **ajustar algum valor da nota fiscal original** ou para uma **operação de estorno de NF-e**, é possível lançar uma NF-e de ajuste no GWEB de **duas formas**.
-A forma **mais rápida** é na própria **nota fiscal emitida no GWEB**, ao clicar nas **opções** da nota fiscal, terá a opção **“Ajustar (NF-e de Ajuste)”**.
+A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá a opção **“Ajustar (NF-e de ajuste)”**.
 Clicando nela, o sistema já irá **importar** os dados da nota fiscal original para a nota de ajuste.
 
 ![Opção Ajustar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_ajustar.png)
 
-A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e de Ajuste**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
+A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e de ajuste**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
 
 ![Opções nova NF-e ajuste](/movimentos/nf-e/opcoes_nova_nfe_ajuste.png)
 
 ## Referenciar uma NF-e
 
-Insira os 44 dígitos da chave da NF-e ou clique em **"Ajuste sem NF-e"**. Esta etapa será **pulada** caso selecionar a opção **"Ajustar (NF-e de Ajuste)"** em uma nota fiscal.
+Insira os 44 dígitos da chave da NF-e ou clique em **"ajuste sem NF-e"**. Esta etapa será **pulada** caso selecionar a opção **"ajustar (NF-e de ajuste)"** em uma nota fiscal.
 
 ![NF-e ajuste passo 1](/movimentos/nf-e/nfe-ajuste_passo_1.png)
 
@@ -241,9 +241,9 @@ Por fim, **revise as informações** e **transmita** a nota fiscal.
 
 # NF-e de complemento
 
-Caso seja necessário emitir uma **NF-e de complemento** para **complementar** algum valor da nota fiscal original, como **valor unitário**, **quantidade** ou **valor de ICMS**, no GWEB é possível lançar uma NF-e de de complemento de duas formas.
+Caso seja necessário emitir uma **NF-e de complemento** para **complementar** algum valor da nota fiscal original, como **valor unitário**, **quantidade** ou **valor de ICMS**, no Gweb é possível lançar uma NF-e de de complemento de duas formas.
 
-A forma **mais rápida** é na própria **nota fiscal emitida no GWEB**, ao clicar nas **opções** da nota fiscal, terá ter a opção **“Complementar (NF-e de Complemento)”**.
+A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá ter a opção **“complementar (NF-e de complemento)”**.
 Clicando nela, o sistema já irá importar os dados da nota fiscal original para a nota de complemento.
 
 ![Opção Complementar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_complementar.png)
