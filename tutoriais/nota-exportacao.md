@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-16T12:49:42.263Z
+date: 2023-11-16T13:48:46.479Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -15,7 +15,7 @@ Abaixo segue um passo a passo de como emitir esta nota fiscal no GWEB.
 
 # Cadastrando a regra de tributação
 
-Inicialmente é necessário realizar o cadastro da [Regra de tributação](/configuracoes/impostos/regras-de-tributacao), para isso, acesse o menu de configurações >> impostos.
+Inicialmente é necessário realizar o cadastro da [Regra de tributação](/configuracoes/impostos/regras-de-tributacao), para isso, acesse o menu de configurações >> impostos e clicar no botão na direita inferior (+).
 
 Dentro do cadastro de uma nova regra, na aba de **identificação**, preencha o campo do **nome da regra** com um texto fácil de identificar o propósito da mesma, como **regra para exportação de mercadorias**.
 No campo **operação**, marque a opção **geral**.
@@ -33,6 +33,17 @@ Na aba de **impostos** teremos o campo do **CST** ou **CSOSN**. Caso a empresa s
 Após selecionar o CST ou CSOSN, pode clicar em <span class="mat-button mat-accent">SALVAR</span> no canto direito inferior e partir para o cadastro da operação.
 
 # Cadastrando a operação
+
+Com o cadastro da **regra de tributação** finalizado, é possível iniciar o cadastro da **operação de exportação**, para isso, basta acessar o menu de Cadastros >> Operações e clicar no botão na direita inferior (+).
+
+Dentro do cadastro da operação, no campo **nome da operação**, deve escrever o texto completo da operação, como por exemplo **exportação de mercadorias**.
+Para esta operação também devemos marcar as opções de **saída** e **exportação**.
+
+Além disso, na parte de tributação, devemos selecionar a regra de tributação criada anteriormente, como mostrado abaixo:
+
+![Cadastro da operação](/tutoriais/nota-exportacao/cadastro_operacao.png)
+
+Após finalizar o cadastro da operação, pode clicar em <span class="mat-button mat-accent">SALVAR</span> e partir para o cadastro do cliente.
 
 # Cadastrando o cliente
 
