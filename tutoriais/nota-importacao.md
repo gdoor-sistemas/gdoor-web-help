@@ -1,17 +1,17 @@
 ---
 title: Nota de importação de mercadorias
-description: Veja como emitir uma NF-e de importação de mercadorias no GWEB.
+description: Veja como emitir uma NF-e de importação de mercadorias no Gweb.
 published: true
-date: 2023-10-16T13:10:53.918Z
+date: 2023-11-16T17:55:27.241Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, importação
 editor: markdown
 dateCreated: 2023-09-22T16:50:02.813Z
 ---
 
 # Introdução
-O módulo de NF-e do GWEB atende a emissão de **notas fiscais eletrônicas de importação**, esse documento é necessário para que a mercadoria comprada de **fornecedores estrangeiros** seja **legalmente nacionalizada** para o estoque da empresa importadora, e permitir que seja feito o devido recolhimento dos impostos por parte dos órgãos fiscais brasileiros.
+O módulo de NF-e do Gweb atende a emissão de **Notas Fiscais eletrônicas de importação**, esse documento é necessário para que a mercadoria comprada de **fornecedores estrangeiros** seja **legalmente nacionalizada** para o estoque da empresa importadora, e permitir que seja feito o devido recolhimento dos impostos por parte dos órgãos fiscais brasileiros.
 
-Abaixo segue um **passo a passo** de como emitir esta nota fiscal no GWEB.
+Abaixo segue um **passo a passo** de como emitir esta nota fiscal no Gweb.
 
 # Cadastrando a operação
 
@@ -64,7 +64,7 @@ Após selecionar a **operação**, selecione no campo correspondente o **fornece
 ![Selecionar fornecedor na importação](/tutoriais/nota-importacao/fornecedor_importacao.png)
 
 > Dica:
-> Caso **não** consiga localizar o **fornecedor**, é possível que não tenha informado o **país** ou não o marcou como **fornecedor**, ambos no cadastro de [pessoa](/cadastros/pessoas).
+> Caso **não** consiga localizar o **fornecedor**, é possível que não tenha informado o **país** ou não o marcou como **fornecedor**, ambos no cadastro de [pessoas](/cadastros/pessoas).
 {.is-success}
 
 ## Produto
@@ -80,7 +80,7 @@ Na aba de **identificação**, ficam os dados da entrada do produto, como **quan
 
 ### Tributos
 
-Na aba de tributos, você pode preencher o **CFOP**, os dados de **ICMS**, **IPI**, **PIS/COFINS** e **II(Imposto de Importação)**.
+Na aba de tributos, você pode preencher o **CFOP**, os dados de **ICMS**, **IPI**, **PIS/COFINS** e **II (Imposto de Importação)**.
 
 ![Tributos parte 1 - ICMS e PIS/COFINS](/tutoriais/nota-importacao/tributos_parte_1_icms_pis_cofins.png)
 
@@ -89,7 +89,7 @@ Na aba de tributos, você pode preencher o **CFOP**, os dados de **ICMS**, **IPI
 
 ![Tributos parte 2 - IPI e II](/tutoriais/nota-importacao/tributos_parte_2_ipi_ii.png)
 
-### D.I. (declaração de importação)
+### D.I. (Declaração de Importação)
 
 Na aba de **D.I.** você pode incluir os dados de uma ou mais **declarações de importação**, bem como as **adições** de cada uma das **D.I.** da nota.
 
@@ -120,7 +120,7 @@ Após o **pagamento**, clique em <span class="mat-button mat-accent">SALVAR</spa
 
 # Conclusão
 
-O processo para o **lançamento** de uma **nota de importação de mercadorias** no GWEB é esse, ao **transmitir a nota**, será gerado o **financeiro** no módulo [**despesas**](/financeiro/despesas) e **entrará** no seu estoque a **quantidade** declarada na nota fiscal.
+O processo para o **lançamento** de uma **nota de importação de mercadorias** no Gweb é esse, ao **transmitir a nota**, será gerado o **financeiro** no módulo [**despesas**](/financeiro/despesas) e **entrará** no seu estoque a **quantidade** declarada na nota fiscal.
 
 Para ver mais detalhes sobre cada módulo envolvido neste processo, acesse os tópicos:
 
