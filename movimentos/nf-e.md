@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-11-16T17:42:47.171Z
+date: 2023-11-16T17:46:04.589Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -171,7 +171,7 @@ Caso a mercadoria da NF-e passe por uma [**transportadora**](/cadastros/pessoas)
 
 ![Transporte](/movimentos/nf-e/transporte.png)
 
-Caso o tipo de frete seja diferente de **sem transporte** o sistema mostrará os campos de [veículos](/cadastros/veiculos) (<span class="mdi mdi-truck"></span>) e volumes (<span class="mdi mdi-package"></span>) para serem incluídos.
+Caso o tipo de frete seja diferente de **sem transporte**, o sistema mostrará os campos de [veículos](/cadastros/veiculos) (<span class="mdi mdi-truck"></span>) e volumes (<span class="mdi mdi-package"></span>) para serem incluídos.
 
 ![Adicionar Volume e veículo](/movimentos/nf-e/volume_veiculos.png)
 
