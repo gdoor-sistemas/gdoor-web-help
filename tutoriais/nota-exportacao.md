@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-17T18:31:49.201Z
+date: 2023-11-17T18:32:40.683Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -22,11 +22,13 @@ No campo **operação**, marque a opção **geral**.
 
 ![Nova regra de tributação](/tutoriais/nota-exportacao/nova_regra.png)
 
-Nas aba de **vínculos**, deixe a opção **sem vínculo agora** marcada. Na aba seguinte, de **tipo de imposto**, marque a opção **ICMS**, como mostrado abaixo:
+Nas aba de **vínculos**, deixe a opção **sem vínculo agora** marcada.
+Na aba seguinte, de **tipo de imposto**, marque a opção **ICMS**, como mostrado abaixo:
 
 ![Abas de vínculo e tipo de imposto](/tutoriais/nota-exportacao/nova_regra_2_3.png)
 
-Na aba de **impostos** teremos o campo do **CST** ou **CSOSN**. Caso a empresa seja do **regime normal**, deve marcar o CST **41 - Não tributada**, caso seja do **simples nacional** deve marcar a opção **300 - Imune**.
+Na aba de **impostos** teremos o campo do **CST** ou **CSOSN**.
+Caso a empresa seja do **regime normal**, deve marcar o CST **41 - Não tributada**, caso seja do **simples nacional** deve marcar a opção **300 - Imune**.
 
 ![Aba de impostos](/tutoriais/nota-exportacao/nova_regra_4.png)
 
