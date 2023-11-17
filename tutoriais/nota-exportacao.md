@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-17T18:56:53.538Z
+date: 2023-11-17T18:58:18.612Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -108,7 +108,7 @@ Na aba de tributos, você pode preencher o **CFOP** da exportação, iniciado em
 
 ## Informações de exportação
 
-Em uma exportação, existem informações obrigatórias a serem preenchidas na nota fiscal, estas ficam no final da nota fiscal, são elas: **UF de embarque**, **Local do embarque** e **UF de despacho**.
+Em uma exportação, existem informações obrigatórias a serem preenchidas, estas ficam no final da nota fiscal, são elas: **UF de embarque**, **local do embarque** e **local de despacho**.
 
 ![informacoes_exportacao.png](/tutoriais/nota-exportacao/informacoes_exportacao.png)
 
