@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-17T18:40:11.798Z
+date: 2023-11-17T18:41:58.775Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -17,7 +17,7 @@ Abaixo segue um passo a passo de como emitir esta nota fiscal no GWEB.
 
 Inicialmente é necessário realizar o cadastro da [regra de tributação](/configuracoes/impostos/regras-de-tributacao), para isso, acesse o menu de configurações >> impostos e clique no botão (+) na direita inferior.
 
-Dentro do cadastro de uma nova regra, na aba de **identificação**, preencha o campo do **nome da regra** com um texto fácil de identificar o propósito da mesma, como por exemplo **regra para exportação de mercadorias**.
+Dentro do cadastro de uma nova regra, na aba de **identificação**, preencha o campo do **nome da regra** com um texto fácil de identificar o propósito da mesma, como por exemplo: **regra para exportação de mercadorias**.
 No campo **operação**, marque a opção **geral**.
 
 ![Nova regra de tributação](/tutoriais/nota-exportacao/nova_regra.png)
@@ -37,16 +37,16 @@ Após selecionar a tributação, clique em <span class="mat-button mat-accent">S
 
 # Cadastrando a operação
 
-Com o cadastro da **regra de tributação** finalizado, é possível iniciar o cadastro da **operação de exportação**, para isso, basta acessar o menu de Cadastros >> Operações e clicar no botão na direita inferior (+).
+Com o cadastro da **regra de tributação** finalizado, é possível iniciar o cadastro da **operação de exportação**, para isso, acesse o menu de cadastros >> operações e clique no botão (+) na direita inferior.
 
-Dentro do cadastro da operação, no campo **nome da operação**, deve escrever o texto completo da operação, como por exemplo **exportação de mercadorias**.
+Dentro do cadastro da operação, no campo **nome da operação**, deve escrever o texto completo da operação, como por exemplo: **exportação de mercadorias**.
 Para esta operação também devemos marcar as opções de **saída** e **exportação**.
 
-Além disso, na parte de tributação, devemos selecionar a regra de tributação criada anteriormente, como mostrado abaixo:
+Além disso, na parte de **tributação**, devemos selecionar a **regra de tributação** criada anteriormente, como mostrado abaixo:
 
 ![Cadastro da operação](/tutoriais/nota-exportacao/cadastro_operacao.png)
 
-Após finalizar o cadastro da operação, pode clicar em <span class="mat-button mat-accent">SALVAR</span> e partir para o cadastro do cliente.
+Após finalizar o cadastro da operação, clique em <span class="mat-button mat-accent">SALVAR</span> para salvar o cadastro da operação.
 
 # Cadastrando o cliente
 
