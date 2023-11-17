@@ -2,7 +2,7 @@
 title: Nota de exportação de mercadorias 
 description: Veja como emitir uma NF-e de exportação de mercadorias no GWEB.
 published: false
-date: 2023-11-17T18:29:58.951Z
+date: 2023-11-17T18:30:41.802Z
 tags: tutoriais, nf-e, tutorial, como fazer, impostos, tributos, movimentos, compras, exportação
 editor: markdown
 dateCreated: 2023-11-16T11:56:04.282Z
@@ -15,7 +15,7 @@ Abaixo segue um passo a passo de como emitir esta nota fiscal no GWEB.
 
 # Cadastrando a regra de tributação
 
-Inicialmente é necessário realizar o cadastro da [regra de tributação](/configuracoes/impostos/regras-de-tributacao), para isso, acesse o menu de configurações >> impostos e clicar no botão na direita inferior (+).
+Inicialmente é necessário realizar o cadastro da [regra de tributação](/configuracoes/impostos/regras-de-tributacao), para isso, acesse o menu de configurações >> impostos e clique no botão na direita inferior (+).
 
 Dentro do cadastro de uma nova regra, na aba de **identificação**, preencha o campo do **nome da regra** com um texto fácil de identificar o propósito da mesma, como **regra para exportação de mercadorias**.
 No campo **operação**, marque a opção **geral**.
