@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-20T18:04:10.539Z
+date: 2023-11-20T18:10:46.972Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -23,12 +23,17 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/11/2023
+b3.10.10, f2.11.4 {.versions}
+
+## Novidades
+- Adicionadas novas funcionalidades ao pedido de venda: geração de dados financeiros e baixa no estoque de produtos 🎉.
+
 # 18/11/2023
-b3.10.9, b3.10.10, f2.11.3, f2.11.4 {.versions}
+b3.10.9, f2.11.3 {.versions}
 
 ## Novidades
 - Criada configuração para definir a operação padrão para a NFS-e.
-- Adicionadas novas funcionalidades ao pedido de venda: geração de dados financeiros e baixa no estoque de produtos 🎉.
 
 ## Ajustes
 - Ajustado no cadastro do veículo o campo “RNTRC” para que seja obrigatório.
