@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-14T11:47:22.727Z
+date: 2023-11-20T17:55:42.440Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 69
-- Ajustes: 294
+- Novidades: 71
+- Ajustes: 299
 
-**Total: 363**
+**Total: 370**
 
 --- 
 
@@ -23,6 +23,20 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/11/2023
+b3.10.9, b3.10.10, f2.11.3, f2.11.4 {.versions}
+
+## Novidades
+- Criada configuração para definir a operação padrão para a NFS-e.
+- Adicionadas novas funcionalidades ao pedido de venda: geração de dados financeiros e baixa no estoque de produtos 🎉.
+
+## Ajustes
+- Ajustado no cadastro do veículo o campo “RNTRC” para que seja obrigatório.
+- Ajustado filtro de ordenação no MD-e.
+- Otimizada mensagem de cancelamento de uma NF-e quando houver documentos vinculados.
+- Corrigida divergência no gráfico e relatório de documentos fiscais emitidos.
+- Ajustados filtros das receitas e despesas do Dashboard para incluir a data atual no gráfico.
+
 # 13/11/2023
 b3.10.8 {.versions}
 
