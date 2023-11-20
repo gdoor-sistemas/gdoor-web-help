@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2023-09-19T12:08:09.119Z
+date: 2023-11-20T12:15:32.063Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -124,6 +124,15 @@ Seção para informações tributárias do produto.
 **»** No cadastro de **gás de cozinha (GLP)**, ao informar o código ANP, a seção abaixo será habilitada para inclusão das informações de "**perc. GLP**", "**perc. GLGNn**", "**perc. GLGNi**" e "**valor de partida**":
 
 ![ANP](/produtos/anp.png)
+
+Ao clicar no **ícone da bomba de combustível** ao lado do **ANP**, você poderá incluir a origem do produto:
+
+![Origem Produto](/produtos/origem_glp.png)
+
+Basta preencher os valores e clicar em <span class="mat-button">INCLUIR ORIGEM</span>
+> É importante lembrar que o campo **% de origem UF** deve somar **100%** com as origens informadas.
+{.is-warning}
+
 
 - **Escala relevante**: indique se o produto é:
 **» Produzido em escala relevante**: bens e mercadorias sujeitas à Substituição Tributária, neste caso o parâmetro considera o Cálculo de ST na entrada e na saída quando o produto for sujeito a substituição tributária.
