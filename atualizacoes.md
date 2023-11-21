@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-21T14:38:25.170Z
+date: 2023-11-21T18:07:29.350Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 71
-- Ajustes: 299
+- Ajustes: 302
 
-**Total: 370**
+**Total: 373**
 
 --- 
 
@@ -29,6 +29,7 @@ b3.10.11 {.versions}
 ## Ajustes
 - Ajustado estorno das movimentações financeiras.
 - Inclusão da ANP 650101003 no sistema.
+- Ajustado pedido de venda para estornar o estoque depois de cancelado o pedido, NF-e, NFC-e PV.
 
 # 20/11/2023
 b3.10.10, f2.11.4 {.versions}
