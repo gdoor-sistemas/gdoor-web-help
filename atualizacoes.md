@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-22T12:37:58.535Z
+date: 2023-11-22T12:40:49.686Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,7 +24,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 21/11/2023
-b3.10.11, b3.10.12 {.versions}
+f2.11.5, b3.10.11, b3.10.12, b3.10.13 {.versions}
 
 ## Ajustes
 - Ajustado estorno das movimentações financeiras.
