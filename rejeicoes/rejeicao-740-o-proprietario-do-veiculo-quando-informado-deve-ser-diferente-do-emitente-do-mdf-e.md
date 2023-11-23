@@ -1,8 +1,8 @@
 ---
 title: Rejeição 740: O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e
 description: Veja como solucionar a rejeição 70: O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e.
-published: false
-date: 2023-11-23T14:36:06.984Z
+published: true
+date: 2023-11-23T14:37:51.573Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-11-23T14:34:02.813Z
