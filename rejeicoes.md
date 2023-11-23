@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-10-11T13:52:58.999Z
+date: 2023-11-23T14:37:31.521Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -23,6 +23,7 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 
 ## MDF-e
 - [Rejeição 663 *Percurso informado inválido*](/pt-br/rejeicoes/rejeicao-663-percurso-informado-invalido)
+- [Rejeição 740 *O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e*](/pt-br/rejeicoes/rejeicao-740-o-proprietario-do-veiculo-quando-informado-deve-ser-diferente-do-emitente-do-mdf-e)
 {.links-list}
 
 ## CT-e
