@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-22T12:40:49.686Z
+date: 2023-11-23T17:00:23.474Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 71
-- Ajustes: 303
+- Ajustes: 304
 
-**Total: 374**
+**Total: 375**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 22/11/2023
+f2.11.6 {.versions}
+
+## Ajustes
+- Ajustado cancelamento de NF-e para não solicitar o cancelamento do pedido de venda quando não houver.
+
 # 21/11/2023
 f2.11.5, b3.10.11, b3.10.12, b3.10.13 {.versions}
 
