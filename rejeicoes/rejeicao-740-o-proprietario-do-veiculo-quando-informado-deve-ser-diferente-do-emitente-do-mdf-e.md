@@ -2,11 +2,12 @@
 title: Rejeição 740: O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e
 description: Veja como solucionar a rejeição 70: O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e.
 published: true
-date: 2023-11-23T14:39:14.615Z
+date: 2023-11-23T14:50:12.015Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-11-23T14:34:02.813Z
 ---
+
 
 # Rejeição 740: O proprietário do veículo quando informado deve ser diferente do emitente do MDF-e
 
@@ -27,5 +28,10 @@ Dentro do cadastro do veículo, note que o proprietário possui os dados iguais 
 Para identificar os **veículos próprios** do emitente, você deve colocar o **proprietário** com o código **"#1"**, que é o código interno que identifica o emitente, como mostrado no GIF abaixo:
 
 ![Alteração do proprietário](/tutoriais/rejeicoes/740/sol_rej_740_alterar-proprietario.gif)
+
+> **Dica:**
+É recomendado que não deixe **cadastros duplicados** no GWEB, portanto, após a alteração do proprietário do veículo, é possível **excluir** ou **inativar** o registro da [pessoa](/cadastros/pessoas) duplicada.
+{.is-info}
+
 
 Após **alterar** os dados do proprietário, clique em <span class="mat-button mat-accent">SALVAR</span> para **gravar** as informações do veículo. Agora com o **proprietário** **correto** informado no veículo, é possível transmitir novamente o **MDF-e**.
