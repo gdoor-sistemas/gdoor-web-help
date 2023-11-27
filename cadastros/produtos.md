@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2023-11-20T12:15:32.063Z
+date: 2023-11-27T14:39:14.602Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -129,7 +129,7 @@ Ao clicar no **ícone da bomba de combustível** ao lado do **ANP**, você poder
 
 ![Origem Produto](/produtos/origem_glp.png)
 
-Basta preencher os valores e clicar em <span class="mat-button">INCLUIR ORIGEM</span>
+Basta preencher os valores e clicar em <span class="mat-button">INCLUIR ORIGEM</span>.
 > É importante lembrar que o campo **% de origem UF** deve somar **100%** com as origens informadas.
 {.is-warning}
 
