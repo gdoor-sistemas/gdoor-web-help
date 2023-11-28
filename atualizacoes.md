@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-24T11:42:37.161Z
+date: 2023-11-28T18:49:02.515Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 71
-- Ajustes: 305
+- Ajustes: 306
 
 **Total: 376**
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/11/2023
+f2.11.7, b3.10.15 {.versions}
+
+## Ajustes
+- Ajustado para que o pedido de venda que movimente estoque respeite a configuração de estoque negativo.
+
 # 23/11/2023
 f2.11.6, b3.10.14 {.versions}
 
