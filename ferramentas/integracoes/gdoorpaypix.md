@@ -1,8 +1,8 @@
 ---
 title: Gdoor Pay Pix
-description: 
+description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-11-29T11:32:47.988Z
+date: 2023-11-29T11:47:52.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -10,6 +10,20 @@ dateCreated: 2023-11-29T11:32:47.988Z
 
 # Introdução
 
-Na integração do sistema **Gweb** com a maquininha do **POS Vero Smart**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente.
+Na integração do sistema **Gweb** com o **pix Gdoor Pay**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda e registra os dados da transação automaticamente.
 
-A comunicação entre sistema e equipamento é feita por meio de um App instalado no **POS Vero Smart**. Para esta comunicação, é necessário contactar o **POS Vero Smart** à internet.
+# Ativação do Gdoor Pay Pix
+Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay Pix** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+
+![Ativação da Integração](/config/ferramentas/gdoor_pay_pix/ativacao_da_integracao.png)
+
+Será direcionado para a tela de **configuração da integração** do Gdoor Pay Pix.
+
+# Configurar Integração
+
+Dentro da tela de configuração, clique no botão (<em class="mdi mdi-plus"></em>) para abrir o formulário de habilitação.
+
+![Configurar integração](/config/ferramentas/gdoor_pay_pix/configurar_integracao_botao.png)
+
+Neste formulário, **preencha** os campos correspondentes com as **informações retiradas do seu painel do Gdoor Pay Pix**.
+
