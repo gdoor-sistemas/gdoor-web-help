@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-11-29T11:52:43.637Z
+date: 2023-11-29T12:04:25.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -28,3 +28,5 @@ Dentro da tela de configuração, clique no botão (<em class="mdi mdi-plus"></e
 Neste formulário, **preencha** os campos correspondentes com as **informações retiradas do seu painel do Gdoor Pay Pix**.
 
 ![Formulário de Habilitação](/config/ferramentas/gdoor_pay_pix/formulario_habilitacao.png)
+
+Ao clicar em <span class="mat-button mat-accent">SALVAR</span>, o sistema irá **automaticamente** criar uma nova forma de pagamento chamada **"Gdoor Pay Pix à vista"**, e na **lista de pagamentos**, é possível visualizar as **transações pix** realizadas no sistema.
