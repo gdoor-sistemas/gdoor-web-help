@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-01T13:52:38.301Z
+date: 2023-12-01T19:52:19.991Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-29T11:32:47.988Z
 
 # Introdução
 
-Na integração do sistema **Gweb** com o **gdoor pay pix**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda e registra os dados da transação automaticamente.
+Na integração do sistema **Gweb** com o **Gdoor Pay Pix**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda e registra os dados da transação automaticamente.
 
 # Ativação do Gdoor Pay Pix
 Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay Pix** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
@@ -29,11 +29,11 @@ Neste formulário, **preencha** os campos correspondentes com as **informações
 
 ![Formulário de Habilitação](/config/ferramentas/gdoor_pay_pix/formulario_habilitacao.png)
 
-Ao clicar em <span class="mat-button mat-accent">SALVAR</span>, o sistema irá **automaticamente** criar uma nova forma de pagamento chamada **"Gdoor Pay Pix à vista"**, e na **lista de pagamentos**, é possível visualizar as **transações pix** realizadas no sistema.
+Ao clicar em <span class="mat-button mat-accent">SALVAR</span>, o sistema irá **automaticamente** criar uma nova forma de pagamento chamada **"Gdoor Pay Pix à vista"**, e na **lista de pagamentos** é possível visualizar as **transações pix** realizadas no sistema.
 
 # Ativando a forma de pagamento no PDV
 
-Para utiliazr esta nova forma de pagamento, acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos meios de pagamento disponíveis para uso no PDV se está selecionado (<em class="mdi mdi-checkbox-marked"></em>) o meio de pagamento **Gdoor Pay Pix à vista**.
+Para utilizar esta nova forma de pagamento, acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos meios de pagamento disponíveis para uso no PDV se está selecionado (<em class="mdi mdi-checkbox-marked"></em>) o meio de pagamento **Gdoor Pay Pix à vista**.
 
 Caso não esteja marcado, marque o meio de pagamento e clique em <span class="mat-button mat-accent">SALVAR</span>.
 
@@ -49,7 +49,7 @@ Em uma venda no PDV, dentro da aba de **pagamentos do PDV** é possível selecio
 Ao selecionar a forma de pagamento, a tela da **cobrança por integração** será aberta, é possível informar nela o **valor** a ser cobrado do cliente via PIX.
 
 > **Dica:**
-É possível dividir o valor da venda em mais de uma forma de pagamento PIX para duas ou mais pessoas.
+É possível dividir o valor da venda em mais de uma forma de pagamento PIX, para duas ou mais pessoas.
 {.is-info}
 
 ![Realizar cobrança por integração](/config/ferramentas/gdoor_pay_pix/pagamento_por_integracao_inicio.png)
@@ -79,7 +79,7 @@ Dentro do menu de **cadastros >> pagamentos**, é possível visualizar as **tran
 ![Transações Gdoor pay PIX](/config/ferramentas/gdoor_pay_pix/transacoes.png)
 
 # Conclusão
-O processo para o cadastro e uso da integração do **GWEB** com o **gdoor pay pix** é esse, ao final das vendas, o valor pago no Gweb ficará registrado no financeiro da empresa e nas transações PIX no menu de **Cadastros > Pagamentos**.
+O processo para o cadastro e uso da integração do **GWEB** com o **Gdoor Pay Pix** é esse: ao final das vendas, o valor pago através do PIX ficará registrado no financeiro da empresa e nas transações PIX no menu de **Cadastros > Pagamentos**.
 
 Para ver mais detalhes sobre cada módulo envolvido neste processo, acesse os tópicos:
 
