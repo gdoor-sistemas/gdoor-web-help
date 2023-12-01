@@ -2,8 +2,8 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-01T13:50:25.508Z
-tags: 
+date: 2023-12-01T13:50:43.643Z
+tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
 ---
