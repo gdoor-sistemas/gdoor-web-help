@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: false
-date: 2023-12-04T13:23:31.608Z
+date: 2023-12-04T13:32:59.408Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -126,7 +126,7 @@ Em cada item da lista você pode encontrar as seguintes informações:
 
 ### Editar pedido
 
-Para os pedidos da lista que ainda não foram faturados (com status aberto), há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse.
+Para os pedidos da lista que ainda não foram faturados ou concluídos (com status aberto), há um botão para "**edição**" (<span class="mdi mdi-pencil"></span>). Se estiver usando em um computador, este botão será exibido apenas sobre o item que você passar o mouse.
 
 ### Ações
 
