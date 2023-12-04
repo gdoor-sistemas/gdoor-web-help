@@ -1,8 +1,8 @@
 ---
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
-published: true
-date: 2023-12-04T13:08:35.140Z
+published: false
+date: 2023-12-04T13:22:35.579Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -120,7 +120,9 @@ Em cada item da lista você pode encontrar as seguintes informações:
 2.  Nome do cliente. Será apresentada a informação "consumidor final" quando o cliente não for informado.
 3.  Número sequencial do pedido de venda, data e hora da criação. Também apresenta o valor total do pedido de venda.
 4.  [Editar pedido](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#editar-pedido). Se o pedido de venda ainda estiver com status em aberto, poderá ser editado.
-5.  [Menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) a serem executadas com o pedido de venda em questão.
+5. Concluir pedido. Conclui o pedido de venda, movimentando estoque e gerando financeiro se as [configurações](/pt-br/movimentos/pedidos#comportamento) estiverem marcadas.
+6.  [Menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) a serem executadas com o pedido de venda em questão.
+7. Situação do pedido. Mostram respectivamente que o pedido movimentou estoque, gerou financeiro e está concluído.
 
 ### Editar pedido
 
