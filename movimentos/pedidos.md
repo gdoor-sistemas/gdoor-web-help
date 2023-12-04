@@ -1,8 +1,8 @@
 ---
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
-published: false
-date: 2023-12-04T13:35:16.833Z
+published: true
+date: 2023-12-04T13:35:26.827Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
