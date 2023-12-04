@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-04T11:52:27.346Z
+date: 2023-12-04T12:03:32.408Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 73
-- Ajustes: 318
+- Ajustes: 317
 
-**Total: 390**
+**Total: 389**
 
 --- 
 
@@ -37,7 +37,6 @@ f2.11.8, b3.10.16{.versions}
 - Implementação da NFS-e no ambiente nacional. 🎉
 
 ## Ajustes
-- Removida a obrigatoriedade do RNTRC no cadastro de veículos.
 - Ajustado o relatório de "Total de produtos vendidos por cliente" para não considerar compras.
 - Adicionado os campos referentes a exportação na nota de complemento.
 - Ajustado o somatórios dos campos no histórico do cliente.
