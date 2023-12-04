@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-04T11:31:22.565Z
+date: 2023-12-04T11:32:46.682Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,7 +24,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 02/12/2023
-f2.11.7, b3.10.17{.versions}
+f2.11.8, b3.10.16{.versions}
 
 ## Novidades
 - Adicionada uma nova opção para "Não informar pagamentos" nas configurações do pedido de venda.
