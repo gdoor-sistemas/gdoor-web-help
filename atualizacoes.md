@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-11-28T18:49:02.515Z
+date: 2023-12-04T11:29:58.374Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 71
-- Ajustes: 306
+- Novidades: 73
+- Ajustes: 330
 
 **Total: 376**
 
@@ -23,6 +23,26 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/12/2023
+f2.11.7, b3.10.17{.versions}
+
+## Novidades
+- Adicionada uma nova opção para "Não informar pagamentos" nas configurações do pedido de venda.
+- Implementação da NFS-e no ambiente nacional. 🎉
+
+## Ajustes
+- Removida a obrigatoriedade do RNTRC no cadastro de veículos
+- Ajustado o relatório de "Total de produtos vendidos por cliente" para não considerar compras
+- Adicionado os campos referentes a exportação na nota de complemento
+- Ajustado o somatórios dos campos no histórico do cliente
+- Adicionado o código de barras no relatório do inventário de estoque
+- Ajustado o comportamento do sistema ao remover o vínculo de um item durante a importação de XML
+- Corrigido o histórico do produto para exibir as movimentações realizadas por pedidos
+- Ajustada a visualização da lista de aniversariantes no modo escuro
+- Adicionado nas informações adicionais da NF-e o valor de IPI devolvido
+- Ajustado o horário apresentado na mensagem da manifestação do destinatário
+- Ajustada a composição de custo na nota de compra
+
 # 27/11/2023
 f2.11.7, b3.10.15 {.versions}
 
