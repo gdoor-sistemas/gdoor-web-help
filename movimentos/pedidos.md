@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: false
-date: 2023-12-04T13:32:59.408Z
+date: 2023-12-04T13:35:16.833Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -177,18 +177,18 @@ Visível apenas para NFC-e faturadas. Possibilita a visualização da NFC-e.
 O modo de seleção múltipla permite que você selecione vários pedidos de venda para executar uma ação com todos simultaneamente. Atualmente, as ações disponíveis para este modo são: <span class="mat-button mdi "> gerar nf-e</span>, <span class="mat-button mdi "> gerar nfc-e</span> e <span class="mat-button mdi"> gerar pré-venda gerencial</span>.  
 Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#a%C3%A7%C3%B5es) do pedido de venda na opção <span class="mat-button mdi mdi-check"> Selecionar</span>, ou no caso de dispositivos de toque, dar um toque longo no item.
 
-![](/movimentos/pedidos/selecionar.png)
+![Selecionar mais de um pedido](/movimentos/pedidos/selecionar.png)
 
 Depois de selecionar um pedido de venda, você poderá clicar em outros para marcar ou desmarcar. Só é possível marcar pedidos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros).
 
-![](/movimentos/pedidos/selecionar_ações.png)
+![Opções dos pedidos](/movimentos/pedidos/selecionar_ações.png)
 
 As ações disponíveis conforme indicado na imagem acima são:  
 1. Caixa que permite marcar/desmarcar todos os pedidos de venda em exibição na página;  
 2. Gerar NF-e para os pedidos de venda selecionados;  
 3. Gerar NFC-e para os pedidos de venda selecionados;
-3. Gerar pré-venda gerencial para os pedidos de venda selecionados;
-5. Excluir os pedidos de venda selecionados;
+4. Gerar pré-venda gerencial para os pedidos de venda selecionados;
+5. Excluir os pedidos de venda selecionados (Esta opção aparece apenas para os pedidos em aberto);
 6. Desmarcar todos e fechar o modo de seleção múltipla.  
 
 As ações disponíveis no modo de seleção múltipla estarão visíveis apenas se todos os pedidos de venda selecionadas forem elegíveis para tal ação. Por exemplo, se você selecionar um pedido de venda faturado e outro em aberto, as ações não estarão disponíveis.
