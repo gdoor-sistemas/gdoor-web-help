@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2023-11-01T12:32:00.573Z
+date: 2023-12-04T13:08:35.140Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -246,7 +246,9 @@ Neste tópico você verá o que pode ser configurado no pedido de venda.
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações.
 
-**Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
+- **Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
+- **Movimentar estoque**: o estoque será movimentado quando o pedido for concluído.
+- **Gerar financeiro**: os registros financeiros serão gerados quando o pedido for concluído.
 
 ![Comportamento](/movimentos/pedidos/comportamento.png)
 
@@ -255,6 +257,15 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 Nesta seção você pode inserir uma mensagem padrão que aparecerá no campo de informações adicionais do pedido de venda. Ao efetuar um pedido de venda, a informação adicional pode ser editada ou apagada manualmente.
 
 ![Informações adicionais](/movimentos/pedidos/inf_adicionais_2.png)
+
+## Pagamentos
+
+Nesta seção você pode definir o comportamento do sistema referente ao pagamento no pedido de venda.
+
+- **Forma de pagamento padrão**: Será utilizada caso o pedido de venda seja salvo sem informar pagamento
+- **Não informar pagamentos**: Caso marcado, não será possível informar pagamento nos pedidos de venda.
+
+![Pagamentos](/movimentos/pedidos/pagamento.png)
 
 ## Vídeo
 
