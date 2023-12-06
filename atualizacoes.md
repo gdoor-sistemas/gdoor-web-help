@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-04T12:03:32.408Z
+date: 2023-12-06T11:36:23.277Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 73
-- Ajustes: 317
+- Ajustes: 318
 
-**Total: 389**
+**Total: 390**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/12/2023
+b3.10.17{.versions}
+
+## Ajustes
+- Adiciona campos para NFSe nacional para cidade de Porto Alegre.
+
 # 03/12/2023
 f2.11.9{.versions}
 
