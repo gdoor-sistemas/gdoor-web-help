@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-06T11:36:23.277Z
+date: 2023-12-06T14:19:31.873Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 73
-- Ajustes: 318
+- Ajustes: 320
 
-**Total: 390**
+**Total: 393**
 
 --- 
 
@@ -23,6 +23,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/12/2023
+b3.10.19{.versions}
+
+## Ajustes
+- Corrige código de serviço na emissão de NFSe em ambiente nacional.
+
+# 06/12/2023
+b3.10.18{.versions}
+
+## Ajustes
+- Corrige validação de dados da NFSe em ambiente nacional.
+
 # 05/12/2023
 b3.10.17{.versions}
 
