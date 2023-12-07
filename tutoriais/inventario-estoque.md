@@ -2,7 +2,7 @@
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
 published: false
-date: 2023-12-07T14:08:46.101Z
+date: 2023-12-07T14:17:57.227Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
@@ -28,7 +28,7 @@ Ao seguir esses passos e dicas, você estará melhor preparado para gerar um arq
 - **equipe**: defina a cada colaborador a sua função na contagem e certifique-se de que todos os membros da equipe entendam os procedimentos.
 - **identificação dos itens**: verifique se cada item em estoque possui identificação, principalmente o código de barras.
 - **limpeza e organização**: certifique-se de que o espaço de armazenamento esteja limpo e organizado para facilitar a contagem.
-- **contagem e conferência dos itens**: procure seguir um método organizado. Utilize ferramentas como planilhas eletrônicas (Excel, Google Sheets) para ajudar na contagem. Você pode exportar o relatório de **inventário de estoque** em excel, e realizar a **contagem** e **conferência** pelo arquivo.
+- **contagem e conferência dos itens**: procure seguir um método organizado. Utilize ferramentas como planilhas eletrônicas (Excel, Google Sheets) para ajudar na contagem. Você pode exportar o relatório de **inventário de estoque** em CSV, e realizar a **contagem** e **conferência** pelo arquivo.
 - **documentação**: realize o contato com a sua contabilidade para informar as diferenças e solicitar orientação de como proceder em relação a emissão de documentos de ajuste (se necessário), como no caso de perdas, por exemplo.
 - **correção e atualização**: após realizar os ajustes repassados pela contabilidade, faça uma nova conferência no estoque e aplique as alterações nos produtos.
 - **agendamento**: agende contagens periódicas do seu inventário para manter os registros atualizados.
@@ -54,11 +54,11 @@ Na tela do relatório podem ser analisados os seguintes blocos:
 ![Filtros do relatório de inventário de estoque](/tutoriais/inventario-estoque/filtros_relatorio_inventario.png)
 
 - **Data base**: informe a data base para a geração do inventário. O sistema leva em consideração a quantidade existente na data informada. Essa informação deve ser repassada pelo contador.
-- **Gerar total com base em**:
+- **Gerar total com base em**: Requisite com seu contador qual das opções deverá selecionar. As opções disponíveis são:
 1. **Preço de venda**: Utiliza o preço de venda do cadastro do produto para gerar o total.
 2. **Custo atual**: Utiliza o preço de custo do cadastro do produto para gerar o total.
 3. **Última compra**: Utiliza o valor da última compra do produto para gerar o total.
-4. **Custo médio**: Utiliza o custo médio do cadastro do produto para gerar o total, que é calculado automaticamente pelo sistema nas entradas.
+4. **Custo médio**: Utiliza o custo médio do cadastro do produto para gerar o total, esse valor é calculado automaticamente pelo sistema nas entradas.
 - **Livro**: também deve ser repassado pelo contador.
 - **Página inicial**: Também deve ser repassado pelo contador
 - **Incluir uso e consumo**: Inclui os itens cujo **tipo de mercadoria** seja para uso e consumo.
@@ -79,8 +79,14 @@ As opções acima no inventário de estoque no modelo para impressão, são:
 2. Exportar como CSV.
 3. Salvar como PDF.
 
+Ao escolher a opção **imprimir** basta selecionar a **impressora** na caixa de impressão do seu navegador. Caso escolha a opção **exportar como CSV** ou **salvar como PDF**, escolha o local onde deve ser salvo o arquivo do inventário.
+
 ## Inventário dentro “Sintegra”
 [Clique aqui](/pt-br/arquivos-fiscais/sintegra#gerar-novo-arquivo-sintegra) para acessar o tutorial completo sobre a geração do inventário dentro do sintegra.
 
 ## Inventário dentro do “SPED Fiscal”
 [Clique aqui](/pt-br/arquivos-fiscais/sped#gerar-novo-arquivo-sped-fiscal) para acessar o tutorial completo sobre a geração do inventário dentro do SPED fiscal.
+
+> Envie seu feedback sobre o conteúdo deste artigo para o e-mail **bdc@gdoor.com.br**
+{.is-success}
+
