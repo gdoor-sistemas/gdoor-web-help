@@ -2,7 +2,7 @@
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
 published: false
-date: 2023-12-07T17:58:37.304Z
+date: 2023-12-07T18:01:47.291Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
@@ -29,7 +29,7 @@ Ao seguir esses passos e dicas, você estará melhor preparado para gerar um arq
 - **identificação dos itens**: verifique se cada item em estoque possui identificação, principalmente o código de barras.
 - **limpeza e organização**: certifique-se de que o espaço de armazenamento esteja limpo e organizado para facilitar a contagem.
 - **contagem dos itens**: procure seguir um método organizado. Utilize ferramentas como planilhas eletrônicas (Excel, Google Sheets) para ajudar na contagem. 
-- **conferência dos itens e documentação**: ao identificar diferença entre o estoque existente no sistema e na contagem, realize o contato com a sua contabilidade para solicitar orientação de como proceder em relação a emissão de documentos de ajuste (se necessário), como no caso de perdas, por exemplo.
+- **conferência dos itens e documentação**: ao identificar diferença entre o estoque existente no sistema e a contagem, entre em contato com a sua contabilidade para solicitar orientação de como proceder em relação a emissão de documentos de ajuste (se necessário), como no caso de perdas, por exemplo. 
 > Você pode exportar o relatório de **inventário de estoque** em CSV e realizar a **contagem** e **conferência** pelo arquivo.{.is-info}
 - **agendamento**: agende contagens periódicas do seu inventário para manter os registros atualizados.
 
@@ -45,7 +45,7 @@ Veja as formas de geração do inventário do seu estoque no **GWEB**:
 
 Pode-se dizer que esta é a forma mais comum de gerar o arquivo, onde o inventário é impresso e entregue ou salvo no computador para posteriormente encaminhar a contabilidade.
 
-Acesse o menu de informações >> relatórios no GWEB e localize na lista de relatórios pelo **inventário de estoque**.
+Acesse o menu de **Informações >> Relatórios** e pesquise na lista de relatórios pelo **inventário de estoque**.
 
 ![Localização do relatório de inventário de estoque](/tutoriais/inventario-estoque/localizacao_inventario.png)
 
