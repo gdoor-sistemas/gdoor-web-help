@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-07T17:40:05.463Z
+date: 2023-12-07T17:40:39.077Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -72,7 +72,7 @@ Com todos os pagamentos realizados por PIX **aprovados**, clique em <span class=
 
 # Transações realizadas
 
-Dentro do menu de **cadastros >> pagamentos** estarão disponíveis todas as **transações PIX** já realizadas. Nesta tela também é possível executar as ações para **<em class="mdi mdi-block-helper"></em> Devolver**, **<em class="mdi mdi-refresh-circle"></em> Consultar status** ou **<em class="mdi mdi-qrcode"></em> Exibir QR Code**.
+Dentro do menu de **cadastros >> pagamentos** estarão disponíveis todas as **transações PIX** já realizadas. Nesta tela também é possível executar as ações para **<em class="mdi mdi-block-helper"></em> Devolver**, **<em class="mdi mdi-refresh-circle"></em> Consultar status** ou **<em class="mdi mdi-qrcode"></em> Exibir QR Code** dos pagamentos.
 
 ![Transações Gdoor pay PIX](/config/ferramentas/gdoor_pay_pix/transacoes.png)
 
