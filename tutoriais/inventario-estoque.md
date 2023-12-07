@@ -2,7 +2,7 @@
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
 published: false
-date: 2023-12-07T18:01:47.291Z
+date: 2023-12-07T18:07:00.270Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
@@ -54,19 +54,19 @@ Na tela do relatório podem ser analisados os seguintes blocos:
 ![Filtros do relatório de inventário de estoque](/tutoriais/inventario-estoque/filtros_relatorio_inventario.png)
 
 - **Data base**: informe a data base para a geração do inventário. O sistema leva em consideração a quantidade existente na data informada. Essa informação deve ser repassada pelo contador.
-- **Gerar total com base em**: Requisite com seu contador qual das opções deverá selecionar. As opções disponíveis são:
-1. **Preço de venda**: Utiliza o preço de venda do cadastro do produto para gerar o total.
-2. **Custo atual**: Utiliza o preço de custo do cadastro do produto para gerar o total.
-3. **Última compra**: Utiliza o valor da última compra do produto para gerar o total.
-4. **Custo médio**: Utiliza o custo médio do cadastro do produto para gerar o total, esse valor é calculado automaticamente pelo sistema nas entradas.
-- **Livro**: também deve ser repassado pelo contador.
-- **Página inicial**: Também deve ser repassado pelo contador
-- **Incluir uso e consumo**: Inclui os itens cujo **tipo de mercadoria** seja para uso e consumo.
-- **Incluir ativo imobilizado**: Inclui os itens cujo **tipo de mercadoria** seja ativo imobilizado
-- **Incluir produtos negativos**: Inclui os produtos do estoque que possuem quantidades negativas.
+- **Gerar total com base em**: verifique com seu contador qual das opções deve selecionar. As opções disponíveis são:
+1. **Preço de venda**: utiliza o preço de venda do cadastro do produto para gerar o total.
+2. **Custo atual**: utiliza o preço de custo do cadastro do produto para gerar o total.
+3. **Última compra**: utiliza o valor da última compra do produto para gerar o total.
+4. **Custo médio**: utiliza o custo médio do cadastro do produto para gerar o total, esse valor é calculado automaticamente pelo sistema nas entradas.
+- **Livro**: informação repassada pelo contador.
+- **Página inicial**: informação repassada pelo contador.
+- **Incluir uso e consumo**: inclui os itens cujo **tipo de mercadoria** seja para uso e consumo.
+- **Incluir ativo imobilizado**: inclui os itens cujo **tipo de mercadoria** seja ativo imobilizado
+- **Incluir produtos negativos**: inclui os produtos do estoque que possuem quantidades negativas.
 - **Modelo de impressão**:
-1. **Tabular**: Gera em formato de tabela.
-2. **Para impressão**: Gera em PDF pronto para impressão, já contando os totalizadores ao final do relatório.
+1. **Tabular**: gera em formato de tabela.
+2. **Para impressão**: gera um PDF pronto para impressão com os totalizadores ao final do relatório.
 
 ## Imprimir
 
