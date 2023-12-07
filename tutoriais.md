@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2023-12-04T13:39:48.210Z
+date: 2023-12-07T18:18:28.387Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -19,4 +19,5 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [Cadastrar forma de pagamento PIX *Passo a passo para cadastrar o PIX com QR Code*](/tutoriais/cadastrar-pix)
 - [NF-e de importação *Veja como emitir uma NF-e de importação no GWEB*](/tutoriais/nota-importacao)
 - [NF-e de exportação *Veja como emitir uma NF-e de exportação no GWEB*](/pt-br/tutoriais/nota-exportacao)
+- [Inventário de estoque *Veja como gerar o inventário de estoque no GWEB*](/pt-br/tutoriais/inventario-estoque)
 {.links-list}
