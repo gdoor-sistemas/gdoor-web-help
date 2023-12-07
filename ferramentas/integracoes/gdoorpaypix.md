@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-07T17:22:59.761Z
+date: 2023-12-07T17:34:34.426Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -40,11 +40,11 @@ Para utilizar esta nova forma de pagamento, acesse **Movimentações » PDV** e 
 # Utilizando a forma de pagamento no PDV
 
 
-Em uma venda no PDV, dentro da aba de **pagamentos do PDV** é possível selecionar a forma de pagamento **Gdoor Pay Pix à vista** através do botão <span class="mat-button"><em class="mdi mdi-cash"></em> PAGAMENTO POR INTEGRAÇÃO</span> ou do atalho específico da forma de pagamento, como o <kbd>B</kbd> na imagem abaixo:
+No momento da finalização da venda, ao informar a forma de **pagamento do PDV**, selecione **Gdoor Pay Pix à vista** através do botão <span class="mat-button"><em class="mdi mdi-cash"></em> PAGAMENTO POR INTEGRAÇÃO</span> ou do atalho específico da forma de pagamento, representado pela letra <kbd>B</kbd> na imagem abaixo:
 
 ![Finalizando venda no PDV](/config/ferramentas/gdoor_pay_pix/finalizando_venda.png)
 
-Ao selecionar a forma de pagamento, a tela da **cobrança por integração** será aberta, é possível informar nela o **valor** a ser cobrado do cliente via PIX.
+A tela da **cobrança por integração** será aberta. Informe o **valor** a ser cobrado do cliente via PIX.
 
 > **Dica:**
 É possível dividir o valor da venda em mais de uma forma de pagamento PIX, para duas ou mais pessoas.
@@ -52,7 +52,7 @@ Ao selecionar a forma de pagamento, a tela da **cobrança por integração** ser
 
 ![Realizar cobrança por integração](/config/ferramentas/gdoor_pay_pix/pagamento_por_integracao_inicio.png)
 
-Ao clicar em <span class="mat-button">REALIZAR COBRANÇA</span> será aberto a tela com o QR Code para pagamento.
+Clique em <span class="mat-button">REALIZAR COBRANÇA</span> para abrir a tela com o QR Code do pagamento.
 
 ![cobranca_gdoor_pay_pix.png](/config/ferramentas/gdoor_pay_pix/cobranca_gdoor_pay_pix.png)
 
