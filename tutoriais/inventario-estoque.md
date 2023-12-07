@@ -1,8 +1,8 @@
 ---
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
-published: false
-date: 2023-12-07T18:14:10.131Z
+published: true
+date: 2023-12-07T18:16:55.782Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
