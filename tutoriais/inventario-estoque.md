@@ -2,7 +2,7 @@
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
 published: false
-date: 2023-12-07T14:17:57.227Z
+date: 2023-12-07T17:58:37.304Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
@@ -28,9 +28,9 @@ Ao seguir esses passos e dicas, você estará melhor preparado para gerar um arq
 - **equipe**: defina a cada colaborador a sua função na contagem e certifique-se de que todos os membros da equipe entendam os procedimentos.
 - **identificação dos itens**: verifique se cada item em estoque possui identificação, principalmente o código de barras.
 - **limpeza e organização**: certifique-se de que o espaço de armazenamento esteja limpo e organizado para facilitar a contagem.
-- **contagem e conferência dos itens**: procure seguir um método organizado. Utilize ferramentas como planilhas eletrônicas (Excel, Google Sheets) para ajudar na contagem. Você pode exportar o relatório de **inventário de estoque** em CSV, e realizar a **contagem** e **conferência** pelo arquivo.
-- **documentação**: realize o contato com a sua contabilidade para informar as diferenças e solicitar orientação de como proceder em relação a emissão de documentos de ajuste (se necessário), como no caso de perdas, por exemplo.
-- **correção e atualização**: após realizar os ajustes repassados pela contabilidade, faça uma nova conferência no estoque e aplique as alterações nos produtos.
+- **contagem dos itens**: procure seguir um método organizado. Utilize ferramentas como planilhas eletrônicas (Excel, Google Sheets) para ajudar na contagem. 
+- **conferência dos itens e documentação**: ao identificar diferença entre o estoque existente no sistema e na contagem, realize o contato com a sua contabilidade para solicitar orientação de como proceder em relação a emissão de documentos de ajuste (se necessário), como no caso de perdas, por exemplo.
+> Você pode exportar o relatório de **inventário de estoque** em CSV e realizar a **contagem** e **conferência** pelo arquivo.{.is-info}
 - **agendamento**: agende contagens periódicas do seu inventário para manter os registros atualizados.
 
 Lembre-se de que a precisão do inventário é crucial para um gerenciamento eficiente do estoque e para manter a integridade dos registros da empresa.
