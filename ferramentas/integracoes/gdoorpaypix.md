@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-07T17:34:34.426Z
+date: 2023-12-07T17:35:59.432Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -62,11 +62,11 @@ Quando o pagamento for realizado, o sistema irá retornar a tela de **cobranças
 
 Na lista de pagamentos, é possível realizar as seguintes ações:
 
-**<em class="mdi mdi-block-helper"></em> Devolver:** Devolve o **valor pago** pelo cliente, esta opção só é liberada se o pagamento estiver **aprovado**. 
+**<em class="mdi mdi-block-helper"></em> Devolver:** devolve o **valor pago** pelo cliente. Esta opção só é liberada se o pagamento estiver **aprovado**. 
 
-**<em class="mdi mdi-refresh-circle"></em> Consultar status:** Consulta se o pagamento foi **realizado**, esta opção só é liberada se o pagamento estiver **pendente**.
+**<em class="mdi mdi-refresh-circle"></em> Consultar status:** consulta se o pagamento foi **realizado**. Esta opção só é liberada se o pagamento estiver **pendente**.
 
-**<em class="mdi mdi-qrcode"></em> Exibir QR Code:** Exibe novamente o Qr Code para leitura e pagamento, esta opção só é liberada se o pagamento estiver **pendente**.
+**<em class="mdi mdi-qrcode"></em> Exibir QR Code:** exibe novamente o Qr Code para leitura e pagamento. Esta opção só é liberada se o pagamento estiver **pendente**.
 
 Com todos os pagamentos realizados por PIX **aprovados**, clique em <span class="mat-button">FECHAR</span> para retornar a aba de **pagamentos do PDV** e finalizar a NFC-e.
 
