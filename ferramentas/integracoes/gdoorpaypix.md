@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-07T17:11:34.191Z
+date: 2023-12-07T17:22:59.761Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -33,9 +33,7 @@ Ao clicar em <span class="mat-button mat-accent">SALVAR</span>, o sistema cria *
 
 # Ativando a forma de pagamento no PDV
 
-Para utilizar esta nova forma de pagamento, acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos meios de pagamento disponíveis para uso no PDV se está selecionado (<em class="mdi mdi-checkbox-marked"></em>) o meio de pagamento **Gdoor Pay Pix à vista**.
-
-Caso não esteja marcado, marque o meio de pagamento e clique em <span class="mat-button mat-accent">SALVAR</span>.
+Para utilizar esta nova forma de pagamento, acesse **Movimentações » PDV** e clique ao lado direito da tela na opção **configurações do PDV**. Marque o checkbox (<em class="mdi mdi-checkbox-marked"></em>) referente ao meio de pagamento **Gdoor Pay Pix à vista** e clique em <span class="mat-button mat-accent">SALVAR</span>.
 
 ![Habilitar forma de pagamento](/config/ferramentas/gdoor_pay_pix/configuracoes_do_pdv_habilitar.png)
 
