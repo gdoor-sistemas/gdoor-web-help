@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como integrar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T18:28:56.254Z
+date: 2023-12-08T18:29:43.323Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -13,7 +13,7 @@ dateCreated: 2023-11-29T11:32:47.988Z
 Na integração do sistema **Gweb** com o **Gdoor Pay Pix**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda.
 
 # Cadastro da conta Gdoor Pay
-Antes de configurar o sistema é necessário criar a sua conta **Gdoor Pay**. [Clique aqui](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpay) para acessar o tutorial completo de como cadastrar e liberar a sua conta.
+Antes de configurar o sistema é necessário criar a sua conta **Gdoor Pay**. [Clique aqui](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpay) para acessar o tutorial completo de como cadastrar e liberar a utilização da conta.
 
 
 
