@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T20:03:57.565Z
+date: 2023-12-08T20:05:45.916Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -28,14 +28,14 @@ No e-mail recebido, clique no botão <span class="mat-button mat-accent">CONFIRM
 ![e-mail1.png](/config/ferramentas/conta-gdoor-pay/e-mail1.png)
 
 - **E-mail com o termo de uso da Gdoor Pay**
-Leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, entre em contato com a **Gdoor**.
+Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, entre em contato com a **Gdoor**.
 
 ![e-mail2.png](/config/ferramentas/conta-gdoor-pay/e-mail2.png)
 
 
 
 - **E-mail com o termo de uso da Matera**
-A Matera é a plataforma que integra todas as funcionalidades necessárias para a operação das instituições de core bancário. Leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, [clique aqui](https://www.matera.com.br/fale-conosco) para entrar em contato com a empresa. 
+A Matera é a plataforma que integra todas as funcionalidades necessárias para a operação das instituições de core bancário. Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, [clique aqui](https://www.matera.com.br/fale-conosco) para entrar em contato com a empresa. 
 
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
