@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T18:48:03.050Z
+date: 2023-12-08T19:59:44.671Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -14,12 +14,27 @@ Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e e
 
 # Cadastro da conta Gdoor Pay
 
-Acessando o endereço https://gdoorpay.gdoor.com.br/register
+Acessando o endereço https://gdoorpay.gdoor.com.br/register clique no botão <span class="mat-button mat-accent">CADASTRAR</span>.
+
+![1formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
 
 
-# Ativação do Gdoor Pay Pix
-Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay Pix** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
+# E-mail de validação e termos de uso
+Acesse o e-mail que foi utilizado no cadastro e localize os três e-mails enviados, sendo eles:
+- **E-mail de validação do cadastro**
+
+![e-mail1.png](/config/ferramentas/conta-gdoor-pay/e-mail1.png)
+
+- **E-mail com o termo de uso da Gdoor Pay**
+
+- **E-mail com o termo de uso da Matera**
+A Matera é a plataforma que integra todas as funcionalidades necessárias para a operação das instituições de core bancário. Leia com atenção o termo de uso antes dae aceitar. Em caso de dúvidas, [clique aqui](https://hom-gdoorpay.gdoor.com.br/register) para entrar em contato com a empresa. 
+
+
+
+
+eando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay Pix** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
 
 ![Ativação da Integração](/config/ferramentas/gdoor_pay_pix/ativacao_da_integracao.png)
 
