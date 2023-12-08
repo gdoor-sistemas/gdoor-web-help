@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T20:23:09.662Z
+date: 2023-12-08T20:32:39.239Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -56,12 +56,14 @@ A **Matera** é responsável pela integração de todas as funcionalidades neces
 
 
 # Aprovação do cadastro
-Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**
+Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**.
 
 ![7criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
 ![8conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
 ![8conta_rejeitada.png](/config/ferramentas/conta-gdoor-pay/8conta_rejeitada.png)
 ![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
+
+Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix)
 
 ------------------------------
 
