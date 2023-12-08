@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como interligar seu sistema com o pix da Gdoor Pay
 published: false
-date: 2023-12-07T18:10:28.515Z
+date: 2023-12-08T17:01:38.048Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-29T11:32:47.988Z
 
 # Introdução
 
-Na integração do sistema **Gweb** com o **Gdoor Pay Pix**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda e registra os dados da transação automaticamente.
+Na integração do sistema **Gweb** com o **Gdoor Pay Pix**, o sistema aguarda o recebimento da confirmação do pagamento para finalizar a venda.
 
 # Ativação do Gdoor Pay Pix
 Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay Pix** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
