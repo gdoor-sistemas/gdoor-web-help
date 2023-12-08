@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T20:06:39.035Z
+date: 2023-12-08T20:10:55.714Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -14,10 +14,11 @@ Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e e
 
 # Cadastro da conta Gdoor Pay
 
-Acessando o endereço https://gdoorpay.gdoor.com.br/register clique no botão <span class="mat-button mat-accent">CADASTRAR</span>.
+Acessando o endereço https://gdoorpay.gdoor.com.br/register, digite na tela todos os dados solicitados e clique no botão <span class="mat-button mat-accent">CADASTRAR</span>.
 
 ![1formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
+Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastro.
 
 
 # E-mail de validação e termos de uso
