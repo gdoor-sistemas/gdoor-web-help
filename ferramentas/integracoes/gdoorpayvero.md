@@ -1,8 +1,8 @@
 ---
 title: Gdoor Pay
-description: Veja como integrar seu sistema com o Gdoor Pay
+description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2023-12-08T17:20:26.501Z
+date: 2023-12-08T17:20:38.770Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-12-08T17:19:29.288Z
