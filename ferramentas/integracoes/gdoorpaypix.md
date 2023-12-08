@@ -2,7 +2,7 @@
 title: Gdoor Pay Pix
 description: Veja como integrar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-08T17:14:12.730Z
+date: 2023-12-08T17:14:59.419Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-11-29T11:32:47.988Z
