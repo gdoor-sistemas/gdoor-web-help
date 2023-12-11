@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-11T21:18:57.028Z
+date: 2023-12-11T21:28:23.500Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -28,22 +28,36 @@ No e-mail recebido, clique no botão <span class="mat-button mat-accent">CONFIRM
 
 ![e-mail1.png](/config/ferramentas/conta-gdoor-pay/e-mail1.png)
 
-- **E-mail com o termo de uso da Gdoor Pay**
-Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, entre em contato com a **Gdoor**.
+- **E-mail com o primeiro termo de uso**
+Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. 
 
 ![e-mail2.png](/config/ferramentas/conta-gdoor-pay/e-mail2.png)
 
 
 
-- **E-mail com o termo de uso da Matera**
+- **E-mail com o segundo termo de uso**
+Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. 
+----------------------------
 A **Matera** é responsável pela integração de todas as funcionalidades necessárias para a operação das instituições de core bancário. Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, [clique aqui](https://www.matera.com.br/fale-conosco) para entrar em contato com a empresa. 
 
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
 # Continuação do cadastro da conta Gdoor Pay
-Depois de confirmar o e-mail de verificação e assinar os termos, reslize seu login na página 
+Depois de confirmar o e-mail de verificação e assinar os termos, reslize seu login na página https://gdoorpay.gdoor.com.br/login.
 
 ![2tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
+
+Digite os dados da empresa no menu **conta**. Serão solicitadas as seguintes informações:
+- **Razão social**;
+- **CNPJ**;
+- **Chave PIX**;
+- **Telefone**;
+- **E-mail**.
+
+Também será necessário anexar:
+- **Contrato social**: faça uma cópia digitalizada e legível do contrato para anexar;
+- **Procuração**: para o caso de eleger que outra pessoa seja a representante legal da empresa;
+
 
 ![3criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
 
