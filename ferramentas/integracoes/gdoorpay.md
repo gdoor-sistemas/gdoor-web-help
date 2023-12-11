@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-11T21:28:23.500Z
+date: 2023-12-11T21:31:29.746Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -50,7 +50,7 @@ Depois de confirmar o e-mail de verificação e assinar os termos, reslize seu l
 Digite os dados da empresa no menu **conta**. Serão solicitadas as seguintes informações:
 - **Razão social**;
 - **CNPJ**;
-- **Chave PIX**;
+- **Chave PIX**: a chave PIX deve pertencer ao CNPJ informado;
 - **Telefone**;
 - **E-mail**.
 
