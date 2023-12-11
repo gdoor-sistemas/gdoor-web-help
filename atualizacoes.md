@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-06T14:19:31.873Z
+date: 2023-12-11T11:17:24.373Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2023** já foram implementados:
-- Novidades: 73
-- Ajustes: 320
+- Novidades: 75
+- Ajustes: 322
 
-**Total: 393**
+**Total: 397**
 
 --- 
 
@@ -23,6 +23,17 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/12/2023
+f2.11.10, b3.10.20{.versions}
+
+## Novidades
+- Inclusa a opção do MDF-e na geração do XML do mês.
+- Criada nas configurações da NFS-e o campo de Regime Tributário para clientes do Simples Nacional em que o emitente for de Porto Alegre.
+
+## Ajustes
+- Retirada a obrigatoriedade do campo RNTRC do cadastro de pessoas e veículos.
+- Ajustado tamanho do campo do código de autorização na NFS-e.
+
 # 06/12/2023
 b3.10.19{.versions}
 
