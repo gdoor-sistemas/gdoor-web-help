@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-11T21:33:44.365Z
+date: 2023-12-11T21:36:17.966Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -60,6 +60,15 @@ Também será necessário anexar:
 
 
 ![3criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
+
+No menu **endereço**, cadastre os seguintes campos:
+- **CEP**;
+- **Estado**;
+- **Cidade**;
+- **Rua**;
+- **Bairro**;
+- **Complemento**;
+- **Número**.
 
 
 
