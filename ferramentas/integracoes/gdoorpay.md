@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-11T21:31:43.084Z
+date: 2023-12-11T21:32:41.056Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -56,7 +56,7 @@ Digite os dados da empresa no menu **conta**. Serão solicitadas as seguintes in
 
 Também será necessário anexar:
 - **Contrato social**: faça uma cópia digitalizada e legível do contrato para anexar;
-- **Procuração**: para o caso de eleger que outra pessoa seja a representante legal da empresa;
+- **Procuração**: para o caso de eleger que uma pessoa, diferente da que consta no contrato social, seja a representante legal da empresa;
 
 
 ![3criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
