@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T18:50:49.946Z
+date: 2023-12-12T18:54:08.747Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -18,11 +18,19 @@ Acessando o endereço https://gdoorpay.gdoor.com.br/register, digite na tela tod
 
 ![1formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
+
+![tela_movimentos_saldo.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_saldo.png)
+![faq.png](/config/ferramentas/conta-gdoor-pay/faq.png)
+![tela_movimentos_extrato.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_extrato.png)
+
 Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastro.
 
 
 # E-mail de validação e termos de uso
 Acesse o e-mail que foi utilizado no cadastro e localize os três e-mails enviados, sendo eles:
+- **Reenvio do e-mail**
+![reenviar_email.png](/config/ferramentas/conta-gdoor-pay/reenviar_email.png)
+
 - **E-mail de validação do cadastro**
 No e-mail recebido, clique no botão <span class="mat-button mat-accent">CONFIRMAR CADASTRO</span> para validar os dados informados. Caso ocorra algum problema com o botão, copie e cole o endereço do corpo do e-mail no seu navegador.
 
