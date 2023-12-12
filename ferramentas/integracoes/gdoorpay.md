@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T14:15:14.716Z
+date: 2023-12-12T14:36:42.747Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -47,6 +47,11 @@ Depois de confirmar o e-mail de verificação e assinar os termos, reslize o log
 
 ![2tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
 
+> Certifique-se de que os dados preenchidos estejam corretos e de que os documentos digitalizados estejam legíveis. É crucial enviar todos os dados necessários para evitar possíveis complicações ou atrasos no processo.
+{.is-success .gw .gw-tip}
+
+Ao preencher as informações cadastrais, atente-se ao envio correto dos dados e certifique-se que os documentos digitalizados estejam legíveis e completos.
+
 Informe os dados da empresa no menu **"conta"**. É necessário que as informações estejam **exatamente** conforme o que consta no **contrato social**. Os campos disponíveis são:
 
 - **Razão social**;
@@ -73,7 +78,29 @@ No menu **endereço**, cadastre os seguintes campos:
 
 ![4criando_conta_endereco.png](/config/ferramentas/conta-gdoor-pay/4criando_conta_endereco.png)
 
-No menu **representantes** informe os dados dos responsáveis pela empresa.
+No menu **representantes** informe os dados dos responsáveis pela empresa, conforme **contrato social**. Os campos disponíveis são:
+- **Nome**;
+- **Nome da mãe**;
+- **Data de nascimento**;
+- **CPF**;
+- **Telefone**.
+- **E-mail**;
+- **CEP**;
+- **Estado**;
+- **Cidade**;
+- **Rua**;
+- **Bairro**;
+- **Complemento**;
+- **Número**.
+
+Escolha um **"tipo de documento"** e encaminhe conforme solicitado:
+
+- **Para o RG**:
+
+- **Para a CNH**:
+
+
+
 
 ![5criando_conta_representante.png](/config/ferramentas/conta-gdoor-pay/5criando_conta_representante.png)
 ![6criando_conta_pagamento.png](/config/ferramentas/conta-gdoor-pay/6criando_conta_pagamento.png)
@@ -83,8 +110,15 @@ No menu **representantes** informe os dados dos responsáveis pela empresa.
 Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**.
 
 ![7criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
-![8conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
+
+Verifique se o status da conta foi alterado para **"pendente de revisão"**. Leia atentamente a mensagem apresentada sobre qual documento foi **recusado**, ajuste conforme solicita na mensagem, envie e aguarde novamente.
+
 ![8conta_rejeitada.png](/config/ferramentas/conta-gdoor-pay/8conta_rejeitada.png)
+
+Quando a análise da documenação enviada for finalizada e etiver **correta**, o status da conta será alterado para **aprovado**, gerando o menu **"chaves de acesso"**.
+
+![8conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
+
 ![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
 
 Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix).
