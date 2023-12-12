@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T14:36:42.747Z
+date: 2023-12-12T18:45:07.718Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -50,8 +50,6 @@ Depois de confirmar o e-mail de verificação e assinar os termos, reslize o log
 > Certifique-se de que os dados preenchidos estejam corretos e de que os documentos digitalizados estejam legíveis. É crucial enviar todos os dados necessários para evitar possíveis complicações ou atrasos no processo.
 {.is-success .gw .gw-tip}
 
-Ao preencher as informações cadastrais, atente-se ao envio correto dos dados e certifique-se que os documentos digitalizados estejam legíveis e completos.
-
 Informe os dados da empresa no menu **"conta"**. É necessário que as informações estejam **exatamente** conforme o que consta no **contrato social**. Os campos disponíveis são:
 
 - **Razão social**;
@@ -93,16 +91,25 @@ No menu **representantes** informe os dados dos responsáveis pela empresa, conf
 - **Complemento**;
 - **Número**.
 
-Escolha um **"tipo de documento"** e encaminhe conforme solicitado:
+Escolha **RG** ou **CNH** para o **"tipo de documento"** e encaminhe o documento seguindo as orientações abaixo: 
 
-- **Para o RG**:
-
-- **Para a CNH**:
-
+>**Atenção a luminosidade:** não deixe muito escura e nem com brilho vindo do flash de luz;
+ **Remova proteções:** retire qualquer tipo de capa ou proteção que dificulte cópia/foto;
+ **Evite fundos com interferência:** utilize uma superfície lisa, preferencialmente, de cor única e escura para um maior contraste em relação ao documento;
+ **Deixe o documento o mais plano possível:** evite áres curvas, dobras ou regiões amassadas;
+ **Posicione o documento verticalmente:** evite fazer a cópia com o documento de lado ou de cabeça para baixo;
+ **Posicione a câmera a 90°:** no caso de utilizar a foto do documento, tire a foto de cima do documento;
+ **Selfie:** a selfie com o documento deve ser enviada sem objetos próximos e com o usuário segurando o documento. O fundo deve ser de cor neutra e com boa luminosidade.
+**Resumindo**, a foto ideal apresenta o documento ocupando a maior área possível da imagem, sem interferências, na posição vertical, com bom foco e boa luminosidade. Ele deve aparecer em uma superficie lisa e de alto contraste. O documento deve ser encaminhado sem qualquer corte, se for a CNH deve estar aberta e se for RG deve enviar frente e verso.
+{.is-success .gw .gw-tip}
 
 
 
 ![5criando_conta_representante.png](/config/ferramentas/conta-gdoor-pay/5criando_conta_representante.png)
+
+
+Após digitar todos os dados e encaminhar toda a documentação, um **QR-Code** será gerado para que o pagamento seja efetuado.
+
 ![6criando_conta_pagamento.png](/config/ferramentas/conta-gdoor-pay/6criando_conta_pagamento.png)
 
 
@@ -119,6 +126,7 @@ Quando a análise da documenação enviada for finalizada e etiver **correta**, 
 
 ![8conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
 
+Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix).
+
 ![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
 
-Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix).
