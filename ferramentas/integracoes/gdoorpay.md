@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-11T21:36:30.600Z
+date: 2023-12-12T14:12:59.934Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -43,20 +43,21 @@ A **Matera** é responsável pela integração de todas as funcionalidades neces
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
 # Continuação do cadastro da conta Gdoor Pay
-Depois de confirmar o e-mail de verificação e assinar os termos, reslize seu login na página https://gdoorpay.gdoor.com.br/login.
+Depois de confirmar o e-mail de verificação e assinar os termos, reslize o login na página https://gdoorpay.gdoor.com.br/login.
 
 ![2tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
 
-Digite os dados da empresa no menu **conta**. Serão solicitadas as seguintes informações:
+Informe os dados da empresa no menu **"conta"**. É necessário que as informações estejam **exatamente** conforme o que consta no **contrato social**. Os campos disponíveis são:
+
 - **Razão social**;
 - **CNPJ**;
-- **Chave PIX** (a chave PIX deve pertencer ao CNPJ informado);
+- **Chave PIX** (a chave PIX deve pertencer a conta vinculada ao CNPJ informado);
 - **Telefone**;
 - **E-mail**.
 
-Também será necessário anexar:
+Também será necessário anexar ao cadastro:
 - **Contrato social**: faça uma cópia digitalizada e legível do contrato para anexar;
-- **Procuração**: para o caso de eleger um representante legal da empresa, diferente daquele consta no contrato social.
+- **Procuração**: para o caso de eleger um representante legal da empresa, diferente daquele consta no contrato social, deverá anexar uma procuração.
 
 
 ![3criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
