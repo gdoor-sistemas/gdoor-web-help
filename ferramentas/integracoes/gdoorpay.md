@@ -1,8 +1,8 @@
 ---
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
-published: true
-date: 2023-12-12T19:33:58.821Z
+published: false
+date: 2023-12-12T19:39:50.406Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -18,7 +18,7 @@ Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e e
 
 Acessando o endereço https://gdoorpay.gdoor.com.br/register, digite na tela todos os dados solicitados e clique no botão <span class="mat-button mat-accent">CADASTRAR</span>.
 
-![1formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
+![formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
 
 Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastro.
@@ -54,7 +54,7 @@ A **Matera** é responsável pela integração de todas as funcionalidades neces
 ## Continuação do cadastro da conta Gdoor Pay
 Depois de confirmar o e-mail de verificação e assinar os termos, reslize o login na página https://gdoorpay.gdoor.com.br/login.
 
-![2tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
+![tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
 
 > Certifique-se de que os dados preenchidos estejam corretos e de que os documentos digitalizados estejam legíveis. É crucial enviar todos os dados necessários para evitar possíveis complicações ou atrasos no processo.
 {.is-success .gw .gw-tip}
@@ -72,7 +72,7 @@ Também será necessário anexar ao cadastro:
 - **Procuração**: para o caso de eleger um representante legal da empresa, diferente daquele consta no contrato social, deverá anexar uma procuração.
 
 
-![3criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
+![criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
 
 No menu **endereço**, cadastre os seguintes campos:
 - **CEP**;
@@ -83,7 +83,7 @@ No menu **endereço**, cadastre os seguintes campos:
 - **Complemento**;
 - **Número**.
 
-![4criando_conta_endereco.png](/config/ferramentas/conta-gdoor-pay/4criando_conta_endereco.png)
+![criando_conta_endereco.png](/config/ferramentas/conta-gdoor-pay/4criando_conta_endereco.png)
 
 No menu **representantes** informe os dados dos responsáveis pela empresa, conforme **contrato social**. Os campos disponíveis são:
 - **Nome**;
@@ -99,7 +99,7 @@ No menu **representantes** informe os dados dos responsáveis pela empresa, conf
 - **Bairro**;
 - **Complemento**;
 - **Número**.
-![5criando_conta_representante.png](/config/ferramentas/conta-gdoor-pay/5criando_conta_representante.png)
+![criando_conta_representante.png](/config/ferramentas/conta-gdoor-pay/5criando_conta_representante.png)
 
 Escolha **RG** ou **CNH** para o **"tipo de documento"** e encaminhe o documento seguindo as orientações abaixo: 
 
@@ -122,25 +122,25 @@ Escolha **RG** ou **CNH** para o **"tipo de documento"** e encaminhe o documento
 
 Após digitar todos os dados e encaminhar toda a documentação, um **QR-Code** será gerado para que o pagamento seja efetuado.
 
-![6criando_conta_pagamento.png](/config/ferramentas/conta-gdoor-pay/6criando_conta_pagamento.png)
+![criando_conta_pagamento.png](/config/ferramentas/conta-gdoor-pay/6criando_conta_pagamento.png)
 
 
 ## Aprovação do cadastro
 Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**.
 
-![7criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
+![criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
 
 Verifique se o status da conta foi alterado para **"pendente de revisão"**. Leia atentamente a mensagem apresentada sobre qual documento foi **recusado**, ajuste conforme solicita na mensagem, envie e aguarde novamente.
 
-![8conta_rejeitada.png](/config/ferramentas/conta-gdoor-pay/8conta_rejeitada.png)
+![conta_rejeitada.png](/config/ferramentas/conta-gdoor-pay/8conta_rejeitada.png)
 
 Quando a análise da documenação enviada for finalizada e etiver **correta**, o status da conta será alterado para **aprovado**, gerando o menu **"chaves de acesso"**.
 
-![8conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
+![conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
 
 Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix).
 
-![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
+![conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
 
 # Movimentos
 Neste menu será possível verificar todas as movimentações que foram efetuadas.
