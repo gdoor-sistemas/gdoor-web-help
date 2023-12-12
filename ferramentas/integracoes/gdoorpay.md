@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T20:15:58.450Z
+date: 2023-12-12T20:16:26.905Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -136,7 +136,7 @@ Verifique se o status da conta foi alterado para **"pendente de revisão"**. Lei
 
 ![conta_rejeitada.png](/config/ferramentas/conta-gdoor-pay/8conta_rejeitada.png)
 
-Quando a análise da documenação enviada for finalizada e etiver **correta**, o status da conta será alterado para **aprovado**, gerando o menu **"chaves de acesso"**.
+Quando a análise da documenação enviada for finalizada e estiver **correta**, o status da conta será alterado para **aprovado**, gerando o menu **"chaves de acesso"**.
 
 ![conta_aprovada.png](/config/ferramentas/conta-gdoor-pay/8conta_aprovada.png)
 
