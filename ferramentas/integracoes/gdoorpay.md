@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T19:18:17.032Z
+date: 2023-12-12T19:25:34.735Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -140,10 +140,19 @@ Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay]
 ![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
 
 # Movimentos
+Neste menu será possível verificar todas as movimentações que foram efetuadas.
 
-![tela_movimentos_saldo.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_saldo.png)
+## Extrato
+
+Para verificar o estrato de transações, escolha uma **data inicial**, uma **data final** e clique em <span class="mat-button mat-accent">BUSCAR</span>.
 
 ![tela_movimentos_extrato.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_extrato.png)
+
+## Saldo
+
+Apresenta a **data do dia** e o **saldo disponível**.
+
+![tela_movimentos_saldo.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_saldo.png)
 
 
 
