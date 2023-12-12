@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T19:43:35.476Z
+date: 2023-12-12T19:52:08.356Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -28,26 +28,28 @@ Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastr
 Acesse o e-mail que foi utilizado no cadastro e localize os três e-mails enviados.
 
 - **Reenvio do e-mail**
+
 Caso não tenha recebido o e-mail, retorne a tela de login clique em [**não recebeu o e-mail?**](https://gdoorpay.gdoor.com.br/resend-email). Informe o e-mail utilizado no cadastro e clique no botão <span class="mat-button mat-accent">REENVIAR E-MAIL</span>.
 
 ![reenviar_email.png](/config/ferramentas/conta-gdoor-pay/reenviar_email.png)
 
 - **E-mail de validação do cadastro**
+
 No e-mail recebido, clique no botão <span class="mat-button mat-accent">CONFIRMAR CADASTRO</span> para validar os dados informados. Caso ocorra algum problema com o botão, copie e cole o endereço do corpo do e-mail no seu navegador.
 
 ![e-mail1.png](/config/ferramentas/conta-gdoor-pay/e-mail1.png)
 
 - **E-mail com o primeiro termo de uso**
+
 Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. 
 
 ![e-mail2.png](/config/ferramentas/conta-gdoor-pay/e-mail2.png)
 
 
-
 - **E-mail com o segundo termo de uso**
+
 Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. 
-----------------------------
-A **Matera** é responsável pela integração de todas as funcionalidades necessárias para a operação das instituições de core bancário. Clique no botão <span class="mat-button mat-accent">ACESSAR O DOCUMENTO</span> e leia com atenção o termo de uso antes de aceitar. Em caso de dúvidas, [clique aqui](https://www.matera.com.br/fale-conosco) para entrar em contato com a empresa. 
+
 
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
