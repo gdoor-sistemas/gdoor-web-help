@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T20:08:13.779Z
+date: 2023-12-12T20:15:58.450Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -108,7 +108,7 @@ Escolha **RG** ou **CNH** para o **"tipo de documento"** e encaminhe o documento
 >**Atenção a luminosidade:** não deixe muito escura e nem com brilho vindo do flash de luz;
  **Remova proteções:** retire qualquer tipo de capa ou proteção que dificulte cópia/foto;
  **Evite fundos com interferência:** utilize uma superfície lisa, preferencialmente, de cor única e escura para um maior contraste em relação ao documento;
- **Deixe o documento o mais plano possível:** evite áres curvas, dobras ou regiões amassadas;
+ **Deixe o documento o mais plano possível:** evite áreas curvas, dobras ou regiões amassadas;
  **Posicione o documento verticalmente:** evite fazer a cópia com o documento de lado ou de cabeça para baixo;
  **Posicione a câmera a 90°:** no caso de utilizar a foto do documento, tire a foto de cima do documento;
  **Selfie:** a selfie deve ser enviada somente do rosto, sem objetos próximos, com um fundo de cor neutra e com boa luminosidade. Não segure o documento em mãos para a foto.
