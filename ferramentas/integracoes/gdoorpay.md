@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T19:04:36.120Z
+date: 2023-12-12T19:18:17.032Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -12,21 +12,19 @@ dateCreated: 2023-05-10T19:42:10.949Z
 
 Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e encaminhar os documentos solicitados, os quais serão avalilados para aprovação da conta.
 
-# Cadastro inicial da conta Gdoor Pay
+# Conta 
+
+## Cadastro inicial da conta Gdoor Pay
 
 Acessando o endereço https://gdoorpay.gdoor.com.br/register, digite na tela todos os dados solicitados e clique no botão <span class="mat-button mat-accent">CADASTRAR</span>.
 
 ![1formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
 
-![tela_movimentos_saldo.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_saldo.png)
-![faq.png](/config/ferramentas/conta-gdoor-pay/faq.png)
-![tela_movimentos_extrato.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_extrato.png)
-
 Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastro.
 
 
-# E-mail de validação e termos de uso
+## E-mail de validação e termos de uso
 Acesse o e-mail que foi utilizado no cadastro e localize os três e-mails enviados.
 
 - **Reenvio do e-mail**
@@ -53,7 +51,7 @@ A **Matera** é responsável pela integração de todas as funcionalidades neces
 
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
-# Continuação do cadastro da conta Gdoor Pay
+## Continuação do cadastro da conta Gdoor Pay
 Depois de confirmar o e-mail de verificação e assinar os termos, reslize o login na página https://gdoorpay.gdoor.com.br/login.
 
 ![2tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
@@ -124,7 +122,7 @@ Após digitar todos os dados e encaminhar toda a documentação, um **QR-Code** 
 ![6criando_conta_pagamento.png](/config/ferramentas/conta-gdoor-pay/6criando_conta_pagamento.png)
 
 
-# Aprovação do cadastro
+## Aprovação do cadastro
 Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**.
 
 ![7criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
@@ -140,4 +138,19 @@ Quando a análise da documenação enviada for finalizada e etiver **correta**, 
 Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay](https://help.gdoorweb.com.br/pt-br/ferramentas/integracoes/gdoorpaypix).
 
 ![9conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
+
+# Movimentos
+
+![tela_movimentos_saldo.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_saldo.png)
+
+![tela_movimentos_extrato.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_extrato.png)
+
+
+
+# FAQ - Perguntas frequentes
+
+Disponibilizamos nesta seção um documento no formato de perguntas e respostas, contendo as dúvidas sobre o **Gdoor Pay Pix**.
+
+![faq.png](/config/ferramentas/conta-gdoor-pay/faq.png)
+
 
