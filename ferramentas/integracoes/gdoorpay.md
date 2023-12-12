@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T20:16:34.175Z
+date: 2023-12-12T20:24:45.087Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -101,6 +101,7 @@ No menu **representantes** informe os dados dos responsáveis pela empresa, conf
 - **Bairro**;
 - **Complemento**;
 - **Número**.
+
 ![criando_conta_representante.png](/config/ferramentas/conta-gdoor-pay/5criando_conta_representante.png)
 
 Escolha **RG** ou **CNH** para o **"tipo de documento"** e encaminhe o documento seguindo as orientações abaixo: 
@@ -128,6 +129,7 @@ Após digitar todos os dados e encaminhar toda a documentação, um **QR-Code** 
 
 
 ## Aprovação do cadastro
+
 Após cadastrar os dados e realizar o pagamento aguarde a aprovação do cadastro. O retorno será dado em até **5 dias úteis**.
 
 ![criando_conta_aguardando_analise.png](/config/ferramentas/conta-gdoor-pay/7criando_conta_aguardando_analise.png)
@@ -145,6 +147,7 @@ Com as chaves de acesso geradas, prossiga com a    [ativação do Gdoor Pix Pay]
 ![conta_aprovada_chaves_liberadas.png](/config/ferramentas/conta-gdoor-pay/9conta_aprovada_chaves_liberadas.png)
 
 # Movimentos
+
 Neste menu será possível verificar todas as movimentações que foram efetuadas.
 
 ## Extrato
