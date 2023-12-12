@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T20:33:10.598Z
+date: 2023-12-12T21:23:22.446Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-10T19:42:10.949Z
 
 # Introdução
 
-Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e encaminhar os documentos solicitados, os quais serão avalilados para aprovação da conta.
+Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e encaminhar os documentos solicitados, os quais serão avaliados para aprovação da conta.
 
 # Conta 
 
@@ -21,7 +21,7 @@ Acessando o endereço https://gdoorpay.gdoor.com.br/register, digite na tela tod
 ![formulario_cadastro.png](/config/ferramentas/conta-gdoor-pay/1formulario_cadastro.png)
 
 
-Serão enviados e-mails com solicitações para o e-mail utilizado neste cadastro.
+Serão enviadas 03 solicitações para o e-mail utilizado neste cadastro.
 
 
 ## E-mail de validação e termos de uso
@@ -29,7 +29,7 @@ Acesse o e-mail que foi utilizado no cadastro e localize os três e-mails enviad
 
 - **Reenvio do e-mail**
 
-Caso não tenha recebido o e-mail, retorne a tela de login clique em [**não recebeu o e-mail?**](https://gdoorpay.gdoor.com.br/resend-email). Informe o e-mail utilizado no cadastro e clique no botão <span class="mat-button mat-accent">REENVIAR E-MAIL</span>.
+Caso não tenha recebido o e-mail, retorne a tela de login e clique em [**não recebeu o e-mail?**](https://gdoorpay.gdoor.com.br/resend-email). Informe o e-mail utilizado no cadastro e clique no botão <span class="mat-button mat-accent">REENVIAR E-MAIL</span>.
 
 ![reenviar_email.png](/config/ferramentas/conta-gdoor-pay/reenviar_email.png)
 
@@ -76,7 +76,8 @@ Também será necessário anexar ao cadastro:
 
 ![criando_conta_conta.png](/config/ferramentas/conta-gdoor-pay/3criando_conta_conta.png)
 
-No menu **endereço**, cadastre os seguintes campos:
+O **endereço** precisa ser igual ao endereço da empresa cadastrado no site da **Receita Federal**. 
+{.is-info}
 - **CEP**;
 - **Estado**;
 - **Cidade**;
