@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T19:39:50.406Z
+date: 2023-12-12T19:43:35.476Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -52,7 +52,7 @@ A **Matera** é responsável pela integração de todas as funcionalidades neces
 ![e-mail3.png](/config/ferramentas/conta-gdoor-pay/e-mail3.png)
 
 ## Continuação do cadastro da conta Gdoor Pay
-Depois de confirmar o e-mail de verificação e assinar os termos, reslize o login na página https://gdoorpay.gdoor.com.br/login.
+Depois de confirmar o e-mail de verificação e assinar os termos, realize o login na página https://gdoorpay.gdoor.com.br/login.
 
 ![tela_inicial.png](/config/ferramentas/conta-gdoor-pay/2tela_inicial.png)
 
