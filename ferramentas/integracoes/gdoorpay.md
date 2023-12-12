@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-12T21:23:22.446Z
+date: 2023-12-12T21:23:45.297Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -153,7 +153,7 @@ Neste menu será possível verificar todas as movimentações que foram efetuada
 
 ## Extrato
 
-Para verificar o estrato de transações, escolha uma **data inicial**, uma **data final** e clique em <span class="mat-button mat-accent">BUSCAR</span>.
+Para verificar o extrato de transações, escolha uma **data inicial**, uma **data final** e clique em <span class="mat-button mat-accent">BUSCAR</span>.
 
 ![tela_movimentos_extrato.png](/config/ferramentas/conta-gdoor-pay/tela_movimentos_extrato.png)
 
