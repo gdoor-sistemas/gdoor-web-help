@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2023-12-13T20:17:19.585Z
+date: 2023-12-13T20:19:39.144Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -346,6 +346,7 @@ Informe o último **NSU** (Número Sequencial Único) para utilização no downl
 ## Impressão do DANFE
 
 Configurações para a impressão do DANFe dentro da manifestação eletrônica.
+Após informar, clique em <span class="mat-button mdi "> salvar</span>.
 
 ## Certificado digital
 
@@ -354,3 +355,4 @@ Para configurar o certificado digital para emissão de NF-e, acesse as [Configur
 ## Composição de custo da compra
 
 Marque as opções que deseja para o cálculo do custo de compra e custo médio do produto na compra.
+Selecione quais valores deseja na composição do custo dos produtos e clique em <span class="mat-button mdi ">SALVAR</span>.
