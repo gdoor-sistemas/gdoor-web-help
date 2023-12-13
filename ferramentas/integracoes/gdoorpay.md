@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-13T12:58:25.326Z
+date: 2023-12-13T13:04:09.926Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -66,7 +66,7 @@ Depois de confirmar o e-mail de verificação e assinar os termos, realize o log
 > Certifique-se de que os dados preenchidos estejam corretos e de que os documentos digitalizados estejam legíveis. É crucial enviar todos os dados necessários para evitar possíveis complicações ou atrasos no processo.
 {.is-success .gw .gw-tip}
 
-Informe os dados da empresa no menu **"conta"**. É necessário que as informações estejam **exatamente** conforme o que consta na [**Receita Federal**](https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/cnpjreva_solicitacao.asp). Os campos disponíveis são:
+Na página acessada, informe os dados da empresa no menu **"conta"**. Lembrando que é necessário que os dados estejam iguais ao registro da empresa na [**Receita Federal**](https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/cnpjreva_solicitacao.asp). Os campos disponíveis são:
 
 - **Razão social**;
 - **CNPJ**;
