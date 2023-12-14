@@ -2,7 +2,7 @@
 title: Integrações
 description: Veja como interligar seu sistema com os aplicativos integrados ao sistema
 published: true
-date: 2023-12-08T17:20:04.614Z
+date: 2023-12-14T17:05:58.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:14:10.660Z
@@ -18,3 +18,8 @@ Acessando **Configurações » Ferramentas » Integrações**, você visualiza a
 - [Gped *Veja como interligar o sistema com o aplicativo de pedidos Gped*](/ferramentas/integracoes/gped)
 {.links-list}
 
+<!--
+
+- [Gdoor Pay Pix *Veja como interligar o sistema com o pix do Gdoor Pay*](/ferramentas/integracoes/gdoorpaypix)
+
+-->
