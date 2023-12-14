@@ -2,7 +2,7 @@
 title: Inventário de estoque
 description: Listamos neste tópico explicações detalhadas e o procedimento para gerar o arquivo de inventário do seu estoque.
 published: true
-date: 2023-12-07T18:16:55.782Z
+date: 2023-12-14T17:03:35.766Z
 tags: tutoriais, produtos, estoque, inventario
 editor: markdown
 dateCreated: 2023-12-06T20:12:44.648Z
@@ -81,7 +81,7 @@ As opções acima no inventário de estoque no modelo para impressão, são:
 
 Ao escolher a opção **imprimir** basta selecionar a **impressora** na caixa de impressão do seu navegador. Caso escolha a opção **exportar como CSV** ou **salvar como PDF**, escolha o local onde deve ser salvo o arquivo do inventário.
 
-## Inventário dentro “Sintegra”
+## Inventário dentro do “Sintegra”
 [Clique aqui](/pt-br/arquivos-fiscais/sintegra#gerar-novo-arquivo-sintegra) para acessar o tutorial completo sobre a geração do inventário dentro do sintegra.
 
 ## Inventário dentro do “SPED Fiscal”
