@@ -2,7 +2,7 @@
 title: Rejeição 383: Item com CSOSN indevido
 description: Veja como solucionar a rejeição 383: Item com CSOSN indevido no Gweb.
 published: true
-date: 2023-10-11T13:27:08.070Z
+date: 2023-12-14T18:35:52.184Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-10-11T12:14:57.056Z
@@ -18,7 +18,7 @@ Essa mensagem ocorre quando o estado não aceita o uso do **CSOSN (Código de Si
 ## Solução
 
 Verifique com a **contabilidade** da empresa quais os códigos de **CSOSN** que devem ser utilizados na venda.
-Abaixo disponibilizamos uma lista com os códigos aceitos nestes estados:
+Abaixo disponibilizamos uma lista com os códigos aceitos na NFC-e:
 
 
 |CSOSN|Descrição                                                                                |
