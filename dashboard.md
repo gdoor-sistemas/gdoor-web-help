@@ -2,7 +2,7 @@
 title: Dashboard
 description: Veja como utilizar o Dashboard do Gweb.
 published: true
-date: 2023-11-16T17:28:24.826Z
+date: 2023-12-14T18:33:40.311Z
 tags: nf-e, tutorial, nfc-e, financeiro, dashboard, pré-venda-gerencial
 editor: markdown
 dateCreated: 2023-10-02T19:51:39.356Z
@@ -47,8 +47,7 @@ As **opções** internas de cada gráfico são:
 
 Clique e arraste para mover o widget e alterar usa posição
 
-![alterar_ordem.gif](/dashboard/alterar_ordem.gif)
-
+![Mover widgets](/dashboard/alterar_ordem.gif)
 
 ### <span class="mdi mdi-information"></span> Informações
 
