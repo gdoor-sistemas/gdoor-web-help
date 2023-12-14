@@ -2,7 +2,7 @@
 title: Primeiros passos
 description: Veja como personalizar o seu sistema e começar a utilizar
 published: true
-date: 2022-04-29T18:51:34.516Z
+date: 2023-12-14T18:32:29.276Z
 tags: primeiros passos, tutorial, gdoor web, como fazer
 editor: markdown
 dateCreated: 2019-12-23T13:46:41.107Z
@@ -48,5 +48,5 @@ Para iniciar a emissão de NF-e/NFC-e, ao menos o [certificado digital](/glossar
 
 Os cadastros aqui referem-se a [pessoas](/cadastros/pessoas) e [produtos](/cadastros/produtos), que são necessários, por exemplo, para a emissão de NF-e e NFC-e. Falando em pessoas, você pode cadastrar seus clientes, fornecedores, transportadoras e seus vendedores. No cadastro de produtos, você lista as mercadorias com as quais sua empresa trabalha.
 
-> Seus cadastros podem ser facilitados por meio da [importação do XML](/movimentos/compras/importar-xml) de compra, que cadastra automaticamente pessoas e produtos não existentes no seu sistema.
+> Seus cadastros podem ser facilitados por meio da [importação do XML](/pt-br/movimentos/compras#importar-xml) de compra, que cadastra automaticamente pessoas e produtos não existentes no seu sistema.
 {.is-success .gw .gw-tip}
