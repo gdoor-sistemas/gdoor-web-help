@@ -2,7 +2,7 @@
 title: Rejeição 463: Código Identificador do CSC no QR-Code foi revogado pela empresa
 description: Veja como solucionar a rejeição 463: Código Identificador do CSC no QR-Code foi revogado pela empresa
 published: true
-date: 2023-12-14T16:41:37.830Z
+date: 2023-12-14T16:42:37.311Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2023-12-14T16:33:59.273Z
@@ -23,6 +23,6 @@ Acesse primeiramente o [**PDV**](/movimentos/pdv), e no canto inferior direito, 
 > Essas informações são **fornecidas** pela **contabilidade** da empresa, pois é ela quem registra o cadastro junto a **SEFAZ**.
 {.is-info}
 
-![Solução da rejeição](/tutoriais/rejeicoes/464/sol_rej_464.png)
+![Solução da rejeição](/tutoriais/rejeicoes/463/sol_rej_463.png)
 
 Após **informar** os dados **corretos**, clique em <span class="mat-button mat-accent">SALVAR</span> para **gravar** as informações.
