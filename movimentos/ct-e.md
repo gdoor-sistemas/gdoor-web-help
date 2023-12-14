@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: Veja como você pode cadastrar os Conhecimentos de Transporte Eletrônico 
 published: true
-date: 2023-05-10T19:20:47.800Z
+date: 2023-12-14T12:49:06.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -293,10 +293,8 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button md
 
 ### Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para emissão de CT-e. Clique em <span class="mat-button mdi ">carregar certificado</span> e selecione o arquivo do **certificado digital A1** no computador. Em seguida informe a senha e clique em <span class="mat-button mdi ">salvar</span>.
-Para remover o certificado digital, clique no (<em class="mdi mdi-close"></em>) à direita do nome.
+Para configurar o certificado digital para emissão de CT-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
 
-![config_cert_cte.png](/movimentos/cte/config_cert_cte.png)
 
 ### Ambiente do CT-e
 
@@ -358,16 +356,9 @@ Configure um endereço de e-mail para receber uma **resposta** para cada envio d
 
 ![config_email_cte.png](/movimentos/cte/config_email_cte.png)
 
+## Vídeo
 
-
-
-
-
-
-
-
-
-
-
-
+<div class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-xPeUYkPoWg?si=AGV5JNMOTDMu6UdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
