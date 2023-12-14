@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2023-02-21T20:17:53.421Z
+date: 2023-12-14T12:43:11.925Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -18,13 +18,13 @@ Aqui você vai encontrar ajuda para executar algumas tarefas no sistema, bem com
 
 O Gweb é um sistema on-line para automação comercial, destinado a empresas de pequeno e médio porte.
 
-Possui emissão de documentos fiscais, pedido de venda, além dos cadastros e controles auxiliares, como o cadastro de pessoas, produtos e configurações pertinentes. Ao passar do tempo, novas funcionalidades serão adicionadas.
+Possui emissão de documentos fiscais, pedido de venda, orçamento, além dos cadastros e controles auxiliares, como o cadastro de pessoas, produtos e configurações pertinentes. Ao passar do tempo, novas funcionalidades serão adicionadas.
 
 ## Para quem é indicado o Gweb?
 
 O Gweb pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
 
-- Que precisem emitir NF-e ou NFC-e;
+- Que precisem emitir NF-e, NFC-e, CT-e, MDF-e ou NFS-e;
 - Queiram manter controle de estoque;
 - Cujos usuários do sistema não possam estar sempre na empresa;
 - Cujos administradores queiram controlar o sistema e consultar relatórios à distância;
@@ -38,3 +38,9 @@ Obtive acesso ao Gweb, e agora? [Clique aqui](/tutoriais/primeiros-passos) e vej
 ## Atualizações
 
 O Gweb é um sistema que está em constante expansão e aprimoramento. Vejas as últimas atualizações publicadas [clicando aqui](/atualizacoes).
+
+## Vídeo
+
+<div class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/SI8Nc0jxQq0?si=wWHY93ZFftjbqdgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
