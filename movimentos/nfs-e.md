@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as Notas Fiscais de Serviço eletrônicas
 published: true
-date: 2023-11-16T17:56:42.913Z
+date: 2023-12-15T12:01:29.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -144,6 +144,18 @@ Marque a opção caso a prefeitura permita o envio automático do e-mail.
 
 > Em algumas cidades o envio do e-mail não dependerá do Gweb, a própria prefeitura efetuará o envio quando a NFS-e for autorizada.
 {.is-info}
+
+Utilizar CNAE como código de serviço{.subtitle}
+
+Em algumas prefeituras é necessário que ao **transmitir** a NFS-e o **CNAE** seja utilizado como código do serviço.
+
+Enviar alíquota de ISS Retido ao WebService{.subtitle}
+
+Em algumas cidades exigem o envio da Alíquota de ISS Retido ao invés da Alíquota de ISS
+
+Utilizar ambiente nacional{.subtitle}
+
+Para habilitar envio da NFSe pelo Ambiente Nacional para as empresas MEI entre em contato com o suporte técnico.
 
 ## Configurações da prefeitura
 
