@@ -2,7 +2,7 @@
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
 published: false
-date: 2023-12-13T13:40:43.311Z
+date: 2023-12-15T11:37:45.770Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
@@ -14,7 +14,7 @@ Para criar a sua conta **Gdoor pay**, será necessário cadastrar seus dados e e
 
 # Conta 
 
-Acesse o site da  [**Receita Federal**](https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/cnpjreva_solicitacao.asp) e cadastre as informações exatamente conforme consta no registro da empresa.
+Acesse o site da  [**Receita Federal**](https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/cnpjreva_solicitacao.asp) para copiar as informações exatamente conforme consta no registro da empresa.
 
 
 ## Cadastro inicial da conta Gdoor Pay
