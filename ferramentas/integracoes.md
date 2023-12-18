@@ -2,7 +2,7 @@
 title: Integrações
 description: Veja como interligar seu sistema com os aplicativos integrados ao sistema
 published: true
-date: 2023-12-18T12:49:13.744Z
+date: 2023-12-18T12:49:45.492Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:14:10.660Z
