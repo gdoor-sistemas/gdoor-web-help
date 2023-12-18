@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-11T11:17:24.373Z
+date: 2023-12-18T11:37:53.377Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 75
-- Ajustes: 322
+- Ajustes: 325
 
-**Total: 397**
+**Total: 400**
 
 --- 
 
@@ -23,6 +23,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/12/2023
+f2.11.11, b3.10.21{.versions}
+
+## Ajustes
+- Corrigido layout DACT-e em CT-e com mais 26 documentos referenciados.
+- Corrigido erro no registro 50 referente a notas de compra no arquivo do Sintegra.
+- Ajustado serial na troca de empresas para que seja apresentado corretamente.
+
 # 09/12/2023
 f2.11.10, b3.10.20{.versions}
 
