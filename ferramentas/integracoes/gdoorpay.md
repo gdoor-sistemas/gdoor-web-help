@@ -1,8 +1,8 @@
 ---
 title: Conta Gdoor Pay
 description: Veja como interligar seu sistema com o pix do Gdoor Pay
-published: false
-date: 2023-12-15T17:28:34.428Z
+published: true
+date: 2023-12-18T11:30:58.563Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-05-10T19:42:10.949Z
