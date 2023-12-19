@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-18T11:40:15.321Z
+date: 2023-12-19T11:15:39.260Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 75
-- Ajustes: 325
+- Ajustes: 326
 
-**Total: 400**
+**Total: 401**
 
 --- 
 
@@ -23,6 +23,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/12/2023
+f2.11.12, b3.10.22{.versions}
+
+## Ajustes
+- Ajustado o pagamento "Crédito em loja" controlado pelo sistema para que seja utilizado somente quando a referência do pagamento for "crédito em loja" e "tipo a vista".
+
+
 # 16/12/2023
 f2.11.11, b3.10.21{.versions}
 
