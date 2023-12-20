@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2023-12-19T11:22:10.048Z
+date: 2023-12-20T11:32:43.049Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2023** já foram implementados:
 - Novidades: 75
-- Ajustes: 326
+- Ajustes: 327
 
-**Total: 401**
+**Total: 402**
 
 --- 
 
@@ -23,6 +23,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/12/2023
+b3.10.23{.versions}
+
+## Ajustes
+- Corrigida falha na geração da listagem de receitas.
+
 # 18/12/2023
 f2.11.12, b3.10.22{.versions}
 
