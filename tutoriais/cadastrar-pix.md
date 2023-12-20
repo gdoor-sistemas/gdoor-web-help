@@ -2,7 +2,7 @@
 title: Tutorial: Cadastrar PIX
 description: Tutorial de como cadastrar uma forma de pagamento PIX
 published: true
-date: 2023-12-20T13:34:42.382Z
+date: 2023-12-20T13:34:58.912Z
 tags: tutoriais, tutorial, como fazer, pagamentos, financeiro, contas, pix
 editor: markdown
 dateCreated: 2023-08-07T19:57:49.172Z
