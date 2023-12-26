@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-12-14T16:42:45.947Z
+date: 2023-12-26T12:36:55.887Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -20,6 +20,7 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 - [Rejeição 383 *Item com CSOSN indevido*](/pt-br/rejeicoes/rejeicao-383-item-com-csosn-indevido)
 - [Rejeição 463 *Código Identificador do CSC no QR-Code foi revogado pela empresa*](/pt-br/rejeicoes/rejeicao-463-codigo-identificador-do-csc-no-qr-code-foi-revogado-pela-empresa)
 - [Rejeição 464 *Código Hash no QR-code difere do calculado*](/pt-br/rejeicoes/rejeicao-464-codigo-hash-no-qr-code-difere-do-calculado)
+- [Rejeição 750 *NFC-e com valor total superior ao permitido para destinatário não identificado*](/pt-br/rejeicoes/rejeicao-750-nfc-e-com-valor-total-superior-ao-permitido-para-destinatario-nao-identificado)
 {.links-list}
 
 ## MDF-e
