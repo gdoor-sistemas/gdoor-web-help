@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2023-12-26T12:36:55.887Z
+date: 2023-12-26T12:38:06.550Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
