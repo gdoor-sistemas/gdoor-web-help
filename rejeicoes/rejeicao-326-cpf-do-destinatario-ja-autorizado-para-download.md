@@ -1,8 +1,8 @@
 ---
-title: Rejeição 326: CNPJ do destinatário já autorizado para download
-description: Veja como solucionar a rejeição 326: CNPJ do destinatário já autorizado para download
+title: Rejeição 326: CPF do destinatário já autorizado para download
+description: Veja como solucionar a rejeição 326: CPF do destinatário já autorizado para download
 published: true
-date: 2024-01-03T13:28:59.721Z
+date: 2024-01-03T13:31:14.897Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2024-01-03T13:26:41.537Z
