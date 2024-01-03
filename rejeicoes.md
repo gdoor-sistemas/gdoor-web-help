@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2024-01-03T13:28:10.424Z
+date: 2024-01-03T13:29:20.980Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -13,7 +13,7 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 
 ## NF-e
 - [Rejeição 203 *Emissor não habilitado para emissão da NF-e*](/pt-br/rejeicoes/rejeicao-203-emissor-nao-habilitado-para-emissao-da-nf-e)
-- [Rejeição 326 *CPF do destinatário já autorizado para download*](/pt-br/rejeicoes/rejeicao-326-CNPJ-do-destinatario-ja-autorizado-para-download)
+- [Rejeição 326 *CPF do destinatário já autorizado para download*](/pt-br/rejeicoes/rejeicao-326-cpf-do-destinatario-ja-autorizado-para-download)
 - [Rejeição 527 *Operação de Exportação com informação de ICMS incompatível*](/pt-br/rejeicoes/rejeicao-527-operacao-de-exportacao-com-informacao-de-icms-incompativel)
 - [Rejeição 840 *NCM de medicamento e não informado o grupo de medicamento*](/pt-br/rejeicoes/rejeicao-840-ncm-de-medicamento-e-nao-informado-o-grupo-de-medicamento)
 - [Rejeição 873*Operação com medicamentos e não informado os campos de rastreabilidade*](/pt-br/rejeicoes/rejeicao-873-operacao-com-medicamentos-e-nao-informado-os-campos-de-rastreabilidade)
