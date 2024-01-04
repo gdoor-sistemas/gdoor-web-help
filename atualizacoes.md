@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-04T19:49:25.629Z
+date: 2024-01-04T19:55:47.556Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -10,7 +10,29 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 ## Sumário
 
-Em **2023** já foram implementados:
+Em **2024** já foram implementados:
+- Novidades: 0
+- Ajustes: 1
+
+**Total: 1**
+
+--- 
+ir para [2023](#h-2023) {.goto}
+
+ir para [2022](#h-2022) {.goto}
+
+ir para [2021](#h-2021) {.goto}
+
+---
+# 04/01/2024
+f2.11.13, b3.10.26{.versions}
+
+## Ajustes
+- Adicionada nova unidade de medida tributável no cadastro de produto: Litro (L).
+---
+# 2023 {.year}
+
+Foram implementados:
 - Novidades: 75
 - Ajustes: 329
 
@@ -23,12 +45,6 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 04/01/2024
-f2.11.13, b3.10.26{.versions}
-
-## Ajustes
-- Adicionada nova unidade de medida tributável no cadastro de produto: Litro (L).
-
 # 20/12/2023
 b3.10.24, b3.10.25{.versions}
 
