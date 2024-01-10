@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-10T13:03:20.875Z
+date: 2024-01-10T13:04:10.124Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
