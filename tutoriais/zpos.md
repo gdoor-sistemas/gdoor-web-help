@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-10T13:01:17.372Z
+date: 2024-01-10T13:03:20.875Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -18,19 +18,6 @@ Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART*
 
 
 # Habilitar novo dispositivo
-
-## Ativação do Gdoor Pay
-
-Acessando **Configurações » Ferramentas » Integrações**, selecione a integração **Gdoor Pay** e clique no botão (<em class="mdi mdi-cog"></em>) no lado direito.
-
-![configurar](/config/ferramentas/acesso-configurar.png)
-
-Será apresentada uma mensagem informando que a **integração** Gdoor Pay foi **ativada**. 
-
-![integração ativa](/config/ferramentas/integ-ativa.png)
-
-> É necessário ativar a integração apenas uma vez.
-{.is-info}
 
 ## Cadastro de dispositivos
 
