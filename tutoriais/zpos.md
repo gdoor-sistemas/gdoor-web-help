@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-10T20:30:16.239Z
+date: 2024-01-10T20:31:36.476Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -20,7 +20,7 @@ Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART 
 
 ## Cadastro de dispositivos
 
-A ativação do dispositivo é simples, basta acessar o **PDV (computador)** e o **dispositivo (POS Vero Smart)**.
+A ativação do dispositivo é simples, basta acessar o **PDV (computador)** e a sua maquininha.
 
 ### Dispositivo - Maquininha
 
@@ -89,7 +89,7 @@ O sistema inicia neste momento a comunicação com a maquininha e aguarda o reto
 
 ![enviando pagamento](/config/ferramentas/venda04.png)
 
-No POS Vero Smart, verifique a solicitação para que "aproxime ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
+Na maquininha, verifique a solicitação do ZPOS para que "aproxime, insira ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
 
 ![aproxime ou insira cartao](/config/ferramentas/inserir-cartao-vero3.png)
 
