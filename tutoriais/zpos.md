@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-10T13:04:10.124Z
+date: 2024-01-10T20:30:11.158Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -14,8 +14,7 @@ Na integração do sistema **Gweb** com o **ZPOS**, o sistema aguarda o recebime
 
 A comunicação entre sistema e equipamento é feita por meio de um App instalado na sua maquininha. Para esta comunicação, é necessário conectar a maquininha à internet.
 
-Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART**, **Stone** e **Moderninha Pagbank**. Basta acessar a loja de aplicativos da sua maquininha, localizar e instalar o aplicativo **ZPOS**. 
-
+Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART (Banrisul)**, **Stone** e **Moderninha Pagbank**. Basta acessar a loja de aplicativos da sua maquininha, localizar e instalar o aplicativo **ZPOS**. 
 
 # Habilitar novo dispositivo
 
@@ -23,34 +22,29 @@ Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART*
 
 A ativação do dispositivo é simples, basta acessar o **PDV (computador)** e o **dispositivo (POS Vero Smart)**.
 
+### Dispositivo - Maquininha
+
+Acesse a **loja de aplicativos** na sua **maquininha**, pesquise por **"ZPOS"** e efetue a instalação.
+
+![tela inicia](/config/ferramentas/inicial3.png)
+
+Ao finalizar a instalação, abra o aplicativo **ZPOS**.
+
 ### PDV - Computador
 
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
 ![cadastrar dispositivo](/config/ferramentas/cad-dispositivo01.png)
 
-Será apresentado um aviso na tela, informando o **"código de vinculação"** que deve ser informado no App do POS Vero Smart.
+Será apresentado o formulário de cadastro de uma nova maquininha, os campos disponíveis são:
 
 ![novo cadastro](/config/ferramentas/cad-dispositivo02.png)
 
-### Dispositivo - POS Vero Smart
+- **Nome (identificação)**: Um nome para identificar essa maquininha.
+- **Integradora**: Selecione entre **STONE**, **PAGBANK** e **BANRISUL**.
+- **Número serial (POS)**: **número de série** disponível na tela do aplicativo **ZPOS** na maquininha.
 
-Acesse a **loja de aplicativos** no seu **POS Vero Smart**, pesquise por **"Gdoor Pay"** e efetue a instalação.
-
-![tela inicia](/config/ferramentas/inicial3.png)
-
-Ao finalizar a instalação, abra o aplicativo. Serão apresentadas as seguintes opções para ativação:
-
-<li><strong>Código de vinculação: </strong>código de 6 dígitos apresentado no <strong>"Gweb"</strong>. </li>
-<li><strong>Nome do terminal:</strong> cadastre um nome com até 30 caracteres, para a identificação do dispositivo.</li>
-
-![ativacao Gweb](/config/ferramentas/ativacao-web3.png)
-
-Digite o código de **6 dígitos**, informe o **nome do terminal** e clique no botão **"ativar"**.
-
-Ao retornar para o PDV no computador, verifique se o novo dispositivo ativado consta na listagem.
-
-![dispositivos cadastrados](/config/ferramentas/cad-dispositivo03.png)
+Após preencher o cadastro da maquininha, clique em <span class="mat-button">SALVAR</span>.
 
 # Vincular dispositivo com o meio de pagamento
 
@@ -67,7 +61,7 @@ Realize o mesmo processo de cadastro para todas as formas de pagamento que utili
 
 ![editar forma pgto](/config/ferramentas/form-pgto02png.png)
 
-Finalizando os vínculos entre todas as maquininhas **POS Vero Smart** e as **formas de pagamento**, clique em <span class="mat-button mdi ">salvar</span>.
+Finalizando os vínculos entre todas as maquininhas e as **formas de pagamento**, clique em <span class="mat-button mdi ">salvar</span>.
 
 # Configuração do PDV
 
@@ -77,9 +71,9 @@ Caso não estejam marcados, marque os meios de pagamento e clique em <span class
 
 ![marcar meio pgto](/config/ferramentas/marcar-meio-pgto.png)
 
-# Utilizando a integração com POS Vero Smart
+# Utilizando a integração com a maquininha
 
-Ao acessar o aplicativo na maquininha POS Vero Smart, será apresentado o **nome do terminal** cadastrado com a mensagem **"aguardando pagamentos"**.
+Ao acessar o aplicativo **ZPOS** na maquininha, será apresentado o **nome do terminal** cadastrado com a mensagem **"aguardando pagamentos"**.
 
 ![aguardando pagamentos](/config/ferramentas/aguardando-pgto3.png)
 
@@ -91,7 +85,7 @@ Na tela de finalização da venda no PDV Gweb, quando selecionar a forma de paga
 ![teclas atalho](/config/ferramentas/venda03.png)
 {.is-info}
 
-O sistema inicia neste momento a comunicação com a maquininha **POS Vero Smart** e aguarda o retorno do pagamento.
+O sistema inicia neste momento a comunicação com a maquininha e aguarda o retorno do pagamento.
 
 ![enviando pagamento](/config/ferramentas/venda04.png)
 
@@ -101,4 +95,4 @@ No POS Vero Smart, verifique a solicitação para que "aproxime ou passe o cart�
 
 A partir deste momento, basta seguir as orientações apresentadas na maquininha. 
 
-Ao concluir o processo no **POS Vero Smart**, o sistema **finalizará a venda com a impressão do documento fiscal**.
+Ao concluir o processo na maquininha, o sistema **finalizará a venda com a impressão do documento fiscal**.
