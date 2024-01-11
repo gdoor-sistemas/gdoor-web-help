@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:27:31.918Z
+date: 2024-01-11T11:28:49.465Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -69,7 +69,7 @@ Finalizando os vínculos entre todas as maquininhas e as **formas de pagamento**
 
 Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **configurações do PDV** e verifique na listagem dos **meios de pagamento disponíveis para uso no PDV** se estão selecionados os meios de pagamento onde vinculou a utilização da maquininha.
 
-Caso não estejam marcados, marque os meios de pagamento e clique em <span class="mat-button mdi ">salvar</span>.
+Caso não estejam marcados, marque os meios de pagamento e clique em <span class="mat-button mat-accent mdi ">salvar</span>.
 
 ![marcar meio pgto](/config/ferramentas/marcar-meio-pgto.png)
 
