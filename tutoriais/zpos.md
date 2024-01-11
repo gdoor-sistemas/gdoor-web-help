@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T13:40:22.852Z
+date: 2024-01-11T13:42:26.860Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -54,15 +54,15 @@ Após preencher o cadastro da maquininha, clique em <span class="mat-button">SAL
 Após realizar o cadastro do dispositivo, será necessário vincular a maquininha a um meio de pagamento. Podem ser cadastrados vários meios de pagamento para a utilização da mesma maquininha.
 Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagamento que serão utilizados na maquininha.
 
-![meios de pagamento](/config/ferramentas/meio-pgto01.png)
+![meios de pagamento](/config/ferramentas/meio-pgto-vero-01.png)
 
 Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada que deseja utilizar para este meio de pagamento.
 
-![editar forma pgto](/config/ferramentas/form-pgto01.png)
+![editar forma pgto](/config/ferramentas/form-pgto-vero-01.png)
 
 Realize o mesmo processo de cadastro para todas as formas de pagamento que utilizarão a comunicação com a maquininha.
 
-![editar forma pgto](/config/ferramentas/form-pgto02png.png)
+![editar forma pgto](/config/ferramentas/form-pgto-vero-02.png)
 
 Finalizando os vínculos entre todas as maquininhas e as **formas de pagamento**, clique em <span class="mat-button mat-accent">salvar</span>.
 
@@ -72,7 +72,7 @@ Acesse **Movimentações » PDV**, clique ao lado direito da tela na opção **c
 
 Caso não estejam marcados, marque os meios de pagamento e clique em <span class="mat-button mat-accent">salvar</span>.
 
-![marcar meio pgto](/config/ferramentas/marcar-meio-pgto.png)
+![marcar meio pgto](/config/ferramentas/marcar-meio-pgto-vero.png)
 
 # Utilizando a integração com a maquininha
 
