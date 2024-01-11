@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:40:32.373Z
+date: 2024-01-11T11:41:38.511Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -91,7 +91,7 @@ O sistema inicia neste momento a comunicação com a maquininha e aguarda o reto
 
 ![enviando pagamento](/config/ferramentas/venda04.png)
 
-Na maquininha, verifique a solicitação do ZPOS para que "aproxime, insira ou passe o cartão", apresentando o "valor da venda" e a "forma de pagamento".
+Na maquininha, verifique a solicitação para que **aproxime, insira ou passe o cartão**, apresentando o **valor da venda** e a **forma de pagamento**.
 
 ![aproxime ou insira cartao](/config/ferramentas/inserir-cartao-vero3.png)
 
