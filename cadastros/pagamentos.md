@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2024-01-11T12:01:27.566Z
+date: 2024-01-11T12:04:45.071Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -39,7 +39,7 @@ Após preencher as informações clique em <span class="mat-button mat-accent md
 
 ## Dispositivos
 
-O cadastro de dispositivos fornece integração entre o **GWEB** e o aplicativo **ZPOS**, disponível nas maquininhas de cartão.
-Para mais informações sobre como utilizar esta integração, [clique aqui](/pt-br/tutoriais/zpos).
+O cadastro de dispositivos fornece integração entre o **GWEB** e o aplicativo **ZPOS** disponível nas maquininhas de cartão.
+Para mais informações sobre como utilizar esta integração ou em quais maquininhas o aplicativo está disponível, [clique aqui](/pt-br/tutoriais/zpos).
 
 -->
