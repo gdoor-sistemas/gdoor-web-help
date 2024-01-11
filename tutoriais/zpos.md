@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T13:49:11.532Z
+date: 2024-01-11T13:49:54.587Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -82,15 +82,15 @@ Ao acessar o aplicativo **ZPOS** na maquininha, será apresentada a mensagem **"
 
 Na tela de finalização da venda no PDV Gweb, quando selecionar a forma de pagamento no botão <span class="mat-button"><em class= "mdi mdi-cash" ></em> Pagamento por integração</span>, escolha o tipo de cartão e clique no botão <span class="mat-button mdi ">realizar cobrança</span>.
 
-![realizar cobrança](/config/ferramentas/venda02.png)
+![realizar cobrança](/config/ferramentas/venda02-vero.png)
 
 > É possível selecionar o meio de pagamento utilizando as teclas de atalho, identificadas por letras ao lado direito do nome do meio de pagamento.
-![teclas atalho](/config/ferramentas/venda03.png)
+![teclas atalho](/config/ferramentas/venda03-vero.png)
 {.is-info}
 
 O sistema inicia neste momento a comunicação com a maquininha e aguarda o retorno do pagamento.
 
-![enviando pagamento](/config/ferramentas/venda04.png)
+![enviando pagamento](/config/ferramentas/venda04-vero.png)
 
 Na maquininha, verifique a solicitação para que **aproxime, insira ou passe o cartão**, apresentando o **valor da venda** e a **forma de pagamento**.
 
