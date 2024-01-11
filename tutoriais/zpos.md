@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T12:54:27.950Z
+date: 2024-01-11T12:55:48.230Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -31,7 +31,7 @@ Acesse a **loja de aplicativos** na sua **maquininha**, pesquise por **"ZPOS"** 
 
 Ao finalizar a instalação, abra o aplicativo **ZPOS**.
 
-### PDV - Computador
+### PDV - Sistema Web
 
 Para habilitar um novo dispositivo móvel, acesse o menu **cadastros >> pagamentos** e nos **dispositivos** clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
