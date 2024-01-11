@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T12:55:48.230Z
+date: 2024-01-11T12:56:06.697Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -21,7 +21,7 @@ A comunicação entre sistema e equipamento é feita por meio de um app instalad
 
 ## Cadastro de dispositivos
 
-A ativação do dispositivo é simples, basta acessar a sua **maquininha** e o **PDV (computador)**.
+A ativação do dispositivo é simples, basta acessar a sua **maquininha** e o **PDV (Sistema Web)**.
 
 ### Dispositivo - Maquininha
 
