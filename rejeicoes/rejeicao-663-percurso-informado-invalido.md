@@ -2,7 +2,7 @@
 title: Rejeição 663: Percurso informado inválido
 description: Veja como solucionar a rejeição 663: Percurso informado inválido no Gweb.
 published: true
-date: 2023-10-04T17:51:07.357Z
+date: 2024-01-11T12:11:34.691Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T18:04:55.092Z
@@ -17,8 +17,6 @@ Essa mensagem ocorre quando a ordem ou os estados informados no percurso do [MDF
 ![Mensagem da rejeição](/tutoriais/rejeicoes/663/msg_rej_663.png)
 
 ## Solução
-
-Dentro do formulário do MDF-e, na sessão de UF de percurso, após clicar em () informe corretamente os estados e a ordem dos mesmos.
 
 Dentro do **formulário** do MDF-e, na sessão de **UF de percurso**, após clicar em (<span class="mdi mdi-pencil"></span>). Informe **corretamente** os **estados** e a **ordem** dos mesmos.
 
