@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:41:38.511Z
+date: 2024-01-11T11:43:19.160Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -97,4 +97,4 @@ Na maquininha, verifique a solicitação para que **aproxime, insira ou passe o 
 
 A partir deste momento, basta seguir as orientações apresentadas na maquininha. 
 
-Ao concluir o processo na maquininha, o sistema **finalizará a venda com a impressão do documento fiscal**.
+Ao concluir o processo na maquininha, o sistema **registrará** a transação, basta clicar em <span class="mat-button mat-accent">SALVAR</span> para **finalizar a venda** e fazer a **impressão do documento fiscal**.
