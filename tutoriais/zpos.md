@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:20:54.425Z
+date: 2024-01-11T11:21:52.145Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -20,7 +20,7 @@ Até o momento o aplicativo está liberado para as maquininhas **POS VERO SMART 
 
 ## Cadastro de dispositivos
 
-A ativação do dispositivo é simples, basta acessar o **PDV (computador)** e a sua maquininha.
+A ativação do dispositivo é simples, basta acessar a sua **maquininha** e o **PDV (computador)**.
 
 ### Dispositivo - Maquininha
 
