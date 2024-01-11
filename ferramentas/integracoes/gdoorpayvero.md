@@ -2,7 +2,7 @@
 title: Gdoor Pay
 description: Veja como interligar seu sistema com o aplicativo Gdoor Pay
 published: true
-date: 2024-01-10T20:55:09.651Z
+date: 2024-01-11T12:55:47.099Z
 tags: tutorial, pix
 editor: markdown
 dateCreated: 2023-12-08T17:19:29.288Z
@@ -32,9 +32,9 @@ Será apresentada uma mensagem informando que a **integração** Gdoor Pay foi *
 
 ## Cadastro de dispositivos
 
-A ativação do dispositivo é simples, basta acessar o **PDV (computador)** e o **dispositivo (POS Vero Smart)**.
+A ativação do dispositivo é simples, basta acessar o **PDV (Sistema Web)** e o **dispositivo (POS Vero Smart)**.
 
-### PDV - Computador
+### PDV - Sistema Web
 
 Para habilitar um novo dispositivo móvel, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) ao lado direito da listagem.
 
