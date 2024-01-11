@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:23:12.450Z
+date: 2024-01-11T11:24:01.096Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -38,11 +38,11 @@ Para habilitar um novo dispositivo móvel, acesse o menu **cadastros >> pagament
 
 Será apresentado o formulário de cadastro de uma nova maquininha, os campos disponíveis são:
 
-![novo cadastro](/config/ferramentas/cad-dispositivo02.png)
-
 - **Nome (identificação)**: Um nome para identificar essa maquininha.
 - **Integradora**: Selecione entre **STONE**, **PAGBANK** e **BANRISUL**.
 - **Número serial (POS)**: **número de série** disponível na tela do aplicativo **ZPOS** na maquininha.
+
+![novo cadastro](/config/ferramentas/cad-dispositivo02.png)
 
 Após preencher o cadastro da maquininha, clique em <span class="mat-button">SALVAR</span>.
 
