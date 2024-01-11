@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS no GWEB
 published: false
-date: 2024-01-11T11:30:50.535Z
+date: 2024-01-11T11:30:59.014Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -75,7 +75,7 @@ Caso não estejam marcados, marque os meios de pagamento e clique em <span class
 
 # Utilizando a integração com a maquininha
 
-Ao acessar o aplicativo **ZPOS** na maquininha, será apresentada a mensagem **"Conectado, aguardando vendas"**, junto com o **número de série** para registro da maquininha, se necessário.
+Ao acessar o aplicativo **ZPOS** na maquininha, será apresentada a mensagem **"Conectado, aguardando vendas..."**, junto com o **número de série** para registro da maquininha, se necessário.
 
 ![aguardando pagamentos](/config/ferramentas/aguardando-pgto3.png)
 
