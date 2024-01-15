@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-01-15T11:15:05.584Z
+date: 2024-01-15T11:15:25.096Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
