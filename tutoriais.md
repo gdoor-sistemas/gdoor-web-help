@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-01-10T12:55:37.057Z
+date: 2024-01-15T11:15:05.584Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -20,9 +20,5 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [NF-e de importação *Veja como emitir uma NF-e de importação no GWEB*](/tutoriais/nota-importacao)
 - [NF-e de exportação *Veja como emitir uma NF-e de exportação no GWEB*](/pt-br/tutoriais/nota-exportacao)
 - [Inventário de estoque *Veja como gerar o inventário de estoque no GWEB*](/pt-br/tutoriais/inventario-estoque)
+- [ZPOS no GWEB *Veja como configurar o aplicativo ZPOS no GWEB*](/pt-br/tutoriais/zpos)
 {.links-list}
-
-<!--
-- [ZPOS no GWEB *Veja como configurar o aplicativo ZPOS no GWEB
-*](/pt-br/tutoriais/zpos)
--->
