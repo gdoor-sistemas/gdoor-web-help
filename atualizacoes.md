@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-04T19:55:47.556Z
+date: 2024-01-15T11:17:48.132Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 0
-- Ajustes: 1
+- Novidades: 1
+- Ajustes: 15
 
 **Total: 1**
 
@@ -24,6 +24,29 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/01/2024
+f2.11.14, b3.10.27{.versions}
+
+## Novidades
+- Integração de pagamentos com a Vero, Stone e PagSeguro 🎉. Conheça mais sobre esta funcionalidade no Gweb [clicando aqui](/zpos).
+.
+
+## Ajustes
+- Alterado para 15,4 o tamanho do campo valor unitário em notas de compra e venda.
+- Ajustada a devolução de compra para que seja exibida no Sintegra.
+- Criada uma nova coluna Relatório de Contas a Receber para exibir a data de pagamento das receitas.
+- Ajustado registro C113 do SPED referente a devolução de compras.
+- Corrigida falha no Relatório de Inventário em produtos com grade e código de barras cadastrado.
+- Ajustada falha na configuração da operação padrão para NFS-e.
+- Ajustado formato do telefone para migrações vindas do Gpro.
+- Corrigido no total das notas de compra o valor do desconto que não estava sendo apresentado.
+- Corrigida falha ao acessar as configurações do PDV após excluir contas do financeiro.
+- Possibilitado o preenchimento do valor total de IPI para a CST 99 - Outras saídas.
+- Corrigido erro na importação de bases onde os serviços não possuem descrição.
+- Corrigida edição de NFC-e que alterava o CSOSN dos produtos.
+- Corrigida falha na geração do Relatório de documentos emitidos.
+- Ajustado o estorno de despesas/receitas recebidas durante a edição das mesmas.
+
 # 04/01/2024
 f2.11.13, b3.10.26{.versions}
 
