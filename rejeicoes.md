@@ -2,7 +2,7 @@
 title: Rejeições
 description: Soluções das rejeições mais comuns que podem ocorrer durante o uso do sistema. 
 published: true
-date: 2024-01-03T13:36:44.889Z
+date: 2024-01-17T17:07:02.560Z
 tags: tutoriais, rejeição
 editor: markdown
 dateCreated: 2023-09-28T13:48:58.583Z
@@ -33,4 +33,5 @@ Abaixo listamos alguns artigos passo-a-passo para solucionar algumas rejeições
 
 ## CT-e
 - [Rejeição 210 *IE do destinatário inválida*](/pt-br/rejeicoes/rejeicao-210-ie-do-destinatario-invalida)
+- [Rejeição 746 *Tipo de Serviço Inválido para o Tomador Informado*](/pt-br/rejeicoes/rejeicao-746-tipo-de-servico-invalido-para-o-tomador-informado)
 {.links-list}
