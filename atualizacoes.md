@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-15T12:06:17.288Z
+date: 2024-01-18T12:16:01.682Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 1
-- Ajustes: 15
+- Ajustes: 16
 
-**Total: 1**
+**Total: 17**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/01/2024
+f2.11.15{.versions}
+
+## Ajustes
+- Exibida mensagem com link para o portal do GdoorPay nas integrações.
+
 # 13/01/2024
 f2.11.14, b3.10.27{.versions}
 
