@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-18T12:16:16.055Z
+date: 2024-01-22T11:45:43.461Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 1
-- Ajustes: 16
+- Novidades: 6
+- Ajustes: 25
 
-**Total: 17**
+**Total: 31**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,27 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/01/2024
+f2.11.16, b3.10.28, b3.10.29{.versions}
+
+## Novidades
+- Inclusão do campo referência no relatório de Inventário.
+- Inclusão do campo “Desconto sobre o total” para pedidos e orçamentos.
+- Padronizada precisão numérica para 2 cadas decimais após a vírgula para novas bases.
+- Inclusão do campo “número do pedido de compra” na NF-e.
+- Liberada a emissão de NFC-e para o estado de SC.
+
+## Ajustes
+- Ajustado relatório de Movimentações Financeiras.
+- Ajustado fator de conversão na compra para respeitar a configuração feita no cadastro do produto.
+- Ajustado registro 54 do Sintegra no item 999 que estava gerando dados desnecessários.
+- Ajustado registro 54 do Sintegra para notas no modelo 22.
+- Permitida emissão de notas com série 0 (zero).
+- Ajustadas permissões do pedido de venda para respeitar a configuração.
+- Revisado layout da impressão do pedido de venda.
+- Ajustada impressão do comprovante de pré-venda.
+- Ajustado parcelamento no cartão integrado para permitir outro meio de pagamento não integrado.
+
 # 17/01/2024
 f2.11.15{.versions}
 
