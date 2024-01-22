@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS das maquininhas no GWEB
 published: true
-date: 2024-01-15T11:15:38.342Z
+date: 2024-01-22T16:53:35.659Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -44,6 +44,7 @@ Será apresentado o formulário de cadastro de uma nova maquininha, os campos di
 - **Nome (identificação)**: cadastre nomes diferentes e únicos para cada maquininha afim de facilitar a identificação no momento do uso.
 - **Integradora**: Selecione entre **STONE**, **PAGBANK** e **BANRISUL**.
 - **Número serial (POS)**: informação disponível na tela da maquininha, no campo **número de série** do aplicativo **ZPOS**.
+- **Imprimir documento da venda no POS**: Configuração para o GWEB imprimir a NFC-e diretamente na maquininha POS para atender ao decreto 56670/22 do RS 
 
 ![Número de série no aplicativo ZPOS](/config/ferramentas/numero_serie.png)
 
