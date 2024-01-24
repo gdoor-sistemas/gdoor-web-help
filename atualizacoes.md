@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-22T11:48:09.357Z
+date: 2024-01-24T11:47:41.318Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 6
-- Ajustes: 25
+- Ajustes: 26
 
-**Total: 31**
+**Total: 32**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/01/2024
+f2.11.17, f2.11.18, b3.10.31, b3.10.32{.versions}
+
+## Ajustes
+- Ajustado erro ao salvar NFC-e com pagamento em cartão informando manualmente a bandeira e NSU.
+
 # 20/01/2024
 f2.11.16, b3.10.28, b3.10.29{.versions}
 
