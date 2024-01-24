@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-24T12:13:02.091Z
+date: 2024-01-24T17:15:13.827Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 6
-- Ajustes: 26
+- Ajustes: 27
 
-**Total: 32**
+**Total: 33**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/01/2024
+f2.11.19{.versions}
+
+## Ajustes
+- Ajustado erro de TimeOut na geração de relatórios em PDF  em clientes que possuem muitos dados.
+
 # 23/01/2024
 f2.11.17, f2.11.18, b3.10.31, b3.10.32{.versions}
 
