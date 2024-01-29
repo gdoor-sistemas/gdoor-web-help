@@ -1,8 +1,8 @@
 ---
 title: Rejeição 681: RNTRC informado inexistente
 description: Veja como solucionar a rejeição 681: RNTRC informado inexistente no Gweb.
-published: false
-date: 2024-01-29T19:47:36.258Z
+published: true
+date: 2024-01-29T19:48:01.777Z
 tags: tutorial, rejeição
 editor: markdown
 dateCreated: 2024-01-29T19:47:36.258Z
