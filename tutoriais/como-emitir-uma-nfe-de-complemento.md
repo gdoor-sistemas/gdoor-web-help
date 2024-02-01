@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-01T19:10:33.099Z
+date: 2024-02-01T19:10:59.475Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
