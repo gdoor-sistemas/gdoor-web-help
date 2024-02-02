@@ -2,7 +2,7 @@
 title: Tutorial: Cadastrar PIX
 description: Tutorial de como cadastrar uma forma de pagamento PIX
 published: true
-date: 2023-12-20T13:34:58.912Z
+date: 2024-02-02T12:06:26.326Z
 tags: tutoriais, tutorial, como fazer, pagamentos, financeiro, contas, pix
 editor: markdown
 dateCreated: 2023-08-07T19:57:49.172Z
@@ -10,8 +10,9 @@ dateCreated: 2023-08-07T19:57:49.172Z
 
 # Cadastrando uma forma de pagamento PIX
 
-> Caso deseje utilizar a integração do **Gdoor Pay Pix**, acesse o [passo a passo](/pt-br/ferramentas/integracoes/gdoorpaypix) específico.
-{.is-info}
+> **Atenção**
+Caso deseje utilizar a integração do **Gdoor Pay Pix**, acesse o [passo a passo](/pt-br/ferramentas/integracoes/gdoorpaypix) específico.
+> {.is-info}
 
 
 Uma das funcionalidades do Gweb é a exibição do QR Code do PIX na hora de finalizar uma venda no PDV ou na NF-e, como mostrado na imagem abaixo:
