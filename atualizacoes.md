@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-01-24T17:15:38.466Z
+date: 2024-02-05T11:20:03.915Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 6
-- Ajustes: 27
+- Novidades: 8
+- Ajustes: 40
 
-**Total: 33**
+**Total: 48**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,28 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/02/2024
+f2.11.21, b3.10.34{.versions}
+
+## Novidades
+- Criada configuração para transacionar cartões Banricompras.
+- Adicionado campo para informações adicionais nas configurações do CT-e e MDF-e.
+
+## Ajustes
+- Ajustada nota de importação que não estava carregando as configurações de IPI ao editar a NF-e.
+- Ajustado campo quantidade de itens na impressão do pedido de venda.
+- Ajustado erro na emissão de CT-e com valor de crédito outorgado/presumido.
+- Corrigido erro ao cadastrar veículos no cadastro de emitente.
+- Ajustado botão + no menu dispositivos para que abra o formulário de cadastro.
+- Ajustado lançamento de item com CST 02 para informar automaticamente a quantidade tributável configurada no produto.
+- Corrigida importação de pedido que passou pela pré-venda e gerou uma NFC-e e não estava realizando o cancelamento do pedido ao cancelar a NFC-e.
+- Corrigido no histórico do cliente o valor restante das parcelas devolvidas.
+- Corrigida lista de perfis de permissão para não duplicar itens.
+- Ajustado pedido de venda para gerar comissão aos vendedores.
+- Ajustada impressão de CT-e que quando informado outros tipos de documentos transportados.
+- Ajustado geração do Sintegra no registro 70 para clientes sem o módulo CT-e habilitado.
+- Ajustada versão do Leiaute para arquivos do SPED de 2023.
+
 # 24/01/2024
 f2.11.19{.versions}
 
