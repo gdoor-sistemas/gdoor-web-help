@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-07T11:44:08.741Z
+date: 2024-02-07T11:45:08.266Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
@@ -47,7 +47,7 @@ Ao selecionar a opção de **Complementar (NF-e de complemento)**, o sistema ir�
 No segundo passo, deve-se **marcar** os produtos que deseja **complementar**, ao selecioná-los, clique em <span class="mat-button mat-accent">PRÓXIMO</span>
 ![Passo 2 - Marcar produtos](/tutoriais/nfe-complemento/passo_2_selecionar_produtos.png)
 
-No terceiro passo, deve-se selecionar a **natureza de operação de complemento** que foi cadastrada e **informar os dados a serem complementados** clicando no produto para exibir os campos disponíveis.
+No terceiro passo, deve-se selecionar a **natureza de operação de complemento** que foi cadastrada e **informar os dados a serem complementados**. Clique no produto para exibir os campos disponíveis.
 
 ![Passo 3 - Operação e valores a serem complementados](/tutoriais/nfe-complemento/passo_3_operacao_valores.png)
 
