@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-07T11:45:08.266Z
+date: 2024-02-07T11:50:07.968Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
@@ -63,11 +63,11 @@ No formulário, deve-se colar ou digitar os 44 dígitos da chave de acesso da no
 
 ![Informar chave de acesso](/tutoriais/nfe-complemento/informar_chave_acesso.png)
 
-Como a nota fiscal **não** está no sistema, **deve-se adicionar os produtos** que estão nessa nota fiscal e que **deseja complementar**, para isso, clique no **botão laranja** (<span class="mdi mdi-barcode"></span>) e informe os produtos que deseja complementar. Ao finalizar, clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
+Como a nota fiscal **não** está no sistema, **deve-se adicionar os produtos** **deseja complementar** que estão na nota fiscal original, para isso, clique no botão (<span class="mdi mdi-barcode"></span>) e informe os produtos que deseja complementar. Ao finalizar, clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
 
 ![Adicionar produtos](/tutoriais/nfe-complemento/adicionar_produtos.png)
 
-Da mesma forma que é necessário **adicionar os produtos**, também é necessário **adicionar o cliente**, este campo está disponível logo abaixo da **natureza de operação** para a nota de complemento, que também deve ser preenchida.
+Da mesma forma que é necessário **adicionar** os **produtos** e o **cliente**, este campo está disponível logo abaixo da **natureza de operação**, que também deve ser preenchida para a nota de complemento.
 
 Por fim, é possível **informar os dados que deseja complementar** em cada um dos produtos **clicando nele** para **expandir as informações e exibir os campos disponíveis**. Ao finalizar, clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
 
