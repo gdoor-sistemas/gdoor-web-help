@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-07T11:41:46.205Z
+date: 2024-02-07T11:42:55.449Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
@@ -24,6 +24,7 @@ A legislação prevê a sua emissão nos seguintes casos:
 # Como emitir uma nota fiscal complementar no GWEB?
 
 No GWEB existem **duas** formas de emitir a **nota fiscal complementar**, manualmente adicionando a **chave de acesso**, **destinatário** e **produtos**, ou gerando a **nota de complemento** a partir de uma nota já existente no sistema, **importando automaticamente** os dados citados anteriormente.
+Mas antes, é necessário cadastrar a operação de complemento.
 
 ## Cadastrando a operação de complemento
 O primeiro passo é o cadastro da **operação de complemento**, acesse o menu **cadastros >> operações** e no canto inferior direito clique no botão (<span class="mdi mdi-plus"></span>).
