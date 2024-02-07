@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-07T11:42:55.449Z
+date: 2024-02-07T11:44:08.741Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
@@ -38,7 +38,7 @@ Após preencher os dados da operação de complemento, clique em <span class="ma
 
 ## Emitindo a nota fiscal complementar a partir de uma nota do sistema
 
-Acesse o menu **movimentações >> NF-e**, localize a nota fiscal que deseja complementar, clique no menu (<span class="mdi mdi-dots-vertical"></span>) dela e selecione a opção **Complementar (NF-e de complemento)**.
+Acesse o menu **movimentações >> NF-e**, localize a nota fiscal que deseja complementar, clique no menu (<span class="mdi mdi-dots-vertical"></span>) e selecione a opção **Complementar (NF-e de complemento)**.
 
 ![NF-e de complemento a partir de outra NF-e](/tutoriais/nfe-complemento/complemento_a_partir_nf-e.png)
 
