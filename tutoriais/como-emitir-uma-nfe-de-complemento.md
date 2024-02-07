@@ -2,14 +2,14 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-01T19:12:20.232Z
+date: 2024-02-07T11:41:46.205Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
 ---
 
 # Nota fiscal complementar
-Listamos neste **tutorial** como emitir **NF-e complementar** para operações de **ajuste de quantidade** de produto, **valores e impostos** da nota fiscal original.
+Listamos neste **tutorial** como emitir **NF-e complementar** para operações de **complemento de quantidade** de produto, **valores e impostos** da nota fiscal original.
 
 Por se tratar de um documento bem especifico, caso consiga fazer o **cancelamento** ou a **devolução**, este é o caminho mais fácil.
 
