@@ -2,7 +2,7 @@
 title: Nota Fiscal de Serviço Eletrônica NFS-e
 description: Veja como você pode cadastrar as Notas Fiscais de Serviço eletrônicas
 published: true
-date: 2023-12-15T12:01:29.393Z
+date: 2024-02-08T13:22:27.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:12:38.965Z
@@ -165,7 +165,7 @@ Configuração necessária dependendo do webservice. Estes dados são fornecidos
 
 ## Dados da integração
 
-Se referem a integração entre a Gdoor e a prefeitura, não são editáveis.
+Se referem a integração entre a Gdoor e nosso provedor, não são editáveis.
 
 ![Dados da integração da NFS-e](/movimentos/nfse/integracao_conf_nfs-e.png)
 
