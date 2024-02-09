@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de ajuste
 description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
 published: false
-date: 2024-02-09T19:23:07.626Z
+date: 2024-02-09T19:32:13.871Z
 tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
@@ -49,7 +49,7 @@ O segundo passo é selecionar a operação de ajuste e **marcar os produtos que 
 
 ![Selecionar operação e tributos](/tutoriais/nfe-ajuste/passo_2_selecionar_operacao_e_produtos.png)
 
-O terceiro passo é **informar os dados a serem ajustados**. Clique no produto para expandir e exibir os campos disponíveis. Clique em <span class="mat-button mat-accent">PRÓXIMO</span> após preencher as informações que deseja complementar.
+O terceiro passo é **informar os dados a serem ajustados**. Clique no produto para expandir e exibir os campos disponíveis. Clique em <span class="mat-button mat-accent">PRÓXIMO</span> após preencher as informações que deseja ajustar.
 
 ![Informar dados de ajuste](/tutoriais/nfe-ajuste/passo_3_informar_ajuste.png)
 
@@ -95,3 +95,7 @@ O terceiro passo é **informar o participante** da nota de ajuste e os **valores
 {.is-info}
 
 ![Participante e dados de ajuste](/tutoriais/nfe-ajuste/semnfe_passo_3_participante_dados.png)
+
+O quarto e último passo é **revisar** os dados que foram **alterados** para cada um dos **produtos**. Caso deseje apenas **salvar para verificar os valores gerados no XML ou DANFe**, clique em <span class="mat-button mat-accent">SALVAR</span>. Se **deseja enviar a nota fiscal para a SEFAZ**, clique em <span class="mat-button">SALVAR E TRANSMITIR</span>.
+
+![Revisão e transmissão](/tutoriais/nfe-ajuste/semnfe_passo_4_revisão.png)
