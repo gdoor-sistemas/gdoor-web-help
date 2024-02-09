@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de ajuste
 description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
 published: false
-date: 2024-02-09T19:32:13.871Z
+date: 2024-02-09T19:38:41.290Z
 tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
@@ -37,7 +37,7 @@ No formulário, preencha o nome da operação como for necessário e marque a ca
 
 Após preencher os dados da operação de ajuste, clique em <span class="mat-button mat-accent">SALVAR</span> para gravar as informações.
 
-## Emitindo a nota fiscal de ajuste a partir de uma nota do sistema
+## Emitindo a nota fiscal de ajuste a partir de uma NF-e do sistema
 
 Acesse o menu **movimentações >> NF-e**, localize a nota fiscal que deseja ajustar, clique no menu (<span class="mdi mdi-dots-vertical"></span>) e selecione a opção **Ajustar (NF-e de ajuste)**.
 
@@ -57,7 +57,7 @@ O quarto e último passo é **revisar** os dados que foram **alterados** para ca
 
 ![Revisar e finalizar nota de ajuste](/tutoriais/nfe-ajuste/passo_4_revisar.png)
 
-## Emitindo a nota fiscal de ajuste a partir de uma chave de acesso
+## Emitindo a nota fiscal de ajuste a partir de uma chave de acesso de NF-e
 
 Acesse o menu de **movimentações >> NF-e**, localize e clique no botão <span class="mdi mdi-plus"></span> ao lado de **NF-e de ajuste** no menu ao lado direito.
 
