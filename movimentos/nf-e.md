@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2023-11-16T17:47:24.872Z
+date: 2024-02-09T20:34:45.307Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -206,75 +206,18 @@ Caso a nota que esteja fazendo seja necessário **vincular** um outro **document
 Para isto basta clicar no ícone <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24"><path d="M17,14H19V17H22V19H19V22H17V19H14V17H17V14M12,17V15H7V17H12M17,11H7V13H14.69C13.07,14.07 12,15.91 12,18C12,19.09 12.29,20.12 12.8,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3H19A2,2 0 0,1 21,5V12.8C20.12,12.29 19.09,12 18,12L17,12.08V11M17,9V7H7V9H17Z"></path></svg>, selecionar o **tipo de documento** e preencher as informações necessárias de acordo com o tipo selecionado.
 
 # NF-e de ajuste
-Caso seja necessário emitir uma **NF-e de ajuste**, para **ajustar algum valor da nota fiscal original** ou para uma **operação de estorno de NF-e**, é possível lançar uma NF-e de ajuste no GWEB de **duas formas**.
-A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá a opção **“Ajustar (NF-e de ajuste)”**.
-Clicando nela, o sistema já irá **importar** os dados da nota fiscal original para a nota de ajuste.
+Caso seja necessário emitir uma **NF-e de ajuste**, para **ajustar algum valor da nota fiscal original** ou para uma **operação de estorno de NF-e**, é possível lançar uma NF-e de ajuste no GWEB.
 
-![Opção Ajustar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_ajustar.png)
-
-A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e de ajuste**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
-
-![Opções nova NF-e ajuste](/movimentos/nf-e/opcoes_nova_nfe_ajuste.png)
-
-## Referenciar uma NF-e
-
-Insira os 44 dígitos da chave da NF-e ou clique em **"ajuste sem NF-e"**. Esta etapa será **pulada** caso selecionar a opção **"ajustar (NF-e de ajuste)"** em uma nota fiscal.
-
-![NF-e ajuste passo 1](/movimentos/nf-e/nfe-ajuste_passo_1.png)
-
-Escolha uma [**natureza de operação**](/cadastros/operacoes) e informe os produtos que deseja ajustar, após isso clique em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
-
-## Escolha o que ajustar
-![NF-e ajuste passo 2](/movimentos/nf-e/nfe-ajuste_passo_2.png)
-
-Informe os **valores** que deseja **complementar** em cada **produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**. Após informar os dados necessários clique em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
-
-## Informar os valores
-
-![NF-e ajuste passo 3](/movimentos/nf-e/nfe-ajuste_passo_3.png)
-
-## Revisar
-
-Por fim, **revise as informações** e **transmita** a nota fiscal.
-
-![NF-e ajuste passo 4](/movimentos/nf-e/nfe-ajuste_passo_4.png)
+- [NF-e de ajuste *Veja como emitir uma NF-e de ajuste no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-ajuste)
+{.links-list}
 
 # NF-e de complemento
 
-Caso seja necessário emitir uma **NF-e de complemento** para **complementar** algum valor da nota fiscal original, como **valor unitário**, **quantidade** ou **valor de ICMS**, no Gweb é possível lançar uma NF-e de de complemento de duas formas.
+Caso seja necessário emitir uma **NF-e de complemento** para **complementar** algum valor da nota fiscal original, como **valor unitário**, **quantidade** ou **valor de ICMS**, no Gweb é possível lançar uma NF-e de de complemento.
 
-A forma **mais rápida** é na própria **nota fiscal emitida no Gweb**, ao clicar nas **opções** da nota fiscal, terá a opção **“complementar (NF-e de complemento)”**.
-Clicando nela, o sistema já irá importar os dados da nota fiscal original para a nota de complemento.
+- [NF-e de complemento *Veja como emitir uma NF-e de complemento no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento)
+{.links-list}
 
-![Opção Complementar](/movimentos/nf-e/opcoes_nota_fiscal_autorizada_complementar.png)
-
-A outra opção é clicando no <span class="mdi mdi-plus"></span> ao lado de **NF-e complementar**, no **menu a direita no canto superior**, ou no **botão laranja na direita inferior**. Ambas as opções estão indicadas abaixo:
-
-![Opções nova NF-e complemento](/movimentos/nf-e/opcoes_nova_nfe_complemento.png)
-
-## Referenciar uma NF-e
-
-Insira os 44 dígitos da chave da NF-e. Esta etapa será **pulada** caso selecionar a opção **"complementar (NF-e de complemento)"** em uma nota fiscal.
-
-![NF-e complemento passo 1](/movimentos/nf-e/nfe-complemento_passo_1.png)
-
-Insira os **produtos** que deseja **complementar** na nota fiscal. Após informar, pode clicar em <span class="mat-button mat-accent mdi">PRÓXIMO</span>.
-
-## Escolha o que complementar
-
-![NF-e complemento passo 2](/movimentos/nf-e/nfe-complemento_passo_2.png)
-
-Informe a **natureza de operação de complemento** e os valores que deseja **complementar em cada produto** clicando nele para expandi-lo, também é possível colocar **informações adicionais** ou **informações de interesse do fisco**.
-
-## Informar os valores
-
-![NF-e complemento passo 3](/movimentos/nf-e/nfe-complemento_passo_3.png)
-
-## Revisar
-
-Por fim, **revise as informações** e **transmita** a nota fiscal.
-
-![NF-e complemento passo 4](/movimentos/nf-e/nfe-complemento_passo_4.png)
 
 # Relatórios
 
