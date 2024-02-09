@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de ajuste
 description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
 published: false
-date: 2024-02-09T18:07:39.628Z
+date: 2024-02-09T19:23:07.626Z
 tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
@@ -79,3 +79,19 @@ O quarto e último passo é **revisar** os dados que foram **alterados** para ca
 
 ## Emitindo a nota fiscal de ajuste sem NF-e vinculada
 
+Acesse o menu de **movimentações >> NF-e**, localize e clique no botão <span class="mdi mdi-plus"></span> ao lado de **NF-e de ajuste** no menu ao lado direito.
+
+No formulário, no primeiro passo, clique na opção <span class="mat-button">AJUSTE SEM NF-E</span>
+
+![Ajuste sem NF-e](/tutoriais/nfe-ajuste/semnfe_passo_1.png)
+
+O segundo passo é selecionar a **operação de ajuste** cadastrada anteriormente, após selecionar, clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
+
+![Operação](/tutoriais/nfe-ajuste/semnfe_passo_2_ajustar.png)
+
+O terceiro passo é **informar o participante** da nota de ajuste e os **valores da nota de ajuste no produto**, para isso clique na linha do produto para **expandir e exibir os campos disponíveis**.
+
+> Como a **NF-e de ajuste não possui NF-e vinculada**, o **"produto"** ficará com o **nome da natureza de operação** cadastrada, neste exemplo é apenas **"Ajuste"**.
+{.is-info}
+
+![Participante e dados de ajuste](/tutoriais/nfe-ajuste/semnfe_passo_3_participante_dados.png)
