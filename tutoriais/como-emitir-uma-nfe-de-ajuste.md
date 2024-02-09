@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de ajuste
 description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
 published: false
-date: 2024-02-09T17:33:21.458Z
+date: 2024-02-09T18:07:39.628Z
 tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
@@ -59,7 +59,23 @@ O quarto e último passo é **revisar** os dados que foram **alterados** para ca
 
 ## Emitindo a nota fiscal de ajuste a partir de uma chave de acesso
 
+Acesse o menu de **movimentações >> NF-e**, localize e clique no botão <span class="mdi mdi-plus"></span> ao lado de **NF-e de ajuste** no menu ao lado direito.
 
+No formulário, no primeiro passo **cole ou digite os 44 dígitos da chave de acesso** da **nota fiscal que deseja ajustar** e ao finalizar clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
+
+![Informar a chave de acesso](/tutoriais/nfe-ajuste/manual_passo_1_informar_chave.png)
+
+O segundo passo é selecionar a **operação** e **adicionar produtos que serão ajustados** através do botão laranja (<span class="mdi mdi-barcode"></span>). Ao finalizar, clique em <span class="mat-button mat-accent">PRÓXIMO</span>.
+
+![Selecionar operação e produtos](/tutoriais/nfe-ajuste/manual_passo_2_operação_produtos.png)
+
+O terceiro passo é **informar o participante** da nota de ajuste e os **valores que serão ajustados em cada produto**, para isso clique na linha do produto para **expandir e exibir os campos disponíveis**.
+
+![Informar participante e valores do ajuste](/tutoriais/nfe-ajuste/manual_passo_3_participante_valores_ajuste.png)
+
+O quarto e último passo é **revisar** os dados que foram **alterados** para cada um dos **produtos**. Caso deseje apenas **salvar para verificar os valores gerados no XML ou DANFe**, clique em <span class="mat-button mat-accent">SALVAR</span>. Se **deseja enviar a nota fiscal para a SEFAZ**, clique em <span class="mat-button">SALVAR E TRANSMITIR</span>.
+
+![Revisar e transmitir](/tutoriais/nfe-ajuste/manual_passo_4_revisar.png)
 
 ## Emitindo a nota fiscal de ajuste sem NF-e vinculada
 
