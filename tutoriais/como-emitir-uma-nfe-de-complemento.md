@@ -2,7 +2,7 @@
 title: Tutorial: Emitir uma nota de complemento
 description: Passo-a-passo para emitir uma NF-e de complemento no GWEB
 published: false
-date: 2024-02-09T16:54:15.417Z
+date: 2024-02-09T17:25:37.721Z
 tags: tutoriais, nf-e, complemento
 editor: markdown
 dateCreated: 2024-02-01T17:55:22.811Z
@@ -51,7 +51,7 @@ O terceiro passo é selecionar a **natureza de operação de complemento** que f
 
 ![Passo 3 - Operação e valores a serem complementados](/tutoriais/nfe-complemento/passo_3_operacao_valores.png)
 
-O quarto e últim passo é **revisar** os dados que foram **alterados** para cada um dos **produtos**. Caso deseje apenas **salvar para verificar os valores gerados no XML ou DANFe**, clique em <span class="mat-button mat-accent">SALVAR</span>. Se **deseja enviar a nota fiscal para a SEFAZ**, clique em <span class="mat-button">SALVAR E TRANSMITIR</span>.
+O quarto e último passo é **revisar** os dados que foram **alterados** para cada um dos **produtos**. Caso deseje apenas **salvar para verificar os valores gerados no XML ou DANFe**, clique em <span class="mat-button mat-accent">SALVAR</span>. Se **deseja enviar a nota fiscal para a SEFAZ**, clique em <span class="mat-button">SALVAR E TRANSMITIR</span>.
 
 ![Passo 4 - Revisar e salvar ou transmitir](/tutoriais/nfe-complemento/passo_4_revisar_transmitir.png)
 
