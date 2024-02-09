@@ -1,8 +1,8 @@
 ---
 title: Tutorial: Emitir uma nota de ajuste
 description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
-published: false
-date: 2024-02-09T19:38:41.290Z
+published: true
+date: 2024-02-09T20:12:47.672Z
 tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
