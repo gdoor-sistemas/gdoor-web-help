@@ -1,39 +1,38 @@
 ---
-title: NF-e de ajuste
-description: 
+title: Tutorial: Emitir uma nota de ajuste
+description: Passo-a-passo para emitir uma NF-e de ajuste no GWEB
 published: false
-date: 2024-02-09T16:55:45.838Z
-tags: 
+date: 2024-02-09T17:10:44.739Z
+tags: tutoriais, nf-e, ajuste
 editor: markdown
 dateCreated: 2024-02-09T16:55:45.838Z
 ---
 
 # Nota fiscal complementar
-Listamos neste **tutorial** como emitir **NF-e complementar** para operações de **complemento de quantidade** de produto, **valores e impostos** da nota fiscal original.
+Listamos neste tópico **como emitir NF-e de ajuste** para operações sem circulação de produtos, por exemplo, o balanço da empresa no fim do mês não fecha, falta ou sobra uma quantia, neste caso, pode ser feita uma** NF-e de Ajuste** do valor que faltou ou que sobrou.
 
-Por se tratar de um documento bem **específico**, **se for possível o indicado é fazer o cancelamento ou a devolução da nota fiscal original.**
+*Geralmente, a nota de ajuste é emitida no período de análise da contabilidade para gerar as guias de pagamento dos impostos.*
 
-# Em que casos posso emitir uma Nota Fiscal Complementar?
+# Situações que demandam a emissão da NF-e de Ajuste
 
-A legislação prevê a sua emissão nos seguintes casos:
+1. Quando a nota fiscal não pode ser cancelada dentro do prazo e não houve circulação das mercadorias (neste caso deve ser referenciada a nota de origem);
+2. Ressarcimento de ICMS: quando o ICMS retido está maior, então ocorre uma compensação destes valores de impostos;
+3. Transferência de crédito acumulado de ICMS: quando a empresa tem créditos de ICMS acumulados e precisa transferir para matriz/filial ou empresas diferentes;
+4. Restituição de ICMS ST: quando não ocorre a operação ou prestação de serviço que iria gerar a compensação do imposto.
 
-- Quando há diferença no preço ou na quantidade de mercadoria;
-- No lançamento ou correção de imposto, quando há erro de cálculo ou de classificação fiscal;
-- Na exportação quando o valor do dólar por exemplo, for diferente na hora da emissão da NF-e e do recebimento da mercadoria. Nesse caso a NF-e Complementar é para ajustar os valores.
+# Como emitir uma nota fiscal de ajuste no GWEB?
 
-# Como emitir uma nota fiscal complementar no GWEB?
+No GWEB existem **duas** formas de emitir a **nota fiscal de ajuste**: manualmente adicionando a **chave de acesso**, **destinatário** e **produtos**, ou gerando a **nota de ajuste** a partir de uma nota já existente no sistema, **importando automaticamente** os dados citados anteriormente.
+Mas antes, é necessário cadastrar a operação de ajuste.
 
-No GWEB existem **duas** formas de emitir a **nota fiscal complementar**: manualmente adicionando a **chave de acesso**, **destinatário** e **produtos**, ou gerando a **nota de complemento** a partir de uma nota já existente no sistema, **importando automaticamente** os dados citados anteriormente.
-Mas antes, é necessário cadastrar a operação de complemento.
+## Cadastrando a operação de ajuste
+O primeiro passo é o cadastro da **operação de ajuste**. Acesse o menu **cadastros >> operações** e no canto inferior direito clique no botão (<span class="mdi mdi-plus"></span>).
 
-## Cadastrando a operação de complemento
-O primeiro passo é o cadastro da **operação de complemento**. Acesse o menu **cadastros >> operações** e no canto inferior direito clique no botão (<span class="mdi mdi-plus"></span>).
+No formulário, preencha o nome da operação como for necessário e marque a caixa **operação de ajuste**.
 
-No formulário, preencha o nome da operação de acordo com o que deseja complementar na nota original e marque a caixa **operação de complemento**.
+![Cadastro da operação](/tutoriais/nfe-ajuste/cadastro_operacao.png)
 
-![Cadastro da operação](/tutoriais/nfe-complemento/cadastro_operacao.png)
-
-Após preencher os dados da operação de complemento, clique em <span class="mat-button mat-accent">SALVAR</span> para gravar as informações.
+Após preencher os dados da operação de ajuste, clique em <span class="mat-button mat-accent">SALVAR</span> para gravar as informações.
 
 
 ## Emitindo a nota fiscal complementar a partir de uma nota do sistema
