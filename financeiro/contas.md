@@ -1,8 +1,8 @@
 ---
 title: Contas
-description: Veja como identificar a localização do dinheiro da empresa no Gweb
+description: Veja como identificar a localização do dinheiro da empresa no Gweb, através das contas, planos de contas e centros de custos
 published: true
-date: 2023-09-20T14:00:18.587Z
+date: 2024-02-15T19:16:34.811Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:34:11.932Z
