@@ -1,8 +1,8 @@
 ---
 title: Despesas
-description: Identifique as contas a pagar da empresa no Gweb
+description: Identifique as contas a pagar da empresa no Gweb e controlá-las através através dos planos de contas e centros de custos.
 published: true
-date: 2022-05-26T14:12:14.363Z
+date: 2024-02-15T19:17:19.216Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:03.597Z
@@ -221,29 +221,23 @@ Logo abaixo dos [acessos](https://help.gdoorweb.com.br/pt-br/financeiro/despesas
 
 ## Planos de contas 
 
-O plano de contas é uma ferramenta de organização, com a finalidade de **identificação**, facilitando os registros de **saídas**.
+Aqui é possível visualizar e cadastrar os planos de contas de saída que serão utilizados no financeiro.
 
-Para adicionar um novo plano de contas, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
-
-- **Nome**: nome do plano de contas, exemplo: aluguel;
-- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída;
-- **Centro de custos**: informe a tag.
-
-![planos de contas](/despesas/8_plano_de_contas.png)
+![planos de contas](/contas/8_planos_de_contas.png)
 
 > Ao acessar a lista de planos de contas pelo módulo de despesas, serão exibidos somente os planos de contas de saída, pois são relevantes neste módulo. Para listar todos os planos de contas, acesse pelo módulo **Financeiro** &raquo; **Contas**.{.gw .gw-note .is-info}
 
+Para saber mais sobre os planos de contas acesse:
+- [Planos de contas *Veja detalhes sobre o cadastro de planos de contas no GWEB*](/pt-br/financeiro/planos-de-contas)
+{.links-list}
+
 ## Centros de custos
 
-Para facilitar a análise financeira da empresa, é possível cadastrar os centros de custos, que são **unidades dentro de um plano de contas**. Exemplo: o aluguel é um plano de conta, mas o aluguel da sala 01 e da sala 02 são exemplos de centro de custos.
+Aqui é possível visualizar e cadastrar os centros de custos que serão utilizados no financeiro.
 
+![centros de custos](/contas/9_centros_de_custos.png)
 
-Para adicionar um novo centro de custos, você pode clicar no botão (<em class="mdi mdi-plus"></em>) e informar:
+Para saber mais sobre os centros de custos acesse:
+- [Centros de custos *Veja detalhes sobre o cadastro de centros de custos no GWEB*](/pt-br/financeiro/centros-de-custos)
+{.links-list}
 
-- **Nome**: nome do centro de custos, exemplo: aluguel da sala 02;
-- **Código**: pode-se definir um código específico (números e/ou letras) para facilitar no momento da busca;
-- **Tipo**: se é entrada ou saída;
-- **Centro de custos**: informe a tag.
-
-![centros de custos](/despesas/9_centros_de_custos.png)
