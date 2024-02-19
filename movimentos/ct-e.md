@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: Veja como você pode cadastrar os Conhecimentos de Transporte Eletrônico 
 published: true
-date: 2023-12-14T12:49:06.435Z
+date: 2024-02-19T17:18:59.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -291,12 +291,12 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button md
 
 ![config_cte.png](/movimentos/cte/config_cte.png)
 
-### Certificado digital
+## Certificado digital
 
 Para configurar o certificado digital para emissão de CT-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
 
 
-### Ambiente do CT-e
+## Ambiente do CT-e
 
 Nesta seção você configura dados para a geração do CT-e. 
 
@@ -324,13 +324,13 @@ Nesta seção, marque as opções desejadas em relação ao envio automático do
 
 **Anexar PDF:**{.subtitle} marque esta opção para enviar uma cópia em PDF junto com o XML do CT-e no e-mail.
 
-### Autorizados a baixar o XML
+## Autorizados a baixar o XML
 
 Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do CT-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
 
 ![config_aut_xml_cte.png](/movimentos/cte/config_aut_xml_cte.png)
 
-### Impressão do DACTe
+## Impressão do DACTe
 
 Nesta seção você configura detalhes sobre a impressão do DACTe. 
 
@@ -344,17 +344,23 @@ Veja o que pode ser alterado:
 
 **Posição da logomarca:**{.subtitle} define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
-### E-mails padrão
+## E-mails padrão
 
 Nesta seção, configure o conteúdo padrão para o corpo de e-mail, quando enviar um e-mail para "**CT-e**", "**CC-e**" ou para "**cancelamentos de CT-e**". Para cadastrar o conteúdo, clique no botão <span class="mat-button mdi ">editar</span>, correspondente a cada tipo de e-mail disponível.
 
 ![config_email_padr_cte.png](/movimentos/cte/config_email_padr_cte.png)
 
-### E-mail
+## E-mail
 
 Configure um endereço de e-mail para receber uma **resposta** para cada envio de e-mail de CT-e.
 
 ![config_email_cte.png](/movimentos/cte/config_email_cte.png)
+
+## Informações adicionais
+
+Nesta seção você pode informar um texto padrão para as informações adicionais dos CT-es que emitir no GWEB.
+
+![Informações adicionais](/movimentos/cte/infos_adicionais.png)
 
 ## Vídeo
 
