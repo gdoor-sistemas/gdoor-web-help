@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2023-12-14T12:51:22.244Z
+date: 2024-02-19T17:17:04.311Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -277,6 +277,12 @@ Estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial
 Posição da logomarca{.subtitle}
 
 Define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
+
+## Informações adicionais
+
+Nesta seção você pode informar um texto padrão para as informações adicionais dos MDF-es que emitir no GWEB.
+
+![Informações adicionais do MDF-e](/movimentos/mdf-e/infos_adicionais.png)
 
 ## Vídeo
 
