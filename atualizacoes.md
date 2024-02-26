@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-02-26T11:19:41.581Z
+date: 2024-02-26T12:42:44.507Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 12
-- Ajustes: 56
+- Novidades: 11
+- Ajustes: 57
 
 **Total: 68**
 
@@ -31,7 +31,6 @@ f2.11.22, b3.10.36{.versions}
 - Adicionada nova opção no relatório “Listagem de pessoas”, agora é possível selecionar o modelo de impressão do relatório.
 - Possibilitada a cobrança no ZPOS com Banricompras a vista e parcelado.
 - Criada configuração para descontar o valor de ICMS da base do PIS e COFINS para documentos de saída.
-- Criado novo campo no lançamento de compras por XML para alterar o preço de venda dos produtos novos.
 
 ## Ajustes
 - Ajustado relatório de “Produtos vendidos por categoria” para apresentar o custo correto das vendas.
@@ -50,6 +49,7 @@ f2.11.22, b3.10.36{.versions}
 - Ajustado no orçamento e pedido de venda quando informado um pagamento a prazo, serem apresentados somente planos de contas de saída.
 - Alterado relatório de contas a receber e contas a pagar para apresentar o plano de contas e centro de custos.
 - Ajustado registros E100 e E110 do SPED para os meses onde há movimentação.
+- Ajustado campo preço de venda no lançamento de compras por XML para alimentar o custo de compra no estoque, aplicar a margem de lucro bruto e calcular um novo preço de venda.
 
 # 03/02/2024
 f2.11.21, b3.10.34{.versions}
