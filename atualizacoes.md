@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-02-05T11:20:19.042Z
+date: 2024-02-26T11:19:00.384Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 8
-- Ajustes: 40
+- Novidades: 12
+- Ajustes: 56
 
-**Total: 48**
+**Total: 68**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,33 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/02/2024
+f2.11.22, b3.10.36{.versions}
+
+## Novidades
+- Adicionada nova opção no relatório “Listagem de pessoas”, agora é possível selecionar o modelo de impressão do relatório.
+- Possibilitada a cobrança no ZPOS com Banricompras a vista e parcelado.
+- Criada configuração para descontar o valor de ICMS da base do PIS e COFINS para documentos de saída.
+- Criado novo campo no lançamento de compras por XML para alterar o preço de venda dos produtos novos.
+
+## Ajustes
+- Ajustado relatório de “Produtos vendidos por categoria” para apresentar o custo correto das vendas.
+- Ajustado duplicidade de pré-vendas finalizadas no atalho F3 ao pressionar a tecla várias vezes.
+- Ajustada divergência de valores no relatório “Produtos vendidos por vendedor”.
+- Ajustada criação de conta financeira com valor previamente informado para apresentar os valores correspondentes no relatório de “Fluxo de caixa” e “Movimentação Financeira”.
+- Corrigida a visualização da quantidade de itens dos produtos com grade no cadastro de produtos.
+- Ajustado no CT-e para clientes do Simples Nacional o campo para seleção do CST.
+- Ajustado relatório de “Margem de lucro sobre preço de venda” para apresentar a movimentação de estoque configurada no pedido de venda que posteriormente gera uma pré-venda.
+- Ajustado o campo “UF” nos documentos de transporte anterior do CT-e para que seja obrigatório.
+- Ajustado download do arquivo Sintegra para o formato .txt.
+- Ajustado número de série da NFC-e para o Sintegra no registro 61.
+- Ajustado relatório de “Total de produtos vendidos por cliente” para apresentar as pré-vendas que movimentaram estoque e financeiro.
+- Ajustado o campo CST/CSOSN para mudar automaticamente conforme a conforme selecionada (ou não) a opção “consumidor final”.
+- Ajustada vendas a prazo que ao fazer um processo específico estava saindo sem cliente informado.
+- Ajustado no orçamento e pedido de venda quando informado um pagamento a prazo, serem apresentados somente planos de contas de saída.
+- Alterado relatório de contas a receber e contas a pagar para apresentar o plano de contas e centro de custos.
+- Ajustado registros E100 e E110 do SPED para os meses onde há movimentação.
+
 # 03/02/2024
 f2.11.21, b3.10.34{.versions}
 
