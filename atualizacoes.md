@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-02-26T12:42:44.507Z
+date: 2024-02-27T11:18:51.627Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 11
-- Ajustes: 57
+- Ajustes: 58
 
-**Total: 68**
+**Total: 69**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/02/2024
+f2.11.23, b3.10.37{.versions}
+
+## Ajustes
+- Ajustado CST do CT-e para clientes dos Simples Nacional.
+
 # 24/02/2024
 f2.11.22, b3.10.36{.versions}
 
