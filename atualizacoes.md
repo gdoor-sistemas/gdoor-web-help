@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-02-27T16:24:39.178Z
+date: 2024-02-28T19:48:08.336Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -56,7 +56,6 @@ f2.11.22, b3.10.36{.versions}
 - Ajustado no orçamento e pedido de venda quando informado um pagamento a prazo, serem apresentados somente planos de contas de saída.
 - Alterado relatório de contas a receber e contas a pagar para apresentar o plano de contas e centro de custos.
 - Ajustado registros E100 e E110 do SPED para os meses onde há movimentação.
-- Ajustado campo preço de venda no lançamento de compras por XML para alimentar o custo de compra no estoque, aplicar a margem de lucro bruto e calcular um novo preço de venda.
 
 # 03/02/2024
 f2.11.21, b3.10.34{.versions}
