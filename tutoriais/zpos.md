@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS das maquininhas no GWEB
 published: true
-date: 2024-01-22T16:53:35.659Z
+date: 2024-03-04T12:21:00.656Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -59,11 +59,17 @@ Acessando **Cadastros » Pagamentos**, localize na listagem os meios de pagament
 
 Dê um duplo clique para acessar o cadastro e na opção **dispositivo de pagamento**, localize e selecione a maquininha cadastrada que deseja utilizar para este meio de pagamento.
 
-![editar forma pgto](/config/ferramentas/form-pgto-vero-01.png)
+![editar forma pagamento](/config/ferramentas/form-pgto-vero-01.png)
 
 Realize o mesmo processo de cadastro para todas as formas de pagamento que utilizarão a comunicação com a maquininha.
 
-![editar forma pgto](/config/ferramentas/form-pgto-vero-02.png)
+![editar forma pagamento](/config/ferramentas/form-pgto-vero-02.png)
+
+Nesta tela, os campos disponíveis referente ao dispositivos de pagamento são:
+
+**Dispositivo:** Selecione uma das maquininhas cadastradas anteriormente.
+
+**Responsável pelo parcelamento:** Selecione a pessoa responsável pelo parcelamento, **emissor refere-se ao emissor do cartão** e **lojista refere-se a própria loja**. Consulte os responsáveis pela maquininha para saber qual opção sua loja irá trabalhar.
 
 Finalizando os vínculos entre todas as maquininhas e as **formas de pagamento**, clique em <span class="mat-button mat-accent">salvar</span>.
 
