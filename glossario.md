@@ -2,7 +2,7 @@
 title: Glossário
 description: Definição de alguns nomes e siglas usados nas páginas desta ajuda
 published: true
-date: 2023-10-11T14:01:18.935Z
+date: 2024-03-12T19:18:40.572Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-22T17:53:25.624Z
@@ -37,6 +37,14 @@ O certificado digital pode ser de 2 tipos: A1 e A3. O tipo suportado pelo Gweb �
 ## CST
 
 **C**ódigo de **S**ituação **T**ributária. Código responsável por identificar as operações realizadas por empresas que pertencem ao regime Normal, determina a incidência do ICMS sobre um produto ou serviço.
+
+## DACTe
+
+O **DACTE** (**D**ocumento **A**uxiliar do **C**onhecimento de **T**ransporte **E**letrônico) é uma representação simplificada do CT-e. Ele não tem valor fiscal, pois pode ser facilmente forjado, mas tem informações que permitem acessar o documento válido no [Portal do CT-e](https://www.cte.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=resumo&tipoConteudo=cktLvUUKqh0=).
+
+## DAMDFe
+
+O **DAMDFE** (**D**ocumento **A**uxiliar do **M**anifesto **E**letrônico de **D**ocumentos **F**iscais **E**letrônico) é uma representação gráfica resumida do MDF-e, impressa em papel comum, para acompanhar o transporte da carga, permitindo o acesso ao arquivo do MDF-e pela fiscalização de mercadorias em trânsito.
 
 ## DANFe
 
