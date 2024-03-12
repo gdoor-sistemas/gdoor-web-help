@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-06T19:37:57.445Z
+date: 2024-03-12T13:00:41.852Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 11
-- Ajustes: 61
+- Ajustes: 62
 
-**Total: 72**
+**Total: 73**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/03/2024
+b3.10.41{.versions}
+
+## Ajustes
+- Ajustado inventário gerado no arquivo do Sintegra que apresentava erro na validação.
+
 # 06/03/2024
 f2.11.25, b3.10.38, b3.10.39{.versions}
 
