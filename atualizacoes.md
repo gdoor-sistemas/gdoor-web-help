@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-12T13:00:41.852Z
+date: 2024-03-18T14:02:56.964Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 11
-- Ajustes: 62
+- Novidades: 12
+- Ajustes: 64
 
-**Total: 73**
+**Total: 76**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,16 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/03/2024
+f2.11.26 {.versions}
+
+## Novidades
+- Criação do relatório de NF-e, NFC-e (resumo).
+
+## Ajustes
+- Ajustado alíquota de FCP para exibir os dados informados na regra tributária.
+- Ajustada tributação de FCP para não manter os dados ao informar uma CST que não deve tributar esses valores. 
+
 # 11/03/2024
 b3.10.41{.versions}
 
