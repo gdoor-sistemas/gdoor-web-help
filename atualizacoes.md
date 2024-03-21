@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-19T18:58:13.702Z
+date: 2024-03-21T11:12:10.954Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 18/03/2024
-b3.10.42, b3.10.43, b3.10.44, b3.10.45, b3.10.46, b3.10.47, b3.10.48, b3.10.49 {.versions}
+b3.10.42, b3.10.43, b3.10.44, b3.10.45, b3.10.46, b3.10.47, b3.10.48, b3.10.49, 3.10.50 {.versions}
 
 ## Ajustes
 - Otimizado o armazenamento de XMLs de documentos fiscais.
