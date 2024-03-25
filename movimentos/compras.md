@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2024-03-25T14:22:10.579Z
+date: 2024-03-25T14:23:44.859Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -372,5 +372,3 @@ Selecione quais valores deseja na composição do custo dos produtos e clique em
 ## Produto
 
 Ao marcar essa opção, caso o **custo do produto** na nota de compra for maior que o **custo do produto** no cadastro do mesmo, será atualizado o **preço de venda** com base na **margem de lucro do produto**.
-
-![Atualizar preço de venda com base na margem de lucro](/movimentos/compras/config_compra_custo_preco_venda.png)
