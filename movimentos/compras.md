@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2023-12-13T20:19:39.144Z
+date: 2024-03-25T14:22:10.579Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -324,9 +324,21 @@ Nesta aba, aparecerão outras 3 abas referentes aos impostos que podem ser ajust
 
 Clicando em cada uma das abas é possível definir a **Situação Tributária para escrituração**. Como mostrado abaixo.
 
-![compra_gif.gif](/movimentos/compras/compra_gif.gif)
+![Compra](/movimentos/compras/compra_gif.gif)
 
 Após efetuar todas as alterações necessárias, clique em <span class="mat-button mdi "> CONFIRMAR</span>.
+
+## Alterar produto na entrada
+
+É possível atualizar algumas **informações** do cadastro de produto caso o produto da nota fiscal **já exista** em seu estoque, essas informações podem ser alterada na aba **alterar produto** ao clicar no item dentro da nota fiscal de compra.
+
+![Alterar produto](/movimentos/compras/alterar_produto.png)
+
+> Caso você deixe os campos de **nova margem de lucro** e **novo preço de venda** em branco, se o custo do produto **nesta compra** for maior que o que está no **cadastro do produto**, o **preço de venda** será atualizado com base na **margem de lucro** que existe no **cadastro do produto**.
+{.is-info}
+
+Após efetuar todas as alterações que deseja, clique em <span class="mat-button mdi "> CONFIRMAR</span>.
+
 
 # Configurações
 
@@ -356,3 +368,9 @@ Para configurar o certificado digital para emissão de NF-e, acesse as [Configur
 
 Marque as opções que deseja para o cálculo do custo de compra e custo médio do produto na compra.
 Selecione quais valores deseja na composição do custo dos produtos e clique em <span class="mat-button mdi ">SALVAR</span>.
+
+## Produto
+
+Ao marcar essa opção, caso o **custo do produto** na nota de compra for maior que o **custo do produto** no cadastro do mesmo, será atualizado o **preço de venda** com base na **margem de lucro do produto**.
+
+![Atualizar preço de venda com base na margem de lucro](/movimentos/compras/config_compra_custo_preco_venda.png)
