@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2023-11-21T12:28:02.129Z
+date: 2024-03-25T13:43:27.512Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -431,10 +431,28 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 ![Filtro aplicado](/movimentos/nfce/nfce-filtro-aplicado.png =250x)
 {.is-success}
 
+# Recebimento de parcelas
+
+No PDV do GWEB é possível realizar o **recebimento de parcelas** através do menu no canto superior direito ou no atalho <kbd>F9</kbd>.
+
+> Também é possível configurar a emissão de uma NFC-e ao realizar o recebimento de uma parcela, basta ativar a configuração disponível nas [configurações gerais](/configuracoes/geral#nfc-e).
+{.is-info}
+
+![Recebimento de parcelas](/movimentos/nfce/tela_inicial_recebimento.png)
+
+No recebimento de parcelas do PDV, é possível selecionar uma ou mais parcelas para recebê-las.
+Ao selecioná-las, será aberto o formulário para efetivar as receitas.
+
+![Efetivar receita](/movimentos/nfce/efetivar_receita.png)
+
+-No formulário é possível informar os **juros**, **taxas** e **desconto**, na parte de **meios de pagamentos** você seleciona a forma de pagamento, valor que deseja e clique em <span class="mat-button mat-accent">ADICIONAR</span> para colocá-la na lista.
+
+Ao informar todos os dados que deseja, clique em <span class="mat-button mat-accent">EFETIVAR</span>
+
 # Configurações do PDV
 
 As configurações do PDV envolvem as emissões de pré-venda gerencial e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
-Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
+Ao alterar cada seção, **você precisará clicar em <span class="mat-button mat-accent"> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
 ## Comportamento
 
