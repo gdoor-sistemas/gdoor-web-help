@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2023-10-11T11:15:24.735Z
+date: 2024-03-25T12:28:28.274Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -34,7 +34,7 @@ Determine as casas decimais para **quantidades** e para **preços**.
 
 ![precisão numérica](/config/gerais/precisão_numérica.png)
 
-Após informar os campos, clique em <span class="mat-button mdi "> salvar</span>.
+Após informar os campos, clique em <span class="mat-button mat-accent"> salvar</span>.
 
 > Números que ficarão após a vírgula. Exemplo: 0,392 é um número com 3 casas decimais após a vírgula.
 {.is-success}
@@ -95,7 +95,7 @@ Defina como será o comportamento do sistema em vendas parceladas.
 - **Vencimento em dias úteis**: Define o comportamento do sistema caso a data de vencimento não caia em um dia útil.
 
 ![geral-parcelamento.png](/config/gerais/geral-parcelamento.png)
-Após configurar como deseja, clique em <span class="mat-button mdi "> salvar</span>.
+Após configurar como deseja, clique em <span class="mat-button mat-accent"> salvar</span>.
 
 # Autenticação
 
@@ -108,4 +108,13 @@ Sugerimos que a **utilize somente em caso de problemas** de conectividade ou log
 
 ![autenticação](/config/gerais/autenticação.png)
 
-Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
+Após marcar, clique em <span class="mat-button mat-accent"> salvar</span>.
+
+# NFC-e
+
+Ao marcar a opção **Emitir NFC-e no recebimento de parcelas**, ao receber uma parcela no [PDV](/movimentos/pdv) ou no módulo de [Receitas](/financeiro/receitas), uma NFC-e será emitida referente a esse recebimento.
+
+![NFC-e](/config/gerais/nfce.png)
+
+Após marcar, clique em <span class="mat-button mat-active"> salvar</span>.
+
