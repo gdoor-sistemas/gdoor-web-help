@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-25T11:09:52.604Z
+date: 2024-03-25T18:36:01.117Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 16
-- Ajustes: 73
+- Ajustes: 75
 
-**Total: 89**
+**Total: 91**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/03/2024
+f2.11.28, f2.11.29 {.versions}
+
+## Ajustes
+- Ajustada falha na digitação da quantidade na emissão da NFC-e.
+- Ajustado pedido de venda que estava gerando NF-e automaticamente.
+
 # 23/03/2024
 f2.11.27, b3.10.51 {.versions}
 
