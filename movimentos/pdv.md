@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-03-25T13:43:27.512Z
+date: 2024-03-25T13:47:23.895Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -440,14 +440,20 @@ No PDV do GWEB é possível realizar o **recebimento de parcelas** através do m
 
 ![Recebimento de parcelas](/movimentos/nfce/tela_inicial_recebimento.png)
 
+## Lista
 No recebimento de parcelas do PDV, é possível selecionar uma ou mais parcelas para recebê-las.
-Ao selecioná-las, será aberto o formulário para efetivar as receitas.
+
+![Lista de receitas](/movimentos/pdv/lista_receitas.png)
+
+Ao selecioná-las e clicar em <span class="mat-button">receber</span>, será aberto o formulário para efetivar as receitas.
+
+## Efetivar receitas
 
 ![Efetivar receita](/movimentos/nfce/efetivar_receita.png)
 
--No formulário é possível informar os **juros**, **taxas** e **desconto**, na parte de **meios de pagamentos** você seleciona a forma de pagamento, valor que deseja e clique em <span class="mat-button mat-accent">ADICIONAR</span> para colocá-la na lista.
+No formulário é possível informar os **juros**, **taxas** e **desconto**, na parte de **meios de pagamentos** você seleciona a forma de pagamento, valor que deseja e clique em <span class="mat-button mat-accent">ADICIONAR</span> para colocá-la na lista.
 
-Ao informar todos os dados que deseja, clique em <span class="mat-button mat-accent">EFETIVAR</span>
+Ao informar todos os dados que deseja, clique em <span class="mat-button mat-accent">EFETIVAR</span>.
 
 # Configurações do PDV
 
