@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-03-25T13:47:23.895Z
+date: 2024-03-25T13:48:10.703Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -440,7 +440,7 @@ No PDV do GWEB é possível realizar o **recebimento de parcelas** através do m
 
 ![Recebimento de parcelas](/movimentos/nfce/tela_inicial_recebimento.png)
 
-## Lista
+## Lista de receitas
 No recebimento de parcelas do PDV, é possível selecionar uma ou mais parcelas para recebê-las.
 
 ![Lista de receitas](/movimentos/pdv/lista_receitas.png)
