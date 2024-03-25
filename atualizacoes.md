@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-21T11:12:10.954Z
+date: 2024-03-25T11:09:23.708Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 11
-- Ajustes: 65
+- Novidades: 16
+- Ajustes: 73
 
-**Total: 76**
+**Total: 89**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,8 +24,28 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/03/2024
+f2.11.27, b3.10.51 {.versions}
+
+## Novidades
+- Lançamento do recebimento de parcelas pelo PDV.
+- Criado novo relatório NF-e, NFC-e (resumo).
+- Adicionado ao arquivo do XML do mês o item “compras”.
+- Adicionado no cadastro do produto os campos “peso bruto dos produtos” e “peso líquido dos produtos” para que sejam informados na NF-e automaticamente.
+- Criado novo campo no lançamento de compras por XML para alterar o preço de venda dos produtos.
+
+## Ajustes
+- Ajustado fator de conversão para unidade tributável em produtos com CST 02, desta forma o valor é inserido automaticamente na nota ao inserir o produto.
+- Ajustado valor do registro C190 do SPED que não estava sendo gerado quando na nota existe desconto.
+- Corrigido pedido de venda com serviço e vendedor informado que apresentava erro.
+- Corrigido bug no botão salvar NFC-e/pré-venda ao informar um pagamento a prazo.
+- Ajustado relatório de “Orçamentos (simplificado)” que apresentava falha na geração.
+- Ajustada mensagem de cancelamento de pedidos de venda.
+- Ajustado erro ortográfico no DACT-e do CT-e.
+- Ajustado texto da flag do total ICMS desonerado.
+
 # 18/03/2024
-b3.10.42, b3.10.43, b3.10.44, b3.10.45, b3.10.46, b3.10.47, b3.10.48, b3.10.49, 3.10.50 {.versions}
+b3.10.42, b3.10.43, b3.10.44, b3.10.45, b3.10.46, b3.10.47, b3.10.48, b3.10.49, b3.10.50 {.versions}
 
 ## Ajustes
 - Otimizado o armazenamento de XMLs de documentos fiscais.
