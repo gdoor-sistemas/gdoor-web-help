@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-25T18:56:44.179Z
+date: 2024-03-26T14:31:38.108Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 16
-- Ajustes: 75
+- Ajustes: 76
 
-**Total: 91**
+**Total: 92**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/03/2024
+f2.11.30 {.versions}
+
+## Ajustes
+- Ajustado edição de NF-e para alteração do PIS e COFINS.
+
 # 25/03/2024
 f2.11.28, f2.11.29 {.versions}
 
