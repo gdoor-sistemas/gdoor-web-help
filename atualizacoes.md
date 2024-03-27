@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-26T14:31:38.108Z
+date: 2024-03-27T16:41:33.098Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 16
-- Ajustes: 76
+- Ajustes: 77
 
-**Total: 92**
+**Total: 93**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/03/2024
+f2.11.31 {.versions}
+
+## Ajustes
+- Corrigido problema no recebimento de parcelas em dinheiro ao marcar a configuração para emitir NFC-e no recebimento de parcelas.
+
 # 26/03/2024
 f2.11.30 {.versions}
 
