@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-03-27T16:41:42.665Z
+date: 2024-04-01T14:08:36.801Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 16
-- Ajustes: 77
+- Novidades: 17
+- Ajustes: 78
 
-**Total: 93**
+**Total: 95**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,8 +24,17 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/04/2024
+f2.11.31, b3.10.54, b3.10.55 {.versions}
+
+## Novidades
+- Acionada a integração do ZPOS na emissão de NF-e para clientes do MT.
+
+## Ajustes
+- Ajustado botão de pagamentos por integração que não estava exibindo pagamentos em forma de PIX.
+
 # 27/03/2024
-f2.11.31 {.versions}
+b3.10.52 {.versions}
 
 ## Ajustes
 - Corrigido problema no recebimento de parcelas em dinheiro ao marcar a configuração para emitir NFC-e no recebimento de parcelas.
