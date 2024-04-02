@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-01T18:24:46.196Z
+date: 2024-04-02T12:15:41.273Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 17
-- Ajustes: 79
+- Ajustes: 82
 
-**Total: 96**
+**Total: 99**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/04/2024
+f2.11.32, b3.10.56, b3.10.57 {.versions}
+
+## Ajustes
+- Ajustada duplicidade de NF-e que não estava carregando os dados corretamente.
+- Ajustado pagamento parcial de despesas.
+- Corrigido arquivo do SPED que apresentava dados de meses anteriores.
+
 # 01/04/2024
 f2.11.31, b3.10.53, b3.10.54, b3.10.55 {.versions}
 
