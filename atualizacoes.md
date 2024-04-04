@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-03T11:06:08.909Z
+date: 2024-04-04T17:27:51.232Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 17
-- Ajustes: 82
+- Ajustes: 83
 
-**Total: 99**
+**Total: 100**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/04/2024
+f2.11.33, b3.10.59 {.versions}
+
+## Ajustes
+- Ajustado problemas no pagamento por integração no PDV.
+
 # 02/04/2024
 f2.11.32, b3.10.56, b3.10.57, b3.10.58 {.versions}
 
