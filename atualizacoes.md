@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-08T12:24:50.639Z
+date: 2024-04-09T16:16:56.568Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 17
-- Ajustes: 85
+- Ajustes: 86
 
-**Total: 102**
+**Total: 103**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -30,6 +30,12 @@ f2.11.35, b3.10.60, b3.10.61 {.versions}
 ## Ajustes
 - Ajustado cálculo automático do preço de custo quando informado o fator de conversão.
 - Corrigido na importação do XML de compra o campo UF que ao emitir um CT-e não estava carregando.
+
+# 05/04/2024
+f2.11.34 {.versions}
+
+## Ajustes
+- Ajustado erro na UF ao salvar/editar produtos na NFC-e.
 
 # 03/04/2024
 f2.11.33, b3.10.59 {.versions}
