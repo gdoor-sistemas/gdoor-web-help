@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-09T16:16:56.568Z
+date: 2024-04-09T16:22:00.119Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -29,7 +29,7 @@ f2.11.35, b3.10.60, b3.10.61 {.versions}
 
 ## Ajustes
 - Ajustado cálculo automático do preço de custo quando informado o fator de conversão.
-- Corrigido na importação do XML de compra o campo UF que ao emitir um CT-e não estava carregando.
+- Ajustado o registro 74 (Inventário) do Sintegra.
 
 # 05/04/2024
 f2.11.34 {.versions}
@@ -42,6 +42,7 @@ f2.11.33, b3.10.59 {.versions}
 
 ## Ajustes
 - Ajustado problemas no pagamento por integração no PDV.
+- Corrigido na importação do XML de compra o campo UF que ao emitir um CT-e não estava carregando.
 
 # 02/04/2024
 f2.11.32, b3.10.56, b3.10.57, b3.10.58 {.versions}
