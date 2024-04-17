@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-16T12:53:31.877Z
+date: 2024-04-17T11:17:05.636Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,13 +25,19 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 16/04/2024
-f2.11.35, b3.10.62 {.versions}
+f2.11.35, b3.10.63 {.versions}
 
 ## Ajustes
 - Ajustado o campo quantidade no cadastro de produtos com grade.
 - Ajustado relatório de "Comissões por vendedor" para considerar os serviços.
 - Ajustado FCP ST que estava sendo subtraído do total da nota no registro 50 do Sintegra.
 - Ajustado campos da propriedade da grade que ao editar estavam aparecendo em branco.
+
+# 09/04/2024
+b3.10.62 {.versions}
+
+## Ajustes
+- Ajustado o registro 74 (Inventário) do Sintegra.
 
 # 06/04/2024
 f2.11.35, b3.10.60, b3.10.61 {.versions}
