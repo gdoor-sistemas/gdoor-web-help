@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-19T17:02:57.500Z
+date: 2024-04-22T13:55:26.162Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 17
-- Ajustes: 92
+- Novidades: 18
+- Ajustes: 93
 
-**Total: 109**
+**Total: 111**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/04/2024
+f2.11.36, b3.10.68, b3.10.69 {.versions}
+
+## Novidades
+- Implementada alíquota Funrural e valor Funrural.
+
+## Ajustes
+- Ajustada emissão de NF-e com aliquota do Simples Nacional que não estava sendo destacada.
+
 # 19/04/2024
 b3.10.67 {.versions}
 
