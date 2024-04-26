@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-26T16:20:28.747Z
+date: 2024-04-26T16:22:27.119Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 19
-- Ajustes: 95
+- Ajustes: 96
 
-**Total: 114**
+**Total: 115**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,7 +25,8 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 25/04/2024
-b3.10.71, b3.10.72, b3.10.73 {.versions}
+p1.0.0, b3.10.71, b3.10.72, b3.10.73, b3.10.74, b3.10.75, b3.10.76
+{.versions}
 
 ## Novidades
 - Adicionado processo de sincronização dos dados com PDV Offline.
@@ -33,6 +34,7 @@ b3.10.71, b3.10.72, b3.10.73 {.versions}
 ## Ajustes
 - Ajustado erro ao salvar as preferências do usuário.
 - Ajustado erro ao fazer download de NF-e no MD-e.
+- Ajustado erro na sincronização do PDV Offline.
 
 # 20/04/2024
 f2.11.36, b3.10.68, b3.10.69 {.versions}
