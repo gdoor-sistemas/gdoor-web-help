@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-02T15:00:19.788Z
+date: 2024-05-02T16:57:26.994Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -280,9 +280,23 @@ Após realizar o download, efetue a instalação do PDV Offline.
 
 Após a instalação, abra o PDV Offline e entre com o seu usuário.
 
-![3_tela_login_pdv_offline.png](/movimentos/pdv/3_tela_login_pdv_offline.png)
+![Login do PDV Offline](/movimentos/pdv/3_tela_login_pdv_offline.png)
 
-No primeiro acesso, o PDV Offline do GWEB irá.
+No primeiro acesso, o PDV Offline do GWEB irá exibir o formulário de **configurações offline**.
+
+![Configuração Offline inicial](/movimentos/pdv/4_tela_configuracao_offline.png)
+
+O campos deste formulário são:
+ - **Nome do PDV**: Insira aqui um nome identificador para o PDV.
+ - **Série da NFC-e**: Informe a série que deseja utilizar **quando o PDV ficar offline**.
+ - **Ambiente da emissão**: Irá trazer a configuração padrão da sua NFC-e.
+ - **Nº da próxima NFC-e**: Informe o número da próxima NFC-e que deseja utilizar **quando o PDV ficar offline**.
+ 
+ O **PDV Offline** irá entrar **automaticamente** no **modo offline** quando o GWEB identificar que você está sem internet. A mensagem ao entrar no modo offline aparecerá no meio da tela.
+
+![Mensagem do modo offline](/movimentos/pdv/5__mensagem_offline.png)
+
+Quando a internet voltar, o GWEB irá **identificar** e sincronizará as **informações**, **pré-vendas** e **notas emitidas**.
 
 # Lista
 
