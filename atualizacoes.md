@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-04-26T18:58:51.947Z
+date: 2024-05-08T18:18:41.376Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 19
-- Ajustes: 97
+- Ajustes: 98
 
-**Total: 116**
+**Total: 117**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/04/2024
+b3.10.78 {.versions}
+
+## Ajustes
+- Ajustado no CT-e o campo valor de carga para que aceite o valor "0" (zero).
+
 # 26/04/2024
 b3.10.77 {.versions}
 
