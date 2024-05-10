@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-05-08T18:19:20.586Z
+date: 2024-05-10T11:23:36.358Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 19
-- Ajustes: 98
+- Ajustes: 99
 
-**Total: 117**
+**Total: 118**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 10/05/2024
+b3.10.79{.versions}
+
+## Ajustes
+- Ajustada alíquota da UF de destino do DF para gerar a alíquota correta no cálculo da DIFAL.
+
 # 08/05/2024
 b3.10.78 {.versions}
 
