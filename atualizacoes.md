@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-05-10T11:24:57.949Z
+date: 2024-05-13T12:34:37.169Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 19
-- Ajustes: 99
+- Novidades: 23
+- Ajustes: 120
 
-**Total: 118**
+**Total: 143**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,38 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/05/2024
+f2.11.37, b3.10.80, b3.10.81{.versions}
+
+## Novidades
+- Criado dois novos campos nas configurações da NFS-e: regime de recolhimento e forma de recolhimento.
+- Criado campo para informar a alteração de tomador em um CT-e substituto.
+- Inclusa a possibilidade de emissão de NFC-e quando houver pagamento integrado na pré-venda.
+- Adicionadas as integrações Cielo e Rede.
+
+## Ajustes
+- Ajustado valor líquido do produto no registro 54 do Sintegra.
+- Verificada a alteração de informações em massa em grades já existentes.
+- Ajustada na importação de XML de compra o campo quantidade para não permitir alterações.
+- Ajustado ICMS desonerado nas compras do Sintegra.
+- Ajustada impressão do campo de informações adicionais para a cidade de Rio Verde/GO.
+- Ajustada impressão da NFC-e para produtos com descrição muito grande.
+- Ajustada impressão da NFC-e que apresentava baixa qualidade na descrição dos produtos.
+- Ajustado erro na geração do SPED quando um meio de pagamento já utilizado era excluído.
+- Ajustado na tela de detalhes de produtos a visualização da unidade tributável e unidade de entrada.
+- Corrigida tributação de devolução para notas vindas do módulo de compras.
+- Corrigida duplicidade de registros no relatório de NFC-e, NF-e (Resumo).
+- Ajustada configuração de RPS que estava voltando para "1" ao salvar dados do emitente e ao deslogar e logar novamente no sistema.
+- Ajustada venda com o ZPOS ao informar um CNPJ não cadastrado no sistema.
+- Ajustado na emissão de NF-e o campo valor de BC apresentado no XML.
+- Ajustado para que os módulos de orçamento e pedidos de venda não apresentem formas de pagamentos com dispositivo integrado.
+- Corrigida pesquisa por código de serviço durante a emissão da NFS-e.
+- Adicionado contador de caracteres nos dados da seguradora dentro do MDF-e que apresentava falha de validação.
+- Ajustado registro D na geração do SPED para informar os dados do CT-e de entrada.
+- Bloqueado os campos de número, modelo, série, emissão e chave de acesso na edição de compras lançadas através de XML.
+- Ajustada visualização do fator de conversão nos detalhes dos produtos no módulo de compras.
+- Ajustado para que caso não haja retorno do ZPOS as informações da transação possam ser inseridas manualmente.
+
 # 10/05/2024
 b3.10.79{.versions}
 
