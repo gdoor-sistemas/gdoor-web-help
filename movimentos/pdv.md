@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-02T16:57:42.909Z
+date: 2024-05-13T14:24:10.507Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -266,8 +266,6 @@ Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectiv
 
 O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode ser obrigatório informá-lo.
 
-<!--
-
 # PDV Offline
 
 Você pode baixar o **PDV Offline** do GWEB caso deseje continuar a **emitir cupons** enquanto você estiver sem internet.
@@ -300,7 +298,8 @@ O campos deste formulário são:
 
 Quando a internet voltar, o GWEB irá **identificar** e sincronizará as **informações**, **pré-vendas** e **notas emitidas**.
 
--->
+Para ter uma visualização dos PDVs que estão configurados, você pode acessar as [séries offline](#séries-offline).
+
 
 # Lista
 
@@ -720,6 +719,16 @@ Com esta opção marcada, sempre que enviar um e-mail de NFC-e, uma cópia será
 Anexar PDF{.subtitle}
 
 Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail (que é obrigatório), o PDF do [DANFCe](/glossario#danfce) também será anexado.
+
+## Séries Offline
+
+Aqui é possível pode acompanhar as séries offline que foram configuradas em cada um dos PDVs Desktops.
+
+![Séries Offline](/movimentos/pdv/6_lista_pdvs_offline.png)
+
+Clique no ícone <span style="color: red;" class="mdi mdi-trash-can"></span> para excluir a configuração ou no ícone <span class="mdi mdi-eye"></span> para visualizar todos os dados configurados neste PDV.
+
+![Série configurada](/movimentos/pdv/7_serie_configurada.png)
 
 # Preferências do PDV
 
