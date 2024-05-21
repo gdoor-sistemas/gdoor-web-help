@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-13T16:25:54.112Z
+date: 2024-05-21T12:31:37.703Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -266,15 +266,13 @@ Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectiv
 
 O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode ser obrigatório informá-lo.
 
-<!--
-
 # PDV Offline
 
 Você pode baixar o **PDV Offline** do GWEB caso deseje continuar a **emitir cupons** enquanto você estiver sem internet.
 
-Para realizar o download do PDV Offline, acesse o menu **movimentações > PDV > configurações offline** no menu à direita.
+Para realizar o download do PDV Offline, acesse o menu **movimentações > PDV > configurações da NFC-e** no menu à direita.
 
-IMAGEM DA OPÇÃO
+![Download do PDV Offline](/movimentos/pdv/1_download.png)
 
 Após realizar o download, efetue a instalação do PDV Offline.
 
@@ -301,9 +299,6 @@ O campos deste formulário são:
 Quando a internet voltar, o GWEB irá **identificar** e sincronizará as **informações**, **pré-vendas** e **notas emitidas**.
 
 Para ter uma visualização dos PDVs que estão configurados, você pode acessar as [séries offline](#séries-offline).
-
--->
-
 
 # Lista
 
