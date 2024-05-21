@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-05-21T19:25:40.902Z
+date: 2024-05-21T19:28:27.990Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -28,7 +28,7 @@ ir para [2021](#h-2021) {.goto}
 f2.11.38, b3.10.85{.versions}
 
 ## Novidades
-- Lançamento do PDV Offline no Gweb 🎉.
+- Lançamento do PDV Offline no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv#pdv-offline).
 
 ## Ajustes
 - Bloqueada a exclusão do cadastro da pessoa do emitente.
