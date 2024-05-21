@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-21T12:32:42.678Z
+date: 2024-05-21T13:02:21.378Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -291,6 +291,8 @@ O campos deste formulário são:
  - **Série da NFC-e**: Informe a série que deseja utilizar **quando o PDV ficar offline**.
  - **Ambiente da emissão**: Irá trazer a configuração padrão da sua NFC-e.
  - **Nº da próxima NFC-e**: Informe o número da próxima NFC-e que deseja utilizar **quando o PDV ficar offline**.
+ - **Série da Pré Venda**: Informe a série que deseja utilizar para **as pré-vendas geradas por esse PDV**. Esta configuração é necessária para a numeração das pré-vendas não entrarem em conflito com as pré-vendas de outros caixas.
+ - **Nº da próxima Pré-venda**: Informe o número da próxima pré-venda que deseja utilizar.
  
  O **PDV Offline** irá entrar **automaticamente** no **modo offline** quando o GWEB identificar que você está sem internet. A mensagem ao entrar no modo offline aparecerá no meio da tela.
 
