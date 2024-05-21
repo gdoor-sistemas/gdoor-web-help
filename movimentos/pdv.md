@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-21T13:02:21.378Z
+date: 2024-05-21T13:06:40.766Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -721,14 +721,22 @@ Anexar PDF{.subtitle}
 
 Com esta opção marcada, além do [arquivo XML](/glossario#xml) anexado ao e-mail (que é obrigatório), o PDF do [DANFCe](/glossario#danfce) também será anexado.
 
-<!--
+## Opções para imposto
+
+Opções refentes a geração de impostos na NFC-e
+
+![Opções de impostos](/movimentos/pdv/opcoes_imposto.png)
+
+## Download do PDV Offline
+
+Link para download do PDV offline
+
+![1_download.png](/movimentos/pdv/1_download.png)
 
 ## Séries Offline
 
 Aqui é possível pode acompanhar as séries offline que foram configuradas em cada um dos PDVs Desktops.
 
-
--->
 ![Séries Offline](/movimentos/pdv/6_lista_pdvs_offline.png)
 
 Clique no ícone <span style="color: red;" class="mdi mdi-trash-can"></span> para excluir a configuração ou no ícone <span class="mdi mdi-eye"></span> para visualizar todos os dados configurados neste PDV.
