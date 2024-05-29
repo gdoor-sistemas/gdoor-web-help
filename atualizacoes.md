@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-05-21T19:29:23.562Z
+date: 2024-05-29T12:12:32.226Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 24
-- Ajustes: 124
+- Ajustes: 127
 
-**Total: 148**
+**Total: 151**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 28/05/2024
+f2.11.39, b3.10.86, b3.10.87, b3.10.88{.versions}
+
+## Ajustes
+- Ajustado vínculos dos produtos/clientes que foram removidos do sistema.
+- Incluída mensagem de aviso na exclusão de um cadastro de pessoa que está vinculado a um veículo.
+- Ajustado no cadastro de produtos e pessoas a inatividade dos cadastros ao invés da exclusão dos mesmos.
+
 # 21/05/2024
 f2.11.38, b3.10.85{.versions}
 
