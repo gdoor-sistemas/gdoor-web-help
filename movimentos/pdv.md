@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-05-23T12:39:12.760Z
+date: 2024-06-03T11:32:57.330Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -401,7 +401,6 @@ Ao gerar NFC-e de múltiplas pré-vendas gerenciais, com diferentes clientes inf
 
 As ações disponíveis são:
 - <em class="mdi mdi-refresh-circle"></em>: consultar o status das NFC-e na [SEFAZ](/glossario#sefaz)
-- <em class="mdi mdi-delete"></em>: excluir as vendas selecionadas
 - <em class="mdi mdi-close"></em>: fechar seleção
 
 ![Seleção múltipla de NFC-e autorizado o uso](/movimentos/pdv/autorizad.png)
