@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-05-31T11:49:48.750Z
+date: 2024-06-04T16:43:49.246Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 24
-- Ajustes: 128
+- Novidades: 25
+- Ajustes: 129
 
-**Total: 152**
+**Total: 154**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/06/2024
+f2.11.40, b3.10.90, b3.10.91{.versions}
+
+## Novidades
+- Adicionada permissão no PDV para remover séries do PDV.
+
+## Ajustes
+- Corrigida falha na atualização do número do próximo RPS.
+
 # 31/05/2024
 b3.10.89{.versions}
 
