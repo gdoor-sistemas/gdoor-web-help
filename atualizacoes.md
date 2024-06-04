@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-04T16:49:52.981Z
+date: 2024-06-04T17:13:57.459Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 25
+- Novidades: 29
 - Ajustes: 129
 
-**Total: 154**
+**Total: 158**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -28,7 +28,11 @@ ir para [2021](#h-2021) {.goto}
 f2.11.40, b3.10.90, b3.10.91{.versions}
 
 ## Novidades
-- Adicionada permissão no PDV para remover séries do PDV.
+- Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Offline.
+- Ao pressionar a tecla ALT no teclado o botão de "Sincronizar novamente" todos os dados do PDV Offline.
+- Ao pressionar a tecla ALT no teclado é apresentada a versão do PDV Offline.
+- Adicionada visualização do download da atualização, no topo da tela, em laranja, com o percentual do download.
+- Adicionada mensagem solicitando uma ação ao fechar o sistema.
 
 ## Ajustes
 - Corrigida falha na atualização do número do próximo RPS.
