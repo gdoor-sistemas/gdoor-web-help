@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-04T17:23:47.261Z
+date: 2024-06-04T18:15:55.385Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 03/06/2024
-f2.11.40, b3.10.90, b3.10.91{.versions}
+f2.11.40, b3.10.90, b3.10.91, p1.0.2{.versions}
 
 ## Novidades
 - Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Offline.
