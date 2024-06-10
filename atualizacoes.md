@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-04T18:18:42.974Z
+date: 2024-06-10T11:03:02.337Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 30
-- Ajustes: 129
+- Novidades: 33
+- Ajustes: 142
 
-**Total: 159**
+**Total: 175**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,30 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/06/2024
+f2.11.41, b3.10.92{.versions}
+
+## Novidades
+- Adicionada configuração para impressão do documento de venda no POS NF-e em MT.
+- Criada opção para desativar/ativar contas financeiras não permitindo que sejam excluídas se possuem movimentação.
+- Adicionada nova permissão nas receitas/despesas para que o usuário possa ver apenas as suas receitas/despesas ou a de todos.
+
+## Ajustes
+- Ajustado o envio de XML do mês que retornava erro na geração do arquivo.
+- Ajustado botão de ver registro no histórico de movimentação do produto.
+- Ajustado o envio de XML do mês que não gerava o arquivo quando selecionado um documento sem movimentação no período.
+- Ajustada a forma de pagamento da NFS-e para apresentar as opções para lançamento dos dados financeiros.
+- Corrigida venda de produtos com número de série na pré-venda.
+- Ajustado na importação de bases a inclusão de alguns campos no cadastro da transportadora.
+- Ajustada visualização de parcelas devolvidas no widget de receitas do dashboard.
+- Ajustada descrição dos produtos no XML quando os produtos possuem nomes com caracteres especiais.
+- Ajustada justificativa de cancelamento na impressão do documento de cancelamento.
+- Ajustados problemas na importação e reversão de bases.
+- Ajustado o cadastro de novos produtos com o mesmo código de barras de outro produto já excluído do sistema.
+- Ajustada a edição de XML de compra quando o produto possui fator de conversão para não alterar o valor unitário do produto.
+- Ajustado no lançamento de compras na guia “alterar produtos” a gravação de alguns campos que não eram salvos quando alterados
+
+
 # 03/06/2024
 f2.11.40, b3.10.90, b3.10.91, p1.0.2{.versions}
 
