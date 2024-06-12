@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-11T16:45:19.869Z
+date: 2024-06-12T11:23:07.143Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 33
-- Ajustes: 142
+- Ajustes: 143
 
-**Total: 175**
+**Total: 176**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,10 +25,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 11/06/2024
-b3.10.93{.versions}
+b3.10.93, b3.10.94{.versions}
 
 ## Ajustes
 - Ajustado no cadastro de pessoas o atributo transportador que não estava gravando os dados do RNTRC e Tipo do proprietário.
+- Ajustado erro na sincronização do GPED.
 
 # 08/06/2024
 f2.11.41, b3.10.92{.versions}
