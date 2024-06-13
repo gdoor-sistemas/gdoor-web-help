@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-12T11:23:26.430Z
+date: 2024-06-13T17:28:09.975Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 33
-- Ajustes: 143
+- Ajustes: 144
 
-**Total: 176**
+**Total: 177**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/06/2024
+f2.11.42, b3.10.95{.versions}
+
+## Ajustes
+- Liberado o lançamento de mais de um serviço na NFS-e em Serra/ES.
+
 # 11/06/2024
 b3.10.93, b3.10.94{.versions}
 
