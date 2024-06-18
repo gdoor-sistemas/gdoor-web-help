@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-18T11:40:55.541Z
+date: 2024-06-18T11:43:40.659Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -82,12 +82,12 @@ f2.11.41, b3.10.92{.versions}
 f2.11.40, b3.10.90, b3.10.91, p1.0.2{.versions}
 
 ## Novidades
-- Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Offline.
-- Ao pressionar a tecla ALT no teclado o botão de "Sincronizar novamente" todos os dados do PDV Offline.
-- Ao pressionar a tecla ALT no teclado é apresentada a versão do PDV Offline.
+- Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Hibrido.
+- Ao pressionar a tecla ALT no teclado o botão de "Sincronizar novamente" todos os dados do PDV Hibrido.
+- Ao pressionar a tecla ALT no teclado é apresentada a versão do PDV Hibrido.
 - Adicionada visualização do download da atualização, no topo da tela, em laranja, com o percentual do download.
 - Adicionada mensagem solicitando uma ação ao fechar o sistema.
-- Criado o autoupdate do PDV Offline.
+- Criado o autoupdate do PDV Hibrido.
 
 ## Ajustes
 - Corrigida falha na atualização do número do próximo RPS.
@@ -110,7 +110,7 @@ f2.11.39, b3.10.86, b3.10.87, b3.10.88{.versions}
 f2.11.38, b3.10.85{.versions}
 
 ## Novidades
-- Lançamento do PDV Offline no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv#pdv-offline).
+- Lançamento do PDV Hibrido no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv#pdv-offline).
 
 ## Ajustes
 - Bloqueada a exclusão do cadastro da pessoa do emitente.
@@ -188,12 +188,12 @@ p1.0.0, b3.10.71, b3.10.72, b3.10.73, b3.10.74, b3.10.75, b3.10.76
 {.versions}
 
 ## Novidades
-- Adicionado processo de sincronização dos dados com PDV Offline.
+- Adicionado processo de sincronização dos dados com PDV Hibrido.
 
 ## Ajustes
 - Ajustado erro ao salvar as preferências do usuário.
 - Ajustado erro ao fazer download de NF-e no MD-e.
-- Ajustado erro na sincronização do PDV Offline.
+- Ajustado erro na sincronização do PDV Hibrido.
 
 # 20/04/2024
 f2.11.36, b3.10.68, b3.10.69 {.versions}
