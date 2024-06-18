@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-18T11:43:40.659Z
+date: 2024-06-18T13:58:23.344Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 37
-- Ajustes: 150
+- Novidades: 40
+- Ajustes: 152
 
-**Total: 187**
+**Total: 192**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -31,6 +31,9 @@ f2.11.43, b3.10.96, p1.0.3{.versions}
 - Criada configuração para impressão de documentos diretamente na impressora padrão no PDV Hibrido.
 - Adicionada opção para finalizar manualmente pagamentos pelo ZPOS no PDV Hibrido.
 - Adicionada opção para visualizar/baixar o XML de cancelamento do MDF-e e CT-e.
+- Adicionado em Configuração local -> Impressão direta -> lista de escolha da impressora para impressão direta.
+- Adicionado em Configuração local -> Fator de zoom do sistema -> Opção para ajustar o zoom do sistema.
+- Adicionado em Configurações do PDV -> Configuração de impressão -> Opções para definir largura, tamanho da margem e espaçamento final.
 
 ## Ajustes
 - Ajustado nos detalhes de movimentação do produto a movimentação de pedidos de venda duplicados.
@@ -39,6 +42,8 @@ f2.11.43, b3.10.96, p1.0.3{.versions}
 - Ajustado no recebimento de receitas com pagamento integrado o cancelamento do recebimento de valores. Agora o sistema exibirá uma mensagem informando sobre o pagamento integrado e a impossibilidade de revertê-lo.
 - Ajustada rejeição 340 na emissão de NF-e de exportação.
 - Ajustado o campo número no endereço do cadastro do cliente quando cadastrado por dispositivos móveis.
+- Movido para Configuração local -> Ambiente do PDV Offline -> Opções de configuração de contingência local.
+- Corrigido busca da hash para definir ambiente local, hash que define a máquina que está rodando o PDV.
 
 # 13/06/2024
 f2.11.42, b3.10.95{.versions}
