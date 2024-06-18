@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-18T11:21:22.054Z
+date: 2024-06-18T11:38:49.601Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 34
-- Ajustes: 144
+- Novidades: 37
+- Ajustes: 150
 
-**Total: 178**
+**Total: 187**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,22 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/06/2024
+f2.11.43, b3.10.96, p1.0.3{.versions}
+
+## Novidades
+- Criada configuração para impressão de documentos diretamente na impressora padrão no PDV Hibrido.
+- Adicionada opção para finalizar manualmente pagamentos pelo ZPOS no PDV Hibrido.
+- Adicionada opção para visualizar/baixar o XML de cancelamento do MDF-e e CT-e.
+
+## Ajustes
+- Ajustado nos detalhes de movimentação do produto a movimentação de pedidos de venda duplicados.
+- Ajustado cálculo do ICMS ST ao remover o MVA e alíquotas de ST.
+- Ajustadas datas do relatório de Movimentação Financeira no formato CSV.
+- Ajustado no recebimento de receitas com pagamento integrado o cancelamento do recebimento de valores. Agora o sistema exibirá uma mensagem informando sobre o pagamento integrado e a impossibilidade de revertê-lo.
+- Ajustada rejeição 340 na emissão de NF-e de exportação.
+- Ajustado o campo número no endereço do cadastro do cliente quando cadastrado por dispositivos móveis.
+
 # 13/06/2024
 f2.11.42, b3.10.95{.versions}
 
