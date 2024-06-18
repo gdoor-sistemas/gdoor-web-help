@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-13T17:28:09.975Z
+date: 2024-06-18T11:18:53.626Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -41,6 +41,7 @@ b3.10.93, b3.10.94{.versions}
 f2.11.41, b3.10.92{.versions}
 
 ## Novidades
+- Ajustada a quantidade de casas decimais no preço do produto para 10.
 - Adicionada configuração para impressão do documento de venda no POS NF-e em MT.
 - Criada opção para desativar/ativar contas financeiras não permitindo que sejam excluídas se possuem movimentação.
 - Adicionada nova permissão nas receitas/despesas para que o usuário possa ver apenas as suas receitas/despesas ou a de todos.
