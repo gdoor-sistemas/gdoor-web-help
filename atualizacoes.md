@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-19T11:00:30.410Z
+date: 2024-06-19T16:38:28.500Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 40
-- Ajustes: 153
+- Ajustes: 154
 
-**Total: 193**
+**Total: 194**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -45,6 +45,7 @@ f2.11.43, f2.11.44, b3.10.96, p1.0.3{.versions}
 - Movido para Configuração local -> Ambiente do PDV Offline -> Opções de configuração de contingência local.
 - Corrigido busca da hash para definir ambiente local, hash que define a máquina que está rodando o PDV.
 - Corrigido cálculo do ICMS ST e BC ICMS ST que ao alterar o MVA não calculava automaticamente os valores.
+- Ajustada falha na geração do SPED.
 
 # 13/06/2024
 f2.11.42, b3.10.95{.versions}
