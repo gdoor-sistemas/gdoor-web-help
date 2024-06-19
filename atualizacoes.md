@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-19T16:38:42.335Z
+date: 2024-06-19T18:00:23.664Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 40
-- Ajustes: 154
+- Ajustes: 155
 
-**Total: 194**
+**Total: 195**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/06/2024
+f2.11.45{.versions}
+
+## Ajustes
+- Ajustada impressão de recibo nas receitas.
+
 # 18/06/2024
 f2.11.43, f2.11.44, b3.10.96, p1.0.3{.versions}
 
