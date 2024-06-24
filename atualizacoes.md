@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-24T11:08:26.751Z
+date: 2024-06-24T12:18:08.108Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 22/06/2024
-p1.0.4{.versions}
+f2.11.45, b3.10.99, p1.0.5{.versions}
 
 ## Novidades
 - Criado relatório de balancete com centro de custo analítico.
