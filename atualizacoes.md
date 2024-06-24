@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-21T11:30:24.128Z
+date: 2024-06-24T11:01:16.043Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 40
-- Ajustes: 157
+- Novidades: 43
+- Ajustes: 162
 
-**Total: 197**
+**Total: 205**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,21 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 22/06/2024
+p1.0.4{.versions}
+
+## Novidades
+- Criado relatório de balancete com centro de custo analítico.
+- Adicionada nova aba no histórico de pessoas para apresentar os orçamentos dos clientes.
+- Adicionado nos detalhes dos produtos os dados dos últimos fornecedores além da listagem de fornecedores de que o produto já foi comprado.
+
+## Ajustes
+- Ajustado erro na geração do Sintegra no registro 75.
+- Adicionado filtro para não incluir devoluções no relatório de Contas a Receber.
+- Ajustado o campo informações adicionais do CT-e que ao salvar e editar não mostravam as informações.
+- Ajustada na importação de bases a importação dos veículos.
+- Ajustado número de casas decimais para peso líquido e bruto dos produtos.
+
 # 20/06/2024
 p1.0.4{.versions}
 
