@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-24T12:22:05.471Z
+date: 2024-06-25T10:49:08.368Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 44
-- Ajustes: 162
+- Ajustes: 163
 
-**Total: 206**
+**Total: 207**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,10 +25,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 24/06/2024
-p1.0.5{.versions}
+f2.11.46, b3.10.100, p1.0.5{.versions}
 
 ## Novidades
 - Adicionada tela cheia no PDV Hibrido.
+- Ajustado para que a opção tabela de preços seja exibida no cadastro do cliente sem que o módulo financeiro esteja ativo.
 
 # 22/06/2024
 f2.11.45, b3.10.99{.versions}
