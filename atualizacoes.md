@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-25T10:51:27.928Z
+date: 2024-06-27T11:39:12.647Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 44
-- Ajustes: 163
+- Ajustes: 165
 
-**Total: 207**
+**Total: 209**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/06/2024
+b3.10.101, b3.10.102{.versions}
+
+## Ajustes
+- Ajustado erro ao editar uma regra de tributação com produtos vinculados excluídos.
+- Ajustada falha na importação de XML de compra que foi lançado, apagado e teve os produtos da nota excluídos do sistema.
+
 # 24/06/2024
 f2.11.46, b3.10.100, p1.0.5{.versions}
 
