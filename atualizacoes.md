@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-06-27T13:34:02.421Z
+date: 2024-07-01T18:16:57.586Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 44
-- Ajustes: 165
+- Ajustes: 166
 
-**Total: 209**
+**Total: 210**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/07/2024
+f2.11.47, b3.10.102{.versions}
+
+## Ajustes
+- Adicionada configuração para gerar as tags < CNPJReceb > e < idTermPag > no XML. Caso marcado e o documento fiscal possuir um pagamento eletrônico serão geradas as tags para atender a Nota Técnica 2023.004 v.1.11. 
+
 # 26/06/2024
 b3.10.101, b3.10.102{.versions}
 
