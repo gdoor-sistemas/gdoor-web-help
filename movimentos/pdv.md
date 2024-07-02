@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-06-03T11:32:57.330Z
+date: 2024-07-02T11:38:22.326Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -266,23 +266,23 @@ Clicando em "**sim**", será gerado o "**QR code**" para leitura com o respectiv
 
 O cliente é opcional, mas **dependendo da forma de pagamento selecionada** pode ser obrigatório informá-lo.
 
-# PDV Offline
+# PDV Híbrido
 
-Você pode baixar o **PDV Offline** do GWEB caso deseje continuar a **emitir cupons** enquanto você estiver sem internet.
+Você pode baixar o **PDV Híbrido** do GWEB caso deseje continuar a **emitir cupons** enquanto você estiver sem internet.
 
 Para realizar o download do PDV Offline, acesse o menu **movimentações > PDV > configurações da NFC-e** no menu à direita.
 
 ![Download do PDV Offline](/movimentos/pdv/1_download.png)
 
-Após realizar o download, efetue a instalação do PDV Offline.
+Após realizar o download, efetue a instalação do PDV Híbrido.
 
 ![Instalação do PDV Offline](/movimentos/pdv/2_instalacao.png)
 
-Após a instalação, abra o PDV Offline e entre com o seu usuário.
+Após a instalação, abra o PDV Híbrido e entre com o seu usuário.
 
 ![Login do PDV Offline](/movimentos/pdv/3_tela_login_pdv_offline.png)
 
-No primeiro acesso, o PDV Offline do GWEB irá exibir o formulário de **configurações offline**.
+No primeiro acesso, o PDV Híbrido do GWEB irá exibir o formulário de **configurações offline**.
 
 ![Configuração Offline inicial](/movimentos/pdv/4_tela_configuracao_offline.png)
 
@@ -294,11 +294,11 @@ O campos deste formulário são:
  - **Série da Pré Venda**: Informe a série que deseja utilizar para **as pré-vendas geradas por esse PDV**. Esta configuração é necessária para a numeração das pré-vendas não entrarem em conflito com as pré-vendas de outros caixas.
  - **Nº da próxima Pré-venda**: Informe o número da próxima pré-venda que deseja utilizar.
  
- O **PDV Offline** irá entrar **automaticamente** no **modo offline** quando o PDV Offline do GWEB identificar que o computador está sem conexão com a internet. A mensagem ao entrar no modo offline aparecerá no meio da tela.
+ O **PDV Híbrido** irá entrar **automaticamente** no **modo offline** quando o PDV Híbrido do GWEB identificar que o computador está sem conexão com a internet. A mensagem ao entrar no modo offline aparecerá no meio da tela.
 
 ![Mensagem do modo offline](/movimentos/pdv/5__mensagem_offline.png)
 
-Quando o PDV Offline do GWEB identificar que o dispositivo conectou-se a internet novamente, o GWEB sincronizará as **informações**, **pré-vendas** e **notas emitidas**.
+Quando o PDV Híbrido do GWEB identificar que o dispositivo conectou-se a internet novamente, o GWEB sincronizará as **informações**, **pré-vendas** e **notas emitidas**.
 
 Para ter uma visualização dos PDVs que estão configurados, você pode acessar as [séries offline](#séries-offline).
 
