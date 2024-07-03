@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-01T19:50:09.580Z
+date: 2024-07-03T10:52:39.675Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 44
-- Ajustes: 167
+- Ajustes: 169
 
-**Total: 211**
+**Total: 213**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/07/2024
+b3.10.104{.versions}
+
+## Ajustes
+- Ajustada rejeição 391 ao utilizar a forma de pagamento cartão sem pagamento integrado.
+- Ajustado login e senha da prefeitura que não estava sendo salvo na Focus ao indicar as informações no Gweb para emissão de NFS-e.
+
 # 01/07/2024
 f2.11.47, f2.11.48, b3.10.102, b3.10.103{.versions}
 
