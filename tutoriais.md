@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-07-03T14:27:07.876Z
+date: 2024-07-03T14:27:32.875Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -23,5 +23,5 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [ZPOS no GWEB *Veja como configurar o aplicativo ZPOS no Gweb*](/pt-br/tutoriais/zpos)
 - [NF-e de ajuste *Veja como emitir uma NF-e de ajuste no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-ajuste)
 - [NF-e de complemento *Veja como emitir uma NF-e de complemento no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento)
-- [Balança de checkout no PDV Híbrido *Veja como configurar a balança de checkout no PDV Híbrido*](help.gdoorweb.com.br/pt-br/tutoriais/como-usar-balanca-de-checkout-no-pdv-hibrido)
+- [Balança de checkout no PDV Híbrido *Veja como configurar a balança de checkout no PDV Híbrido*](/pt-br/tutoriais/como-usar-balanca-de-checkout-no-pdv-hibrido)
 {.links-list}
