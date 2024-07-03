@@ -2,7 +2,7 @@
 title: Como utilizar a balança de checkout no PDV Híbrido
 description: Veja como configurar e utilizar a balança de checkout no PDV Híbrido do GWEB
 published: false
-date: 2024-07-03T13:47:56.029Z
+date: 2024-07-03T13:48:43.541Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, balanca, checkout
 editor: markdown
 dateCreated: 2024-07-03T12:27:52.113Z
@@ -12,7 +12,7 @@ dateCreated: 2024-07-03T12:27:52.113Z
 Na integração do **PDV Híbrido** do GWEB com as **balanças de checkout**, é possível receber o peso da balança para vender o produto na quantidade correta, sem necessidade de informar manualmente este peso.
 
 # Download e instalação do PDV Híbrido
-Para efetuar o **download e instalação** do **PDV Híbrido** do **GWEB**, acesso nosso [passo a passo](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#pdv-h%C3%ADbrido).
+Para efetuar o **download e instalação** do **PDV Híbrido** do **GWEB**, acesse nosso [passo a passo](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#pdv-h%C3%ADbrido).
 
 > É necessário realizar a instalação e configuração da série offline do **PDV Híbrido** para conseguir utilizar a balança de checkout e o PDV.
 {.is-info}
