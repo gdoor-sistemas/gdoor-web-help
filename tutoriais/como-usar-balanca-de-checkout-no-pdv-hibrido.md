@@ -2,7 +2,7 @@
 title: Como utilizar a balança de checkout no PDV Híbrido
 description: Veja como configurar e utilizar a balança de checkout no PDV Híbrido do GWEB
 published: false
-date: 2024-07-03T13:11:43.192Z
+date: 2024-07-03T13:33:40.192Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, balanca, checkout
 editor: markdown
 dateCreated: 2024-07-03T12:27:52.113Z
@@ -50,3 +50,13 @@ Os campos disponíveis são:
 Após a configuração, a **balança de checkout** estará pronta para uso no PDV.
 
 # Usando a balança de checkout no PDV
+Para utilizar a balança de checkout no PDV, basta lançar um produto pesado que o sistema irá capturar o peso da balança, ou ainda utilizar a tecla <kbd>INSERT</kbd> para capturar o peso e depois lançar o produto correspondente.
+
+A tela para captura de peso que aparecerá é a seguinte:
+
+![Capturar peso](/tutoriais/balanca-checkout/3_capturar_peso.png)
+
+> Dependendo da configuração feita anteriormente, o funcionamento de **chamar a balança**, **capturar o peso** e **confirmar** pode variar.
+{.is-info}
+
+
