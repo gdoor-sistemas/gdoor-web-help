@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-03T10:55:31.387Z
+date: 2024-07-04T13:20:13.127Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 44
-- Ajustes: 169
+- Novidades: 45
+- Ajustes: 170
 
-**Total: 213**
+**Total: 215**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -27,9 +27,13 @@ ir para [2021](#h-2021) {.goto}
 # 02/07/2024
 b3.10.104{.versions}
 
+## Novidades
+- Lançamento da balança de checkout no PDV Híbrido.
+
 ## Ajustes
 - Ajustada rejeição 391 ao utilizar a forma de pagamento cartão sem pagamento integrado.
 - Ajustado login e senha da prefeitura que não estava sendo salvo na Focus ao indicar as informações no Gweb para emissão de NFS-e.
+- Alteração do nome PDV Offline para PDV Híbrido
 
 # 01/07/2024
 f2.11.47, f2.11.48, b3.10.102, b3.10.103{.versions}
@@ -49,7 +53,7 @@ b3.10.101, b3.10.102{.versions}
 f2.11.46, b3.10.100, p1.0.5{.versions}
 
 ## Novidades
-- Adicionada tela cheia no PDV Hibrido.
+- Adicionada tela cheia no PDV Híbrido.
 - Ajustado para que a opção tabela de preços seja exibida no cadastro do cliente sem que o módulo financeiro esteja ativo.
 
 # 22/06/2024
@@ -72,7 +76,7 @@ p1.0.4{.versions}
 
 ## Ajustes
 - Ajustada a impressão da pré-venda que estava gerando o pagamento sempre em dinheiro.
-- Ajustada abertura do PDV Hibrido sem internet que não estava permitindo fazer vendas.
+- Ajustada abertura do PDV Híbrido sem internet que não estava permitindo fazer vendas.
 
 # 19/06/2024
 f2.11.45{.versions}
@@ -84,8 +88,8 @@ f2.11.45{.versions}
 f2.11.43, f2.11.44, b3.10.96, p1.0.3{.versions}
 
 ## Novidades
-- Criada configuração para impressão de documentos diretamente na impressora padrão no PDV Hibrido.
-- Adicionada opção para finalizar manualmente pagamentos pelo ZPOS no PDV Hibrido.
+- Criada configuração para impressão de documentos diretamente na impressora padrão no PDV Híbrido.
+- Adicionada opção para finalizar manualmente pagamentos pelo ZPOS no PDV Híbrido.
 - Adicionada opção para visualizar/baixar o XML de cancelamento do MDF-e e CT-e.
 - Adicionado em Configuração local -> Impressão direta -> lista de escolha da impressora para impressão direta.
 - Adicionado em Configuração local -> Fator de zoom do sistema -> Opção para ajustar o zoom do sistema.
@@ -145,12 +149,12 @@ f2.11.41, b3.10.92{.versions}
 f2.11.40, b3.10.90, b3.10.91, p1.0.2{.versions}
 
 ## Novidades
-- Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Hibrido.
-- Ao pressionar a tecla ALT no teclado o botão de "Sincronizar novamente" todos os dados do PDV Hibrido.
-- Ao pressionar a tecla ALT no teclado é apresentada a versão do PDV Hibrido.
+- Ao pressionar a tecla ALT no teclado o sistema apresenta um botão que abre os logs do PDV Híbrido.
+- Ao pressionar a tecla ALT no teclado o botão de "Sincronizar novamente" todos os dados do PDV Híbrido.
+- Ao pressionar a tecla ALT no teclado é apresentada a versão do PDV Híbrido.
 - Adicionada visualização do download da atualização, no topo da tela, em laranja, com o percentual do download.
 - Adicionada mensagem solicitando uma ação ao fechar o sistema.
-- Criado o autoupdate do PDV Hibrido.
+- Criado o autoupdate do PDV Híbrido.
 
 ## Ajustes
 - Corrigida falha na atualização do número do próximo RPS.
@@ -173,7 +177,7 @@ f2.11.39, b3.10.86, b3.10.87, b3.10.88{.versions}
 f2.11.38, b3.10.85{.versions}
 
 ## Novidades
-- Lançamento do PDV Hibrido no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv#pdv-offline).
+- Lançamento do PDV Híbrido no Gweb 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/movimentos/pdv#pdv-offline).
 
 ## Ajustes
 - Bloqueada a exclusão do cadastro da pessoa do emitente.
@@ -251,12 +255,12 @@ p1.0.0, b3.10.71, b3.10.72, b3.10.73, b3.10.74, b3.10.75, b3.10.76
 {.versions}
 
 ## Novidades
-- Adicionado processo de sincronização dos dados com PDV Hibrido.
+- Adicionado processo de sincronização dos dados com PDV Híbrido.
 
 ## Ajustes
 - Ajustado erro ao salvar as preferências do usuário.
 - Ajustado erro ao fazer download de NF-e no MD-e.
-- Ajustado erro na sincronização do PDV Hibrido.
+- Ajustado erro na sincronização do PDV Híbrido.
 
 # 20/04/2024
 f2.11.36, b3.10.68, b3.10.69 {.versions}
