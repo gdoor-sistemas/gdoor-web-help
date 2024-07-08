@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-08T11:31:47.995Z
+date: 2024-07-08T12:37:32.937Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 05/07/2024
-f2.11.49, f2.11.50, p1.0.8{.versions}
+f2.11.49, f2.11.50{.versions}
 
 ## Ajustes
 - Ajustado na entrada de notas com XML de compra o vínculo com produtos já cadastrados que estava alterando o nome ao concluir a compra.
