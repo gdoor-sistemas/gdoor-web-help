@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-05T17:52:31.995Z
+date: 2024-07-08T11:23:04.121Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,7 +31,7 @@ f2.11.49{.versions}
 - Ajustado na entrada de notas com XML de compra o vínculo com produtos já cadastrados que estava alterando o nome ao concluir a compra.
 
 # 02/07/2024
-b3.10.104{.versions}
+b3.10.104, p1.0.6, p1.0.7{.versions}
 
 ## Novidades
 - Lançamento da balança de checkout no PDV Híbrido.
