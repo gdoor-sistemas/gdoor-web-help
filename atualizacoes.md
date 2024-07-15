@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-08T12:38:25.950Z
+date: 2024-07-15T12:08:24.334Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 45
-- Ajustes: 172
+- Novidades: 52
+- Ajustes: 185
 
 **Total: 217**
 
@@ -24,6 +24,34 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+# 15/07/2024
+b3.10.105, f2.11.51{.versions}
+
+## Novidades
+- Implementada integração com Sicredi, Caixa e BIN pelo ZPOS.
+- Ajustado cálculo do custo médio do produto no lançamento de compras e também para recalcular o valor após a exclusão da nota de compra.
+- Criado novo relatório de Balancete participativo de centro de custos e plano de contas.
+- Criado novo campo para vincular um vendedor a um cliente dentro do cadastro de pessoas.
+- Implementado o registro H030 no arquivo do SPED.
+- Implementado no registro C100 do SPED a BC e valor de ICMS.
+- Implementado no registro C180 do SPED Fiscal.
+
+## Ajustes
+- Ajustado XML do mês que estava exportando arquivos em branco.
+- Ajustado meio de pagamento padrão com pagamento integrado no PDV para finalizar a venda na maquininha.
+- Corrigida falha na geração do relatório de Contas a Receber.
+- Ajustada falha na consulta do NCM pelo módulo de compras.
+- Ajustado o fator de conversão e configuração de ajustar preço de venda quando o de compra for maior que o anterior.
+- Corrigido no XML de compra o valor de um produto específico que estava gerando o preço incorreto no produto.
+- Corrigido erro de português na descrição da CST 40 do CT-e.
+- Melhoria na visualização da descrição de produtos vinculados na entrada de compras no tema escuro.
+- Ajustada tag tBand nas vendas onde os dados do cartão são informados manualmente.
+- Ajustado na emissão da NFS-e com pagamento a prazo a exibição dos planos de conta de entrada.
+- Ajustada impressão de NFC-e em contingência que estava sobrepondo informações.
+- Ajustada impressão de NFC-e que estava cortando a impressão quando havia mensagem promocional configurada.
+- Ajustada rejeição 569 que não permitia atualizar e transmitir e nem invalidar e recriar a nota, era uma situação bem específica que ocorria com alguns clientes.
+
 # 05/07/2024
 f2.11.49, f2.11.50{.versions}
 
