@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-15T12:08:24.334Z
+date: 2024-07-16T16:24:42.621Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,14 +30,14 @@ b3.10.105, f2.11.51{.versions}
 
 ## Novidades
 - Implementada integração com Sicredi, Caixa e BIN pelo ZPOS.
-- Ajustado cálculo do custo médio do produto no lançamento de compras e também para recalcular o valor após a exclusão da nota de compra.
 - Criado novo relatório de Balancete participativo de centro de custos e plano de contas.
 - Criado novo campo para vincular um vendedor a um cliente dentro do cadastro de pessoas.
 - Implementado o registro H030 no arquivo do SPED.
-- Implementado no registro C100 do SPED a BC e valor de ICMS.
 - Implementado no registro C180 do SPED Fiscal.
 
 ## Ajustes
+- Corrigido no registro C100 do SPED a BC e valor de ICMS.
+- Ajustado cálculo do custo médio do produto no lançamento de compras e também para recalcular o valor após a exclusão da nota de compra.
 - Ajustado XML do mês que estava exportando arquivos em branco.
 - Ajustado meio de pagamento padrão com pagamento integrado no PDV para finalizar a venda na maquininha.
 - Corrigida falha na geração do relatório de Contas a Receber.
