@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-16T16:24:42.621Z
+date: 2024-07-25T20:21:52.961Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 52
-- Ajustes: 185
+- Ajustes: 186
 
 **Total: 217**
 
@@ -24,6 +24,36 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/07/2024
+b3.10.110{.versions}
+
+## Ajustes
+- Corrigido exclusão de produtos e pessoas que não possuem movimentação.
+
+# 15/07/2024
+b3.10.108, b3.10.109{.versions}
+
+## Ajustes
+- Corrigido erro de divisão por zero ao atualizar o custo médio do produto.
+- Corrigido erro de falha no schema do XML ao emitir NFC-e.
+
+# 15/07/2024
+b3.10.107{.versions}
+
+## Ajustes
+- Corrigido impressão do PDV Híbrido que estava sobrepondo os itens.
+
+# 15/07/2024
+b3.10.107{.versions}
+
+## Ajustes
+- Corrigido impressão do PDV Híbrido que estava sobrepondo os itens.
+
+# 15/07/2024
+b3.10.106{.versions}
+
+## Ajustes
+- Corrigido erro ao atualizar uma NFCe devido a tipo de bandeira do cartão.
 
 # 15/07/2024
 b3.10.105, f2.11.51{.versions}
