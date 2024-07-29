@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-07-29T17:22:04.686Z
+date: 2024-07-29T17:22:29.914Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -495,9 +495,6 @@ Ao informar todos os dados que deseja, clique em <span class="mat-button mat-acc
 As configurações do PDV envolvem as emissões de pré-venda gerencial e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
 Ao alterar cada seção, **você precisará clicar em <span class="mat-button mat-accent"> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
-> Caso deseje saber mais sobre o uso do caixa, acesse o tutorial sobre o [controle de caixa no GWEB](/tutoriais/controle-de-caixa).
-{.is-info}
-
 <!--
 ## Controle de caixa
 Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
@@ -505,6 +502,10 @@ Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
 ![Configurações do caixa](/movimentos/pdv/configuracoes_caixa.png)
 
 Para habilitar o controle de caixa no GWEB, é necessário marcar a caixa <em class="mdi mdi-checkbox-marked"></em> Controle de caixa.
+
+> Caso deseje saber mais sobre o uso do caixa, acesse o tutorial sobre o [controle de caixa no GWEB](/tutoriais/controle-de-caixa).
+{.is-info}
+
 As opções disponíveis para o controle de caixa são:
 
  - **Controle de caixa**: Marque esta opção para habilitar o controle de caixa e liberar os outros campos para configuração.
