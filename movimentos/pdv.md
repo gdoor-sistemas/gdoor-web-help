@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-07-29T17:20:03.995Z
+date: 2024-07-29T17:22:04.686Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -498,7 +498,7 @@ Ao alterar cada seção, **você precisará clicar em <span class="mat-button ma
 > Caso deseje saber mais sobre o uso do caixa, acesse o tutorial sobre o [controle de caixa no GWEB](/tutoriais/controle-de-caixa).
 {.is-info}
 
-
+<!--
 ## Controle de caixa
 Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
 
@@ -522,6 +522,7 @@ Para cadastrar um caixa as opções disponíveis são:
 - **Nome do PDV**: Informe aqui um identificador para o PDV.
 - **Responsável**: Selecione aqui um [usuário](/configuracoes/usuarios) cadastrado que será responsável por esse caixa. Ao selecionar um usuário, este caixa só poderá ser aberto e usado por esse usuário.
 - **Controle de gaveta**: Marque esta caixa para habilitar o controle de gaveta para este caixa.
+-->
 
 ## Comportamento
 
