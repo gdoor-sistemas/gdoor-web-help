@@ -2,7 +2,7 @@
 title: Controle de caixa no GWEB
 description: Veja como configurar e utilizar o controle de caixa no GWEB
 published: false
-date: 2024-07-31T17:30:06.602Z
+date: 2024-07-31T17:32:06.181Z
 tags: caixa, abertura, fechamento, controle, gaveta, suprimento, sangria
 editor: markdown
 dateCreated: 2024-07-29T17:30:51.160Z
@@ -59,11 +59,13 @@ Ao finalizar o período de trabalho, deve-se efetuar o **fechamento do caixa**. 
 Após a confirmação para **fechamento do caixa**, abrirá a tela para informar a **sangria**. O sistema sugerirá o **valor somado** das movimentações em espécie, também é possíve inserir uma observação, caso deseje.
 Após verificação, clique em <span class="mat mat-button">confirmar</span>.
 
+> Também é possível realizar sangrias durante o uso do caixa, basta clicar na opção **sangria** no menu à direita do PDV.
+{.is-info}
+
 ![Sangria](/tutoriais/controle-caixa/6_sangria_fechamento.png)
 
 > Caso opte por trabalhar com o **fechamento de caixa cego**, nesta tela **não** serão exibidos os valores do caixa **e nem será sugerido** o **valor somado** das movimentações.
 {.is-info}
-
 
 ### Fechamento de caixa - espécies
 
