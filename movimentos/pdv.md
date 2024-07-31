@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-07-29T17:22:52.611Z
+date: 2024-07-31T17:38:06.199Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -859,3 +859,10 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 
 > Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
+
+# Rel. de Fechamento
+
+Caso deseje efetuar a reimpressão de um fechamento de caixa, é possível acessar o menu à direita Rel. de Fechamento. Neste menu constam todos os fechamentos de caixa efetuados no GWEB.
+Para realizar a reimpressão, basta clicar na opção Visualizar do menu do caixa.
+
+![Reimpressão do caixa](/tutoriais/controle-caixa/9_reimpressao.png)
