@@ -2,11 +2,42 @@
 title: Controle de caixa no GWEB
 description: Veja como configurar e utilizar o controle de caixa no GWEB
 published: false
-date: 2024-07-31T19:28:56.553Z
+date: 2024-07-31T19:56:46.906Z
 tags: caixa, abertura, fechamento, controle, gaveta, suprimento, sangria
 editor: markdown
 dateCreated: 2024-07-29T17:30:51.160Z
 ---
+
+## Controle de caixa
+Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
+
+![Configurações do caixa](/movimentos/pdv/configuracoes_caixa.png)
+
+Para habilitar o controle de caixa no GWEB, é necessário marcar a caixa <em class="mdi mdi-checkbox-marked"></em> Controle de caixa.
+
+> Caso deseje saber mais sobre o uso do caixa, acesse o tutorial sobre o [controle de caixa no GWEB](/tutoriais/controle-de-caixa).
+{.is-info}
+
+As opções disponíveis para o controle de caixa são:
+
+ - **Controle de caixa**: Marque esta opção para habilitar o controle de caixa e liberar os outros campos para configuração.
+ - **Fechamento de caixa Cego**: Marque esta opção para não exibir os valores do caixa no momento do fechamento (fechamento sem conferência de valores).
+ - **Utilizar caixa já aberto**: Marque esta opção para habilitar que todos os computadores utilizem o mesmo caixa que fora aberto.
+ - **Somente usuário que abriu pode fechar o caixa**: Marque esta opção para permitir que apenas o usuário que abriu o caixa possa fechá-lo.
+ - **Abater troco da espécie**: Ao marcar esta opção, o valor de troco será abatido da espécie de recebimento e o troco não será exibido no fechamento de caixa.
+ 
+### Lista de caixas cadastrados
+ Após habilitar a opção para utilizar o controle de caixa, é necessário cadastrar todos os PDVs que irão utilizar o GWEB. Clique em **cadastrar** ou **visualizar** para abrir o **ambiente do controle de caixa** e visualizar os PDVs cadastrados ou cadastrar novos.
+ 
+![Ambiente do controle de caixa](/movimentos/pdv/ambiente_controle_de_caixa.png)
+
+Para cadastrar um caixa as opções disponíveis são:
+- **Nome do PDV**: Informe aqui um identificador para o PDV.
+- **Responsável**: Selecione aqui um [usuário](/configuracoes/usuarios) cadastrado que será responsável por esse caixa. Ao selecionar um usuário, este caixa só poderá ser aberto e usado por esse usuário.
+- **Controle de gaveta**: Marque esta caixa para habilitar o controle de gaveta para este caixa.
+
+
+<!-- REMOVER DEPOIS O QUE TEM ACIMA -->
 
 # Controle de caixa
 Listamos neste tópico configuração, **abertura**, **suprimento**, **fechamento**, **sangria** e também como efetuar o **fechamento de caixa cego**.
