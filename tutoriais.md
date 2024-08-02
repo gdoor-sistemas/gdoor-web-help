@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-08-02T20:48:24.929Z
+date: 2024-08-02T20:54:33.460Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -27,5 +27,7 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 {.links-list}
 
 <!--
-- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta)
+- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-4-digitos)
+- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 5 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-5-digitos)
+- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 6 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-6-digitos)
 -->
