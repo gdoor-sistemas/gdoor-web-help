@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-08-02T20:44:24.167Z
+date: 2024-08-02T20:48:02.582Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -24,9 +24,9 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [NF-e de ajuste *Veja como emitir uma NF-e de ajuste no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-ajuste)
 - [NF-e de complemento *Veja como emitir uma NF-e de complemento no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento)
 - [Balança de checkout no PDV Híbrido *Veja como configurar a balança de checkout no PDV Híbrido*](/pt-br/tutoriais/como-usar-balanca-de-checkout-no-pdv-hibrido)
+- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta)
 {.links-list}
 
 <!--
-- [Balança de etiquetas *Veja como configurar a geração do arquivo para a balança de etiquetas.
-*](/tutoriais/configuracao-balanca-etiqueta)
+- [Balança de etiquetas *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta)
 -->
