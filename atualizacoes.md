@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-07-29T16:01:43.589Z
+date: 2024-08-05T12:57:08.964Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 58
-- Ajustes: 186
+- Novidades: 68
+- Ajustes: 211
 
-**Total: 217**
+**Total: 279**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,48 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/08/2024
+f2.11.54, b3.10.113, b3.10.114, b3.10.116, p1.0.9 {.versions}
+
+## Novidades
+- Implementada a carga de balança no Gweb.
+- Implementado o campo “Data de pagamento” ao cadastrar receitas/despesas como pagas.
+- Otimizado o processo de bloqueio da Manifestação Eletrônica quando a SEFAZ retorna mensagem de consumo indevido.
+- Incluso campo para mostrar o CFOP do XML na importação de notas de compra.
+- Atualizada tabela CEST do Sistema Gweb.
+- Implementado campo para edição da data de emissão no MDF-e.
+- Adicionado o código do produto na lista de produtos vendidos no PDV.
+- Adicionado no filtro Tipos de documentos do relatório de “Serviços Prestados” a opção Pedido de venda.
+- Adicionada permissão para visualização do saldo de contas financeiras.
+- Adicionado no cadastro do cliente no campo da tabela preferencial uma descrição para evidenciar a prioridade desta configuração sobre as demais relacionadas a tabela de preços.
+
+## Ajustes
+- Ajustado lançamento de valores com vírgula na emissão da NF-e pelo iPhone.
+- Ajustada quebra de linha através do Shift+Ctrl na emissão da carta de correção.
+- Corrigida falha na emissão de notas de importação ao selecionar no valor total da nota a opção “imposto de importação”.
+- Ajustado relatório de “Planos de Contas” para respeitar o plano indicado no filtro.
+- Ajustado filtro Tipo de DF-e do relatório “Total de NF-e/NFC-e por situação” para apresentar somente as opções NF-e e NFC-e.
+- Ajustada falha no recebimento de receitas/despesas quando os campos juros, taxas, desconto ou acréscimo era deletado.
+- Ajustado visualização dos campos de hora na emissão de documentos e relatórios.
+- Ajustado para que o nome do vendedor seja exibido no DANFC-e quando existir mensagem promocional a ser impressa.
+- Ajustado no plano de contas a visualização do plano de contas pai para contas no nível 3.
+- Ajustado dados das informações adicionais que não estavam sendo salvas quando ocorria falha na transmissão do CT-e e MDF-e.
+- Ajustado preenchimento automático da CST de PIS/COFINS nos serviços ao replicar uma NF-e.
+- Retirada a obrigatoriedade do campo “Documento de identificação” do cadastro do cliente para emissão de NF-e de importação.
+- Removida logo do Sistema no envio de orçamentos por e-mail.
+- Ajustada data de emissão nos detalhes da nota de compra.
+- Ajustada descrição da forma de pagamento “PIX Estático” e abertura do preview para impressão da Pré-venda.
+- Ajustado nos relatórios de “Contas a pagar” e “Contas a receber” o filtro de plano de contas para mostrar apenas os planos de contas de saída ou entrada.
+- Ajustada exibição da data de pagamento das despesas do relatório “Contas a pagar”.
+- Ajustada impressão da logomarca na emissão de pré-vendas no PDV Híbrido.
+- Ajustada tela do PDV para não sobrepor a soma do valor total dos produtos quando na listagem houver mais de 5 itens.
+- Ajustado para permitir a edição da quantidade de produtos em notas de devoluções emitidas pelo módulo de compras. 
+- Ajustado relatório de “Alterações no produto” para exibir as alterações feitas na edição do XML de compra.
+- Ajustada quebra de linha para o campo “discriminação do serviço” na emissão de NFS-e.
+- Ajustada falha na importação de bases novas.
+- Ajustado erro de SQL ao gerar o arquivo de SPED Fiscal.
+- Ajustado erro no registro C180 do SPED Fiscal que estava sendo gerado mesmo com a opção desmarcada.
+
 # 29/07/2024
 b3.10.111, f2.11.52{.versions}
 
