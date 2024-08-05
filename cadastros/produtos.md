@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2024-08-02T20:43:15.178Z
+date: 2024-08-05T11:16:09.484Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -262,15 +262,14 @@ Lista das tabelas de preços cadastradas:
 
 ![Lista tabelas](/produtos/lista_tabelas.png)
 
-<!--
+
 # Carga da balança
 
 No GWEB é possível gerar a carga para as balanças de etiquetas. Neste menu, será aberto a tela para que selecione a **marca** da balança, o **tipo de arquivo** que deverá ser gerado e quais os caracteres iniciais identificadores de peso
-
+<!--
 > Caso deseje saber como configurar os produtos para a etiqueta de balança, acesso o [tutorial](/tutoriais/configuracao-balanca-etiqueta).
 {.is-info}
-
+-->
 ![Arquivo da balança](/produtos/1_gerar_arquivo.png)
 
 Ao selecionar as opções que deseja, clique em gerar para fazer o download do arquivo.
--->
