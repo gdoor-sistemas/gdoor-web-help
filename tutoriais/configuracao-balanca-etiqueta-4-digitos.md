@@ -2,7 +2,7 @@
 title: Configuração para balança de etiquetas
 description: Veja como configurar a geração do arquivo para a balança de etiquetas com o código do produto com 4 dígitos.
 published: true
-date: 2024-08-05T12:40:00.721Z
+date: 2024-08-05T17:03:11.514Z
 tags: produtos, pdv, balanca, etiquetas
 editor: markdown
 dateCreated: 2024-08-02T20:56:27.246Z
@@ -64,7 +64,7 @@ Caso no código de barras, estivesse contido o peso do produto ao invés do pre�
 
 ## Finalizando a configuração e realizando testes
 
-Para saber se sua configuração está correta, ao finalizar a configuração dos valores, realize a leitura de sua etiqueta e clique no botão **testar**:
+Para saber se sua configuração está correta, ao finalizar a configuração dos valores, realize a leitura de sua etiqueta no PDV:
 
 Leitura do produto configurado para peso:
 
