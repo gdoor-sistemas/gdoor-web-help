@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-08-05T17:05:20.803Z
+date: 2024-08-05T19:20:40.734Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -28,3 +28,4 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [Balança de etiquetas com 5 dígitos no código do produto *Veja como configurar a leitura do código de barras com 5 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-5-digitos)
 - [Balança de etiquetas com 6 dígitos no código do produto *Veja como configurar a leitura do código de barras com 6 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-6-digitos)
 {.links-list}
+<!-- https://help.gdoorweb.com.br/pt-br/tutoriais/controle-de-caixa -->
