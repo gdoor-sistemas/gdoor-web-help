@@ -2,7 +2,7 @@
 title: Configuração para balança de etiquetas
 description: Veja como configurar a geração do arquivo para a balança de etiquetas com o código do produto com 4 dígitos.
 published: true
-date: 2024-08-05T12:20:33.549Z
+date: 2024-08-05T12:24:20.423Z
 tags: produtos, pdv, balanca, etiquetas
 editor: markdown
 dateCreated: 2024-08-02T20:56:27.246Z
@@ -49,7 +49,7 @@ Como nosso exemplo se refere a um código de produto de **4 dígitos, a posiçã
 
 ![Tamanho da informação de peso](/tutoriais/carga-de-balanca/4_digitos/4_tamanho_informacao_peso.png)
 
-**Quantidade de casas decimais no peso ou valor**: campo para informar a quantidade de casas decimais usada na informação do peso do produto ou do preço de venda. Para **valor**, a informação a ser cadastrada é **2**, sendo assim, a nossa etiqueta é de **R$4,75**. Podemos nesta configuração, ter na etiqueta um preço máximo de **R$ 999,99**.
+**Quantidade de casas decimais no peso ou valor**: campo para informar a quantidade de casas decimais usada na informação do peso do produto ou do preço de venda. Para **valor**, a informação a ser cadastrada é **2**, sendo assim, a nossa etiqueta é de **R$ 4,75**. Podemos nesta configuração, ter na etiqueta um preço máximo de **R$ 999,99**.
 
 ![Configuração para preço](/tutoriais/carga-de-balanca/4_digitos/5_posicao_casas_preco.png)
 
