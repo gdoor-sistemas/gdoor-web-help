@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-08-01T14:16:22.213Z
+date: 2024-08-05T11:25:55.488Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -629,6 +629,24 @@ Nesta seção você pode configurar o sistema para abrir a janela de impressão 
 Nesta seção você pode definir como tratar o intermediado ao converter em NFC-e: **não informar intermediador** ou informar um **intermediador específico**.
 
 ![Intermediador](/movimentos/pdv/intermediador.png)
+
+## Código de barras com informação
+
+Nesta seção você pode definir como o sistema deve entender os dados contidos em códigos de barras de produtos pesados.
+
+![Configuração dos códigos de barras](/movimentos/pdv/0_confi_pdv.png)
+
+- **Tipo da informação contida no código:** Selecione aqui se a informação que tem no código é peso ou valor.
+- **Dígitos iniciais para identificação:** Caracteres iniciais do código de barras (geralmente é 2).
+- **Posição onde inicia a informação**: Campo para informar em qual posição do código de barras o sistema começará a ler a informação do peso do produto ou do preço de venda.
+- **Quantidade de caracteres**: Neste campo é possível informar qual o tamanho da informação do peso do produto ou do preço de venda.
+- **Quantidade de casas decimais**: Campo para informar a quantidade de casas decimais usada na informação do peso do produto ou do preço de venda.
+
+Ao finalizar a configuração, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar as configurações.
+
+> Caso deseje saber como configurar para os códigos dos produtos com 4, 5 ou 6 dígitos, acesse os [tutoriais](/tutoriais)
+{.is-info}
+
 
 ## Preferências de impressão
 
