@@ -2,7 +2,7 @@
 title: Configuração para balança de etiquetas
 description: Veja como configurar a geração do arquivo para a balança de etiquetas com o código do produto com 4 dígitos.
 published: true
-date: 2024-08-05T12:24:20.423Z
+date: 2024-08-05T12:40:00.721Z
 tags: produtos, pdv, balanca, etiquetas
 editor: markdown
 dateCreated: 2024-08-02T20:56:27.246Z
@@ -14,7 +14,7 @@ dateCreated: 2024-08-02T20:56:27.246Z
 
 Quando a configuração do produto na balança estiver com **4 dígitos**, no sistema o **código de barras** será formado pelo dígito inicial **2 + 4** dígitos do código do produto.
 
-![Cadastro do produto com 4 dígitos](/tutoriais/carga-de-balanca/cad_produto_4_digitos.png)
+![0_cad_produto.png](/tutoriais/carga-de-balanca/4_digitos/0_cad_produto.png)
 
 > É possível visualizar o **código do produto** na URL, como indicado na imagem.
 {.is-info}
