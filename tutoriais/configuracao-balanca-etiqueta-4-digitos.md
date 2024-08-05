@@ -1,8 +1,8 @@
 ---
 title: Configuração para balança de etiquetas
 description: Veja como configurar a geração do arquivo para a balança de etiquetas com o código do produto com 4 dígitos.
-published: false
-date: 2024-08-05T12:20:24.251Z
+published: true
+date: 2024-08-05T12:20:33.549Z
 tags: produtos, pdv, balanca, etiquetas
 editor: markdown
 dateCreated: 2024-08-02T20:56:27.246Z
