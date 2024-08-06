@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-05T12:57:28.136Z
+date: 2024-08-06T16:42:33.365Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 68
-- Ajustes: 211
+- Ajustes: 212
 
-**Total: 279**
+**Total: 280**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,8 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/08/2024
+b3.10.116 {.versions}
+
+## Ajustes
+- Ajustada geração da tag < indDeduzDeson > em vendas para a ZFM com SUFRAMA.
+
 # 05/08/2024
-f2.11.54, b3.10.113, b3.10.114, b3.10.116, p1.0.9 {.versions}
+f2.11.54, b3.10.113, b3.10.114, b3.10.115, p1.0.9 {.versions}
 
 ## Novidades
 - Implementada a carga de balança no Gweb.
