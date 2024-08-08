@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-06T16:47:38.002Z
+date: 2024-08-08T11:36:23.007Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 68
-- Ajustes: 212
+- Ajustes: 214
 
-**Total: 280**
+**Total: 282**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/08/2024
+f2.11.55, b3.10.117, b3.10.118 {.versions}
+
+## Ajustes
+- Ajustado o cálculo do "novo preço de custo" quando o produto possui fator de conversão.
+- Ajustado erro na geração do arquivo da balança para produtos que possuem caracteres especiais no nome.
+
 # 06/08/2024
 b3.10.116 {.versions}
 
