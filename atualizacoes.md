@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-08T11:36:51.191Z
+date: 2024-08-13T13:53:54.684Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 68
-- Ajustes: 214
+- Ajustes: 215
 
-**Total: 282**
+**Total: 283**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/08/2024
+f2.11.56 {.versions}
+
+## Ajustes
+- Corrigida exibição do custo de compra e valor unitário do produto no lançamento da compra.
+
 # 07/08/2024
 f2.11.55, b3.10.117, b3.10.118 {.versions}
 
