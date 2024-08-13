@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-13T13:54:43.175Z
+date: 2024-08-13T17:29:48.016Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 68
+- Novidades: 69
 - Ajustes: 215
 
-**Total: 283**
+**Total: 284**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/08/2024
+f2.11.57, b3.10.119 {.versions}
+
+## Novidades
+- Implementada a separação de produtos e serviços ao importar orçamentos e pedidos de venda.
+
 # 12/08/2024
 f2.11.56 {.versions}
 
