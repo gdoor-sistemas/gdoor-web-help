@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-13T17:39:18.572Z
+date: 2024-08-15T16:52:53.819Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 69
-- Ajustes: 215
+- Ajustes: 219
 
-**Total: 284**
+**Total: 288**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/08/2024
+f2.11.58, b3.10.120, b3.10.121, b3.10.122, b3.10.123 {.versions}
+
+## Ajustes
+- Corrigida falha ao logar no sistema.
+- Corrigido valor de FPC que estava sendo calculado junto ao ICMS ST.
+- Corrigido erro ao salvar uma NFS-e que foi importada de um orçamento/pedido.
+- Ajustado custo unitário no cadastro do produto que não está sendo ajustado quando a nota de compra possuí fator de conversão.
+
 # 13/08/2024
 f2.11.57, b3.10.119 {.versions}
 
