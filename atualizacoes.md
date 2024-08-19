@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-15T16:53:43.987Z
+date: 2024-08-19T11:13:05.077Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 69
-- Ajustes: 219
+- Ajustes: 221
 
-**Total: 288**
+**Total: 290**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/08/2024
+f2.11.59, b3.10.124, b3.10.125 {.versions}
+
+## Ajustes
+- Ajustado envio da Carta de Correção para o CT-e.
+- Ajustada duplicidade de registros financeiros ao editar e salvar uma compra.
+
 # 15/08/2024
 f2.11.58, b3.10.120, b3.10.121, b3.10.122, b3.10.123 {.versions}
 
