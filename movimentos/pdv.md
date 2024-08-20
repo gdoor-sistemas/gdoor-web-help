@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-08-05T11:25:55.488Z
+date: 2024-08-20T17:49:17.099Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -495,7 +495,7 @@ Ao informar todos os dados que deseja, clique em <span class="mat-button mat-acc
 As configurações do PDV envolvem as emissões de pré-venda gerencial e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
 Ao alterar cada seção, **você precisará clicar em <span class="mat-button mat-accent"> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
-<!--
+
 ## Controle de caixa
 Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
 
@@ -522,8 +522,15 @@ As opções disponíveis para o controle de caixa são:
 Para cadastrar um caixa as opções disponíveis são:
 - **Nome do PDV**: Informe aqui um identificador para o PDV.
 - **Responsável**: Selecione aqui um [usuário](/configuracoes/usuarios) cadastrado que será responsável por esse caixa. Ao selecionar um usuário, este caixa só poderá ser aberto e usado por esse usuário.
-- **Controle de gaveta**: Marque esta caixa para habilitar o controle de gaveta para este caixa.
--->
+- **Controle de gaveta**: Marque esta caixa para habilitar o controle de gaveta para este caixa.  Ao marcar esta opção os seguintes campos serão liberados:
+- **Comando**: Selecione aqui o comando a ser executado.
+- **Porta**: Porta para comunicação com a impressora (Ex. COM1, COM2).
+
+Além destas opções, também é possível clicar no ícone com 3 pontos ao lado do cadastro do caixa, ao clicar serão abertas as seguintes opções:
+
+- **Editar**: Abre um formulário para editar o registro do caixa.
+- **Remover**: Remove o cadastro do caixa.
+
 
 ## Comportamento
 
@@ -878,11 +885,11 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 > Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
 
-<!--
+
 # Rel. de Fechamento
 
-Caso deseje efetuar a reimpressão de um fechamento de caixa, é possível acessar o menu à direita Rel. de Fechamento. Neste menu constam todos os fechamentos de caixa efetuados no GWEB.
-Para realizar a reimpressão, basta clicar na opção Visualizar do menu do caixa.
+Caso deseje efetuar a **reimpressão de um fechamento de caixa**, é possível acessar o menu à direita Rel. de Fechamento. Neste menu constam todos os **fechamentos de caixa** efetuados no GWEB.
+Para realizar a reimpressão, basta clicar na opção **Visualizar** do menu do fechamento que deseja.
 
 ![Reimpressão do caixa](/tutoriais/controle-caixa/9_reimpressao.png)
--->
+
