@@ -2,7 +2,7 @@
 title: Controle de caixa no GWEB
 description: Veja como configurar e utilizar o controle de caixa no GWEB
 published: false
-date: 2024-08-01T14:28:15.537Z
+date: 2024-08-20T17:03:06.974Z
 tags: caixa, abertura, fechamento, controle, gaveta, suprimento, sangria
 editor: markdown
 dateCreated: 2024-07-29T17:30:51.160Z
@@ -21,7 +21,7 @@ Para habilitar o controle de caixa no GWEB, é necessário marcar a caixa <em cl
 
 ![Marcar controle de caixa](/tutoriais/controle-caixa/habilitar_controle_caixa.png)
 
-> Para conferir mais detalhes sobre a configuração, acesse as [configurações do controle de caixa](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#controle-de-caixa).
+> Para conferir mais detalhes sobre a **configuração**, acesse as [configurações do controle de caixa](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#controle-de-caixa).
 {.is-info}
 
 # Abertura do caixa
