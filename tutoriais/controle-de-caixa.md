@@ -2,7 +2,7 @@
 title: Controle de caixa no GWEB
 description: Veja como configurar e utilizar o controle de caixa no GWEB
 published: true
-date: 2024-08-27T11:43:55.738Z
+date: 2024-08-27T17:32:08.648Z
 tags: caixa, abertura, fechamento, controle, gaveta, suprimento, sangria
 editor: markdown
 dateCreated: 2024-07-29T17:30:51.160Z
