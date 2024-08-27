@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-08-27T11:39:50.603Z
+date: 2024-08-27T11:55:34.143Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -509,6 +509,8 @@ As opções disponíveis para o controle de caixa são:
 
  - **Controle de caixa**: Marque esta opção para habilitar o controle de caixa e liberar os outros campos para configuração.
  - **Fechamento de caixa Cego**: Marque esta opção para não exibir os valores do caixa no momento do fechamento (fechamento sem conferência de valores).
+ - **Checar vendas pendentes**: Ao marcar esta configuração, antes de fechar o caixa o GWEB checa se existem vendas pendentes, se houver **não** será possível realizar o  fechamento do caixa até que a venda esteja concluída.
+ - **Imprimir relatório de conferência no fechamento "cego"**: Ao marcar esta configuração, será impresso a conferência ao fechar o caixa utilizando a opção de **fechamento cego**.
  - **Utilizar caixa já aberto**: Marque esta opção para habilitar que todos os computadores utilizem o mesmo caixa que fora aberto.
  - **Somente usuário que abriu pode fechar o caixa**: Marque esta opção para permitir que apenas o usuário que abriu o caixa possa fechá-lo.
  - **Abater troco da espécie**: Ao marcar esta opção, o valor de troco será abatido da espécie de recebimento e o troco não será exibido no fechamento de caixa.
