@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-21T11:26:58.852Z
+date: 2024-08-27T16:52:26.060Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 69
-- Ajustes: 224
+- Novidades: 74
+- Ajustes: 232
 
-**Total: 293**
+**Total: 306**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,26 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/08/2024
+f2.11.61, b3.10.128, p1.0.10 {.versions}
+
+## Novidades
+- Lançamento da abertura e fechamento de caixa 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/tutoriais/controle-de-caixa).
+- Implementados campos para comissão de serviços a prazo e a vista no cadastro de pessoas.
+- Implementado o agendamento para envio automático do XML do mês.
+- Implementado o Regime Tributário para MEI.
+- Adicionada nova instituição de pagamento: "InterPag".
+
+## Ajustes
+- Ajustado no relatório de "Alterações no produto" as alterações na edição da compra.
+- Ajustado no relatório de "Total de NF-e/NFC-e por situação" a exibição de notas de devolução de compra.
+- Ajustado campo contato/responsável no cadastro de pessoas que não estava exibindo a informação.
+- Ajuste nas configurações da seleção na tabela de preços do PDV.
+- Ajustado no pedido de venda e orçamento para trazer automaticamente o vendedor vinculado ao cliente no cadastro do produto.
+- Ajustado no modo escuro o total dos produtos que estava ficando em branco.
+- Ajustado valor do custo médio para levar em consideração a configuração feita na composição do custo médio de compra no módulo de compras.
+- Ajustada impressão dos campos "Código" e "QTD" na pré-venda.
+
 # 20/08/2024
 f2.11.60, b3.10.126, b3.10.127 {.versions}
 
