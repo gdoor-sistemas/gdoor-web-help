@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-08-20T19:08:04.210Z
+date: 2024-08-27T11:39:50.603Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -495,8 +495,6 @@ Ao informar todos os dados que deseja, clique em <span class="mat-button mat-acc
 As configurações do PDV envolvem as emissões de pré-venda gerencial e NFC-e. As mesmas são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
 Ao alterar cada seção, **você precisará clicar em <span class="mat-button mat-accent"> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
 
-<!--
-
 ## Controle de caixa
 Nesta seção encontram-se as configurações para o controle de caixa no GWEB.
 
@@ -531,8 +529,6 @@ Além destas opções, também é possível clicar no ícone com 3 pontos ao lad
 
 - **Editar**: Abre um formulário para editar o registro do caixa.
 - **Remover**: Remove o cadastro do caixa.
-
--->
 
 ## Comportamento
 
