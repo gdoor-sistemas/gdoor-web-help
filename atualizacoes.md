@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-27T16:56:28.207Z
+date: 2024-08-28T11:12:46.092Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 74
-- Ajustes: 232
+- Ajustes: 234
 
-**Total: 306**
+**Total: 308**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 27/08/2024
-f2.11.61, b3.10.128, p1.0.10 {.versions}
+f2.11.61, b3.10.128, b3.10.129, b3.10.130, p1.0.10 {.versions}
 
 ## Novidades
 - Lançamento da abertura e fechamento de caixa 🎉. Conheça mais sobre esta novidade no Gweb [clicando aqui](/tutoriais/controle-de-caixa).
@@ -43,6 +43,8 @@ f2.11.61, b3.10.128, p1.0.10 {.versions}
 - Ajustado no modo escuro o total dos produtos que estava ficando em branco.
 - Ajustado valor do custo médio para levar em consideração a configuração feita na composição do custo médio de compra no módulo de compras.
 - Ajustada impressão dos campos "Código" e "QTD" na pré-venda.
+- Realizada migração para ajustar séries offline já cadastradas no sistema.
+- Corrigida falha ao salvar o lançamento de compras manuais no sistema.
 
 # 20/08/2024
 f2.11.60, b3.10.126, b3.10.127 {.versions}
