@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
 published: true
-date: 2024-08-28T12:19:31.589Z
+date: 2024-08-28T12:20:32.991Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -783,7 +783,7 @@ Opções refentes a geração de impostos na NFC-e
 
 ## Downloads
 
-Link para download do PDV offline e do DF-e Service (serviço para comunicação com a gaveta para o PDV).
+Link para download do PDV offline e do DFe Service (serviço para comunicação com a gaveta para o PDV).
 
 ![1_download.png](/movimentos/pdv/1_download.png)
 
