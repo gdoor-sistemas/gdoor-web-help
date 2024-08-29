@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-28T11:18:38.262Z
+date: 2024-08-29T12:28:31.676Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 74
-- Ajustes: 234
+- Ajustes: 236
 
-**Total: 308**
+**Total: 310**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 28/08/2024
+ {.versions}
+
+## Ajustes
+- Ajustado no módulo do financeiro o carregamento das contas cadastradas no sistema que não estavam exibindo a listagem.
+- Ajustada permissão de acesso as configurações do módulo de compras para que usuários não autorizados possam emitir notas de compra manual.
+
 # 27/08/2024
 f2.11.61, b3.10.128, b3.10.129, b3.10.130, p1.0.10 {.versions}
 
