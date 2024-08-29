@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-29T12:31:30.998Z
+date: 2024-08-29T17:35:13.788Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 28/08/2024
- {.versions}
+b3.10.131, b3.10.132 {.versions}
 
 ## Ajustes
 - Ajustado no módulo do financeiro o carregamento das contas cadastradas no sistema que não estavam exibindo a listagem.
