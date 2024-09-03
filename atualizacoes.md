@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-08-29T17:41:44.781Z
+date: 2024-09-03T11:26:56.187Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 74
-- Ajustes: 236
+- Ajustes: 243
 
-**Total: 310**
+**Total: 317**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/09/2024
+f2.11.62, b3.10.133, b3.10.134, b3.10.135, b3.10.136 {.versions}
+
+## Ajustes
+- Ajustado visualização de notas complementares.
+- Ajustado relatório de "Margem de Lucro sobre Preço de venda" para produtos vendidos no PDV Híbrido.
+- Ajustado valor da sangria no fechamento de caixa que não estava sendo impresso caso não informado valores em espécies.
+- Ajustado problemas no recebimento de contas pelo PDV.
+- Ajustado totalizador de cancelamentos no fechamento de caixa.
+- Ajustada mensagem ao realizar sangrias enquanto o caixa estiver aberto.
+- Ajustados recebimentos que estavam entrando no fechamento do caixa quando informada uma data de recebimento.
+
 # 28/08/2024
 b3.10.131, b3.10.132 {.versions}
 
