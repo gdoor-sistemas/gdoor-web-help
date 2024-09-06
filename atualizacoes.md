@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-04T12:28:08.193Z
+date: 2024-09-06T17:29:27.258Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 74
-- Ajustes: 244
+- Ajustes: 245
 
-**Total: 318**
+**Total: 319**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/09/2024
+f2.11.63, b3.10.138 {.versions}
+
+## Ajustes
+- Ajustado para considerar as pré-vendas no fechamento do caixa quando o serial não tem o módulo Financeiro ativo.
+
 # 03/09/2024
 b3.10.137 {.versions}
 
