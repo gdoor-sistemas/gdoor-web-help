@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-11T12:39:52.337Z
+date: 2024-09-12T11:34:46.709Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 74
-- Ajustes: 246
+- Ajustes: 247
 
-**Total: 320**
+**Total: 321**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/09/2024
+b3.10.140 {.versions}
+
+## Ajustes
+- Ajustada tag < tPag > quando efetuado um pagamento via PIX através do ZPOS.
+
 # 09/09/2024
 f2.11.64, b3.10.139 {.versions}
 
