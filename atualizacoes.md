@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-12T11:34:46.709Z
+date: 2024-09-17T11:37:29.284Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 74
-- Ajustes: 247
+- Novidades: 78
+- Ajustes: 255
 
-**Total: 321**
+**Total: 333**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,25 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/09/2024
+f2.11.65, b3.10.141, p1.0.12 {.versions}
+
+## Novidades
+- Criado padrão para ordenação da listagem de notas na Manifestação do Destinatário.
+- Implementado campo para vincular uma tributação no cadastro do produto na entrada da NF-e por importação.
+- Implementado cálculo automático dos juros no contas a receber.
+- Implementado ECONF - Evento de Conciliação Financeira.
+
+## Ajustes
+- Ajustado botão "salvar" no PDV ao realizar uma venda com valor que solicite o cliente.
+- Ajustado registro C110 que estava sendo gerado na NFC-e quando a mesma possuía observações.
+- Inserida obrigatoriedade no campo "vendedor" para a geração do QRCode para o Gped.
+- Ajustado dropdown de "campo alterado" ao editar uma CC-e.
+- Ajustado dropdown de "grupo alterado" para exibir o grupo "compl" mesmo que a CC-e autorizada não tenha o campo preenchido.
+- Ajustado reconhecimento de código de barras por valor de produto pesado.
+- Ajustada opção de indicador de operações nas vendas do PDV Híbrido.
+- Ajustado no pedido de venda o valor do serviço na importação para NFS-e.
+
 # 11/09/2024
 b3.10.140 {.versions}
 
