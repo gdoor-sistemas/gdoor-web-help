@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-17T11:37:49.221Z
+date: 2024-09-18T12:21:17.822Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 78
-- Ajustes: 255
+- Ajustes: 257
 
-**Total: 333**
+**Total: 335**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/09/2024
+b3.10.142, b3.10.143 {.versions}
+
+## Ajustes
+- Ajustado envio da NFS-e para clientes de Porto Alegre/RS que emitem NFS-e com ambiente nacional.
+- Ajustada geração do dígito adicional na carga da balança para os casos onde o produto tem 6 dígitos.
+
 # 17/09/2024
 f2.11.65, b3.10.141, p1.0.12 {.versions}
 
