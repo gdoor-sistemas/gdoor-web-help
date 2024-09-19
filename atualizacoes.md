@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-18T12:22:34.984Z
+date: 2024-09-19T16:46:17.759Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 78
-- Ajustes: 257
+- Ajustes: 260
 
-**Total: 335**
+**Total: 338**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/09/2024
+f2.11.66, b3.10.145, p1.0.13 {.versions}
+
+## Ajustes
+- Ajustado pagamento pendente na NF-e com o ZPOS.
+- Ajustado tamanho do campo do código de autorização nas vendas com ZPOS.
+- Ajustada geração do preview da pré-venda quando o PDV Híbrido estiver em modo offline.
+
 # 18/09/2024
 b3.10.142, b3.10.143 {.versions}
 
