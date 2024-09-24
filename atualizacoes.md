@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-23T11:19:51.434Z
+date: 2024-09-24T19:46:08.879Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 78
-- Ajustes: 261
+- Ajustes: 265
 
-**Total: 339**
+**Total: 343**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/09/2024
+b3.10.147, b3.10.148 {.versions}
+
+## Ajustes
+- Ajustada falha ao efetuar o pagamento de receitas.
+- Ajustada a autenticação de sincronização do Gped para usuários com perfis de permissão diferentes de "administrador".
+- Ajustado para não mostrar usuários inativos na geração do QRCode do Gped.
+- Ajustada opção "vendedor fixo" na sincronização do Gped.
+
 # 20/09/2024
 f2.11.68, b3.10.146 {.versions}
 
