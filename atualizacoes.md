@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-09-25T14:43:58.367Z
+date: 2024-10-02T14:07:09.085Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 78
-- Ajustes: 265
+- Ajustes: 267
 
-**Total: 343**
+**Total: 345**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/10/2024
+b3.10.150, p1.0.14 {.versions}
+
+## Ajustes
+- Ajustado botões de sangria e suprimento que não estavam aparecendo no PDV Híbrido.
+- Ajustada seleção do usuário na geração do QRCode para vínculo do Gped.
+
 # 25/09/2024
 b3.10.147, b3.10.148, b3.10.149 {.versions}
 
