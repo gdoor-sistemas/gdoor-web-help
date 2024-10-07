@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-10-02T14:10:23.012Z
+date: 2024-10-07T12:04:47.571Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 78
-- Ajustes: 267
+- Novidades: 82
+- Ajustes: 285
 
-**Total: 345**
+**Total: 367**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,35 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 07/10/2024
+f2.11.69, b3.10.151, p1.0.15 {.versions}
+
+## Novidades
+- Adicionada a IE no relatório de Inventário de Estoque, ao lado do CNPJ.
+- Implementada a importação da NFC-e para NF-e.
+- Adicionado campo para complemento de IPI na NF-e complementar.
+- Melhorias no cadastro e configuração de produtos pesados.
+
+## Ajustes
+- Ajustada padronização na separação dos XMLs do mês para o CT-e com base na data de emissão.
+- Ajustada as permissões para novos usuários ao acessar a Manifestação do Destinatário eletrônica.
+- Ajustado preço de custo dos itens vendidos em kit no relatório de Margem de Lucro sobre Preço de Venda.
+- Corrigida falha na geração de parcelas com dia de acerto definido no cadastro do cliente.
+- Ajustada tela de devolução de pagamento a prazo para fechar ao cancelar um pedido de venda.
+- Ajustada função de alterar o nome do produto na nota de compra.
+- Corrigida a gravação de dados na configuração do PDV.
+- Ajustada na importação da nota de compra o campo origem do produto.
+- Ajustada data de saída da NF-e quando feita fora do mês de apuração no SPED Fiscal.
+- Ajustada data de emissão dos documentos fiscais para não emitirem documentos com datas inválidas.
+- Ajustado bug visual no cadastro de perfis de permissão de usuário.
+- Ajustada fonte para impressão da PV no PDV Híbrido.
+- Ajustada a indicação de usuários inativos como responsáveis no cadastro de caixas.
+- Ajustada posição dos valores dos campos BC e Valor do ICMS no relatório Total Movimentado por CFOP. 
+- Ajustadas casas decimais da leitura de código de barras
+- Corrigida falha na emissão de NFC-e ao informar uma operação sem PIS/COFINS.
+- Ajustado recebimento parcial de parcelas com pagamento inferior ao valor da parcela.
+- Ajustada na importação de bases convertidas o campo "Birthday".
+
 # 02/10/2024
 b3.10.150, p1.0.14 {.versions}
 
