@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-10-07T17:28:19.212Z
+date: 2024-10-07T20:28:51.580Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 82
-- Ajustes: 286
+- Ajustes: 287
 
-**Total: 368**
+**Total: 369**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 07/10/2024
-f2.11.69, b3.10.151, b3.10.152, p1.0.15 {.versions}
+f2.11.69, b3.10.151, b3.10.152, p1.0.15, p1.10.17 {.versions}
 
 ## Novidades
 - Adicionada a IE no relatório de Inventário de Estoque, ao lado do CNPJ.
@@ -53,6 +53,7 @@ f2.11.69, b3.10.151, b3.10.152, p1.0.15 {.versions}
 - Ajustado recebimento parcial de parcelas com pagamento inferior ao valor da parcela.
 - Ajustada na importação de bases convertidas o campo "Birthday".
 - Ajustada falha na geração da impressão da pré-venda.
+- Removida a instalação automática do GDoorDFe no PDV Híbrido, agora ao criar um novo caixa e marcar o controle de gaveta será possível baixar o arquivo separadamente.
 
 # 02/10/2024
 b3.10.150, p1.0.14 {.versions}
