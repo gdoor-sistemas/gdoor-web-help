@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-10-07T20:36:45.746Z
+date: 2024-10-09T19:15:58.876Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 82
-- Ajustes: 287
+- Ajustes: 288
 
-**Total: 369**
+**Total: 370**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/10/2024
+b3.10.153{.versions}
+
+## Ajustes
+- Ajustada data de entrada nas notas de compra na geração do SPED Fiscal.
+
 # 07/10/2024
 f2.11.69, b3.10.151, b3.10.152, p1.0.15, p1.10.17 {.versions}
 
