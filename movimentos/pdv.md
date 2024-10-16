@@ -1,8 +1,8 @@
 ---
 title: Ponto de venda
-description: Veja como funciona o módulo de PDV, pré-vendas gerenciais e NFC-e no Gweb
+description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-08-28T12:20:32.991Z
+date: 2024-10-16T11:54:22.867Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
