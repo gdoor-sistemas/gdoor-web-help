@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-10-18T17:19:34.035Z
+date: 2024-10-18T17:32:47.671Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -575,9 +575,11 @@ Esta configuração permite escolher o comportamento do sistema em relação às
 
 - **Gerar NFC-e**: uma NFC-e será gerada e transmitida e fará a movimentação do estoque e financeiro.
 
+<!--
 - **Gerar CF-e (SAT/MF-e)**: Um CF-e será gerado e transmitido e fará a movimentação do estoque e financeiro.
+-->
 
-- **Perguntar sempre**: ao selecionar esta opção, sempre que concluir uma venda no PDV, **será solicitado o que deseja fazer**:
+- **Perguntar sempre**: ao selecionar esta opção, sempre que concluir uma venda no PDV, **será solicitado o que deseja fazer**.
 
 ![PDV perguntar sempre](/movimentos/pdv/o_que.gif)
 
