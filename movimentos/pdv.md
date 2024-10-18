@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-10-16T11:54:22.867Z
+date: 2024-10-18T14:45:15.299Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -653,6 +653,25 @@ Ao finalizar a configuração, clique em <span class="mat mat-button mat-accent"
 
 > Caso deseje saber como configurar para os códigos dos produtos com 4, 5 ou 6 dígitos, acesse os [tutoriais](/tutoriais)
 {.is-info}
+
+## Equipamentos Fiscais
+
+Nesta seção você pode configurar o equipamento fiscal MF-e caso sua empresa seja do CE (Ceará) ou o SAT caso sua empresa seja de São Paulo (SP).
+
+![equipamentos_fiscais.png](/movimentos/pdv/equipamentos_fiscais.png)
+
+- **URL do serviço**: URL do serviço SAT/MFe. Caso o equipamento SAT/MFe esteja no mesmo computador da instalação do **DFe Service** informe **localhost**.
+- **Assinatura**: Assinatura AC gerada para a empresa.
+- **Código de ativação**: Código de ativação definido para o SAT/MFe
+- **Versão do equipamento**: Versão do equipamento utilizada, geralmente **0.07** ou **0.08**.
+- **Marca do equipamento**: Selecione a marca do equipamento SAT/MFe.
+- **Caminho**: Caminho da DLL do SAT/MFe.
+- **CNPJ**: 
+- **CNPJ software house**: 
+- **UF**: 
+- **Consultar status do equipamento**: 
+- **Download DFe Service**: 
+
 
 
 ## Preferências de impressão
