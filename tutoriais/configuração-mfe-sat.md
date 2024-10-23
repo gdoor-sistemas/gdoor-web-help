@@ -2,7 +2,7 @@
 title: Configuração do SAT/MFe
 description: Veja como funciona a configuração do SAT/MFe para clientes de São Paulo (SP) e Ceará (CE) no GWEB.
 published: false
-date: 2024-10-23T17:31:53.125Z
+date: 2024-10-23T17:48:46.506Z
 tags: pdv, pdv híbrido, nfc, mf-e, sat, mfe, cupom
 editor: markdown
 dateCreated: 2024-10-18T18:18:01.933Z
@@ -60,4 +60,15 @@ Com a resposta do setor de **documentação**, podem ser feitas as **configuraç
 
 ### Configurações no GWEB.
 
+No **GWEB**, navegue até o menu **movimentações > PDV** e no menu ao lado direito, clique na opção **configurações do PDV**.
 
+![Menu de configurações do PDV](/tutoriais/configuracao-mfe-sat/3_config_sp_ce_menu.png)
+
+Localize o quadro de **equipamentos fiscais** e preencha as informações de acordo com a realidade da empresa.
+
+![Configurações dos equipamentos fiscais](/tutoriais/configuracao-mfe-sat/4_config_ce.png)
+
+No campo destacado **assinatura** deve ser informada a **assinatura** recebida anteriormente pelo **setor de documentação**.
+
+> Para conferir mais detalhes sobre a **configuração e os campos disponíveis**, acesse as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#Equipamentos-Fiscais).
+{.is-warning}
