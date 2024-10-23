@@ -2,7 +2,7 @@
 title: Configuração do SAT/MFe
 description: Veja como funciona a configuração do SAT/MFe para clientes de São Paulo (SP) e Ceará (CE) no GWEB.
 published: false
-date: 2024-10-23T17:48:46.506Z
+date: 2024-10-23T18:09:19.633Z
 tags: pdv, pdv híbrido, nfc, mf-e, sat, mfe, cupom
 editor: markdown
 dateCreated: 2024-10-18T18:18:01.933Z
@@ -43,10 +43,13 @@ Localize o quadro de **equipamentos fiscais** e preencha as informações de aco
 
 ![Configurações dos equipamentos fiscais](/tutoriais/configuracao-mfe-sat/4_config_sp.png)
 
-No campo destacado **assinatura** deve ser informada a assinatura gerada anteriormente no **painel de suporte**.
+No campo destacado **assinatura** deve ser informada a assinatura gerada anteriormente no **painel de suporte**. Além disso, também é necessário realizar o download e instalação do **DFe Service** através do botão <span class="mat-button mat-accent">Download <em class="mdi mdi-download"></em></span>
 
 > Para conferir mais detalhes sobre a **configuração e os campos disponíveis**, acesse as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#Equipamentos-Fiscais).
 {.is-warning}
+
+Caso deseje testar a comunicação entre o **GWEB** e o **SAT** (caso ele já esteja ativo) é possível através do botão <span class="mat-button mat-accent">STATUS <em class="mdi mdi-refresh-circle"></em></span>
+
 
 ## Para clientes do Ceará (CE)
 
@@ -68,7 +71,9 @@ Localize o quadro de **equipamentos fiscais** e preencha as informações de aco
 
 ![Configurações dos equipamentos fiscais](/tutoriais/configuracao-mfe-sat/4_config_ce.png)
 
-No campo destacado **assinatura** deve ser informada a **assinatura** recebida anteriormente pelo **setor de documentação**.
+No campo destacado **assinatura** deve ser informada a **assinatura** recebida anteriormente pelo **setor de documentação**. Além disso, também é necessário realizar o download e instalação do **DFe Service** através do botão <span class="mat-button mat-accent">Download <em class="mdi mdi-download"></em></span>
 
 > Para conferir mais detalhes sobre a **configuração e os campos disponíveis**, acesse as [configurações do PDV](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#Equipamentos-Fiscais).
 {.is-warning}
+
+Caso deseje testar a comunicação entre o **GWEB** e o **MF-e** (caso ele já esteja ativo) é possível através do botão <span class="mat-button mat-accent">STATUS <em class="mdi mdi-refresh-circle"></em></span>
