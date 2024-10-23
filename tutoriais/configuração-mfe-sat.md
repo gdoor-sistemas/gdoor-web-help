@@ -2,7 +2,7 @@
 title: Configuração do SAT/MFe
 description: Veja como funciona a configuração do SAT/MFe para clientes de São Paulo (SP) e Ceará (CE) no GWEB.
 published: false
-date: 2024-10-23T14:04:17.260Z
+date: 2024-10-23T14:05:05.179Z
 tags: pdv, pdv híbrido, nfc, mf-e, sat, mfe, cupom
 editor: markdown
 dateCreated: 2024-10-18T18:18:01.933Z
@@ -32,6 +32,8 @@ Ao logar, acesse o menu **Ass. SAT** e copie a **assinatura SAT** exibida no cam
 Com a **assinatura gerada**, será possível iniciar as **configurações no GWEB**.
 
 ### Configurações no GWEB
+
+
 
 ## Para clientes do Ceará (CE),
 
