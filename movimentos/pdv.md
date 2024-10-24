@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-10-24T13:53:16.979Z
+date: 2024-10-24T19:40:45.070Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -658,10 +658,10 @@ Ao finalizar a configuração, clique em <span class="mat mat-button mat-accent"
 > Caso deseje saber como configurar para os códigos dos produtos com 4, 5 ou 6 dígitos, acesse os [tutoriais](/tutoriais)
 {.is-info}
 
-<!--
+
 ## Equipamentos Fiscais
 
-Nesta seção você pode configurar o equipamento fiscal MF-e caso sua empresa seja do CE (Ceará) ou o SAT caso sua empresa seja de São Paulo (SP).
+Nesta seção você pode configurar o equipamento fiscal MF-e caso sua empresa seja do Ceará (CE) ou o SAT caso sua empresa seja de São Paulo (SP).
 
 ![equipamentos_fiscais.png](/movimentos/pdv/equipamentos_fiscais.png)
 
