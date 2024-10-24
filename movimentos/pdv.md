@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-10-18T17:32:47.671Z
+date: 2024-10-24T13:53:16.979Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -676,8 +676,10 @@ Nesta seção você pode configurar o equipamento fiscal MF-e caso sua empresa s
 - **UF**: UF da empresa, caso deixe em branco, irá assumir a UF do emitente.
 - **Consultar status do equipamento**: Clique nesta opção para testar a comunicação do sistema com o equipamento já configurado e ativo.
 - **Download DFe Service**: Download do DF-e Service, este serviço irá fazer a ponte entre o GWEB e o equipamento SAT/MF-e.
--->
 
+> Caso deseje saber o passo a passo para configuração do SAT/MFe, [clique aqui](/pt-br/tutoriais/configuração-mfe-sat)
+{.is-info}
+-->
 
 ## Preferências de impressão
 
