@@ -1,8 +1,8 @@
 ---
 title: Requisitos do sistema
 description: Listamos neste tópico os requisitos de hardware, sistemas operacionais, SAT e balanças compatíveis para instalação dos apps vinculados ao GWEB.
-published: false
-date: 2024-10-25T18:47:59.808Z
+published: true
+date: 2024-10-25T18:51:38.663Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
@@ -53,7 +53,7 @@ Os modelos compatíveis são:
 - **#027,p,#000,#050,#200 | Schalter**
 - **#027,#112,#048,#050 | Zantus**
 
-*Lista de modelos presentes nas configurações da gaveta para os caixas no [PDV](/movimentos/pdv)*
+*Lista de modelos presentes nas configurações da gaveta para os caixas no [PDV](/movimentos/pdv).*
 
 # Balanças
 
@@ -65,7 +65,7 @@ Os modelos disponíveis são:
 - **Urano 12**
 - **Urano POP**
 
-*Lista de modelos presentas nas configurações da balança no [PDV híbrido](/tutoriais/como-usar-balanca-de-checkout-no-pdv-hibrido)*
+*Lista de modelos presentas nas configurações da balança no [PDV híbrido](/tutoriais/como-usar-balanca-de-checkout-no-pdv-hibrido).*
 
 
 # Versões mínimas android
