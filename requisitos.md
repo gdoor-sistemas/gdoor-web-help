@@ -2,7 +2,7 @@
 title: Requisitos do sistema
 description: Confira neste tópico os requisitos exigidos para alguns apps do GWEB.
 published: false
-date: 2024-10-25T14:35:19.643Z
+date: 2024-10-25T14:38:55.626Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
@@ -24,7 +24,7 @@ Listamos neste tópico os **requisitos de hardware**, **sistemas operacionais**,
 
 # SAT/MFe
 
-Modelos compatíveis:
+Os modelos compatíveis são:
 - **Epson**
 - **Gertec**
 - **Kryptus**
@@ -44,7 +44,7 @@ Modelos compatíveis:
 
 # Gavetas
 
-Modelos compatíveis:
+Os modelos compatíveis são:
 
 - **#027,#112,#000,#010,#100 | Bematech**
 - **#254 | Daruma**
@@ -55,6 +55,8 @@ Modelos compatíveis:
 *Lista de modelos presentes nas configurações da gaveta para os caixas no [PDV](/movimentos/pdv)*
 
 # Balanças
+
+Os modelos disponíveis são:
 
 - **Filizola**
 - **Toledo**
@@ -67,6 +69,12 @@ Modelos compatíveis:
 
 # Versões mínimas android
 
-|Item                             | Requisito                                |
+|Aplicativo                       | Requisito                                |
 |---------------------------------|------------------------------------------|
 |**GPED**                         |Mínimo android 6.0                        |
+
+# ZPOS
+
+As maquininhas e os modelos compatíveis com o ZPOS, são:
+
+![maquininhas.png](/requisitos/maquininhas.png)
