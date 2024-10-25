@@ -1,8 +1,8 @@
 ---
 title: Requisitos do sistema
-description: Confira neste tópico os requisitos exigidos para alguns apps do GWEB.
+description: Listamos neste tópico os requisitos de hardware, sistemas operacionais, SAT e balanças compatíveis para instalação dos apps vinculados ao GWEB.
 published: false
-date: 2024-10-25T17:17:09.568Z
+date: 2024-10-25T18:47:59.808Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
