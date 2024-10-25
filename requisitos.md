@@ -2,7 +2,7 @@
 title: Requisitos do sistema
 description: Confira neste tópico os requisitos exigidos para alguns apps do GWEB.
 published: false
-date: 2024-10-25T16:57:41.006Z
+date: 2024-10-25T17:17:09.568Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
@@ -20,7 +20,7 @@ Listamos neste tópico os **requisitos de hardware**, **sistemas operacionais**,
 |**Processador**                  |Intel® Core™ i3-6320 3.9 GHz (ou superior)|
 |**Memória RAM**                  |4GB ou superior                           |
 |**Memória de vídeo e resolução** |64 MB <br> 1360×768 ou superior           |
-|**Sistema Operacional**        |Windows Server 2012/2016/2019, 64 bits <br> Windows 10 Pro versão 1903 ou superior, 64 bits, <br>Windows 11 Pro, 64 bits                       |
+|**Sistema Operacional**        |Windows Server 2012/2016/2019, 64 bits <br> Windows 10 Pro versão 1903 ou superior, 64 bits <br>Windows 11 Pro, 64 bits                       |
 
 
 # SAT/MFe
