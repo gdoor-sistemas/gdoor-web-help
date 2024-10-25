@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2024-10-25T17:21:56.164Z
+date: 2024-10-25T17:22:12.429Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -30,9 +30,11 @@ O Gweb pode ser usado em vários tipos de empresas de comércio de médio e pequ
 - Cujos administradores queiram controlar o sistema e consultar relatórios à distância;
 - Que não queiram/possam investir em redes de computadores e máquinas muito caras.
 
+<!--
 ## Requisitos
 
 O Gweb possui alguns executáveis e integrações com aplicativos externos, confira os [requisitos](/pt-br/requisitos) para saber se seus dispositivos se enquadram.
+-->
 
 ## Primeiros passos
 
