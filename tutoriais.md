@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-10-24T14:51:28.624Z
+date: 2024-10-28T14:02:13.213Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -28,7 +28,5 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [NF-e de importação *Veja como emitir uma NF-e de importação no Gweb*](/tutoriais/nota-importacao)
 - [Cadastrar forma de pagamento PIX *Passo a passo para cadastrar o PIX com QR Code*](/tutoriais/cadastrar-pix)
 - [Módulo financeiro *Veja como gerenciar as finanças da sua empresa no Gweb*](/tutoriais/financeiro)
-{.links-list}
-<!--
 - [SAT/MFe *Veja como realizar a configuração do SAT/MFe para emissão de cupom em SP e CE*](/pt-br/tutoriais/configuração-mfe-sat)
--->
+{.links-list}
