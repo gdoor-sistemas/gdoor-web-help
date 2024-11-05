@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T14:31:09.956Z
+date: 2024-11-05T14:35:27.244Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 87
-- Ajustes: 311
+- Ajustes: 312
 
-**Total: 398**
+**Total: 399**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 29/10/2024
-f2.11.72, f2.11.73, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, p1.0.19{.versions}
+f2.11.72, f2.11.73, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, b3.10.161, p1.0.19{.versions}
 
 ## Novidades
 - Implementada a integração do Gweb com MF-e no estado do Ceará, para emissão de CF-e/NFC-e.
@@ -57,6 +57,7 @@ f2.11.72, f2.11.73, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, p1.0.
 - Ajustada visualização do botão para converter o vendedor em usuário.
 - Corrigido erro pos_cash_control ao abrir actions da lista do PDV.
 - Corrigido erro ao gravar o cadastro de um produto após editar e incluir um novo código de barras.
+- Ajustado alguns relatórios no modo completo que não estavam sendo gerados em formato Excel.
 
 # 14/10/2024
 f2.11.70, p1.0.18, a2.3.4{.versions}
