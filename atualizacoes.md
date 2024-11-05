@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T14:24:26.844Z
+date: 2024-11-05T14:26:29.864Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 87
-- Ajustes: 308
+- Ajustes: 309
 
-**Total: 395**
+**Total: 396**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 29/10/2024
-f2.11.72, b3.10.156, b3.10.157, b3.10.158, p1.0.19{.versions}
+f2.11.72, f2.11.73, b3.10.156, b3.10.157, b3.10.158, p1.0.19{.versions}
 
 ## Novidades
 - Implementada a integração do Gweb com MF-e no estado do Ceará, para emissão de CF-e/NFC-e.
@@ -54,6 +54,7 @@ f2.11.72, b3.10.156, b3.10.157, b3.10.158, p1.0.19{.versions}
 - Ajustada formatação dos números no padrão de moeda no relatório "inventário para impressão".
 - Ajustada falha ao baixar os relatórios.
 - Ajustado ao erro ao salvar os relatórios.
+- Ajustada visualização do botão para converter o vendedor em usuário.
 
 # 14/10/2024
 f2.11.70, p1.0.18, a2.3.4{.versions}
