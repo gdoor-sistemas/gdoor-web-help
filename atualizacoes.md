@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T16:59:42.794Z
+date: 2024-11-05T17:02:10.617Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 87
-- Ajustes: 315
+- Ajustes: 316
 
-**Total: 402**
+**Total: 403**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 31/10/2024
+b3.10.164{.versions}
+
+## Ajustes
+- Ajustado erro ao fazer o cancelamento da NFC-e.
+
 # 29/10/2024
 f2.11.72, f2.11.73, f2.11.74, f2.11.75, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, b3.10.161, b3.10.162, b3.10.163, p1.0.19{.versions}
 
