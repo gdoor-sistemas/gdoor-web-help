@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T17:02:10.617Z
+date: 2024-11-05T17:09:50.967Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 87
-- Ajustes: 316
+- Ajustes: 317
 
-**Total: 403**
+**Total: 404**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/11/2024
+b3.10.167{.versions}
+
+## Ajustes
+- Ajustada falha na proteção de relatórios em Excel por senha.
+
 # 31/10/2024
 b3.10.164{.versions}
 
