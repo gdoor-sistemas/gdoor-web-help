@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T17:09:50.967Z
+date: 2024-11-05T17:15:02.388Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,11 +24,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/11/2024
+f2.11.77, b3.10.169 {.versions}
+
+## Novidades
+- Implementada versão do inventário em Excel.
+
 # 02/11/2024
-b3.10.167{.versions}
+f2.11.76, b3.10.167, b3.10.168 {.versions}
 
 ## Ajustes
 - Ajustada falha na proteção de relatórios em Excel por senha.
+- Ajustado erro ao imprimir pré-vendas.
 
 # 31/10/2024
 b3.10.164{.versions}
