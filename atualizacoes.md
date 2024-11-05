@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-10-14T18:21:25.101Z
+date: 2024-11-05T14:13:28.639Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 82
-- Ajustes: 289
+- Novidades: 87
+- Ajustes: 306
 
-**Total: 371**
+**Total: 393**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,35 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 29/10/2024
+f2.11.72, b3.10.156, p1.0.19{.versions}
+
+## Novidades
+- Implementada a integração do Gweb com MF-e no estado do Ceará, para emissão de CF-e/NFC-e.
+- Reformulação dos relatórios.
+- Implementado o campo "Uso exclusivo do emissor do CT-e" na emissão do CT-e.
+- Implementado no cadastro de pessoas a possibilidade de "converter" um vendedor em usuário.
+- Criada tratativa para não permitir a importação para NFS-e de orçamentos/pedidos de venda com mais de um serviço.
+
+## Ajustes
+- Ajustada a edição do CST do produto na NF-e para recalcular os valores após alteração.
+- Corrigida abertura da tela de impressão do relatório de Inventário com o modelo "Para impressão".
+- Ajustado problemas na geração de relatórios maiores de 1MB.
+- Ajustada falha na geração dos relatórios.
+- Ajustada visualização do campo de "contas" na sangria e suprimento para clientes que não possuem o módulo financeiro ativo.
+- Padronizada a informação de volume e peso da carga do CT-e.
+- Ajustes na guia "alterar produto" no módulo de compras.
+- Ajustada edição de vendas com o caixa fechado.
+- Ajustada conversão de quantidades decimais na quantidade do PDV.
+- Ajustada tela em branco no agendamento do XML do mês.
+- Ajustada as casas decimais no cálculo do valor total para respeitar a configuração salva.
+- Ajustada tela em branco nas configurações dos arquivos fiscais.
+- Ajustada na emissão da NF-e a partir de um pedido de venda as informações adicionais que estavam sendo duplicados.
+- Corrigida falha ao acessar as configurações dos relatórios.
+- Corrigida falha ao carregar os pagamentos nas configurações da NF-e.
+- Ajustada tela em branco nas configurações dos relatórios.
+- Ajustada formatação dos números no padrão de moeda no relatório "inventário para impressão".
+
 # 14/10/2024
 f2.11.70, p1.0.18, a2.3.4{.versions}
 
