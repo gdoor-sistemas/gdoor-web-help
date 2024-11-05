@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T14:41:34.735Z
+date: 2024-11-05T14:46:07.164Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 29/10/2024
-f2.11.72, f2.11.73, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, b3.10.161, b3.10.162, b3.10.163, p1.0.19{.versions}
+f2.11.72, f2.11.73, f2.11.74, b3.10.156, b3.10.157, b3.10.158, b3.10.159, b3.10.160, b3.10.161, b3.10.162, b3.10.163, p1.0.19{.versions}
 
 ## Novidades
 - Implementada a integração do Gweb com MF-e no estado do Ceará, para emissão de CF-e/NFC-e.
