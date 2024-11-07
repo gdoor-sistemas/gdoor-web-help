@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-05T17:28:20.060Z
+date: 2024-11-07T11:40:02.665Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 87
-- Ajustes: 317
+- Ajustes: 319
 
-**Total: 404**
+**Total: 406**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/11/2024
+f2.11.78, b3.10.170, b3.10.171 {.versions}
+
+## Ajustes
+- Ajustadas inconsistências no layout de download da NFS-e.
+- Ajustado tamanho do campo da URL da prefeitura na NFS-e.
+
 # 05/11/2024
 f2.11.77, b3.10.169 {.versions}
 
