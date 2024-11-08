@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-07T11:40:02.665Z
+date: 2024-11-08T13:38:48.210Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 87
-- Ajustes: 319
+- Novidades: 90
+- Ajustes: 323
 
-**Total: 406**
+**Total: 413**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,20 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 07/11/2024
+f2.11.79, b3.10.172, b3.10.173 {.versions}
+
+## Novidades
+- Implementado filtros de ordenação e opções de relatório.
+- Adicionado o modelo Excel para o relatório de "inventário".
+- Implementado filtro de status no relatório de "Ct-es emitidos".
+
+## Ajustes
+- Ajustada a geração do relatório de "documentos fiscais emitidos" com filtros de tipo de operação.
+- Ajustada falha na geração do relatório de "listagem de pessoas".
+- Ajustado erro ortográfico no filtro do relatório de "inventário".
+- Ajustado arquivo XLSX do relatório de "CT-es emitidos".
+
 # 06/11/2024
 f2.11.78, b3.10.170, b3.10.171 {.versions}
 
