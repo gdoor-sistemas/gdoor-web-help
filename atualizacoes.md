@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-12T11:49:14.257Z
+date: 2024-11-13T11:58:06.677Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 91
-- Ajustes: 323
+- Ajustes: 324
 
-**Total: 414**
+**Total: 415**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/11/2024
+b3.10.175 {.versions}
+
+## Ajustes
+- Ajustada falha na visualização de MDF-e autorizado.
+
 # 11/11/2024
 b3.10.174 {.versions}
 
