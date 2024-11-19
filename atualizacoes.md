@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-13T12:11:59.086Z
+date: 2024-11-19T11:38:51.775Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2024** já foram implementados:
-- Novidades: 91
-- Ajustes: 324
+- Novidades: 97
+- Ajustes: 337
 
-**Total: 415**
+**Total: 434**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,32 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/11/2024
+f2.11.80, b3.10.176 {.versions}
+
+## Novidades
+- Implementadas opções de retenção para NF-e.
+- Implementado o número do pedido de venda na emissão de NF-e.
+- Ao realizar a troca do ambiente de emissão no módulo da NF-e as notas emitidas em homologação serão apagadas.
+- Criado filtro para desconsiderar CT-es não autorizados no relatório de “Total de CT-e por tomador”.
+- Implementado na pesquisa por nome/razão social para clientes no relatório de “Produtos vendidos por cliente”.
+- Implementada a emissão de mais de um serviço na NFS-e para o município de Cipó/BA.
+
+## Ajustes
+- Ajustado no pedido de venda para apresentar as informações adicionais do produto caso houver.
+- Ajustado filtro “campo específico” do relatório de “Alterações no produto” para exibir a opção “preço de venda”.
+- Ajustado campo “quantidade de carga” na emissão do CT-e com documento transportado informado.
+- Ajustada falha no recebimento de vendas com o ZPOS.
+- Ajustado recebimento de parcelas de débito à vista pelo ZPOS.
+- Ajustada falha na impressão das informações adicionais do produto na NFC-e/PV.
+- Ajustadas as tags das regras de tributação dentro do cadastro do produto.
+- Ajustado o estorno de sangrias.
+- Ajustada visualização do dashboard de documentos fiscais emitidos que estavam considerando notas com rejeição.
+- Ajustada na emissão do MDF-e o campo para referenciar notas que estava apagando informações já preenchidas.
+- Ajustado valor unitário do produto na nota de compra.
+- Ajustado os impostos do item dentro da NF-e para que respeitem a configuração da regra de tributação.
+- Ajustada impressão do desconto por item na impressão da NFC-e e PV.
+
 # 12/11/2024
 b3.10.175 {.versions}
 
