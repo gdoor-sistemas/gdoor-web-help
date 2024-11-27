@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-19T11:40:04.978Z
+date: 2024-11-27T11:19:26.280Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 337
+- Ajustes: 340
 
-**Total: 434**
+**Total: 437**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/11/2024
+b3.10.177, b3.10.178, p1.0.21 {.versions}
+
+## Ajustes
+- Ajustada visualização da Sangria no fechamento do caixa.
+- Ajustado visualização dos tributos aproximados no DANF-e.
+- Ajustada impressão dos dados do cliente nos comprovantes das vendas do PDV Híbrido.
+
 # 19/11/2024
 f2.11.80, b3.10.176 {.versions}
 
