@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-11-28T18:17:29.325Z
+date: 2024-12-04T14:42:40.311Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 342
+- Ajustes: 345
 
-**Total: 439**
+**Total: 442**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/12/2024
+f2.11.82, b3.10.181, b3.10.182, b3.10.183 {.versions}
+
+## Ajustes
+- Ajustada sincronização de vendedores vinculados no Gped/Gweb.
+- Ajustada falha na importação de XML no CT-e em um cliente específico.
+- Ajustado tamanho do campo para assinatura do CF-e.
+
 # 28/11/2024
 f2.11.81, b3.10.179, b3.10.180 {.versions}
 
