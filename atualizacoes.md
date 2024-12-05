@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-04T14:43:51.533Z
+date: 2024-12-05T18:20:51.977Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 345
+- Ajustes: 347
 
-**Total: 442**
+**Total: 444**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,8 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/12/2024
+f2.11.84, f2.11.85, b3.10.183 {.versions}
+
+## Ajustes
+- Ajustada sincronização de vendedores vinculados no Gped/Gweb.
+
 # 02/12/2024
-f2.11.82, b3.10.181, b3.10.182, b3.10.183 {.versions}
+f2.11.82, b3.10.181, b3.10.182 {.versions}
 
 ## Ajustes
 - Ajustada sincronização de vendedores vinculados no Gped/Gweb.
