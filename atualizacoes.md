@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-05T18:21:30.312Z
+date: 2024-12-06T16:46:08.457Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 347
+- Ajustes: 349
 
-**Total: 444**
+**Total: 446**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/12/2024
+f2.11.86, f2.11.87, b3.10.184, b3.10.185, b3.10.186 {.versions}
+
+## Ajustes
+- Ajustado na NF-e o vinculo do vendedor com o cliente.
+- Liberado campo do código de barras no cadastro do produto para digitação do GTIN quando o produto é pesado.
+
 # 05/12/2024
 f2.11.84, f2.11.85, b3.10.183 {.versions}
 
