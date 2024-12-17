@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-06T16:47:48.884Z
+date: 2024-12-17T11:50:15.399Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 349
+- Ajustes: 352
 
-**Total: 446**
+**Total: 449**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/12/2024
+f2.11.88, b3.10.187, b3.10.188 {.versions}
+
+## Ajustes
+- Ajustada impressão do NFC-e que esta "cortando" informações.
+- Ajustada na edição da venda para não remover o vendedor do produto.
+- Ajustes na rota do vendedor do cliente para o Gped.
+
 # 06/12/2024
 f2.11.86, f2.11.87, b3.10.184, b3.10.185, b3.10.186 {.versions}
 
