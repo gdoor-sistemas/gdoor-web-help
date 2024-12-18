@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-18T19:20:24.638Z
+date: 2024-12-18T20:04:38.859Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 354
+- Ajustes: 355
 
-**Total: 451**
+**Total: 452**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,11 +25,12 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 18/12/2024
-f2.11.89, f2.11.90 {.versions}
+f2.11.89, f2.11.90, f2.11.91, b3.10.189 {.versions}
 
 ## Ajustes
 - Ajustada tela em branco ao trocar de empresa no sistema.
 - Corrigido múltiplos requests ocorrendo na listagem de NF-e, NFC-e, pedidos e orçamentos.
+- Ajustada a habilitação do ambiente nacional da NFS-e por API e correção do processo de enviar o certificado para a Focus.
 
 # 16/12/2024
 f2.11.88, b3.10.187, b3.10.188 {.versions}
