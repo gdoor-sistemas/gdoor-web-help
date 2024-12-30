@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-24T11:32:44.003Z
+date: 2024-12-30T17:23:03.838Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2024** já foram implementados:
 - Novidades: 97
-- Ajustes: 357
+- Ajustes: 358
 
-**Total: 454**
+**Total: 455**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/12/2024
+f2.11.94 {.versions}
+
+## Ajustes
+- Ajustado o sistema para respeitar a configuração de COFINS feita na regra de tributação.
+
 # 23/12/2024
 f2.11.92, f2.11.93, b3.10.190, b3.10.191 {.versions}
 
