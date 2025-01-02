@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2024-12-30T17:31:10.480Z
+date: 2025-01-02T11:55:14.612Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/01/2025
+f2.11.95, b3.10.191 {.versions}
+
+## Ajustes
+- Ajustado o registro da receita no contas a receber para descontar o troco.
+
 # 30/12/2024
 f2.11.94 {.versions}
 
