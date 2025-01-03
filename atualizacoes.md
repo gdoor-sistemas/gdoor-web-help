@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-02T11:57:28.705Z
+date: 2025-01-03T11:59:36.992Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/01/2025
+b3.10.192 {.versions}
+
+## Ajustes
+- Ajustada falha ao gerar o arquivo do SPED Fiscal.
+
 # 01/01/2025
 f2.11.95, b3.10.191 {.versions}
 
