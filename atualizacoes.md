@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-03T12:14:21.299Z
+date: 2025-01-06T11:43:59.782Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 00
-- Ajustes: 02
+- Ajustes: 03
 
-**Total: 02**
+**Total: 03**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/01/2025
+b3.10.196 {.versions}
+
+## Ajustes
+- Ajustada NFS-e já concluída para o município de Ipirá/BA que estava ficando "em processamento".
+
 # 02/01/2025
 b3.10.192 {.versions}
 
