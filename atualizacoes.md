@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-06T19:31:16.900Z
+date: 2025-01-08T11:55:28.896Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 00
-- Ajustes: 05
+- Novidades: 12
+- Ajustes: 26
 
-**Total: 05**
+**Total: 38**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,46 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/01/2025
+f2.11.96, b3.10.199, p1.0.22 {.versions}
+
+## Novidades
+- Adicionado filtro na listagem de produtos para exibir ou não produtos inativos.
+- Adicionada nova permissão no cadastro de produtos para visualizar ou não o custo dos produtos.
+- Enviada a tag "forma_de_pagamento" nos dados gerais do JSON da NFS-e de Sumaré/SP.
+- Geradas as tags xPed e nItemPed no XML da NF-e/NFC-e gerados a partir de um pedido de venda.
+- Adicionado novos filtros no cadastro de produtos para filtrar informações pela compra: número da compra, data inicial e final e fornecedor.
+- Implementada verificação para importação de mais de um serviço por NFS-e para municípios onde é permitida a emissão com mais de um serviço. 
+- Implementado a exclusão/inatividade de caixas sem uso no controle de caixa do PDV.
+- Implementado novos campos nas Receitas do financeiro: "data de registro" e "data de pagamento".
+- Implementada as opções de retenção para notas "normais" além da nota conjugada.
+- Implementada as informações nutricionais no cadastro de produtos.
+- Implementada a emissão do CT-e simplificado.
+- Adicionados filtros para organização dos relatórios.
+
+## Ajustes
+- Ajustada a gravação dos dados na configuração de balança de checkout no PDV Híbrido.
+- Ajustada falha ao gerar o inventário quando existem produtos com código de referência até 15 caracteres.
+- Ajustada data de vencimento das parcelas na importação de base de dados no Gweb. 
+- Ajustado a configuração para gerar o preço de venda do produto sempre vir desmarcada por padrão.
+- Removido do relatório de "Produtos por vendedor" o totalizador de documentos.
+- Ajustado carregamento de certificados com senhas maiores que 26 caracteres.
+- Corrigida falha ao gerar o relatório de Pedido de venda com pedidos em aberto.
+- Ajustado o envio da tag CEST na emissão de documentos para produtos que não possuem esta informação.
+- Ajustado o relatório de Movimentos (simplificado) para exibir as pré-vendas.
+- Ajustado o PDV para não permitir a geração de documentos fiscais quando o caixa está fechado.
+- Ajustada falha ao salvar pedidos importados para NF-e.
+- Ajustada opção "Gerar MDF-e" na NF-e que não estava carregando a UF de início.
+- Ajustado pagamentos realizados pelo ZPOS.
+- Ajustado para não sugerir o valor da sangria no fechamento de caixa cego.
+- Ajustado o relatório de "Total movimentado por CFOP" para não exibir compras com CFOP em branco (zerado).
+- Retirada a configuração padrão do FCP ao habilitar novas bases.
+- Ajustado cálculo do MVA que não estava sendo calculado na base de cálculo FCP ST.
+- Revertida a implementação de mais de um serviço na emissão de NFS-e na cidade de Cipó/BA. Foi verificado que para este município não é possível informar mais de um serviço.
+- Ajustada duplicidade no meio de pagamento ao efetivar a receita.
+- Ajustado para não permitir o lançamento de clientes que não tenham o atributo "cliente" marcado em documentos fiscais.
+- Alterado modo de envio para impressão no ZPOS.
+
 # 03/01/2025
 b3.10.196, b3.10.197 {.versions}
 
