@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-08T12:25:17.661Z
+date: 2025-01-08T16:17:47.386Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 26
+- Ajustes: 30
 
-**Total: 38**
+**Total: 42**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -63,6 +63,10 @@ f2.11.96, b3.10.199, p1.0.22 {.versions}
 - Ajustada duplicidade no meio de pagamento ao efetivar a receita.
 - Ajustado para não permitir o lançamento de clientes que não tenham o atributo "cliente" marcado em documentos fiscais.
 - Alterado modo de envio para impressão no ZPOS.
+- Ajustes na apresentação do dados do CT-e.
+- Ajustada falha ao salvar um CT-e novo.
+- Ajustado erro na inclusão de documentos no CT-e.
+- Corrigida falha na quantidade de carga no campo "quantidade" que mesmo informado apresentada erro.
 
 # 03/01/2025
 b3.10.196, b3.10.197 {.versions}
