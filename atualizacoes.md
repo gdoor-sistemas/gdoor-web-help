@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-08T16:18:10.351Z
+date: 2025-01-09T14:00:25.345Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 08/01/2025
-f2.11.96, b3.10.199, p1.0.22 {.versions}
+f2.11.96, b3.10.199, b3.10.200, b3.10.201, b3.10.202, p1.0.22 {.versions}
 
 ## Novidades
 - Adicionado filtro na listagem de produtos para exibir ou não produtos inativos.
