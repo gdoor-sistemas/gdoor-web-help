@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-09T14:27:51.311Z
+date: 2025-01-10T13:47:31.677Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 31
+- Ajustes: 32
 
-**Total: 43**
+**Total: 44**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,10 +25,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 09/01/2025
-b3.10.204 {.versions}
+b3.10.204, b3.10.205 {.versions}
 
 ## Ajustes
 - Corrigida a pesquisa de NCMs no cadastro do produto.
+- Ajustado dashboard que não estava exibindo corretamente os valores das receitas.
 
 # 08/01/2025
 f2.11.96, b3.10.199, b3.10.200, b3.10.201, b3.10.202, p1.0.22 {.versions}
