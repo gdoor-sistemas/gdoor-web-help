@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-16T18:11:53.870Z
+date: 2025-01-16T18:48:48.285Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -32,7 +32,7 @@ f2.11.100, b3.10.207, p1.0.23 {.versions}
 - Ajustada falha no primeiro acesso ao PDV Híbrido.
 
 # 10/01/2025
-f2.11.97, b2.10.206 {.versions}
+f2.11.97, f2.11.99, b2.10.206 {.versions}
 
 ## Ajustes
 - Ajustada falha ao gerar o XML do mês.
@@ -46,7 +46,7 @@ b3.10.204, b3.10.205 {.versions}
 - Ajustado dashboard que não estava exibindo corretamente os valores das receitas.
 
 # 08/01/2025
-f2.11.96, b3.10.199, b3.10.200, b3.10.201, b3.10.202, p1.0.22 {.versions}
+f2.11.96, f2.11.98, b3.10.199, b3.10.200, b3.10.201, b3.10.202, p1.0.22 {.versions}
 
 ## Novidades
 - Adicionado filtro na listagem de produtos para exibir ou não produtos inativos.
