@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-20T12:14:31.444Z
+date: 2025-01-20T16:43:35.829Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 37
+- Ajustes: 39
 
-**Total: 49**
+**Total: 51**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/01/2025
+f2.11.101, b3.10.209 {.versions}
+
+## Ajustes
+- Separadas as opções para descontar ICMS  e IPI na base de cálculo do PIS/CONFINS.
+- Corrigida na importação de XML com caracteres especiais na tag do xPed.
+
 # 16/01/2025
 f2.11.100, b3.10.207, b3.10.208, p1.0.23 {.versions}
 
