@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-16T18:54:46.927Z
+date: 2025-01-20T12:11:18.122Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 36
+- Ajustes: 37
 
-**Total: 48**
+**Total: 49**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,11 +25,12 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 16/01/2025
-f2.11.100, b3.10.207, p1.0.23 {.versions}
+f2.11.100, b3.10.207, b3.10.208, p1.0.23 {.versions}
 
 ## Ajustes
 - Ajustado recebimento de parcelas que ao fazer um processo específico estava gerando valores negativos.
 - Ajustada falha no primeiro acesso ao PDV Híbrido.
+- Ajuste na importação de bases com planos de contas.
 
 # 10/01/2025
 f2.11.97, f2.11.99, b2.10.206 {.versions}
