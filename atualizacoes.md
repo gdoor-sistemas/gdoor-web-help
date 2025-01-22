@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-20T16:44:26.536Z
+date: 2025-01-22T11:08:49.159Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 39
+- Ajustes: 42
 
-**Total: 51**
+**Total: 54**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 21/01/2025
+f2.11.102, b3.10.210 {.versions}
+
+## Ajustes
+- Ajustada forma de pagamento que estava sumindo ao editar pedidos de venda.
+- Ajustada mensagem indevida nas informações adicionais da NF-e.
+- Corrigido pedido de venda com pagamento do GDOOR Pay PIX que não estava concluindo os pedidos.
+
 # 20/01/2025
 f2.11.101, b3.10.209 {.versions}
 
