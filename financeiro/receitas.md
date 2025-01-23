@@ -2,7 +2,7 @@
 title: Receitas
 description: Identifique as contas a receber da empresa no Gweb e controlá-las através através dos planos de contas e centros de custos.
 published: true
-date: 2025-01-23T14:50:28.448Z
+date: 2025-01-23T14:51:16.245Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
