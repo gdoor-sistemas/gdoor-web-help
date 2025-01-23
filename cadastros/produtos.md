@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2024-08-05T11:16:09.484Z
+date: 2025-01-23T20:07:53.255Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -14,7 +14,7 @@ Este módulo permite que você cadastre os produtos e kits, que serão utilizado
 
 Para visualizar ou alterar os cadastros de produtos, acesse no menu principal: **cadastros** » **produtos**.
 
-![Tela inicial do módulo](/produtos/protudos2022.png)
+![Lista de produtos](/produtos/lista_produtos.png)
 
 # Cadastrar produto
 
@@ -171,6 +171,12 @@ Identifique a categoria como desejar e clique em <span class="mat-button mdi "> 
 > Produtos de **vestuário**, por exemplo, podem ser divididos em categorias de: blazers, blusas, camisetas, calças, jaquetas, vestidos entre outras.
 {.is-success}
 
+<!--
+# Informações nutricionais
+
+sadasdassa
+-->
+
 # Grades
 
 A grade de produtos é um conceito utilizado para cadastrar **apenas um produto** com **características diferentes** no estoque. Podemos imaginar uma “tabela”, onde as variáveis são as linhas e colunas iniciais.
@@ -261,7 +267,6 @@ Após efetuar a configuração desejada, clique em <span class="mat-button mat-a
 Lista das tabelas de preços cadastradas:
 
 ![Lista tabelas](/produtos/lista_tabelas.png)
-
 
 # Carga da balança
 
