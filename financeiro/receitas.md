@@ -2,7 +2,7 @@
 title: Receitas
 description: Identifique as contas a receber da empresa no Gweb e controlá-las através através dos planos de contas e centros de custos.
 published: true
-date: 2025-01-23T13:47:12.775Z
+date: 2025-01-23T13:54:37.771Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -244,3 +244,7 @@ Aqui é possível visualizar e cadastrar os centros de custos que serão utiliza
 Para saber mais sobre os centros de custos acesse:
 - [Centros de custos *Veja detalhes sobre o cadastro de centros de custos no GWEB*](/pt-br/financeiro/centros-de-custos)
 {.links-list}
+
+# Configurações
+
+
