@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2025-01-23T16:56:31.644Z
+date: 2025-01-23T16:56:40.790Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -218,19 +218,7 @@ Caso seja necessário emitir uma **NF-e de complemento** para **complementar** a
 - [NF-e de complemento *Veja como emitir uma NF-e de complemento no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento)
 {.links-list}
 
-# ECONF
 
-A utilização do **Evento de Conciliação Financeira – ECONF** é facultativa e tem o objetivo de auxiliar as empresas que buscam demonstrar a existência de **conformidade fiscal** entre as **informações financeiras** e de **meios de pagamentos** e os **documentos fiscais emitidos**.
-
-## Lista
-
-
-
-## Formulário
-
-
-
-# Relatórios
 
 Ao clicar na opção **“relatórios”** você será redirecionado ao [**módulo de relatórios**](https://help.gdoorweb.com.br/pt-br/informacoes/relatorios) filtrando pela tag de NF-e.
 
