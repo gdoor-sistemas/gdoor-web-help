@@ -2,7 +2,7 @@
 title: Receitas
 description: Identifique as contas a receber da empresa no Gweb e controlá-las através através dos planos de contas e centros de custos.
 published: true
-date: 2025-01-23T13:54:37.771Z
+date: 2025-01-23T14:50:28.448Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-22T11:36:46.680Z
@@ -247,4 +247,14 @@ Para saber mais sobre os centros de custos acesse:
 
 # Configurações
 
+Neste menu é possível verificar e personalizar algumas funcionalidades do financeiro do GWEB.
 
+## Configuração de juros mensal
+
+A configuração de juros mensal é aplicada no momento do recebimento de uma receita, baseando-se na data de vencimento da receita e nas configurações abaixo preenchidas.
+
+![Configurações de juros mensal](/receitas/configuracoes_juros_mensal.png)
+
+- **Percentual de juros mensal**: Informe o percentual de juros mensal para ser calculado nas receitas.
+- **Multa (valor fixo)**: Valor em Reais (R$) da multa por atraso.
+- **Dias de carência**: Dias de carência para aplicação da multa e juros com base na data de vencimento.
