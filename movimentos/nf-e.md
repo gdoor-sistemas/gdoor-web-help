@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2025-01-23T18:56:38.638Z
+date: 2025-01-23T18:59:52.349Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -218,8 +218,51 @@ Caso seja necessário emitir uma **NF-e de complemento** para **complementar** a
 - [NF-e de complemento *Veja como emitir uma NF-e de complemento no GWEB*](/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento)
 {.links-list}
 
+# ECONF
 
+A utilização do **Evento de Conciliação Financeira – ECONF** é facultativa e tem o objetivo de auxiliar as empresas que buscam demonstrar a existência de **conformidade fiscal** entre as **informações financeiras** e de **meios de pagamentos** e os **documentos fiscais emitidos**.
 
+## Lista
+
+Ao clicar na opção **ECONF** no menu direito do GWEB, você acessará a lista de eventos de conciliação financeira que foram realizados.
+
+![Lista ECONF](/movimentos/nf-e/lista_econf.png)
+
+- **Cancelar**: Cancela o evento de conciliação financeira após a emissão;
+- **Visualizar XML**: Abre o XML do ECONF permitindo copiar ou realizar o download.
+
+## Formulário
+
+Os campos disponíveis no formulário são:
+
+![Formulário ECONF](/movimentos/nf-e/formulario_econf.png)
+
+#### NF-e Conciliação financeira - ECONF
+
+- **Documento**: Número do documento que a conciliação financeira será vinculada;
+- **Chave de Acesso**: Chave de acesso da NF-e alvo;
+- **Sequencia**: Sequencial do evento para o mesmo tipo de evento. Valores de 1 a 99.
+
+#### Detalhamento do pagamento
+
+- **Pagamento**: Forma de pagamento à vista ou à prazo;
+- **Meio de pagamento**: Meio de pagamento realizado (dinheiro, cartão, boleto, etc.);
+- **Valor pago (R$)**: Valor pago na operação;
+- **Data do pagamento**: Data que o pagamento foi realizado.
+
+#### Estabelecimento onde o pagamento foi processado
+
+- **CNPJ do estabelecimento**: CNPJ do estabelecimento onde o pagamento foi processado;
+- **UF**: UF do estabelecimento onde o pagamento foi processado;
+- **CNPJ da instituição financeira**: CNPJ da instituição financeira responsável pelo pagamento;
+- **Operadora (opcional)**: Operadora da autorização. Campo opcional e as opções são pré-definidas;
+- **Número da autorização da transação**: Número de autorização gerado por esta operação na instituição financeira.
+
+#### Estabelecimento beneficiário
+- **CNPJ do beneficiário**: CNPJ do estabelecimento beneficiário da operação de conciliação.
+- **UF**: UF do estabelecimento beneficiário da operação de conciliação.
+
+Ao finalizar o cadastro, clique no botão <span class="mat-button">CONFIRMAR E TRANSMITIR</span> para transmitir o evento de conciliação
 
 # Relatórios
 
