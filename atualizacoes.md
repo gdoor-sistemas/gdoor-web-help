@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-22T11:12:38.891Z
+date: 2025-01-24T19:09:33.690Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 12
-- Ajustes: 42
+- Ajustes: 43
 
-**Total: 54**
+**Total: 55**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/01/2025
+b3.10.211 {.versions}
+
+## Ajustes
+- Ajustada a geração das tags de cAut, CNPJ e tBand no XML da NFC-e.
+
 # 21/01/2025
 f2.11.102, b3.10.210 {.versions}
 
