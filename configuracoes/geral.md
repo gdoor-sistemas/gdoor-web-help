@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2025-01-24T16:59:25.463Z
+date: 2025-01-24T16:59:37.107Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -110,7 +110,7 @@ Sugerimos que a **utilize somente em caso de problemas** de conectividade ou log
 
 Após marcar, clique em <span class="mat-button mat-accent"> salvar</span>.
 
-# NFC-e
+# NF-e/NFC-e
 
 Defina como será o comportamento geral do sistema na NF-e e na NFC-e.
 
