@@ -2,7 +2,7 @@
 title: Nota Fiscal eletrônica (NF-e)
 description: Conheça o módulo de emissão de NF-e de venda, complemento e de ajuste no Gweb
 published: true
-date: 2025-01-23T19:22:35.798Z
+date: 2025-01-24T18:02:24.982Z
 tags: nf-e, estoque, movimentos, nota fiscal, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:32:43.427Z
@@ -287,7 +287,16 @@ Caso seja necessário os **XML's** de determinado mês para enviar à **contabil
 
 ![XML do mês](/movimentos/nf-e/xml_do_mes.png)
 
-Você pode informar o **mês** que deseja separar os XML’s e abaixo marque se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+
+Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
+
+![Agendar envio do arquivo XML](/movimentos/nf-e/agendar_arquivo_xml_mes.png)
+
+- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **E-mail**: E-mail de destino do envio dos XMLs;
+- **Nome**: Razão social ou nome do destinatário do e-mail;
+- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 # Configurações da NF-e
 
