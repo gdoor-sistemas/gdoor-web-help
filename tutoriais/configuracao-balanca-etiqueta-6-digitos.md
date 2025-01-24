@@ -2,7 +2,7 @@
 title: Configuração para balança de etiquetas
 description: Veja como configurar a geração do arquivo para a balança de etiquetas com o código do produto com 6 dígitos.
 published: true
-date: 2024-08-05T17:20:41.905Z
+date: 2025-01-24T14:13:25.900Z
 tags: produtos, pdv, balanca, etiquetas
 editor: markdown
 dateCreated: 2024-08-02T20:58:34.654Z
@@ -18,6 +18,11 @@ Quando a configuração do produto na balança estiver com **6 dígitos**, no si
 
 > É possível visualizar o **código do produto** na URL, como indicado na imagem.
 {.is-info}
+
+Para cadastrar as informações nutricionais no tutorial, siga o material a seguir:
+
+- [Informações nutricionais *Veja como incluir as informações nutricionaisno cadastro do produto*](/pt-br/cadastros/produtos#informacoes-nutricionais)
+{.links-list}
 
 ## Configuração do sistema para a leitura da etiqueta
 
