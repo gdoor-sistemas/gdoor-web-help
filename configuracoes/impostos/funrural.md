@@ -2,7 +2,7 @@
 title: Alíquotas do FUNRURAL
 description: Veja como configurar no GWEB as alíquotas do FUNRURAL para os produtores rurais.
 published: true
-date: 2025-01-24T16:31:15.735Z
+date: 2025-01-24T16:31:51.324Z
 tags: funrural, produtor rural
 editor: markdown
 dateCreated: 2025-01-24T16:30:44.211Z
