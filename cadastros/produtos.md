@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-01-23T20:22:17.473Z
+date: 2025-01-24T13:15:50.795Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -171,11 +171,33 @@ Identifique a categoria como desejar e clique em <span class="mat-button mdi "> 
 > Produtos de **vestuário**, por exemplo, podem ser divididos em categorias de: blazers, blusas, camisetas, calças, jaquetas, vestidos entre outras.
 {.is-success}
 
-<!--
+
 # Informações nutricionais
 
-sadasdassa
--->
+Para acessar o menu de informações nutricionais, clique no menu **informações nutricionais** no menu direito. 
+
+![Informações nutricionais](/produtos/informacoes_nutricionais.png)
+
+Caso a empresa necessite que a etiqueta impressa na balança contenha as informações nutricionais do produto, o sistema Gdoor possibilita a geração de um arquivo para importar nos modelos de balança Toledo e Urano.
+
+> Verifique com o nutricionista da empresa todas as informações nutricionais que devem ser apresentadas nos alimentos. Devido a alteração das regras de rotulagem nutricional, verifique também qual rótulo se adequa a sua empresa.
+{.is-info}
+
+## Formulário das informações nutricionais
+
+O formulário de cadastro de informações nutricionais é divido em seções, são elas:
+
+### Identificação
+
+![informacao_nutricional_identificacao.png](/produtos/informacao_nutricional_identificacao.png)
+
+- **Descrição**: informe a descrição para identificação da tabela de informações nutricionais. Se preferir, é possível cadastrar o nome do produto em que ela será utilizada;
+- **Porção**: após informar a quantidade que compõe uma porção, selecione a unidade de medida correspondente: g (grama), ml (mililitro) ou un (unidade);
+- **Medida inteira, Medida decimal e Medida utilizada**: Estes 3 campos compõe juntos uma medida caseira. informe a quantidade de medida caseira (um utensílio utilizado pelo consumidor para medir alimentos) correspondente ao valor informado na quantidade da porção.
+
+> No exemplo acima, temos **“20g de porção”** e informamos que essa medida corresponde a **“0 1/2 colher(es) de sopa”** (meia colher de sopa).
+{.is-info}
+
 
 # Grades
 
