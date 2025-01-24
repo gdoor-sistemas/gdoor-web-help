@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-01-24T13:15:50.795Z
+date: 2025-01-24T14:13:58.225Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -198,6 +198,84 @@ O formulário de cadastro de informações nutricionais é divido em seções, s
 > No exemplo acima, temos **“20g de porção”** e informamos que essa medida corresponde a **“0 1/2 colher(es) de sopa”** (meia colher de sopa).
 {.is-info}
 
+### RDC 359 e 360
+
+![RDC 359 e 360](/produtos/rdc_359_e_360.png)
+
+Preencha os campos da coluna **quantidade por porção** de acordo com as informações fornecidas pelo nutricionista:
+
+- **Valor Energético (kcal = kj)**;
+- **Carboidratos (g)**;
+- **Proteínas (g)**;
+- **Gorduras Totais (g)**;
+- **Gorduras Saturadas (g)**;
+- **Gorduras Trans (g)**;
+- **Fibra Alimentar (g)**;
+- **Sódio (mg)**.
+
+> Ao informar os valores na coluna **quantidade por porção**, automaticamente será gerado o valor na coluna **valor diário**.
+{.is-info}
+
+
+### RDC 429
+
+O principal objetivo da atualização para o **padrão 429** é tornar a r**otulagem nutricional** de mais fácil entendimento e usabilidade.
+
+**Principais alterações que passam a ser obrigatórias no padrão RDC 429:**
+
+– Criação de uma nova coluna na tabela com o **valor nutricional** e **energético para cada porção de 100g** ou **100ml**, a fim de facilitar a comparação entre produtos diferentes;
+– apresentação da **quantidade de porções** do produto por embalagem;
+– informação identificando a **quantidade de açúcares totais e adicionados**;
+– adição de um **aviso** na parte frontal e superior do recipiente indicando **altos níveis de sódio, gorduras saturadas e/ou açúcares adicionados**.
+–  a nota de rodapé sobre o valor diário foi alterada para “**Percentual de valores diários fornecidos pela porção**”.
+– coloração contrastante da tabela também foi definida para **fundo branco com as letras e linhas 100% pretas**. Não há outra possibilidade de uso de outra coloração senão a estabelecida.
+
+![RDC 429](/produtos/rdc_429.png)
+
+> Para que a etiqueta apresente a **quantidade de porções por embalagem**, verifique com o técnico da sua balança se a opção **calcular automaticamente a quantidade de porções por embalagem** está marcada no **software da balança**. Assim, o cálculo será baseado nas informações cadastradas como **porção** e os dados dos campos **medida inteira, medida decimal e medida utilizada**.
+{.is-info}
+
+Preencha os campos da coluna “quantidade por porção” de acordo com as informações fornecidas pelo nutricionista:
+
+- **Valor Energético (kcal = kj)**;
+- **Carboidratos (g)**;
+- **Açúcares Totais (g)**;
+- **Açúcares Adicionados (g)**;
+- **Proteínas (g)**;
+- **Gorduras Totais (g)**;
+- **Gorduras Saturadas (g)**;
+- **Gorduras Trans (g)**;
+- **Fibra Alimentar (g)**;
+- **Sódio (mg)**;
+
+> Ao informar os valores na coluna **quantidade por porção**, automaticamente será gerado o valor na coluna **valor diário**.
+{.is-info}
+
+- **Alto em**: selecione se o produto é alto em **açúcar adicionado, gordura saturada ou sódio**.
+
+## Indicar tabela de informações nutricionais no produto
+
+Após cadastrar as tabelas de informações nutricionais, é necessário indicar no produto a tabela correspondente ao mesmo. Acesse o cadastro do produto no estoque, selecione a tabela no campo **informações nutricionais**, e clique em <span class="mat-button mat-accent">salvar</span>.
+
+![Informação nutricional](/produtos/informacao_nutricional_cad_produto.png)
+
+## Impressão da tabela de informações nutricionais
+
+Siga um dos procedimentos para geração de arquivo de configuração para balanças abaixo, e efetue a impressão da etiqueta na balança com as informações nutricionais do produto:
+
+
+- [Balança de etiquetas com 6 dígitos no código do produto *Veja como configurar a leitura do código de barras com 6 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-6-digitos)
+- [Balança de etiquetas com 5 dígitos no código do produto *Veja como configurar a leitura do código de barras com 5 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-5-digitos)
+- [Balança de etiquetas com 4 dígitos no código do produto *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-4-digitos)
+{.links-list}
+
+**Imagem ilustrativa demonstrando os valores nutricionais na etiqueta do padrão RDC 359 e 360:**
+
+![359 e 360](/produtos/359_360.png)
+
+**Imagem ilustrativa demonstrando os valores nutricionais na etiqueta do padrão RDC 429:**
+
+![429](/produtos/429.png)
 
 # Grades
 
