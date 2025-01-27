@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2024-04-01T19:38:00.558Z
+date: 2025-01-27T17:47:32.225Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -246,6 +246,23 @@ Ao clicar em **manifestar-se** a tela para seleção do evento será aberta, inf
 Após informar o evento basta clicar em <span class="mat-button mdi "> confirmar</span>.
 
 ![confirmar manifestação](/compras/manifestação/6.png)
+
+# XML do mês
+
+Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
+
+![XML do mês](/compras/xml_do_mes.png)
+
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+
+Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
+
+![Agendar envio do arquivo XML](/compras/agendar_arquivo_xml_mes.png)
+
+- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **E-mail**: E-mail de destino do envio dos XMLs;
+- **Nome**: Razão social ou nome do destinatário do e-mail;
+- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 # Importar XML
 
