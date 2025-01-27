@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2024-02-19T17:17:04.311Z
+date: 2025-01-27T17:42:30.557Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -211,6 +211,23 @@ A mensagem abaixo será exibida, clique em <span class="mat-button mdi "> transm
 Se desejar permanecer no modo de contingência, clique em <span class="mat-button mdi "> cancelar</span>.
 
 ![Sair contingência](/movimentos/mdf-e/sair_contingencia.png)
+
+## XML do mês
+
+Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
+
+![XML do mês](/movimentos/mdf-e/xml_do_mes.png)
+
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+
+Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
+
+![Agendar envio do arquivo XML](/movimentos/mdf-e/agendar_arquivo_xml_mes.png)
+
+- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **E-mail**: E-mail de destino do envio dos XMLs;
+- **Nome**: Razão social ou nome do destinatário do e-mail;
+- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 ## Encerrar MDF-e
 
