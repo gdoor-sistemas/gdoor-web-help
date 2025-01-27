@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: Veja como você pode cadastrar os Conhecimentos de Transporte Eletrônico 
 published: true
-date: 2024-02-19T17:19:54.850Z
+date: 2025-01-27T17:44:28.127Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -268,19 +268,20 @@ Para ativar a emissão, clique no botão <span data-mat-button>Contingência</sp
 
 ## XML do mês
 
-O Gweb possui um assistente para que você possa compactar todos os arquivos XML dos CT-e emitidos e baixar ou enviar diretamente por e-mail para a contabilidade:
+Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
 
-![xml_cte.png](/movimentos/cte/xml_cte.png)
+![XML do mês](/movimentos/cte/xml_do_mes.png)
 
-**Compactar arquivos:**{.subtitle} clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do CT-e:
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
 
-Selecione o mês desejado, marque a opção **baixar arquivo** e clique no botão <span data-mat-button>Confirmar</span>.
+Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
 
-![xml2_cte.png](/movimentos/cte/xml2_cte.png)
+![Agendar envio do arquivo XML](/movimentos/cte/agendar_arquivo_xml_mes.png)
 
-Ou marque a opção **enviar por e-mail**. Nesta opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
-
-![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
+- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **E-mail**: E-mail de destino do envio dos XMLs;
+- **Nome**: Razão social ou nome do destinatário do e-mail;
+- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 # Configurações
 
