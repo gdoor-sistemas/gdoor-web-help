@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2024-10-28T14:01:22.420Z
+date: 2025-01-27T17:39:45.450Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -854,17 +854,20 @@ Veja o vídeo que exemplifica maneiras de você ajustar as suas preferências de
 
 # XML do mês
 
-O Gweb possui um assistente para que você possa compactar todos os arquivos XML das NFC-e emitidas e baixar ou enviar diretamente por e-mail para a contabilidade. Veja como realizar o processo:
+Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
 
-Compactar arquivos{.subtitle}
+![XML do mês](/movimentos/pdv/xml_do_mes.png)
 
-Clique no botão <span data-mat-button><u>X</u>ML do mês</span> no painel lateral do PDV:
+Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
 
-![Compactar XML do mês da NFC-e](/movimentos/pdv/xml_do_mes.png)
+Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
 
-A tela com todos os meses em que houve emissão de NFC-e no Gweb será aberta. Selecione o mês e se você deseja **baixar** o arquivo ou **enviar por e-mail**. Nesta última opção, você precisará informar o endereço de e-mail para qual deseja enviar. Depois, clique no botão <span data-mat-button>Confirmar</span>.
+![Agendar envio do arquivo XML](/movimentos/pdv/agendar_arquivo_xml_mes.png)
 
-![Enviar arquivo compactado para a contabilidade](/movimentos/nfce/nfce-xml-do-mes-enviar.png)
+- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **E-mail**: E-mail de destino do envio dos XMLs;
+- **Nome**: Razão social ou nome do destinatário do e-mail;
+- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 # Inutilizar numeração
 
