@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS das maquininhas no GWEB
 published: true
-date: 2024-04-30T11:52:14.679Z
+date: 2025-01-28T12:49:40.545Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -12,7 +12,9 @@ dateCreated: 2024-01-10T12:54:23.554Z
 
 Na integração do sistema **Gweb** com o aplicativo **ZPOS**, o sistema aguarda o recebimento do pagamento para finalizar a venda e registra os dados do cartão (bandeira, NSU, nº autorização) automaticamente. 
 
-A comunicação entre sistema e equipamento é feita por meio de um app instalado na sua maquininha. Ele está disponível nos modelos **POS VERO SMART (Banrisul)**, **Stone**, **Moderninha Pagbank**,  **REDE** e **CIELO** e é localizado por meio da loja de aplicativos como **"ZPOS"**. 
+A comunicação entre sistema e equipamento é feita por meio de um app instalado na sua maquininha. Ele está disponível nos modelos a seguir:
+
+![Lista de dispositivos compatíveis com o ZPOS](/config/ferramentas/maquininhas_pos-2048x719.png)
 
 >Para esta comunicação, é necessário conectar a maquininha à internet.
 {.is-info}
