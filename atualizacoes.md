@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-29T11:31:38.833Z
+date: 2025-01-29T11:34:45.894Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 29/01/2025
-f2.11.103, b3.10.211, b3.10.212, p1.0.24 {.versions}
+f2.11.103, b3.10.212, p1.0.24 {.versions}
 
 ## Novidades
 - Adicionada configuração para vinculação entre CFOPs na importação de NF-e de compra.
