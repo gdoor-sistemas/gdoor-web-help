@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-24T19:10:44.337Z
+date: 2025-01-29T11:11:48.091Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 12
-- Ajustes: 43
+- Novidades: 18
+- Ajustes: 60
 
-**Total: 55**
+**Total: 78**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,36 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 29/01/2025
+f2.11.103, b3.10.211, b3.10.212, p1.0.24 {.versions}
+
+## Novidades
+- Adicionada configuração para vinculação entre CFOPs na importação de NF-e de compra.
+- Adicionada a informação do barcode quando é feita a sincronização da base no PDV Híbrido.
+- Adicionado no relatório de "Auditoria" os registros de alterações nos módulos que emitem documentos e possuem configurações.
+- Implementada opção de importação do XML CT-e para fazer o contra CT-e.
+- Adicionada configuração de ICMS ST quando a CST for 30 - Isenta ou não tributada e com cobrança do ICMS por substituição tributária.
+- Adicionada geração do arquivo C177 para o estado de PE.
+
+## Ajustes
+- Ajustado cálculo no total de ICMS desonerado no lançamento da compra.
+- Corrigida falha na importação de XML para um cliente específico.
+- Ajustado na NF-e para mostrar nos documentos vinculados a NFC-e que deu origem a nota.
+- Corrigida datas das parcelas nas vendas que possuem cliente com dia de acerto configurado.
+- Ajustado para não permitir pagamentos com valor superior ao da venda a menos que sejam em dinheiro ou cheque.
+- Ajustado importação de XML de compra que estava zerando o ICMS ST ao editar a compra.
+- Ajustada na exportação de dados o campo "data de nascimento", caso houver ela passa agora a ser exportada com os demais dados.
+- Ajustado pagamento por PIX com ZPOS para registrar as vendas como "recebidas".
+- Ajustada na PV do PDV Híbrido a hora apresentada no DANFC-e.
+- Ajustados relatórios de "CT-e emitidos" e "Total de CT-e por tomador" para apresentar somente CT-es autorizados e cancelados ao marcar a opção "Excluir não faturados".
+- Ajustado relatório "Pedidos de venda (simplificado)" para apresentar na coluna "faturado em" o documento em que o pedido foi faturado.
+- Fixada opção "Movimenta estoque" no cadastro de operações.
+- Ajustada rejeição que ocorria na NF-e com serviço ao utilizar a CST 99 - Outras operações.
+- Ajustado relatório "Produtos vendidos por tipo de imposto" que estava apresentando os dados de ST PIS e ST COFINS em formato de moeda. 
+- Removida a opção de cancelar NFS-e na cidade de Maracanaú/CE.
+- Removido espaçamento de impressão de PV no PDV Híbrido.
+- Alterado prefixo de arquivos de XML exportados do SAT em SP.
+
 # 24/01/2025
 b3.10.211 {.versions}
 
