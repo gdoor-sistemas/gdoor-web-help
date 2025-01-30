@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-30T13:14:55.274Z
+date: 2025-01-30T13:17:38.317Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,14 +24,8 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 30/01/2025
-f2.11.104 {.versions}
-
-## Ajustes
-- Ajustado sistema para considerar a redução da base de cálculo para calcular ICMS desonerado com CST 41 ou CST 40.
-
 # 29/01/2025
-f2.11.103, b3.10.212, p1.0.24 {.versions}
+f2.11.103, f2.11.104, b3.10.212, p1.0.24 {.versions}
 
 ## Novidades
 - Adicionada configuração para vinculação entre CFOPs na importação de NF-e de compra.
@@ -59,6 +53,7 @@ f2.11.103, b3.10.212, p1.0.24 {.versions}
 - Removida a opção de cancelar NFS-e na cidade de Maracanaú/CE.
 - Removido espaçamento de impressão de PV no PDV Híbrido.
 - Alterado prefixo de arquivos de XML exportados do SAT em SP.
+- Ajustado sistema para considerar a redução da base de cálculo para calcular ICMS desonerado com CST 41 ou CST 40.
 
 # 24/01/2025
 b3.10.211 {.versions}
