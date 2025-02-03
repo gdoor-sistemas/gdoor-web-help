@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-01-30T13:18:17.157Z
+date: 2025-02-03T14:40:14.838Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 18
-- Ajustes: 61
+- Ajustes: 64
 
-**Total: 79**
+**Total: 82**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 31/01/2025
+f2.11.105, b3.10.213, b3.10.214 {.versions}
+
+## Ajustes
+- Ajustado cálculo do ICMS desonerado que estava invertendo a porcentagem da base de cálculo.
+- Ajustada impressão do CT-e simplificado para apresentar o tomado e a chave de acesso.
+- Ajustada lentidão no PDV Híbrido na base de um cliente específico.
+
 # 29/01/2025
 f2.11.103, f2.11.104, b3.10.212, p1.0.24 {.versions}
 
