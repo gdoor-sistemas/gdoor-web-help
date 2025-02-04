@@ -2,7 +2,7 @@
 title: Metas
 description: Veja em detalhes como configurar o controle de metas para a empresa ou para seus vendedores.
 published: false
-date: 2025-02-04T17:34:48.311Z
+date: 2025-02-04T17:35:09.635Z
 tags: configurações, metas, meta, vendedores, vendas
 editor: markdown
 dateCreated: 2025-02-04T16:27:53.795Z
@@ -16,8 +16,6 @@ Existem dois tipos de metas no GWEB, são elas:
 
 - **Meta Geral:** Neste tipo, é estabelecida uma **meta geral** para a empresa, o valor é compartilhado entre **todos** os vendedores, as vendas **sem vendedor** informado também contabilizam.
 - **Meta por vendedor**: Neste tipo, também é estabelecida uma **meta geral** para a empresa, mas o valor desta meta geral pode ser **dividido** entre os **vendedores** da forma que desejar.
-
-![Tela inicial da meta](/config/metas/0_tela_inicial.png)
 
 A seguir os detalhes de como realizar a configuração de cada um dos tipos de meta:
 
