@@ -2,7 +2,7 @@
 title: Metas
 description: Veja em detalhes como configurar o controle de metas para a empresa ou para seus vendedores.
 published: false
-date: 2025-02-04T17:22:15.943Z
+date: 2025-02-04T17:28:20.036Z
 tags: configurações, metas, meta, vendedores, vendas
 editor: markdown
 dateCreated: 2025-02-04T16:27:53.795Z
@@ -42,7 +42,11 @@ Ao preencher os campos de acordo com a meta decidida pela empresa, clique em <sp
 
 Sempre que houver uma venda feita, a meta geral da empresa será atualizada.
 
-IMAGEM DA META COM VALORES
+![Meta preenchida](/config/metas/2_meta_geral_preenchida.png)
+
+> Caso alguma venda seja feita sem vendedor informado, também aparecerá na meta geral.
+{.is-info}
+
 
 # Meta por vendedor
 
@@ -69,5 +73,7 @@ Após selecionar o vendedor, clique em <span style="color: rgb(230, 74, 25);">SA
 
 Sempre que houver uma venda feita, a meta geral e a meta do vendedor serão atualizadas.
 
-IMAGEM DA META COM VALORES
+![Meta preenchida](/config/metas/6_meta_por_vendedor_preenchida.png)
 
+> Caso alguma venda seja feita sem vendedor informado, também aparecerá na meta geral.
+{.is-info}
