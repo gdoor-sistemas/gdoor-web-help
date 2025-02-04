@@ -2,7 +2,7 @@
 title: Metas
 description: Veja em detalhes como configurar o controle de metas para a empresa ou para seus vendedores.
 published: false
-date: 2025-02-04T17:28:20.036Z
+date: 2025-02-04T17:34:48.311Z
 tags: configurações, metas, meta, vendedores, vendas
 editor: markdown
 dateCreated: 2025-02-04T16:27:53.795Z
