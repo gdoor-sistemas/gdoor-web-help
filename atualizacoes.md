@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-05T11:30:01.351Z
+date: 2025-02-05T14:18:25.433Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 18
-- Ajustes: 66
+- Ajustes: 67
 
-**Total: 84**
+**Total: 85**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,11 +25,12 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 05/01/2025
-f2.11.106, b3.10.215 {.versions}
+f2.11.106, f2.11.107, b3.10.215 {.versions}
 
 ## Ajustes
 - Ajustada geração do registro C170 na geração do SPED.
 - Ajustado dropdown de CST para PIS e COFINS.
+- Ajustada geração do registro C177 para notas fiscais de entrada (compras)
 
 # 31/01/2025
 f2.11.105, b3.10.213, b3.10.214 {.versions}
