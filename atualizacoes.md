@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-05T19:53:44.799Z
+date: 2025-02-05T20:16:19.313Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 05/01/2025
-f2.11.106, f2.11.107, f2.11.109, f2.11.110, b3.10.215, b3.10.217 {.versions}
+f2.11.106, f2.11.107, f2.11.109, f2.11.110, b3.10.215, b3.10.217, b3.10.218 {.versions}
 
 ## Novidades
 - Melhorias na tela de conversor de CFOP entrada/saída.
