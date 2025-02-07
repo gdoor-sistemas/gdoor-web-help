@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-05T20:16:19.313Z
+date: 2025-02-07T11:23:59.778Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 22
-- Ajustes: 68
+- Ajustes: 71
 
-**Total: 90**
+**Total: 93**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/01/2025
+f2.11.111, b3.10.219, b3.10.220 {.versions}
+
+## Ajustes
+- Ajustado vendedor vinculado a NF-e quando editada a venda.
+- Ajustada notificação de certificado vencendo que estava sendo enviada fora do período. 
+- Corrigida falha que fazia o sistema deslogar automaticamente assim que era feito o login.
+
 # 05/01/2025
 f2.11.106, f2.11.107, f2.11.109, f2.11.110, b3.10.215, b3.10.217, b3.10.218 {.versions}
 
