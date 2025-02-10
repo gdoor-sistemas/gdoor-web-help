@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2024-10-25T18:52:33.662Z
+date: 2025-02-10T20:08:34.582Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -24,7 +24,7 @@ Possui emissão de documentos fiscais, pedido de venda, orçamento, além dos ca
 
 O Gweb pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
 
-- Que precisem emitir NF-e, NFC-e, CT-e, MDF-e ou NFS-e;
+- Que precisem emitir NF-e, NFC-e, SAT, CF-e, CT-e, MDF-e ou NFS-e;
 - Queiram manter controle de estoque;
 - Cujos usuários do sistema não possam estar sempre na empresa;
 - Cujos administradores queiram controlar o sistema e consultar relatórios à distância;
