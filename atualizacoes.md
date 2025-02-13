@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-12T16:36:59.100Z
+date: 2025-02-13T17:15:03.339Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 22
-- Ajustes: 72
+- Ajustes: 73
 
-**Total: 94**
+**Total: 95**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,13 +24,19 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 11/01/2025
+# 13/02/2025
+b3.10.222 {.versions}
+
+## Ajustes
+- Ajustado erro ao gerar MDF-e a partir de CT-e Simplificado.
+
+# 11/02/2025
 f2.11.112, b3.10.221 {.versions}
 
 ## Ajustes
 - Ajustado valor original das parcelas para não permitir valores negativos.
 
-# 06/01/2025
+# 06/02/2025
 f2.11.111, b3.10.219, b3.10.220 {.versions}
 
 ## Ajustes
@@ -38,7 +44,7 @@ f2.11.111, b3.10.219, b3.10.220 {.versions}
 - Ajustada notificação de certificado vencendo que estava sendo enviada fora do período. 
 - Corrigida falha que fazia o sistema deslogar automaticamente assim que era feito o login.
 
-# 05/01/2025
+# 05/02/2025
 f2.11.106, f2.11.107, f2.11.109, f2.11.110, b3.10.215, b3.10.217, b3.10.218 {.versions}
 
 ## Novidades
@@ -51,7 +57,7 @@ f2.11.106, f2.11.107, f2.11.109, f2.11.110, b3.10.215, b3.10.217, b3.10.218 {.ve
 - Ajustada geração do registro C177 para notas fiscais de entrada (compras)
 - Ajustado para destacar o FCP em notas complementares de ICMS.
 
-# 04/01/2025
+# 04/02/2025
 f2.11.108, b3.10.216 {.versions}
 
 ## Novidades
