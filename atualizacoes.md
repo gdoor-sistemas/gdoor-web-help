@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-18T11:43:05.260Z
+date: 2025-02-18T11:54:20.599Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 18/02/2025
-f2.11.113, b3.10.223 {.versions}
+f2.11.113, b3.10.223, p1.0.25 {.versions}
 
 ## Novidades
 - Adicionada opção para incluir devoluções no relatório "NF-e, NFC-e (resumo)".
