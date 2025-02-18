@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-13T17:18:45.606Z
+date: 2025-02-18T11:33:19.597Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 22
-- Ajustes: 73
+- Novidades: 25
+- Ajustes: 82
 
-**Total: 95**
+**Total: 107**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,25 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/02/2025
+f2.11.113, b3.10.223 {.versions}
+
+## Novidades
+- Adicionada opção para incluir devoluções no relatório "NF-e, NFC-e (resumo)".
+- Adicionado processo de reativação da NFS-e quando mudar a cidade do emitente.
+- Implementado o cadastro de unidades de medida no cadastro do produto.
+
+## Ajustes
+- Ajustado filtro do dashboard do gráfico de documentos fiscais emitidos para apresentar NFS-e pendente.
+- Corrigido erro ao salvar NF-e de importação ao editar.
+- Ajustado no pagamento de uma despesa a gravação do meio de pagamento utilizado.
+- Ajustada opção de "Gerar NFC-e" quando o controle de caixa esta desabilitado.
+- Ajustado vendas no PDV que não estavam permitindo a conclusão após informar o cliente.
+- Ajustado erro ao salvar uma nota de compra quando o sistema possui migrações pendentes.
+- Ajustado cancelamento de documentos quando o caixa estiver fechado.
+- Ajustado layout da tela de metas para se ajustar ao tamanho da tela.
+- Ajustada falha na expiração do certificado digital.
+
 # 13/02/2025
 b3.10.222 {.versions}
 
