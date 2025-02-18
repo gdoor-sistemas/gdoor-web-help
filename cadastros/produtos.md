@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-01-24T16:50:30.072Z
+date: 2025-02-18T12:42:20.634Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -382,3 +382,22 @@ Caso tenha dúvidas sobre como configurar os produtos para a etiqueta de balanç
 - [Balança de etiquetas com 5 dígitos no código do produto *Veja como configurar a leitura do código de barras com 5 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-5-digitos)
 - [Balança de etiquetas com 4 dígitos no código do produto *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-4-digitos)
 {.links-list}
+
+# Unidade de medida
+
+No GWEB é possível cadastrar unidades de medida personalizadas de acordo com a necessidade da empresa. Porém, o GWEB já vem com unidades de medida padrões para serem utilizadas.
+
+> Recomenda-se utilizar o cadastro de **unidades de medida personalizadas** somente para **necessidades específicas** da empresa ou de seus clientes. No dia a dia, prefira as **unidades de medida já cadastradas**, pois estas estão no **padrão do [portal da NF-e](https://www.nfe.fazenda.gov.br/portal/principal.aspx)**.
+{.is-info}
+
+No formulário da unidade de medida, os campos disponíveis são:
+
+![Formulário da unidade de medida](/produtos/unidade_de_medida_form.png)
+
+- **Unidade de medida de entrada**: Digite a unidade de medida de entrada correspondente a unidade de medida que deseja cadastrar.
+- **Unidade de medida tributável**: Digite a unidade de medida tributável correspondente a unidade de medida que deseja cadastrar.
+
+Ao preencher os campos, clique em <span class="mat mat-button">ADICIONAR UNIDADE</span>.
+
+Na lista de **unidades de medida cadastradas** clique no ícone <span class="mdi mdi-pencil"></span> para editar e no ícone <span style="color: darkred;" class="mdi mdi-delete"></span>
+
