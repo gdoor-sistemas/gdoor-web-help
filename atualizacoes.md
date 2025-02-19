@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-18T11:58:07.642Z
+date: 2025-02-19T18:18:28.702Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 25
-- Ajustes: 82
+- Ajustes: 84
 
-**Total: 107**
+**Total: 109**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/02/2025
+f2.11.114, b3.10.224, b3.10.225, p1.0.26 {.versions}
+
+## Ajustes
+- Ajustada soma dos percentuais de GLP que deve fechar em 100%.
+- Ajustada as contas administrativas que não apareciam para seleção na sangria/suprimento.
+
 # 18/02/2025
 f2.11.113, b3.10.223, p1.0.25 {.versions}
 
