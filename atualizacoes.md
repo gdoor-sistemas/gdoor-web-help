@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-19T18:27:53.352Z
+date: 2025-02-21T16:19:31.815Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 25
-- Ajustes: 84
+- Ajustes: 86
 
-**Total: 109**
+**Total: 111**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 21/02/2025
+b3.10.226, b3.10.227 {.versions}
+
+## Ajustes
+- Ajustada divergência no relatório de "Plano de contas".
+- Ajustada data de entrada que não estava sendo salva ao editar a nota de compra.
+
 # 19/02/2025
 f2.11.114, b3.10.224, b3.10.225, p1.0.26 {.versions}
 
