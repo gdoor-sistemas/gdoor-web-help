@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-21T16:26:21.290Z
+date: 2025-02-24T17:56:52.235Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 25
-- Ajustes: 86
+- Ajustes: 87
 
-**Total: 111**
+**Total: 112**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/02/2025
+b.3.10.228 {.versions}
+
+## Ajustes
+- Ajustada regra de tributação vinculando NCM para permitir até 150 NCMs.
+
 # 21/02/2025
 b3.10.226, b3.10.227 {.versions}
 
