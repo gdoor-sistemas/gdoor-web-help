@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-24T18:03:50.781Z
+date: 2025-02-25T12:29:56.927Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 25
-- Ajustes: 87
+- Ajustes: 98
 
-**Total: 112**
+**Total: 123**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,23 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/02/2025
+f2.11.115, f2.11.116, b.3.10.229, b3.10.230, p1.0.27 {.versions}
+
+## Ajustes
+AJUSTES
+- Ajustada gravação do "PIN SUFRAMA" e "Data prevista de entrega" ao editar os documentos transportados pelo CT-e.
+- Ajustada coluna "última compra" no relatório de "Inventário de Estoque" que não estava considerando o fator de conversão.
+- Ajustado fator de conversão na compra de produtos para permitir valores menores que "1".
+- Ajustada prioridade de pesquisa no PDV para considerar primeiro o código interno.
+- Ajustado Bloco K do SPED Fiscal que não estava recalculando corretamente na base de um cliente específico.
+- Ajustada unidade tributável para produtos que não possuem configuração unidade de medida tributável.
+- Ajustado recebimento parcial de parcelas.
+- Ajustado valor da receita ao receber valores parcelados.
+- Ajustada falha ao salvar produtos com unidade de medida cadastrada.
+- Ajustada forma de pagamento que não estava sendo removida ao excluir no recebimento de receitas.
+- Ajustado recebimento de contas quando houver mais de uma forma de recebimento parcial.
+
 # 24/02/2025
 b.3.10.228 {.versions}
 
