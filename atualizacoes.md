@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-02-25T13:22:57.756Z
+date: 2025-03-06T11:42:53.550Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -28,7 +28,6 @@ ir para [2021](#h-2021) {.goto}
 f2.11.115, f2.11.116, b.3.10.229, b3.10.230, b3.10.231, p1.0.27 {.versions}
 
 ## Ajustes
-AJUSTES
 - Ajustada gravação do "PIN SUFRAMA" e "Data prevista de entrega" ao editar os documentos transportados pelo CT-e.
 - Ajustada coluna "última compra" no relatório de "Inventário de Estoque" que não estava considerando o fator de conversão.
 - Ajustado fator de conversão na compra de produtos para permitir valores menores que "1".
