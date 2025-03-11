@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-10T12:02:28.400Z
+date: 2025-03-11T11:44:10.465Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 25
-- Ajustes: 100
+- Ajustes: 102
 
-**Total: 125**
+**Total: 127**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/03/2025
+f2.11.117, b3.10.234, a2.3.5 {.versions}
+
+## Ajustes
+- Enviada a tag "forma_de_pagamento" nos dados gerais do JSON da NFS-e de Sumaré/SP. 
+- Ajustada CSOSN 500 para respeitar a configuração de impostos criada.
+
 # 07/03/2025
 b3.10.233 {.versions}
 
