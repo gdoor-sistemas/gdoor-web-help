@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-18T13:06:38.686Z
+date: 2025-03-18T13:38:53.345Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 27
-- Ajustes: 107
+- Ajustes: 108
 
-**Total: 134**
+**Total: 135**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -37,6 +37,7 @@ f2.11.118, b.3.10.240, p1.0.29. a2.3.7 {.versions}
 - Ajustado cálculo do ICMS desonerado para CST com redução da base de cálculo.
 - Ajustado relatório de Pedidos de Venda (simplificado).
 - Ajustado relatório de Contas a receber que estava apresentando receitas devolvidas mesmo usando o filtro de "pagas/recebidas".
+- Corrigida geração das tags "vICMSDeson" e "indDeduzDeson" em notas sem ICMS desonerado.
 
 # 11/03/2025
 f2.11.117, b3.10.234, a2.3.5 {.versions}
