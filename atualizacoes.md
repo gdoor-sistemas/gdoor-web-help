@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-14T13:43:13.617Z
+date: 2025-03-18T11:10:19.284Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 25
-- Ajustes: 102
+- Novidades: 27
+- Ajustes: 107
 
-**Total: 127**
+**Total: 134**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,20 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/03/2025
+f2.11.118, b.3.10.240, p1.0.29. a2.3.7 {.versions}
+
+## Novidades
+- Implementada solicitação de importação do XML após manifestar a nota de compra.
+- Implementado o aceite de termos de uso do sistema.
+ 
+ ## Ajustes
+- Ajustado o Bloco H do SPED para não apresentar produtos com estoque negativo.
+- Ajustada a sobreposição de informações na impressão da NFC-e.
+- Ajustado cálculo do ICMS desonerado para CST com redução da base de cálculo.
+- Ajustado relatório de Pedidos de Venda (simplificado).
+- Ajustado relatório de Contas a receber que estava apresentando receitas devolvidas mesmo usando o filtro de "pagas/recebidas".
+
 # 11/03/2025
 f2.11.117, b3.10.234, a2.3.5 {.versions}
 
