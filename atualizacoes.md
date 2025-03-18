@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-18T13:57:42.680Z
+date: 2025-03-18T14:01:02.176Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 18/03/2025
-f2.11.118, b.3.10.240, p1.0.29. a2.3.7 {.versions}
+f2.11.118, f2.11.119, b.3.10.240, p1.0.29. a2.3.7 {.versions}
 
 ## Novidades
 - Implementada solicitação de importação do XML após manifestar a nota de compra.
