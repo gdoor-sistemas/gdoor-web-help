@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-18T14:01:18.746Z
+date: 2025-03-19T14:51:29.376Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 27
-- Ajustes: 108
+- Ajustes: 109
 
-**Total: 135**
+**Total: 136**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/03/2025
+f2.11.120 {.versions}
+
+## Ajustes
+- Ajustado cálculo do ICMS desonerado quando a base de cálculo esta zerada.
+
 # 18/03/2025
 f2.11.118, f2.11.119, b.3.10.240, p1.0.29. a2.3.7 {.versions}
 
