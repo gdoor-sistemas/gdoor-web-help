@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-19T14:52:22.857Z
+date: 2025-03-24T18:15:43.804Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/03/2025
+ {.versions}
+
+## Ajustes
+- Ajustado botão de aceite nos termos de uso no celular.
+- Ajustado valores no fechamento de caixa.
+
 # 19/03/2025
 f2.11.120 {.versions}
 
