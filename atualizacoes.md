@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-24T19:23:14.716Z
+date: 2025-03-25T12:18:46.246Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 27
-- Ajustes: 111
+- Ajustes: 114
 
-**Total: 138**
+**Total: 141**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/03/2025
+f2.11.122, b3.10.242 {.versions}
+
+## Ajustes
+- Corrigida a emissão de NF-es com ICMS desonerado que estavam zerando ao editar.
+- Ajustada seleção de fornecedores para respeitar a configuração de atributos do cadastro de pessoas.
+- Ajustada geração do XML do mês para exportar as cartas de correção quando houver.
+
 # 24/03/2025
 f2.11.121, b3.10.241 {.versions}
 
