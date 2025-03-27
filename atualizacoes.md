@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-25T12:27:13.907Z
+date: 2025-03-27T17:08:36.591Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 27
-- Ajustes: 114
+- Ajustes: 115
 
-**Total: 141**
+**Total: 142**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/03/2025
+f2.11.123 {.versions}
+
+## Ajustes
+- Ajustado valores de BC ICMS ST e ICMS ST que estavam sendo alterados ao confirmar a tela de produtos na NF-e.
+
 # 25/03/2025
 f2.11.122, b3.10.242 {.versions}
 
