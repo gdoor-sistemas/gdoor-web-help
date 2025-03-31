@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-27T17:14:36.139Z
+date: 2025-03-31T14:45:07.037Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 27
-- Ajustes: 115
+- Ajustes: 118
 
-**Total: 142**
+**Total: 145**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 31/03/2025
+f2.11.124, b3.10.243, b3.10.244 {.versions}
+
+## Ajustes
+- Ajustado para 10 o número máximo de documentos fiscais agendados em segundo plano.
+- Ajustada sincronização de pedidos em lote pelo Gweb.
+- Limitado a 10 documentos enviados em segundo plano no backend.
+
 # 27/03/2025
 f2.11.123 {.versions}
 
