@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-03-31T17:05:59.669Z
+date: 2025-04-01T12:56:14.302Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 27
-- Ajustes: 118
+- Novidades: 29
+- Ajustes: 125
 
-**Total: 145**
+**Total: 154**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,22 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/04/2025
+f2.11.125, b3.10.245, p1.0.30 {.versions}
+
+## Novidades
+- Implementado pagamento integrado na Pré-venda.
+- Criado campo de alíquota de crédito presumido para o cBenef e gerada as tags do grupo gCred.
+
+## Ajustes
+- Ajustado arquivo SETORTXT para gerar a informações corretamente (balança Filizola).
+- Ajustado o botão "confirmar" para bloquear após o primeiro clique.
+- Ajustado para mostrar as opções de exclusão/edição em rejeições 303.
+- Ajustado registro 74 na geração do inventário do Sintegra.
+- Alterado os links de transmissão da NF-e em contingência SVC.
+- Ajustada vendas com cliente dentro do estado e endereço de entrega fora do estado.
+- Ajustada importação de XML de CT-e para CT-e de subcontratação.
+
 # 31/03/2025
 f2.11.124, b3.10.243, b3.10.244 {.versions}
 
