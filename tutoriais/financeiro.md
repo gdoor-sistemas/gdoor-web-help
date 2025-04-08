@@ -1,8 +1,8 @@
 ---
 title: Módulo financeiro
-description: Conheça o módulo que possibilita o gerenciamento das finanças da sua empresa no GDOOR WEB
+description: Conheça o módulo que possibilita o gerenciamento das finanças da sua empresa no GWEB
 published: true
-date: 2022-04-29T18:54:02.159Z
+date: 2025-04-08T11:43:19.566Z
 tags: financeiro, caixa, receber, pagar, contas
 editor: markdown
 dateCreated: 2022-01-02T19:09:16.430Z
@@ -10,7 +10,7 @@ dateCreated: 2022-01-02T19:09:16.430Z
 
 # O que é o módulo financeiro?
 
-O módulo financeiro no GDOOR WEB consiste basicamente em um cadastro de contas, receitas e despesas. Com estes registros você consegue gerenciar o dinheiro que entra e sai das contas da empresa, mantendo um histórico das receitas que são geradas automaticamente após a emissão de [NF-e](/tutoriais/como-emitir-uma-nfe) ou [NFC-e](/movimentos/pdv) ou cadastradas manualmente. 
+O módulo financeiro no GDOOR WEB consiste em um cadastro de contas, receitas e despesas. Com estes registros você consegue gerenciar o dinheiro que entra e sai das contas da empresa, mantendo um histórico das receitas que são geradas automaticamente após a emissão de [NF-e](/tutoriais/como-emitir-uma-nfe) ou [NFC-e](/movimentos/pdv) ou cadastradas manualmente. 
 As contas a pagar também podem ser geradas após a confirmação de uma nota de compra ou cadastradas individualmente.
 
 As receitas e despesas podem ser gerenciadas por meio de vínculos com planos de contas e centros de custos, possibilitando, por meio da geração de relatórios, identificar pontos fortes e fracos no financeiro da empresa.
