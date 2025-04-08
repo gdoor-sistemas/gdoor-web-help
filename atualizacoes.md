@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-03T14:02:08.440Z
+date: 2025-04-08T11:34:18.932Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 29
-- Ajustes: 126
+- Novidades: 31
+- Ajustes: 134
 
-**Total: 155**
+**Total: 165**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,23 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/04/2025
+f2.11.126, b3.10.252, p1.0.31 {.versions}
+
+## Novidades
+- Implementada a tag de número AEDF na emissão de NFS-e em clientes de Florianópolis.
+- Adicionados a lista de CFOP de entrada os códigos 6910 e 5910.
+
+## Ajustes
+- Ajustada impressão do DANF-e para não duplicar a listagem quando a lista estiver acima de 20 itens.
+- Ajustado totalizador de valor restante no relatório de "Contas a receber".
+- Ajustada nas vendas do PDV a opção "exigir cliente após valor" para que solicite apenas uma vez os dados do cliente.
+- Removido aviso duplicado do perfil do usuário.
+- Ajustada a importação de XML de CT-e quando um documento estiver em criação/edição.
+- Ajustada alíquota de ICMS para bases novas nos estados: RN, PI e MA.
+- Corrigida falha no login do PDV Híbrido.
+- Ajustado relatório de "Pedidos de venda" para exibir os pedidos com status "concluído".
+
 # 02/04/2025
 f2.11.126, b3.10.247 {.versions}
 
