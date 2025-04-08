@@ -2,7 +2,7 @@
 title: Mensagens
 description: Mensagens e notificações do sistema
 published: true
-date: 2025-04-08T12:36:04.992Z
+date: 2025-04-08T12:38:28.522Z
 tags: usuários
 editor: markdown
 dateCreated: 2023-08-08T18:19:49.537Z
