@@ -1,9 +1,9 @@
 ---
 title: Financeiro
-description: 
+description: Conheça o módulo que possibilita o gerenciamento das finanças da sua empresa no GWEB.
 published: false
-date: 2025-04-08T11:42:30.765Z
-tags: financeiro, receber, pagar, contas
+date: 2025-04-08T11:43:24.419Z
+tags: financeiro, caixa, receber, pagar, contas
 editor: markdown
 dateCreated: 2025-04-08T11:42:30.765Z
 ---
