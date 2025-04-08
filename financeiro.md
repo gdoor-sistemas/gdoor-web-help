@@ -2,7 +2,7 @@
 title: Financeiro
 description: Conheça o módulo que possibilita o gerenciamento das finanças da sua empresa no GWEB.
 published: true
-date: 2025-04-08T11:44:49.267Z
+date: 2025-04-08T11:45:55.166Z
 tags: financeiro, caixa, receber, pagar, contas
 editor: markdown
 dateCreated: 2025-04-08T11:42:30.765Z
@@ -19,7 +19,7 @@ As receitas e despesas podem ser gerenciadas por meio de vínculos com planos de
 
 Para mais detalhes sobre cada seção do módulo financeiro, acesse o artigo:
 
-- [Contas *Veja como identificar a localização do dinheiro da empresa no GDOOR WEB*](/financeiro/contas)
-- [Despesas *Identifique as contas a pagar da empresa no GDOOR WEB*](/financeiro/despesas)
-- [Receitas *Identifique as contas a receber da empresa no GDOOR WEB*](/financeiro/receitas)
+- [Contas *Veja como identificar a localização do dinheiro da empresa no GWEB*](/financeiro/contas)
+- [Despesas *Identifique as contas a pagar da empresa no GWEB*](/financeiro/despesas)
+- [Receitas *Identifique as contas a receber da empresa no GWEB*](/financeiro/receitas)
 {.links-list}
