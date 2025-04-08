@@ -2,7 +2,7 @@
 title: Mensagens
 description: Mensagens e notificações do sistema
 published: true
-date: 2023-10-11T11:24:19.794Z
+date: 2025-04-08T12:36:04.992Z
 tags: usuários
 editor: markdown
 dateCreated: 2023-08-08T18:19:49.537Z
@@ -17,6 +17,7 @@ Alguns exemplos de mensagens que podem ser recebidas são essas abaixo:
 
 Alguns dos avisos que contemplam são:
 - Aviso de manutenção do sistema, com a data e hora da manutenção;
+- Aviso de disponibilidade do relatório pedido, com a possibilidade de baixar o arquivo do relatório;
 - Erro no envio de e-mail de todos os módulos do sistema;
 - Aviso que a exportação ou importação de dados foi concluída;
 - Aviso que a geração do SPED Fiscal ou do Sintegra foi concluída.
