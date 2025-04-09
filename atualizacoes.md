@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-08T11:39:05.615Z
+date: 2025-04-09T12:51:44.776Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 31
-- Ajustes: 134
+- Ajustes: 136
 
-**Total: 165**
+**Total: 167**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/04/2025
+f2.11.127, b3.10.253, b3.10.254 {.versions}
+
+## Ajustes
+- Ajustado no CT-e simplificado o tipo de serviço subcontratação.
+- Ajustada impressão de MDF-e com vários CT-es para exibir todos os itens na impressão.
+
 # 08/04/2025
 f2.11.126, b3.10.252, p1.0.31 {.versions}
 
