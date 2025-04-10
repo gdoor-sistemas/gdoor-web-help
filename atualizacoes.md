@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-09T12:54:42.760Z
+date: 2025-04-10T19:21:57.391Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 31
-- Ajustes: 136
+- Ajustes: 138
 
-**Total: 167**
+**Total: 169**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 10/04/2025
+b3.10.255, b3.10.256, p1.0.33 {.versions}
+
+## Ajustes
+- Ajustada sangria do dia que não contabilizava no fechamento do caixa.
+- Corrigido erro não catalogado ao realizar venda pelo ZPOS.
+
 # 09/04/2025
 f2.11.127, b3.10.253, b3.10.254 {.versions}
 
