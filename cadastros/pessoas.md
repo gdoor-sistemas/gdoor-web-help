@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-04-11T12:43:53.812Z
+date: 2025-04-11T12:45:31.893Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -185,7 +185,7 @@ Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa
 - **Tipo de carroceria**: tipo da carroceria do veículo;
 - **Reboque**: veículo sem tração própria e depende de outro para se mover.
 
-> O cadastro dos veículos também pode ser realizado utilizando o menu [Veículos](/cadastros/veiculos).
+> O cadastro dos veículos também pode ser realizado no menu [Veículos](/cadastros/veiculos).
 {.is-info}
 
 
