@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-04-11T12:34:26.025Z
+date: 2025-04-11T12:39:22.967Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -170,7 +170,7 @@ Além do e-mail principal e do site, você pode adicionar ao cadastro outros end
 
 ## Veículos
 
-Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa é um "Transportador", a seção "Veículo" será exibida. Para adicionar um novo veículo, clique no botão (<em class="mdi mdi-plus"></em>) e preencha os campos solicitados.
+Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa é um **Transportador**, a seção **Veículos** será exibida. Para adicionar um novo veículo, clique no botão (<em class="mdi mdi-plus"></em>) e preencha os campos solicitados.
 
 
 - **Descrição**: descrição do veículo, é usado para identificar o veículo internamente;
@@ -184,6 +184,9 @@ Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa
 - **Tipo de rodado**: tipo do veículo;
 - **Tipo de carroceria**: tipo da carroceria do veículo;
 - **Reboque**: veículo sem tração própria e depende de outro para se mover.
+
+> O cadastro dos veículos também pode ser realizado utilizando o menu **Veículos** o [histórico](/cadastros/pessoas/historico).
+{.is-info}
 
 
 ## Observações
