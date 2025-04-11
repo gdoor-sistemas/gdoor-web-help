@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-04-11T12:28:30.013Z
+date: 2025-04-11T12:34:26.025Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -169,11 +169,21 @@ Além do e-mail principal e do site, você pode adicionar ao cadastro outros end
 ![Quadro endereços eletrônicos](/cadastros/pessoas/eletronico.png)
 
 ## Veículos
-Quando marcar no cadastro da empresa ou pessoa que se trata de um Transportador, a seção veículo fica disponível. Para cadastrar um novo veículo, clique no botão (<em class="mdi mdi-plus"></em>) e informe os campos:
 
+Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa é um "Transportador", a seção "Veículo" será exibida. Para adicionar um novo veículo, clique no botão (<em class="mdi mdi-plus"></em>) e preencha os campos solicitados.
+
+
+- **Descrição**: descrição do veículo, é usado para identificar o veículo internamente;
+- **Placa**: placa do veículo cadastrado;
+- **UF**: unidade Federativa do veículo;
 - **RNTRC - Registro Nacional de Transporte Rodoviário de Carga**: é o registro obrigatório para profissionais que exercem atividades ligadas ao transporte rodoviário de carga;
-- **Tipo da transportadora**: indica o tipo da empresa transportadora de acordo com a atividade que exerce;
-- **Tipo do proprietário**: indica o tipo do proprietário de acordo com o veículo e como ele é fretado.
+- **Renavam**: número do Renavam do veículo;
+- **Tara (kg)**: peso do veículo em kg;
+- **Capacidade (kg)**: capacidade de carga do veículo, em kg;
+- **Capacidade (m³)**: capacidade do veículo em m³;
+- **Tipo de rodado**: tipo do veículo;
+- **Tipo de carroceria**: tipo da carroceria do veículo;
+- **Reboque**: veículo sem tração própria e depende de outro para se mover.
 
 
 ## Observações
