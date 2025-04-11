@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-01-24T17:11:33.204Z
+date: 2025-04-11T12:28:30.013Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -167,6 +167,14 @@ Você pode informar três telefones no cadastro principal (**telefone**, **celul
 Além do e-mail principal e do site, você pode adicionar ao cadastro outros endereços de e-mail, por exemplo, para contato com outros setores ou pessoas. Clique no botão (<em class="mdi mdi-plus"></em>) e será exibida uma tela para preenchimento do e-mail adicional, que pede uma descrição, por exemplo, "*e-mail financeiro*", e o próprio e-mail. Para remover um e-mail adicional incluído, clique no botão **remover** (<em class="mdi mdi-window-close"></em>), ao lado do e-mail.
 
 ![Quadro endereços eletrônicos](/cadastros/pessoas/eletronico.png)
+
+## Veículos
+Quando marcar no cadastro da empresa ou pessoa que se trata de um Transportador, a seção veículo fica disponível. Para cadastrar um novo veículo, clique no botão (<em class="mdi mdi-plus"></em>) e informe os campos:
+
+- **RNTRC - Registro Nacional de Transporte Rodoviário de Carga**: é o registro obrigatório para profissionais que exercem atividades ligadas ao transporte rodoviário de carga;
+- **Tipo da transportadora**: indica o tipo da empresa transportadora de acordo com a atividade que exerce;
+- **Tipo do proprietário**: indica o tipo do proprietário de acordo com o veículo e como ele é fretado.
+
 
 ## Observações
 
