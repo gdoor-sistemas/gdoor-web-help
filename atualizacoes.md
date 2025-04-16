@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-16T12:13:47.646Z
+date: 2025-04-16T12:47:56.686Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 31
-- Ajustes: 143
+- Novidades: 32
+- Ajustes: 156
 
-**Total: 174**
+**Total: 188**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,27 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/04/2025
+f2.11.128, f2.11.131, b3.10.257, p1.0.33, p1.0.35 {.versions}
+
+## Novidades
+- Implementada configuração para finalizar vendas no PDV.
+
+## Ajustes
+- Ajustado caixa que continuava aberto mesmo depois de fechado ao recarregar a página.
+- Ajustado seriais bonificados que não estavam logando.
+- Revisado comportamento da funcionalidade "Não fechar o caixa com venda pendentes".
+- Ajustado texto da mensagem apresentada ao cliente quando houver retorno da SEFAZ com a rejeição 302.
+- Ajustado impressos do CT-e e MDF-e que estavam cortando/sobrepondo as informações adicionais.
+- Revisado relatório de fechamento de caixa.
+- Revisado comportamento da funcionalidade "Somente usuário que abriu pode fechar caixa".
+- Ajustada mensagem exibida ao transmitir NFS-e sem os dados da integração.
+- Corrigida falha ao tentar fechar o caixa com uma observação de 250 a 300 caracteres.
+- Ajustado modal da "Sangria" para mostrar vendas passíveis de sangria (dinheiro ou cheque).
+- Padronizado local do botão de relatórios dentro dos módulos.
+- Ajustado filtro dos relatórios ao abrir relatórios a partir de módulos específicos.
+- Ajustado o filtro "tipo: saídas" do relatório de "Total movimentado por CFOP".
+
 # 15/04/2025
 f2.11.129, f2.11.130, f2.11.132 {.versions}
 
