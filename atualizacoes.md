@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-16T12:05:08.151Z
+date: 2025-04-16T12:13:47.646Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 15/04/2025
-f2.11.129, f2.11.130 {.versions}
+f2.11.129, f2.11.130, f2.11.132 {.versions}
 
 ## Ajustes
 - Ajustado CST de PIS/COFINS e IPI na nota de compra.
