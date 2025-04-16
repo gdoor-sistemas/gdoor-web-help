@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-11T19:00:35.398Z
+date: 2025-04-16T12:00:10.957Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 31
-- Ajustes: 140
+- Ajustes: 143
 
-**Total: 171**
+**Total: 174**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/04/2025
+f2.11.129, f2.11.130 {.versions}
+
+## Ajustes
+- Ajustado CST de PIS/COFINS e IPI na nota de compra.
+- Ajustado cálculo dos impostos de ST que estavam sendo zerados ao editar notas de venda.
+- Ajustada gravação dos dados informados nos tributos ao editar uma venda.
+
 # 11/04/2025
 f2.11.128 {.versions}
 
