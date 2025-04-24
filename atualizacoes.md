@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-16T16:45:14.708Z
+date: 2025-04-24T13:57:17.429Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 32
-- Ajustes: 156
+- Ajustes: 157
 
-**Total: 188**
+**Total: 189**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/04/2025
+b3.10.260 {.versions}
+
+## Ajustes
+- Alterada URL do QRCode do CT-e em MG.
+
 # 16/04/2025
 f2.11.128, f2.11.131, b3.10.257, p1.0.33, p1.0.35 {.versions}
 
