@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-24T13:59:49.471Z
+date: 2025-04-29T19:43:14.157Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -24,6 +24,25 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 29/04/2025
+b3.10.261 b3.10.263 f2.11.133 {.versions}
+
+## Novidades
+- Implementado um filtro com a lista de CFOP's já utilizadas no relatório "Total movimentado por CFOP".
+- Implementado uma nova configuração de preferência de impressão para permitir imprimir duas vias do pedido de venda na mesma folha.
+
+## Ajustes
+- Ajustada a data de vencimento no financeiro dos pagamentos feitos em cartão de débito com ZPOS para a data da operação.
+- Ajustado o relatório "Total movimentado por CFOP" para apresentar as movimentações de acordo com o filtro de operações.
+- Ajustado o valor total da MDF-e para realizar a soma dos valores totais das notas importadas.
+- Ajustado o inventário do sintegra para não gerar produtos com quantidade zerada ou negativa.
+- Ajustado o redirecionamento do botão 'Relatórios' dentro de outros módulos para trazer nos filtros a busca que está sendo realizada.
+- Ajustada a geração de NF-e baseada em pedido de vendas utilizando a configuração "Separar produtos e serviços ao importar documento?" marcada.
+- Ajustada a edição das notas (NF-e e NFC-e) para não apagar informações de ICMS e ICMS ST.
+- Ajustada a replicação de notas para manter o cálculo do ICMS Desonerado.
+- Ajustado PDV Hibrido para realizar a busca por código de produto pesado no modo offline.
+- Ajustado PDV Hibrido para mostrar as casas decimais nos produtos após a edição e sincronização com o sistema web.
+
 # 24/04/2025
 b3.10.260 {.versions}
 
