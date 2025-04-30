@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-30T17:06:53.428Z
+date: 2025-04-30T18:05:18.540Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 32
-- Ajustes: 159
+- Ajustes: 160
 
-**Total: 191**
+**Total: 192**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -25,10 +25,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 30/04/2025
-f2.11.134, p1.0.36 {.versions}
+f2.11.134, b3.10.265, p1.0.36 {.versions}
 
 ## Ajustes
 - Ajustadas vendas no crédito parcelado pelo ZPOS que tornava obrigatório informar o cliente na venda.
+- Ajustado no MDF-e a exibição de todas as chaves informadas nos documentos transportados.
 
 # 29/04/2025
 b3.10.261 b3.10.263 f2.11.133 {.versions}
