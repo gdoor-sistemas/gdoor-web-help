@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-04-29T19:43:14.157Z
+date: 2025-04-30T11:22:03.477Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 32
-- Ajustes: 157
+- Ajustes: 158
 
-**Total: 189**
+**Total: 190**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -42,6 +42,12 @@ b3.10.261 b3.10.263 f2.11.133 {.versions}
 - Ajustada a replicação de notas para manter o cálculo do ICMS Desonerado.
 - Ajustado PDV Hibrido para realizar a busca por código de produto pesado no modo offline.
 - Ajustado PDV Hibrido para mostrar as casas decimais nos produtos após a edição e sincronização com o sistema web.
+
+# 28/04/2025
+b3.10.262 {.versions}
+
+## Ajustes
+- Corrigida a pré-visualização dos dados do MDF-e que geravam falha em documentos específicos.
 
 # 24/04/2025
 b3.10.260 {.versions}
