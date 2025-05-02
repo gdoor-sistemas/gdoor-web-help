@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-02T14:45:48.433Z
+date: 2025-05-02T18:20:56.229Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 34
-- Ajustes: 170
+- Ajustes: 171
 
-**Total: 204**
+**Total: 205**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/05/2025
+p1.0.37 {.versions}
+
+## Ajustes
+- Corrigida a impressão direta de NFC-e no modo Offline do PDV Híbrido.
+
 # 30/04/2025
 f2.11.134, b3.10.265, p1.0.36 {.versions}
 
