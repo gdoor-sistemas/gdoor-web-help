@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2025-05-08T17:32:25.655Z
+date: 2025-05-08T18:04:32.523Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -273,6 +273,8 @@ Nesta seção você pode definir o comportamento do sistema referente ao pagamen
 ## Preferências de impressão
 
 Nesta seção, você pode definir as configurações de impressão do Pedidos de venda
+
+![Preferências de impressão](/movimentos/pedidos/preferencias_impressao.png)
 
 - **Duplica as informações da impressão em uma única página**: Duplica o pedido de venda em uma página A4 só. A impressão será diferente do padrão e só será duplicada na mesma página se houver cerca de 10 itens ou serviços
 
