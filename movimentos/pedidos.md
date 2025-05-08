@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2025-05-08T17:25:17.629Z
+date: 2025-05-08T17:32:25.655Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -240,7 +240,7 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 ![Limpar filtros](/movimentos/pedidos/limpar_filtro.png)
 
-# Configurações do pedido de venda
+# Configurações
 
 Neste tópico você verá o que pode ser configurado no pedido de venda.
 
