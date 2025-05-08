@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2025-01-24T17:03:45.704Z
+date: 2025-05-08T20:02:40.315Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -121,3 +121,13 @@ Defina como será o comportamento geral do sistema na NF-e e na NFC-e.
 
 Após marcar, clique em <span class="mat-button mat-active"> salvar</span>.
 
+<!--
+# Configurações gerais dos documentos
+
+Defina como serão as configurações ao salvar os documentos (Orçamento, Pedido, NF-e, PDV, CT-e, NFS-e)
+
+ - **Verificar limite ao salvar documentos a prazo:**
+ - **Verificar limite ao salvar documentos em todos os tipos de pagamentos:**
+ - **Não faturar documentos a prazo para clientes inadimplentes:**
+ - **Não faturar para clientes inadimplentes, independentemente da forma de pagamento:**
+-->
