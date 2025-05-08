@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2023-12-04T13:35:26.827Z
+date: 2025-05-08T17:23:39.587Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -251,6 +251,7 @@ Nesta seção você configura como o sistema deve se comportar em determinadas s
 - **Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
 - **Movimentar estoque**: o estoque será movimentado quando o pedido for concluído.
 - **Gerar financeiro**: os registros financeiros serão gerados quando o pedido for concluído.
+- **Separar produtos e serviços ao importar documento**: Ao marcar, os produtos serão importados para a NF-e/NFC-e e os serviços para a NFS-e, ao desmarcar, os produtos e os serviços serão importados juntos para a NF-e/NFC-e;
 
 ![Comportamento](/movimentos/pedidos/comportamento.png)
 
