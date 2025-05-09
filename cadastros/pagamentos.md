@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2025-05-09T11:58:48.805Z
+date: 2025-05-09T13:05:21.948Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -12,7 +12,7 @@ dateCreated: 2020-01-03T19:30:35.400Z
 
 Este módulo permite que você cadastre os de meios de pagamento para utilização nas vendas.
 
-## Nova forma de pagamento
+# Nova forma de pagamento
 
 Para cadastrar uma nova forma de pagamento, clique no botão de adição (<em class="mdi mdi-plus"></em>) no **canto direito inferior** da tela inicial.
 
@@ -34,10 +34,47 @@ A tela para identificação da forma de pagamento será aberta:
 
 Após preencher as informações clique em <span class="mat-button mat-accent mdi"> salvar</span>.
 
-## Dispositivos
+# Dispositivos
+
+<!-- 
+O cadastro de dispositivos fornece integração do **GWEB** com o **TEF** ou com o aplicativo **ZPOS** disponível nas maquininhas de cartão da **STONE**, **BANRISUL (Vero Smart POS)** e **PAGBANK**. Em breve nas maquininhas do **SICREDI**.
+-->
 
 O cadastro de dispositivos fornece integração do **GWEB** com o aplicativo **ZPOS** disponível nas maquininhas de cartão da **STONE**, **BANRISUL (Vero Smart POS)** e **PAGBANK**. Em breve nas maquininhas do **SICREDI**.
 
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
 
+## POS
+
+Os campos disponíveis no formulário dos dispositivos POS são:
+
+![Formulário POS](/cadastros/pagamentos/form_pos.png)
+
+- **Tipo de dispositivo:** POS;
+- **Nome (identificação):** Identificação da maquininha POS;
+- **Integradora:** Selecione uma das integradoras disponíveis de acordo com a sua maquininha;
+- **Número Serial (POS):** Código exibido no app do Zpos dentro da maquinha;
+- **Imprimir documento da venda POS NFC-e (Decreto 56670/22 do RS):** Configuração para imprimir o documento da venda (NFC-e) dentro da maquininha POS.
+- **Imprimir documento da venda POS NF-e (Decreto 56670/22 do MT):** Configuração para imprimir o documento da venda (NF-e) dentro da maquininha POS.
+
 Para informações sobre como utilizar esta integração, [clique aqui](/pt-br/tutoriais/zpos).
+
+> Algumas maquininhas, como a PagBank, exigem um campo adicional para identificar a maquininha 
+{.is-info}
+
+## TEF
+Os campos disponíveis no formulário dos dispositivos TEF são:
+
+![Formulário TEF](/cadastros/pagamentos/form_tef.png)
+
+- **Tipo de dispositivo:** POS;
+- **Nome (identificação):** Identificação da maquininha POS;
+- **Código da empresa:** Código de identificação da empresa no TEF;
+- **Código da filial:** Código de identificação da filial no TEF;
+- **Código do terminal:** Código de identificação do terminal no TEF;
+- **Código do operador:** Código de identificação do operador no TEF;
+- **Porta USB PinPad:** Selecione a porta COM que identificará o TEF;
+- **Integradora:** Selecione a empresa integradora do TEF;
+
+Para informações sobre como utilizar esta integração, [clique aqui](/pt-br/tutoriais/tef-no-gweb).
+
