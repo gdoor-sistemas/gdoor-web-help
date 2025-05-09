@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2025-05-09T13:05:21.948Z
+date: 2025-05-09T13:08:06.003Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -43,7 +43,7 @@ O cadastro de dispositivos fornece integração do **GWEB** com o **TEF** ou com
 O cadastro de dispositivos fornece integração do **GWEB** com o aplicativo **ZPOS** disponível nas maquininhas de cartão da **STONE**, **BANRISUL (Vero Smart POS)** e **PAGBANK**. Em breve nas maquininhas do **SICREDI**.
 
 ![cad-dispositivo01.png](/config/ferramentas/cad-dispositivo01.png)
-
+<!--
 ## POS
 
 Os campos disponíveis no formulário dos dispositivos POS são:
@@ -56,9 +56,9 @@ Os campos disponíveis no formulário dos dispositivos POS são:
 - **Número Serial (POS):** Código exibido no app do Zpos dentro da maquinha;
 - **Imprimir documento da venda POS NFC-e (Decreto 56670/22 do RS):** Configuração para imprimir o documento da venda (NFC-e) dentro da maquininha POS.
 - **Imprimir documento da venda POS NF-e (Decreto 56670/22 do MT):** Configuração para imprimir o documento da venda (NF-e) dentro da maquininha POS.
-
+-->
 Para informações sobre como utilizar esta integração, [clique aqui](/pt-br/tutoriais/zpos).
-
+<!--
 > Algumas maquininhas, como a PagBank, exigem um campo adicional para identificar a maquininha 
 {.is-info}
 
@@ -77,4 +77,5 @@ Os campos disponíveis no formulário dos dispositivos TEF são:
 - **Integradora:** Selecione a empresa integradora do TEF;
 
 Para informações sobre como utilizar esta integração, [clique aqui](/pt-br/tutoriais/tef-no-gweb).
+-->
 
