@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2025-01-27T17:39:45.450Z
+date: 2025-05-09T14:03:23.159Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -657,6 +657,24 @@ Ao finalizar a configuração, clique em <span class="mat mat-button mat-accent"
 > Caso deseje saber como configurar para os códigos dos produtos com 4, 5 ou 6 dígitos, acesse os [tutoriais](/tutoriais)
 {.is-info}
 
+<!--
+## Configuração TEF
+
+Configurações do TEF utilizando o serviço Gdoor Payments, requer instalação do serviço.
+
+Para iniciar a configuração do TEF, clique em **Configurar serviço TEF (Gdoor Payments)**. Os campos disponíveis são:
+
+![Configuração TEF](/movimentos/pdv/config_tef.png)
+
+**URL do serviço:** Informe a URL do serviço TEF (computador com o Gdoor Payments Service instalado na rede);
+**Tipo do TEF:** Tipo do seu TEF, escolha entre **Dial(Texto)** ou **Dedicado(DLL)**;
+**Modelo do TEF:** Selecione dentre as opções, o modelo do TEF que a empresa utiliza;
+**Displya do QRCode:** Opção para exibir o QrCode no PinPad (Se suportado pelo dispositivo);
+**Opção de impressão:** Selecione para não imprimir, imprimir uma ou duas vias;
+**Confirmar transação automaticamente:** Marque para que o GWEB confirme a operação assim que o pagamento for realizado no TEF;
+
+Apos a configuração, clique no botão de <span class="mat mat-button mat-accent">Download<span class="mdi mdi-download"></span></span> para baixar e instalar o **Gdoor Payments Service** no computador em que o TEF está conectado.
+-->
 
 ## Equipamentos Fiscais
 
