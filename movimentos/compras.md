@@ -2,7 +2,7 @@
 title: Compras
 description: Veja como você pode cadastrar as notas de compra manualmente e por meio da importação do XML
 published: true
-date: 2025-01-27T17:47:32.225Z
+date: 2025-05-12T17:26:24.380Z
 tags: nf-e, estoque, movimentos, compras, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:34:45.629Z
@@ -383,9 +383,13 @@ Para configurar o certificado digital para emissão de NF-e, acesse as [Configur
 
 ## Composição de custo da compra
 
+![compo_custo.png](/compras/compo_custo.png)
+
 Marque as opções que deseja para o cálculo do custo de compra e custo médio do produto na compra.
 Selecione quais valores deseja na composição do custo dos produtos e clique em <span class="mat-button mdi ">SALVAR</span>.
 
 ## Produto
 
-Ao marcar essa opção, caso o **custo do produto** na nota de compra for maior que o **custo do produto** no cadastro do mesmo, será atualizado o **preço de venda** com base na **margem de lucro do produto**.
+![produto_preco_venda.png](/compras/produto_preco_venda.png)
+
+Ao marcar essa opção, caso o **custo do produto** na nota de compra for maior que o **custo do produto** na última compra, será atualizado o **preço de venda** com base na **margem de lucro do produto**.
