@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-09T13:47:26.555Z
+date: 2025-05-14T11:39:30.339Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 34
-- Ajustes: 176
+- Ajustes: 178
 
-**Total: 210**
+**Total: 212**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/05/2025
+f2.11.136, b3.10.269, b3.10.270 {.versions}
+
+## Ajustes
+- Corrigido problema no recebimento de parcelas que são parcialmente recebidas.
+- Ajustados valores negativos no gráfico de receitas do Dashboard
+
 # 09/05/2025
 b3.10.269 {.versions}
 
