@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T19:06:37.151Z
+date: 2025-05-16T19:20:38.626Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -30,9 +30,11 @@ No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="m
 
 ![Menu de dispositivos](/tutoriais/tef/1_menu_cadastro_pagamentos_dispositivos_.png)
 
-No formulário de dispositivos, selecione o **tipo "TEF"** e preencha os dados de acordo com o seu TEF. Os campos disponíveis são:
+No formulário de dispositivos, selecione o **tipo "TEF"** e preencha os dados de acordo com o seu TEF.
 
 ![Formulário de dispositivos TEF](/tutoriais/tef/2_form_dispositivo_tef.png)
+
+Os campos disponíveis são:
 
 - **Nome (identificação**: Nome do TEF para identificação interna da empresa;
 - **Código da empresa:** Código da sua empresa no cadastro do TEF;
@@ -42,15 +44,15 @@ No formulário de dispositivos, selecione o **tipo "TEF"** e preencha os dados d
 - **Porta USB PinPad:** Porta de comunicação com o dispositivo TEF;
 - **Integradora:** Selecione a integradora do seu TEF, dentre as disponíveis na lista;
 
-Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar o dispositivo.
+Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar o novo dispositivo.
 
 # Cadastrando uma nova forma de pagamento
 
-No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span> no canto inferior direito da tela.
+No GWEB, acesse o menu **Cadastros > Pagamentos** e clique no ícone <span class="mdi mdi-plus"></span> no canto inferior direito da tela.
 
 ![Cadastro de formas de pagamento](/tutoriais/tef/3_menu_cadastro_pagamentos_formas_.png)
 
-No formulário da forma de pagamento, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **Pagamento instantâneo (PIX) - Estático** e marque a opção **Utilizar dispositivos TEF**.
+No formulário da forma de pagamento, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX) - Estático"** e marque a opção **"Utilizar dispositivos TEF"**.
 
 Preencha os demais campos de acordo com a necessidade.
 
@@ -68,18 +70,18 @@ Na seção de **meios de pagamento** das configurações do PDV, marque a **form
 
 ![Formas de pagamento no PDV](/tutoriais/tef/5_1_configurar_formas.png)
 
-Ainda nas configurações do PDV, na seção **configuração TEF** marque a opção **configurar serviço TEF (Gdoor Payments)**.
+Ainda nas configurações do PDV, na seção **configuração TEF** marque a opção **"configurar serviço TEF (Gdoor Payments)"**.
 
 Preencha os dados de acordo com a configuração do seu TEF, os campos disponíveis são:
 
 ![Configurar TEF](/tutoriais/tef/6_configurar_tef_pdv.png)
 
-- **URL do serviço:** URL do local que possui o TEF conectado, se o TEF está conectado no seu próprio computador, utilize "localhost", caso contrário, informe o IP ou URL do TEF;
-- **Tipo do TEF:** Selecione entre **Dial (Texto)** ou **Dedicado(DLL)**;
+- **URL do serviço:** URL do local que possui o TEF conectado. Se o TEF está conectado no seu próprio computador, utilize "localhost", caso contrário, informe o IP ou URL do TEF;
+- **Tipo do TEF:** Selecione entre **"Dial (Texto)"** ou **"Dedicado(DLL)"**;
 - **Modelo do TEF:** Selecione o modelo do seu TEF dentre as opções disponíveis na lista;
-- **Display do QR Code:** Selecione onde será exibido o QR Code ou selecione **Não suportado** caso seu TEF não possua essa função;
+- **Display do QR Code:** Selecione onde será exibido o QR Code ou **Não suportado** caso seu TEF não possua essa função;
 - **Opção de impressão:** Selecione quantas vias deseja imprimir;
-- **Confirmar tansação automaticamente:** Marque esta opção se deseja que a transação seja confirmada automaticamente no dispositivo TEF;
+- **Confirmar tansação automaticamente:** Marque esta opção se deseja que a transação seja confirmada automaticamente no dispositivo TEF quando retornada ao GWEB;
 
 Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
 
@@ -98,4 +100,6 @@ Selecione o dispositivo TEF que deseja e clique em <span class="mat mat-button">
 
 ![9_confirmacao_tef.png](/tutoriais/tef/9_confirmacao_tef.png)
 
-Quando o pagamento for confirmado pelo **TEF**, o GWEB receberá o código da transação e o exibirá na tela, após isso, a venda pode ser continuada.
+Quando o pagamento for confirmado pelo **TEF**, o GWEB receberá o código da transação e o exibirá na tela.
+
+Agora o **TEF** pode ser utilizado em qualquer venda no GWEB!
