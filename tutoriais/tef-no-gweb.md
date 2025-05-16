@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T19:20:38.626Z
+date: 2025-05-16T19:21:43.659Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -102,4 +102,4 @@ Selecione o dispositivo TEF que deseja e clique em <span class="mat mat-button">
 
 Quando o pagamento for confirmado pelo **TEF**, o GWEB receberá o código da transação e o exibirá na tela.
 
-Agora o **TEF** pode ser utilizado em qualquer venda no GWEB!
+Agora o **TEF** pode ser utilizado em qualquer venda no GWEB. E caso julgar necessário, ainda é possível **cadastrar outras formas de pagamento** que utilizem a integração.
