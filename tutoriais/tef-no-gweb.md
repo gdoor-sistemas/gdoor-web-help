@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T18:14:46.339Z
+date: 2025-05-16T18:33:32.748Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -85,4 +85,8 @@ Preencha os dados de acordo com a configuração do seu TEF, os campos disponív
 - **Modelo do TEF:** Selecione o modelo do seu TEF dentre as opções disponíveis na lista;
 - **Display do QR Code:** Selecione onde será exibido o QR Code ou selecione **Não suportado** caso seu TEF não possua essa função;
 - **Opção de impressão:** Selecione quantas vias deseja imprimir;
-- **Confirmar tansação automaticamente:** 
+- **Confirmar tansação automaticamente:** Marque esta opção se deseja que a transação seja confirmada automaticamente no dispositivo TEF;
+
+Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
+
+
