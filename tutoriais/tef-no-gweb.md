@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T18:33:32.748Z
+date: 2025-05-16T19:04:07.283Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -29,6 +29,10 @@ Os **passos necessários** para a **habilitação do TEF** no GWEB são os segui
 3.	Habilitar o uso do TEF no PDV e configurar a integração;
 4.	Baixar e instalar o *Gdoor Payments Service*;
 5.	Testar e usar a integração;
+
+> Atenção
+Caso deseje utilizar a integração do ZPOS, acesse o [passo a passo](/pt-br/tutoriais/zpos) específico.
+{.is-info}
 
 # Cadastrando um novo dispositivo TEF
 
@@ -89,4 +93,19 @@ Preencha os dados de acordo com a configuração do seu TEF, os campos disponív
 
 Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
 
+# Uso no PDV
 
+No PDV do GWEB, inclua um ou mais produtos na venda e avance até a **tela de pagamentos**. Nela, **pressione o atalho** da forma de pagamento cadastrada para utilizar a integração com TEF.
+
+![Pagamento no PDV](/tutoriais/tef/7_pagamento_pdv.png)
+
+Selecione o dispositivo TEF que deseja e clique em <span class="mat mat-button">realizar cobrança</span>
+
+![8_selecionar_tef.png](/tutoriais/tef/8_selecionar_tef.png)
+
+> Na **primeira venda** será necessário selecionar o dispositivo TEF que deseja utilizar, este dispositivo **ficará salvo** e será utilizado **automaticamente nas próximas vendas**.
+{.is-info}
+
+![9_confirmacao_tef.png](/tutoriais/tef/9_confirmacao_tef.png)
+
+Quando o pagamento for confirmado pelo **TEF**, o GWEB receberá o código da transação e o exibirá na tela, após isso, a venda pode ser continuada.
