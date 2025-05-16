@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T17:01:32.765Z
+date: 2025-05-16T17:05:51.247Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -48,5 +48,8 @@ No formulário de dispositivos, selecione o **tipo "TEF"** e preencha os dados d
 - **Porta USB PinPad:** Porta de comunicação com o dispositivo TEF;
 - **Integradora:** Selecione a integradora do seu TEF, dentre as disponíveis na lista;
 
+# Cadastrando uma nova forma de pagamento
 
+No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span> no canto inferior direito da tela.
 
+![Menu de cadastros de pagamentos](/tutoriais/tef/3_menu_cadastro_pagamentos_formas_.png)
