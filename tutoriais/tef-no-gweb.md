@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T20:08:12.677Z
+date: 2025-05-19T20:20:40.511Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -54,36 +54,38 @@ No GWEB, acesse o menu **Cadastros > Pagamentos** e clique no ícone <span class
 
 ![Cadastro de formas de pagamento](/tutoriais/tef/3_menu_cadastro_pagamentos_formas_.png)
 
-Na tela do novo cadastro, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX) - Estático"** e marque a opção **"Utilizar dispositivos TEF"**.
+Na tela do **novo cadastro**, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX)** - Estático" e marque a opção **"Utilizar dispositivos TEF"**.
 
-Preencha os demais campos de acordo com a necessidade.
+
+Preencha os demais campos conforme a necessidade.
 
 ![Cadastro da forma de pagamento TEF](/tutoriais/tef/4_form_forma_pagamento_com_tef.png)
 
-Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar a forma de pagamento.
+Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar a nova forma de pagamento.
 
 # Configurar o PDV e habilitar o TEF
-
-No GWEB, acesse o menu **Movimentações > PDV** e clique no submenu **Configurações do PDV** no canto inferior direito.
+No GWEB, acesse o menu **Movimentações > PDV** e clique no submenu **Configurações do PDV**, no canto inferior direito.
 
 ![Configurações do PDV](/tutoriais/tef/5_acessar_config_pdv.png)
 
-Na seção de **meios de pagamento** das configurações do PDV, marque a **forma de pagamento** que acabou de cadastrar e clique em <span class="mat mat-button mat-accent">salvar</span> para gravar as informações.
+Na seção de **Meios de pagamento**, marque a **forma de pagamento** cadastrada e clique em <span class="mat mat-button mat-accent">salvar</span> para gravar as informações.
 
 ![Formas de pagamento no PDV](/tutoriais/tef/5_1_configurar_formas.png)
 
-Ainda nas configurações do PDV, na seção **configuração TEF** marque a opção **"configurar serviço TEF (Gdoor Payments)"**.
+Ainda nas configurações do PDV, na seção **Configuração TEF**, marque a opção **"Configurar serviço TEF (Gdoor Payments)"**.
 
-Preencha os dados de acordo com a configuração do seu TEF, os campos disponíveis são:
+
+Preencha os dados de acordo com a configuração do seu TEF. Os campos disponíveis são:
+
 
 ![Configurar TEF](/tutoriais/tef/6_configurar_tef_pdv.png)
 
-- **URL do serviço:** URL do local que possui o TEF conectado. Se o TEF está conectado no seu próprio computador, utilize "localhost", caso contrário, informe o IP ou URL do TEF;
-- **Tipo do TEF:** Selecione entre **"Dial (Texto)"** ou **"Dedicado(DLL)"**;
-- **Modelo do TEF:** Selecione o modelo do seu TEF dentre as opções disponíveis na lista;
-- **Display do QR Code:** Selecione onde será exibido o QR Code ou **Não suportado** caso seu TEF não possua essa função;
-- **Opção de impressão:** Selecione quantas vias deseja imprimir;
-- **Confirmar tansação automaticamente:** Marque esta opção se deseja que a transação seja confirmada automaticamente no dispositivo TEF quando retornada ao GWEB;
+- **URL do serviço:** endereço do servidor com o TEF conectado. Se o TEF estiver no mesmo computador, utilize “localhost”; caso contrário, informe o IP ou URL correspondente;
+- **Tipo do TEF:** selecione entre **"Dial (Texto)"** ou **"Dedicado (DLL)"**;
+- **Modelo do TEF:** selecione o modelo entre as opções disponíveis;
+- **Display do QR Code:** escolha onde o QR Code será exibido ou selecione **"Não suportado"** caso o TEF não ofereça essa função;
+- **Opção de impressão:** defina quantas vias deseja imprimir;
+- **Confirmar tansação automaticamente:** marque esta opção se desejar que a transação seja confirmada automaticamente no dispositivo TEF, assim que for retornada ao GWEB.
 
 Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
 
