@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T20:27:43.243Z
+date: 2025-05-19T20:40:08.967Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -22,11 +22,11 @@ Atualmente a integração TEF no GWEB está disponível nas seguintes integrador
 > A comunicação entre o GWEB e o TEF funciona apenas em dispositivos **com sistema operacional Windows**.
 {.is-info}
 
-Listamos, neste tópico, o passo a passo completo para a configuração e teste do TEF no GWEB.
+Listamos, neste tópico, o passo a passo completo para a configuração e teste do **TEF** no **GWEB**.
 
 # Cadastrando um novo dispositivo TEF
 
-No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span>, disponível no submenu **Dispositivos**, para cadastrar um novo dispositivo TEF.
+No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span>, disponível no submenu **Dispositivos**, para cadastrar um **novo dispositivo TEF**.
 
 ![Menu de dispositivos](/tutoriais/tef/1_menu_cadastro_pagamentos_dispositivos_.png)
 
@@ -44,6 +44,7 @@ Os campos disponíveis são:
 - **Porta USB PinPad:** porta de comunicação com o dispositivo TEF;
 - **Integradora:** selecione a integradora do seu TEF, dentre as opções disponíveis na lista.
 
+
 Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar o novo dispositivo.
 
 # Cadastrando uma nova forma de pagamento
@@ -54,7 +55,7 @@ No GWEB, acesse o menu **Cadastros > Pagamentos** e clique no ícone <span class
 
 ![Cadastro de formas de pagamento](/tutoriais/tef/3_menu_cadastro_pagamentos_formas_.png)
 
-Na tela do **novo cadastro**, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX)** - Estático" e marque a opção **"Utilizar dispositivos TEF"**.
+Na tela de cadastro da **nova forma de pagamento**, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX) - Estático"** e marque a opção **"Utilizar dispositivos TEF"**.
 
 
 Preencha os demais campos conforme a necessidade.
@@ -68,7 +69,7 @@ No GWEB, acesse o menu **Movimentações > PDV** e clique no submenu **Configura
 
 ![Configurações do PDV](/tutoriais/tef/5_acessar_config_pdv.png)
 
-Na seção de **Meios de pagamento**, marque a **forma de pagamento** cadastrada e clique em <span class="mat mat-button mat-accent">salvar</span> para gravar as informações.
+Na seção **Meios de pagamento**, marque a **forma de pagamento** cadastrada e clique em <span class="mat mat-button mat-accent">salvar</span> para gravar as informações.
 
 ![Formas de pagamento no PDV](/tutoriais/tef/5_1_configurar_formas.png)
 
@@ -90,7 +91,7 @@ Preencha os dados de acordo com a configuração do seu TEF. Os campos disponív
 Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
 
 # Uso no PDV
-No PDV do GWEB, inclua um ou mais produtos na venda e avance até a** tela de pagamentos**. Nela, **pressione o atalho** correspondente à forma de pagamento cadastrada para utilizar a integração com o TEF.
+No PDV do GWEB, inclua um ou mais produtos na venda e avance até a **tela de pagamentos**. Nela, **pressione o atalho** correspondente à forma de pagamento cadastrada para utilizar a integração com o TEF.
 
 
 ![Pagamento no PDV](/tutoriais/tef/7_pagamento_pdv.png)
