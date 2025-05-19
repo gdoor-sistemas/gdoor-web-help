@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-14T11:45:00.293Z
+date: 2025-05-19T17:02:31.027Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 34
-- Ajustes: 177
+- Ajustes: 178
 
-**Total: 211**
+**Total: 212**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/05/2025
+b3.10.271 {.versions}
+
+## Ajustes
+- Ajustada divergência de valores no relatório de movimentações.
+
 # 13/05/2025
 f2.11.136, b3.10.270 {.versions}
 
