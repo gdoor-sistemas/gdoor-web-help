@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T20:20:40.511Z
+date: 2025-05-19T20:21:40.159Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
