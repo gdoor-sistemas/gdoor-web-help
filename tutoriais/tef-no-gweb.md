@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T19:56:35.884Z
+date: 2025-05-19T20:08:12.677Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-16T12:55:02.228Z
 
 # Introdução
 
-Na integração do **GWEB** com o **TEF**, o sistema se **comunica com um serviço instalado no computador**. É esse serviço que **requisita o pagamento no dispositivo TEF** conectado e o retorna ao GWEB confirmando a operação.
+Na integração do **GWEB** com o **TEF**, o sistema se **comunica com um serviço instalado no computador**. É esse serviço que **solicita o pagamento ao dispositivo TEF** conectado e retorna a confirmação da operação ao GWEB.
 
 Atualmente a integração TEF no GWEB está disponível nas seguintes integradoras:
 
@@ -19,40 +19,42 @@ Atualmente a integração TEF no GWEB está disponível nas seguintes integrador
 - **BANRISUL**
 - **PAGBANK**
 
-> A comunicação do GWEB com o TEF funciona apenas em dispositivos **Windows**.
+> A comunicação entre o GWEB e o TEF funciona apenas em dispositivos **com sistema operacional Windows**.
 {.is-info}
 
-Listamos neste tópico, o passo a passo completo para configuração e teste do TEF no GWEB.
+Listamos, neste tópico, o passo a passo completo para a configuração e teste do TEF no GWEB.
 
 # Cadastrando um novo dispositivo TEF
 
-No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span> no submenu **Dispositivos** à direita para cadastrar um novo dispositivo TEF.
+No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span>, disponível no submenu **Dispositivos**, para cadastrar um novo dispositivo TEF.
 
 ![Menu de dispositivos](/tutoriais/tef/1_menu_cadastro_pagamentos_dispositivos_.png)
 
-No formulário de dispositivos, selecione o **tipo "TEF"** e preencha os dados de acordo com o seu TEF.
+Na tela do **novo cadastro**, selecione o **tipo "TEF"** e preencha os dados conforme as informações do seu terminal.
 
 ![Formulário de dispositivos TEF](/tutoriais/tef/2_form_dispositivo_tef.png)
 
 Os campos disponíveis são:
 
-- **Nome (identificação**: Nome do TEF para identificação interna da empresa;
-- **Código da empresa:** Código da sua empresa no cadastro do TEF;
-- **Código da filial:** Código da sua filial ligada a empresa no cadastro do TEF (pode ocorrer de ser o mesmo código da empresa);
-- **Código do terminal:** Código do terminal TEF que está sendo instalado;
-- **Código do operador:** Código do operador do TEF (sistema ou usuário);
-- **Porta USB PinPad:** Porta de comunicação com o dispositivo TEF;
-- **Integradora:** Selecione a integradora do seu TEF, dentre as disponíveis na lista;
+- **Nome (identificação)**: nome do TEF para identificação interna da empresa;
+- **Código da empresa:** código da empresa cadastrado no sistema TEF;
+- **Código da filial:** código da filial vinculada à empresa no cadastro do TEF (pode ser o mesmo código da empresa);
+- **Código do terminal:** código do terminal TEF que está sendo instalado;
+- **Código do operador:** código do operador do TEF (pode ser o sistema ou um usuário específico);
+- **Porta USB PinPad:** porta de comunicação com o dispositivo TEF;
+- **Integradora:** selecione a integradora do seu TEF, dentre as opções disponíveis na lista.
 
 Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar o novo dispositivo.
 
 # Cadastrando uma nova forma de pagamento
 
-No GWEB, acesse o menu **Cadastros > Pagamentos** e clique no ícone <span class="mdi mdi-plus"></span> no canto inferior direito da tela.
+No GWEB, acesse o menu **Cadastros > Pagamentos** e clique no ícone <span class="mdi mdi-plus"></span> localizado no canto inferior direito da tela.
+
+
 
 ![Cadastro de formas de pagamento](/tutoriais/tef/3_menu_cadastro_pagamentos_formas_.png)
 
-No formulário da forma de pagamento, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX) - Estático"** e marque a opção **"Utilizar dispositivos TEF"**.
+Na tela do novo cadastro, no campo **Referência na NF-e**, selecione **"Cartão de crédito"**, **"Cartão de débito"** ou **"Pagamento instantâneo (PIX) - Estático"** e marque a opção **"Utilizar dispositivos TEF"**.
 
 Preencha os demais campos de acordo com a necessidade.
 
