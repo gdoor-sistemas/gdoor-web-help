@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-16T19:24:29.607Z
+date: 2025-05-19T19:56:35.884Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -10,7 +10,7 @@ dateCreated: 2025-05-16T12:55:02.228Z
 
 # Introdução
 
-Na integração do **GWEB** com o **TEF**, o sistema **comunica com um serviço instalado em seu computador**, este serviço **requisita o pagamento no dispositivo TEF** conectado e o retorna ao GWEB confirmando a operação.
+Na integração do **GWEB** com o **TEF**, o sistema se **comunica com um serviço instalado no computador**. É esse serviço que **requisita o pagamento no dispositivo TEF** conectado e o retorna ao GWEB confirmando a operação.
 
 Atualmente a integração TEF no GWEB está disponível nas seguintes integradoras:
 
