@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T20:21:40.159Z
+date: 2025-05-19T20:27:43.243Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -90,20 +90,20 @@ Preencha os dados de acordo com a configuração do seu TEF. Os campos disponív
 Por fim, realize o download e instalação do **Gdoor Payments Service** no computador através do botão <span class="mat mat-button mat-accent">download</span>.
 
 # Uso no PDV
+No PDV do GWEB, inclua um ou mais produtos na venda e avance até a** tela de pagamentos**. Nela, **pressione o atalho** correspondente à forma de pagamento cadastrada para utilizar a integração com o TEF.
 
-No PDV do GWEB, inclua um ou mais produtos na venda e avance até a **tela de pagamentos**. Nela, **pressione o atalho** da forma de pagamento cadastrada para utilizar a integração com TEF.
 
 ![Pagamento no PDV](/tutoriais/tef/7_pagamento_pdv.png)
 
-Selecione o dispositivo TEF que deseja e clique em <span class="mat mat-button">realizar cobrança</span>
+Selecione o dispositivo TEF desejado e clique em <span class="mat mat-button">realizar cobrança</span>
 
 ![8_selecionar_tef.png](/tutoriais/tef/8_selecionar_tef.png)
 
-> Na **primeira venda** será necessário selecionar o dispositivo TEF que deseja utilizar, este dispositivo **ficará salvo** e será utilizado **automaticamente nas próximas vendas**.
+> Na **primeira venda**, será necessário selecionar o dispositivo TEF que será utilizado. Esse dispositivo **ficará salvo** e será usado **automaticamente nas próximas vendas**.
 {.is-info}
 
 ![9_confirmacao_tef.png](/tutoriais/tef/9_confirmacao_tef.png)
 
 Quando o pagamento for confirmado pelo **TEF**, o GWEB receberá o código da transação e o exibirá na tela.
 
-Agora o **TEF** pode ser utilizado em qualquer venda no GWEB. E caso julgar necessário, ainda é possível **cadastrar outras formas de pagamento** que utilizem a integração.
+Agora o **TEF** pode ser utilizado em qualquer venda no GWEB. Caso necessário, é possível cadastrar outras formas de pagamento que também utilizem a integração.
