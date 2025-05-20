@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-20T20:32:40.594Z
+date: 2025-05-20T20:40:59.784Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -41,7 +41,7 @@ b3.10.270 b3.10.272 b3.10.273 f2.11.136 f2.11.137 {.versions}
 - Ajustado o download das movimentações para trazer o arquivo .pdf
 - Ajustado o status do Pedido de Venda ao gerar NFS-e para concluído.
 - Removida a configuração de metas para seriais que não possuem financeiro. 
-- Ajustada o observações da NF-e para trazer somente um cifrão no campo Funrural.
+- Ajustadas as observações da NF-e para trazer somente um cifrão no campo Funrural.
 - Ajustado o DAMDFE para ter um espaçamento entre os dados do seguro e o restante das informações.
 - Ajustado o status no relatório Contas a Receber para a língua Portuguesa.
 - Removidos os produtos de Uso e Consumo da busca por escrito no PDV.
