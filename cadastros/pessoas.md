@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-05-08T20:11:30.806Z
+date: 2025-05-20T12:54:33.884Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -104,9 +104,9 @@ Este quadro será exibido quando o [atributo](#atributos) **cliente** estiver ma
 
 - **Dia de acerto**: indica o dia do mês em que vencerão as contas geradas para o cliente;
 - **Limite de crédito**: limite de crédito do cliente para contas parceladas;
-<!-- - **Limite de crédito**: limite de crédito do cliente, ele será respeitado de acordo com a [configuração](/pt-br/configuracoes/geral) marcada;
+- **Limite de crédito**: limite de crédito do cliente, ele será respeitado de acordo com a [configuração](/pt-br/configuracoes/geral) marcada;
 **Valores em atraso:** Valores que este cliente tem em atraso no financeiro;
--->
+
 - **Tabela de preços preferencial**: indica a [tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços) que deve ser utilizada quando esse cliente for indicado em uma venda.
 - **Vendedor do cliente**: indica o vendedor preferencial para este cliente. Esta informação será utilizada nas vendas que serão realizadas para este cliente no GWEB e no GPED.
 
