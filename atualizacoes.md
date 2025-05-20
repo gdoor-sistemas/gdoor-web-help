@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-19T17:03:42.702Z
+date: 2025-05-20T20:32:40.594Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 34
-- Ajustes: 178
+- Novidades: 36
+- Ajustes: 202
 
 **Total: 212**
 
@@ -24,6 +24,40 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 20/05/2025
+b3.10.270 b3.10.272 b3.10.273 f2.11.136 f2.11.137 {.versions}
+
+## Novidades
+- Criada opção para resetar base de dados. Essas opção está presente em Configurações -> Ferramentas.
+- Criada configuração para verificação do limite de crédito e faturamento para clientes inadimplentes ao salvar documentos.
+
+## Ajustes
+- Ajustado o relatório de Plano de contas adicionando um filtro ‘Incluir subcategorias’ que permite visualizar o valor das contas filhas filtrando o relatório pela conta pai.
+- Ajustada a sangria para não permitir confirmar sem informar a conta de destino
+- Ajustadas as informações do help referente ao cadastro de pessoas.
+- Removida a opção de imprimir Pedidos de Venda cancelados.
+- Ajustado o Relatório de Pedidos de Venda (Simplificado) para não considerar Pedidos de Venda deletados.
+- Ajustado relatório Total de NF-e/NFC-e por situação para gerar o registro de NFC-e.
+- Ajustado o download das movimentações para trazer o arquivo .pdf
+- Ajustado o status do Pedido de Venda ao gerar NFS-e para concluído.
+- Removida a configuração de metas para seriais que não possuem financeiro. 
+- Ajustada o observações da NF-e para trazer somente um cifrão no campo Funrural.
+- Ajustado o DAMDFE para ter um espaçamento entre os dados do seguro e o restante das informações.
+- Ajustado o status no relatório Contas a Receber para a língua Portuguesa.
+- Removidos os produtos de Uso e Consumo da busca por escrito no PDV.
+- Permitida a exclusão de notas com rejeição 302.
+- Criado um filtro para exclusão dos CT-e cancelados nos relatórios de CTe.
+- Ajustado o Relatório do Inventário para trazer as unidades dos produtos.
+- Ajustado o Conversor de CFOP para trazer as CFOPs 6920 e 5920.
+- Ajustada a visualização da lista de conversão de CFOP para entradas para não ter itens sobrepostos.
+- Ajustada a geração do relatório em EXCEL para constar o nome fantasia dos clientes no topo do mesmo.
+- Ajustado o texto dos relatórios sem informação para a ortografia correta.
+- Bloqueada a inativação da conta Caixa #1.
+- Ajustado o relatório Contas a Receber para considerar a data da baixa.
+- Ajustada a formatação de casas decimais no relatório Movimentação Financeira.
+- Ajustada a finalização de pagamentos no PDV para ao clicar F3 utilizar sempre a forma padrão de pagamento.
+
+
 # 16/05/2025
 b3.10.271 {.versions}
 
