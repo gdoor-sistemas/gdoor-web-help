@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-21T17:33:33.757Z
+date: 2025-05-21T20:29:31.843Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -28,7 +28,7 @@ ir para [2021](#h-2021) {.goto}
 b3.10.270 b3.10.272 b3.10.273 f2.11.136 f2.11.137 {.versions}
 
 ## Novidades
-- Criada opção para resetar base de dados. Essas opções estão presentes em Configurações -> Ferramentas.
+- Criada opção para resetar base de dados. Essa opção está presente em Configurações -> Ferramentas.
 - Criada configuração para verificação do limite de crédito e faturamento para clientes inadimplentes ao salvar documentos.
 
 ## Ajustes
