@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-03T17:12:13.393Z
+date: 2025-06-03T18:28:19.709Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 36
-- Ajustes: 217
+- Ajustes: 218
 
-**Total: 241**
+**Total: 242**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -40,11 +40,7 @@ f2.11.139, b3.10.276, p1.0.38 {.versions}
 - Migrado ambiente de autorização de NFC-e para o estado do Ceará.
 - Adicionado o campo celular no relatório "Listagem de Pessoas".
 - Ajustes no limites de crédito: ajustada a visualização da configuração geral no Hibrido, ajustada a visualização das receitas de clientes inadimplentes e ajustado o retorno ao cancelar a operação quando o PDV está configurado para perguntar sempre.
-
-
-
-
-
+- Ajustado problema ao salvar a NFC-e.
 
 # 22/05/2025
 f2.11.138, b3.10.274 {.versions}
@@ -86,7 +82,6 @@ b3.10.270 b3.10.272 b3.10.273 f2.11.136 f2.11.137 {.versions}
 - Ajustado o relatório Contas a Receber para considerar a data da baixa.
 - Ajustada a formatação de casas decimais no relatório Movimentação Financeira.
 - Ajustada a finalização de pagamentos no PDV para ao clicar F3 utilizar sempre a forma padrão de pagamento.
-
 
 # 16/05/2025
 b3.10.271 {.versions}
