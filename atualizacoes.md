@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-05-22T20:25:42.301Z
+date: 2025-06-03T16:48:45.254Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 36
-- Ajustes: 205
+- Ajustes: 217
 
 **Total: 241**
 
@@ -24,6 +24,28 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/06/2025
+f2.11.139, b3.10.276, p1.0.38 {.versions}
+
+## Ajustes
+- Ajustada a busca de produtos por código de barras no PDV.
+- Removido o troco do relatório "Total de Vendas por Meio de Pagamento" e adicionado filtro "Incluir troco" no relatório.
+- Ajustada a visualização de MDF-e com 3 placas.
+- Ajustado o Sped Fiscal para não gerar itens com quantidade zerada no bloco K.
+- Ajustado o recebimento de receitas para permitir transações com receita parcial.
+- Ajustados os avisos referente a valores incorretos em venda parcelada.
+- Criada validação de tamanho dos campos numéricos e casas decimais ao importar JSON.
+- Adicionada obrigatoriedade ao campo meios de pagamento ao efetivar receita.
+- Ajustado o arquivo de balança para trazer a informação da validade.
+- Migrado ambiente de autorização de NFC-e para o estado do Ceará.
+- Adicionado o campo celular no relatório "Listagem de Pessoas".
+- Ajustes no limites de crédito: ajustada a visualização da configuração geral no Hibrido, ajustada a visualização das receitas de clientes inadimplentes e ajustado o retorno ao cancelar a operação quando o PDV está configurado para perguntar sempre.
+
+
+
+
+
+
 # 22/05/2025
 f2.11.138, b3.10.274 {.versions}
 
