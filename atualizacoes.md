@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-03T19:35:54.798Z
+date: 2025-06-03T20:06:13.597Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 03/06/2025
-f2.11.139, b3.10.276, p1.0.38 {.versions}
+f2.11.139, b3.10.276, b3.10.277, p1.0.38 {.versions}
 
 ## Ajustes
 - Ajustada a busca de produtos por código de barras no PDV.
