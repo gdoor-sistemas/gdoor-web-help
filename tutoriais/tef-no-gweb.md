@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: false
-date: 2025-05-19T20:40:08.967Z
+date: 2025-06-03T17:42:14.714Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -42,8 +42,6 @@ Os campos disponíveis são:
 - **Código do terminal:** código do terminal TEF que está sendo instalado;
 - **Código do operador:** código do operador do TEF (pode ser o sistema ou um usuário específico);
 - **Porta USB PinPad:** porta de comunicação com o dispositivo TEF;
-- **Integradora:** selecione a integradora do seu TEF, dentre as opções disponíveis na lista.
-
 
 Ao finalizar o cadastro, clique em <span class="mat mat-button mat-accent">salvar</span> para gravar o novo dispositivo.
 
