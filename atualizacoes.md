@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-03T20:06:34.331Z
+date: 2025-06-04T17:29:13.613Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 36
-- Ajustes: 218
+- Novidades: 37
+- Ajustes: 219
 
-**Total: 242**
+**Total: 244**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/06/2025
+b3.10.278, b3.10.280 {.versions}
+
+## Novidades
+- Atualizados novos códigos ANP para o cadastro de produtos.
+
+## Ajustes
+- Ajustada falha ao importar arquivos .JSON no Gweb.
+
 # 03/06/2025
 f2.11.139, b3.10.276, b3.10.277, p1.0.38 {.versions}
 
