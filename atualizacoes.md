@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-04T17:30:17.937Z
+date: 2025-06-09T11:23:04.005Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 37
-- Ajustes: 219
+- Ajustes: 220
 
-**Total: 244**
+**Total: 245**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/06/2025
+b3.10.281, p1.0.42 {.versions}
+
+## Ajustes
+- Ajustadas as sangrias e suprimentos para seriais sem o módulo de financeiro habilitado.
+
 # 04/06/2025
 b3.10.278, b3.10.280 {.versions}
 
