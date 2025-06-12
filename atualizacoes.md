@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-09T11:26:02.197Z
+date: 2025-06-12T17:28:38.359Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 37
-- Ajustes: 220
+- Ajustes: 221
 
-**Total: 245**
+**Total: 246**
 
 --- 
 ir para [2023](#h-2023) {.goto}
@@ -24,6 +24,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/06/2025
+b3.10.282 {.versions}
+
+## Ajustes
+- Ajustado Registro 70 do Sintegra para validar outras séries para o modelo 57.
+
 # 09/06/2025
 b3.10.281, p1.0.42 {.versions}
 
