@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-17T11:25:20.332Z
+date: 2025-06-17T11:28:02.874Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -29,7 +29,7 @@ f2.11.140, b3.10.284, p1.0.43 {.versions}
 
 ## Ajustes
 - Ajustada a importação da compra para possibilitar importação de XMLs que contenham preços unitários com casas decimais.
-- Ajustada despadronização visual no orçamento ao realizar remoção e adição de colunas do item.
+- Ajustada padronização visual no orçamento ao realizar remoção e adição de colunas do item.
 - Ajustada geração de MDF-e a partir do CT-e para trazer a informação de peso bruto.
 - Ajustado cálculo e aplicação de desconto na NFS-e.
 - Removida incidência de juros e multas automáticos no efetivar despesas que estava ocorrendo devido a configuração de juros e multa das receitas.
