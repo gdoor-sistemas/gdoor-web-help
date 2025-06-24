@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-24T11:34:12.683Z
+date: 2025-06-24T11:41:55.633Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -17,6 +17,8 @@ Em **2025** já foram implementados:
 **Total: 247**
 
 --- 
+ir para [2024](#h-2024) {.goto}
+
 ir para [2023](#h-2023) {.goto}
 
 ir para [2022](#h-2022) {.goto}
@@ -618,6 +620,24 @@ f2.11.95, b3.10.191 {.versions}
 
 ## Ajustes
 - Ajustado o registro da receita no contas a receber para descontar o troco.
+
+---
+# 2024 {.year}
+
+Foram implementados:
+- Novidades: contabilizando
+- Ajustes: contabilizando
+
+**Total: contabilizando**
+
+--- 
+ir para [2023](#h-2023) {.goto}
+
+ir para [2022](#h-2022) {.goto}
+
+ir para [2021](#h-2021) {.goto}
+
+---
 
 # 30/12/2024
 f2.11.94 {.versions}
