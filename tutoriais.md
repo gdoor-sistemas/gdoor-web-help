@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2024-10-28T14:08:37.709Z
+date: 2025-06-24T11:24:51.297Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -29,4 +29,5 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [Cadastrar forma de pagamento PIX *Passo a passo para cadastrar o PIX com QR Code*](/tutoriais/cadastrar-pix)
 - [Módulo financeiro *Veja como gerenciar as finanças da sua empresa no Gweb*](/tutoriais/financeiro)
 - [SAT/MFe *Veja como realizar a configuração do SAT/MFe para emissão de cupom em SP e CE*](/pt-br/tutoriais/configuração-mfe-sat)
+- [TEF *Veja como configurar o TEF para utilizar no GWEB*](/pt-br/tutoriais/tef-no-gweb)
 {.links-list}
