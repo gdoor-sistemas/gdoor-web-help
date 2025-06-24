@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-24T11:16:21.393Z
+date: 2025-06-24T11:34:12.683Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -25,7 +25,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 24/06/2025
-f2.11.141, b3.10.285, p1.0.44 {.versions}
+f2.11.141, f2.11.142, b3.10.285, p1.0.44 {.versions}
 
 ## Novidades
 - Implementado o TEF no web e híbrido.
