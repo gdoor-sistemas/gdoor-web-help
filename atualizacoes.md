@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-17T11:28:02.874Z
+date: 2025-06-24T11:16:21.393Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 37
-- Ajustes: 232
+- Novidades: 40
+- Ajustes: 234
 
 **Total: 247**
 
@@ -24,6 +24,19 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/06/2025
+f2.11.141, b3.10.285, p1.0.44 {.versions}
+
+## Novidades
+- Implementado o TEF no web e híbrido.
+- Criado filtro para itens no relatório ‘Alterações no produto’.
+- Implementado campo totalizador de quantidade do produto após aplicação do fator de conversão na nota de compra.
+
+## Ajustes
+- Adicionado filtro por categoria de produto no relatório ‘Total de produtos vendidos por cliente’.
+- Ajustado o pagamento único do módulo de despesas.
+
+
 # 17/06/2025
 f2.11.140, b3.10.284, p1.0.43 {.versions}
 
@@ -36,7 +49,7 @@ f2.11.140, b3.10.284, p1.0.43 {.versions}
 - Ajustado gráfico de documentos fiscais emitidos para refletir as informações do relatório e trazer as informações da NFS-e.
 - Ajustados os detalhes da receita ao receber uma receita com mais de um pagamento em dinheiro e troco.
 - Ajustados impostos para utilizarem BC ICMS 0% ao utilizar CST 90 ou CSOSN 900.
--  Ajustada função de geração de código de barras para produto pesável.
+- Ajustada função de geração de código de barras para produto pesável.
 - Ajustado o comportamento do pagamento de despesas ao realizar mais de um pagamento para a mesma despesa.
 
 
