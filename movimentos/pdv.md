@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2025-05-09T14:03:30.279Z
+date: 2025-06-24T11:23:32.298Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -657,7 +657,7 @@ Ao finalizar a configuração, clique em <span class="mat mat-button mat-accent"
 > Caso deseje saber como configurar para os códigos dos produtos com 4, 5 ou 6 dígitos, acesse os [tutoriais](/tutoriais)
 {.is-info}
 
-<!--
+
 ## Configuração TEF
 
 Configurações do TEF utilizando o serviço Gdoor Payments, requer instalação do serviço.
@@ -674,7 +674,7 @@ Para iniciar a configuração do TEF, clique em **Configurar serviço TEF (Gdoor
 **Confirmar transação automaticamente:** Marque para que o GWEB confirme a operação assim que o pagamento for realizado no TEF;
 
 Apos a configuração, clique no botão de <span class="mat mat-button mat-accent">Download<span class="mdi mdi-download"></span></span> para baixar e instalar o **Gdoor Payments Service** no computador em que o TEF está conectado.
--->
+
 
 ## Equipamentos Fiscais
 
@@ -931,11 +931,9 @@ Clicando no botão <span data-mat-button>Ver inutilizados</span> você pode ver 
 > Se por algum motivo você inutilizar uma numeração superior ao último número de NFC-e registrada no sistema, ao gerar a próxima, ele considerará a inutilização para gerar o próximo número.
 {.is-info}
 
-<!--
 # Rel. de Fechamento
 
 Caso deseje efetuar a **reimpressão de um fechamento de caixa**, é possível acessar o menu à direita Rel. de Fechamento. Neste menu constam todos os **fechamentos de caixa** efetuados no GWEB.
 Para realizar a reimpressão, basta clicar na opção **Visualizar** do menu do fechamento que deseja.
 
 ![Reimpressão do caixa](/tutoriais/controle-caixa/9_reimpressao.png)
--->
