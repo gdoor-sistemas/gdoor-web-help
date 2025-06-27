@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-26T11:53:07.282Z
+date: 2025-06-27T12:40:35.891Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 235
+- Ajustes: 238
 
-**Total: 248**
+**Total: 278**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -44,7 +44,6 @@ f2.11.141, f2.11.142, b3.10.285, p1.0.44 {.versions}
 - Adicionado filtro por categoria de produto no relatório ‘Total de produtos vendidos por cliente’.
 - Ajustado o pagamento único do módulo de despesas.
 
-
 # 17/06/2025
 f2.11.140, b3.10.284, p1.0.43 {.versions}
 
@@ -59,7 +58,6 @@ f2.11.140, b3.10.284, p1.0.43 {.versions}
 - Ajustados impostos para utilizarem BC ICMS 0% ao utilizar CST 90 ou CSOSN 900.
 - Ajustada função de geração de código de barras para produto pesável.
 - Ajustado o comportamento do pagamento de despesas ao realizar mais de um pagamento para a mesma despesa.
-
 
 # 16/06/2025
 b3.10.283 {.versions}
