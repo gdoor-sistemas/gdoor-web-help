@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-27T12:43:21.961Z
+date: 2025-06-27T12:47:14.502Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 238
+- Ajustes: 239
 
-**Total: 278**
+**Total: 279**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/06/2025
+f2.11.143, b3.10.287 {.versions}
+
+## Ajustes
+- Ao resetar a base de dados a partir deste ajuste não será mais realizado o backup da base de dados. Ao resetar a base o sistema mostrará avisos informando a exclusão permanente dos dados e solicitando uma ação por parte do usuário.
+
 # 25/06/2025
 b3.10.286 {.versions}
 
