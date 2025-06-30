@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-06-27T12:47:38.458Z
+date: 2025-06-30T20:30:26.100Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 239
+- Ajustes: 240
 
-**Total: 279**
+**Total: 280**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/06/2025
+b3.10.290 {.versions}
+
+## Ajustes
+- Ajustada falha no envio assíncrono da NF-e.
+
 # 26/06/2025
 f2.11.143, b3.10.287 {.versions}
 
