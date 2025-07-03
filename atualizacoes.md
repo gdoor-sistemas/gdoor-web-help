@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-03T20:37:46.854Z
+date: 2025-07-03T20:39:23.073Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
