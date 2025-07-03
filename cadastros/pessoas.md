@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2025-05-20T14:01:21.669Z
+date: 2025-07-03T13:07:03.926Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -16,8 +16,8 @@ O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, v
 
 Ao abrir o módulo de pessoas você verá a lista de todas as que já estão cadastradas. Na parte superior da tela há um quadro com um campo para busca. Você pode procurar determinado cadastro buscando por:
 
-- Digitando apenas números: **código**, **CNPF/CNPJ**, **telefone**, **celular** ou **fax**.
-- Digitando caracteres mistos: **nome**, **fantasia/apelido**, **CNPF/CNPJ**, **telefone**, **celular**, **fax**, **e-mail principal** ou **cidade**.
+- Digitando apenas números: **código**, **CPF/CNPJ**, **telefone**, **celular** ou **fax**.
+- Digitando caracteres mistos: **nome**, **fantasia/apelido**, **CPF/CNPJ**, **telefone**, **celular**, **fax**, **e-mail principal** ou **cidade**.
 
 À direita do campo de busca se encontra o botão para **atualizar a lista** (<em class="mdi mdi-refresh"></em>). 
 
