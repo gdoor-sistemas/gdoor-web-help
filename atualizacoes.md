@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-03T20:40:54.238Z
+date: 2025-07-07T20:07:54.454Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 242
+- Ajustes: 243
 
-**Total: 282**
+**Total: 283**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/07/2025
+b3.10.293 {.versions}
+
+## Ajustes
+- Ajustado erro ao transmitir e cancelar notas fiscais devido a uma alteração da SEFAZ no protocolo de entrega.
+
 # 03/07/2025
 f2.11.144, b3.10.291 {.versions}
 
