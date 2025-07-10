@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-07T20:29:27.393Z
+date: 2025-07-10T13:48:48.931Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 243
+- Ajustes: 244
 
-**Total: 283**
+**Total: 284**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/07/2025
+b3.10.294 {.versions}
+
+## Ajustes
+- Corrigido a sincronização dos pedidos do GPED para o Gweb.
+
 # 04/07/2025
 b3.10.293 {.versions}
 
