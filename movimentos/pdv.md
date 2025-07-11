@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2025-06-24T11:23:32.298Z
+date: 2025-07-11T19:45:51.768Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -548,6 +548,14 @@ Por padrão, a movimentação do estoque ocorre na emissão da NFC-e. Ativando e
 Por padrão, a geração dos registros financeiros ocorre na emissão da NFC-e. Ativando esta opção, a geração dos registros financeiros se darão na conclusão da pré-venda gerencial (posteriormente, ao emitir a NFC-e não haverá movimentação financeira, pois os registros já foram efetuados na pré-venda gerencial).
 - **Não**: os registros financeiros serão gerados ao emitir o documento fiscal.
 - **Sim**: os registros financeiros serão gerados quando a pré-venda gerencial for concluída.
+
+### Solicitar preenchimento do valor no meio de pagamento?{.subtitle}
+
+Se marcada essa opção, o valor do documento será atribuído ao pagamento padrão configurado, se desmarcada o valor será solicitado em um dos meios de pagamento.
+
+### Utilizar pagamentos digitais na pré-venda?{.subtitle}
+
+Se marcada essa opção, ao utilizar um pagamento digital na Pré-venda, ela será mantida. Caso desmarcada, ao utilizar um pagamento digital na Pré-venda, o GWEB emitirá uma NFC-e dessa pré-venda.
 
 ### Solicitar cliente{.subtitle}
 
