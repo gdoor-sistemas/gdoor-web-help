@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-11T17:45:32.349Z
+date: 2025-07-15T18:03:50.543Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 40
-- Ajustes: 245
+- Ajustes: 246
 
-**Total: 285**
+**Total: 286**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/07/2025
+b3.10.300 {.versions}
+
+## Ajustes
+- Ajustado fechamento de caixa com recebimento de duas ou mais parcelas em um único pagamento para considerar o valor individual de cada movimentação.
+
 # 11/07/2025
 b3.10.295 {.versions}
 
