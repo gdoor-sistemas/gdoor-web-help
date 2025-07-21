@@ -2,7 +2,7 @@
 title: Conexão Itaú
 description: Veja como configurar e utilizar a Conexão Itaú no Gweb.
 published: false
-date: 2025-07-21T16:44:44.058Z
+date: 2025-07-21T16:45:38.780Z
 tags: tutoriais, tutorial, pagamentos, nfc-e, pdv, pix
 editor: markdown
 dateCreated: 2025-07-21T12:33:23.889Z
@@ -62,6 +62,10 @@ Após realizar os pagamentos desejados com a integração, clique em <span class
 # Visualizando as transações realizadas
 
 Para visualizar as transações que já foram realizadas em vendas anteriores, acesse o menu **cadastros > pagamentos > transações Itaú Pix** ao lado direito.
+
+> Na lista de transações realizadas também é possível, consultar, cancelar, exibir o QR Code ou devolver as transações Pix.
+{.is-info}
+
 
 ![Transações realizadas](/tutoriais/conexao-itau/8_transacoes_realizadas_itau_pix.png)
 
