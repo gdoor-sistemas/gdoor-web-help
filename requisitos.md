@@ -2,7 +2,7 @@
 title: Requisitos do sistema
 description: Listamos neste tópico os requisitos de hardware, sistemas operacionais, SAT e balanças compatíveis para instalação dos apps vinculados ao GWEB.
 published: true
-date: 2025-07-21T11:54:44.580Z
+date: 2025-07-21T11:58:02.787Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
@@ -81,6 +81,7 @@ As maquininhas e os modelos compatíveis com o ZPOS, são:
 ![Maquininhas](/requisitos/maquininhas.png)
 
 # TEF
+
 ### Comunicação TEF: 
 - **TEF DIAL** (troca de arquivos);
 - **TEF Dedicado** (comunicação por DLL);
