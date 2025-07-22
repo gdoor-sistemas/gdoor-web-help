@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2025-07-22T11:50:25.539Z
+date: 2025-07-22T11:51:46.823Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -28,8 +28,11 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 - [NF-e de importação *Veja como emitir uma NF-e de importação no Gweb*](/tutoriais/nota-importacao)
 - [Cadastrar forma de pagamento PIX *Passo a passo para cadastrar o PIX com QR Code*](/tutoriais/cadastrar-pix)
 - [Gdoor Pay Pix *Veja o passo a passo de como integrar o GWEB com o GDOOR Pay Pix*](/pt-br/ferramentas/integracoes/gdoorpaypix)
-- [Conexão Itaú *Veja o passo a passo de como ativar a Conexão Itaú no GWEB para pagamentos Pix*](/pt-br/tutoriais/conexao-itau)
 - [Módulo financeiro *Veja como gerenciar as finanças da sua empresa no Gweb*](/tutoriais/financeiro)
 - [SAT/MFe *Veja como realizar a configuração do SAT/MFe para emissão de cupom em SP e CE*](/pt-br/tutoriais/configuração-mfe-sat)
 - [TEF *Veja como configurar o TEF para utilizar no GWEB*](/pt-br/tutoriais/tef-no-gweb)
 {.links-list}
+
+<!--
+- [Conexão Itaú *Veja o passo a passo de como ativar a Conexão Itaú no GWEB para pagamentos Pix*](/pt-br/tutoriais/conexao-itau)
+--!>
