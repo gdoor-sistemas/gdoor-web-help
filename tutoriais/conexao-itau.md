@@ -1,8 +1,8 @@
 ---
 title: Conexão Itaú
 description: Veja como configurar e utilizar a Conexão Itaú no Gweb.
-published: false
-date: 2025-07-22T12:58:35.483Z
+published: true
+date: 2025-07-22T20:14:45.531Z
 tags: tutoriais, tutorial, pagamentos, nfc-e, pdv, pix
 editor: markdown
 dateCreated: 2025-07-21T12:33:23.889Z
