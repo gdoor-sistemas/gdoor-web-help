@@ -2,7 +2,7 @@
 title: Integrações
 description: Veja como interligar seu sistema com os aplicativos integrados ao sistema
 published: true
-date: 2024-01-15T13:15:13.544Z
+date: 2025-07-22T20:31:55.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T19:14:10.660Z
@@ -15,6 +15,7 @@ Acessando **Configurações » Ferramentas » Integrações**, você visualiza a
 ![Tela de integrações](/config/ferramentas/tela-integracoes.png)
 
 - [Gdoor Pay Pix *Veja como interligar o sistema com o pix do Gdoor Pay*](/ferramentas/integracoes/gdoorpaypix)
+- [Conexão Itaú *Veja como interligar o sistema com a Conexão Itaú*](/tutoriais/conexao-itau)
 - [Gped *Veja como interligar o sistema com o aplicativo de pedidos Gped*](/ferramentas/integracoes/gped)
 {.links-list}
 
