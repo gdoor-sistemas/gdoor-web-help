@@ -2,18 +2,20 @@
 title: Conexão Itaú
 description: Veja como configurar e utilizar a Conexão Itaú no Gweb.
 published: false
-date: 2025-07-21T17:58:27.302Z
+date: 2025-07-22T11:40:37.216Z
 tags: tutoriais, tutorial, pagamentos, nfc-e, pdv, pix
 editor: markdown
 dateCreated: 2025-07-21T12:33:23.889Z
 ---
 
 # Configurar Conexão Itaú no Gweb
-Veja como configurar e utilizar a Conexão Itaú no Gweb.
+Veja como configurar e utilizar a Conexão Itaú no Gweb para automatizar os recebimentos PIX em seu PDV.
 
 # Introdução
 
 A integração do Gweb com a Conexão Itaú permite a cobrança via PIX no PDV além disso, também é possível devolver os pagamentos realizados ou visualizar as transações feitas.
+
+Primeiro, é necessário 
 
 # Ativando a integração
 
@@ -67,4 +69,3 @@ Para visualizar as transações que já foram realizadas em vendas anteriores, a
 {.is-info}
 
 ![Transações realizadas](/tutoriais/conexao-itau/8_transacoes_realizadas_itau_pix.png)
-
