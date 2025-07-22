@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-15T18:07:43.930Z
+date: 2025-07-22T19:43:42.605Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 40
-- Ajustes: 246
+- Novidades: 43
+- Ajustes: 257
 
 **Total: 286**
 
@@ -26,6 +26,29 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 22/07/2025
+f2.11.152, b3.10.301, p1.0.46 {.versions}
+
+## Novidades
+- Implementada Conexão Itaú.
+- Possibilitado desconsiderar frete, seguro e outras despesas na NFe de importação.
+- Adequação a NT 2025.001 - Simplificação operacional
+
+
+## Ajustes
+- Ajustada visualização dos pagamentos em cartão de crédito dentro das movimentações.
+- Ajustada possibilidade de finalizar despesa após informar desconto zero.
+- Ajustada a remoção de regras vinculadas ao produto.
+- Ajustadas as entradas do sistema em contingência pelas configurações da NFC-e.
+- Ajustado cálculo do fechamento de caixa.
+- Corrigida importação de XML para utilizar as unidades indicadas no XML.
+- Ajustado o comportamento de devolução das despesas.
+- Ajustada a busca de cliente para não ignorar o zero inicial do CNPJ.
+- Adicionado o campo acréscimo ao efetivar receita.
+- Ajustado relatório de plano de contas para trazer o título correto na inicial de cada página.
+- Corrigido o Relatório Pedidos de venda (Simplificado) para constar o filtro de Status.
+
+
 # 15/07/2025
 b3.10.300 {.versions}
 
