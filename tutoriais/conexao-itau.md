@@ -2,7 +2,7 @@
 title: Conexão Itaú
 description: Veja como configurar e utilizar a Conexão Itaú no Gweb.
 published: false
-date: 2025-07-22T12:27:46.289Z
+date: 2025-07-22T12:32:56.344Z
 tags: tutoriais, tutorial, pagamentos, nfc-e, pdv, pix
 editor: markdown
 dateCreated: 2025-07-21T12:33:23.889Z
@@ -54,14 +54,14 @@ Ao realizar o pagamento, ele será exibido na lista:
 
 Os status da lista são:
 - **Pendente:** Quando o QR Code é gerado na tela mas ainda não foi pago. Ao clicar no ícone <em class="mdi mdi-dots-vertical"></em> é possível consultar se o pagamento já foi realizado, exibir novamente o QR Code ou cancelar a operação.
-- **Aprovado:** Quando o QR Code foi gerado e o pagamento foi efetuado com sucesso, ao clicar no ícone <em class="mdi mdi-dots-vertical"></em> é possível devolver o valor que foi pago.
-- **Cancelado:** Quando o pagamento foi feito com sucesso, mas foi cancelado manualmente logo em seguida.
+- **Aprovado:** Quando o QR Code foi gerado e o pagamento foi efetuado com sucesso. Ao clicar no ícone <em class="mdi mdi-dots-vertical"></em> é possível devolver o valor que foi pago.
+- **Cancelado:** Quando o pagamento foi feito com sucesso, mas cancelado manualmente logo em seguida.
 
 Após realizar os pagamentos desejados com a integração, clique em <span class="mat-button">FECHAR</span> e continue a venda como desejar.
 
 # Visualizando as transações realizadas
 
-Para visualizar as transações que já foram realizadas em vendas anteriores, acesse o menu **cadastros > pagamentos > transações Itaú Pix** ao lado direito.
+Para visualizar as transações que já foram realizadas em vendas anteriores, acesse o menu **Cadastros > Pagamentos > Transações Itaú Pix** ao lado direito.
 
 > Na lista de transações realizadas também é possível, consultar, cancelar, exibir o QR Code ou devolver as transações Pix.
 {.is-info}
