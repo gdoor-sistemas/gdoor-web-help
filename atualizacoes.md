@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-22T19:43:42.605Z
+date: 2025-07-24T15:26:19.045Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 257
+- Ajustes: 258
 
 **Total: 286**
 
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/07/2025
+f2.11.154, b3.10.302 {.versions}
+
+## Ajustes
+- Corrigido o vinculo do vendedor ao cliente no cadastro de pessoas, desta forma agora o cliente grava corretamente o vendedor preferencial.
+
 # 22/07/2025
 f2.11.152, b3.10.301, p1.0.46 {.versions}
 
