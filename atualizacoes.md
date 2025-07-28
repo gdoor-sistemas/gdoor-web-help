@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-24T15:26:19.045Z
+date: 2025-07-28T13:39:05.653Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 258
+- Ajustes: 259
 
 **Total: 286**
 
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/07/2025
+f2.11.156 {.versions}
+
+## Ajustes
+- Ajustado o pedido de vendas para aparecer o Gdoor Pay Pix.
+
 # 24/07/2025
 f2.11.154, b3.10.302 {.versions}
 
