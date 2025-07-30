@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-30T16:34:50.254Z
+date: 2025-07-30T17:37:17.319Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 259
+- Ajustes: 260
 
 **Total: 286**
 
@@ -26,6 +26,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/07/2025
+b3.10.153 {.versions}
+
+## Ajustes
+
+- Corrigido a importação das unidades de medidas do XML para o sistema que estava ocasionando o erro nas importações das notas de compra.
+
 # 28/07/2025
 f2.11.156 {.versions}
 
