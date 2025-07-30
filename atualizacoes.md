@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-30T19:21:02.707Z
+date: 2025-07-30T19:39:56.660Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 262
+- Ajustes: 264
 
 **Total: 286**
 
@@ -27,13 +27,15 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 30/07/2025
-f2.11.157, b3.10.313, b3.10.314, b3.10.315 {.versions}
+f2.11.157, f2.11.158, b3.10.313, b3.10.314, b3.10.315 {.versions}
 
 ## Ajustes
 
 - Corrigida a importação das unidades de medidas do XML para o sistema que estava ocasionando o erro nas importações das notas de compra.
 - Corrigida a validação ao cadastrar uma regra de imposto, permitindo assim salvar a regra quando vinculada a um produto.
 - Corrigida a automação de envio dos XML's do mês por email.
+- Ajustado o botão 'Pagamento por integração' no PDV.
+- Correções e melhorias na ECONF da NF-e e NFC-e. 
 
 # 28/07/2025
 f2.11.156 {.versions}
