@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-30T17:59:05.164Z
+date: 2025-07-30T19:20:31.766Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -27,12 +27,13 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 30/07/2025
-f2.11.157, b3.10.313, b3.10.315 {.versions}
+f2.11.157, b3.10.313, b3.10.314, b3.10.315 {.versions}
 
 ## Ajustes
 
-- Corrigido a importação das unidades de medidas do XML para o sistema que estava ocasionando o erro nas importações das notas de compra.
-- Corrigido a validação ao cadastrar uma regra de imposto, permitindo assim salvar a regra quando vinculada a um produto.
+- Corrigida a importação das unidades de medidas do XML para o sistema que estava ocasionando o erro nas importações das notas de compra.
+- Corrigida a validação ao cadastrar uma regra de imposto, permitindo assim salvar a regra quando vinculada a um produto.
+- Corrigida a automação de envio dos XML's do mês por email.
 
 # 28/07/2025
 f2.11.156 {.versions}
