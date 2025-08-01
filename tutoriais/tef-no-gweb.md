@@ -2,7 +2,7 @@
 title: TEF no GWEB
 description: Veja como configurar o TEF no GWEB.
 published: true
-date: 2025-08-01T18:40:48.614Z
+date: 2025-08-01T18:41:13.579Z
 tags: nfc-e, pdv, pré-venda-gerencial, pdv híbrido, vendas, tef
 editor: markdown
 dateCreated: 2025-05-16T12:55:02.228Z
@@ -13,7 +13,7 @@ dateCreated: 2025-05-16T12:55:02.228Z
 Na integração do **GWEB** com o **TEF**, o sistema se **comunica com um serviço instalado no computador**. É esse serviço que **solicita o pagamento ao dispositivo TEF** conectado e retorna a confirmação da operação ao GWEB.
 
 
-> A comunicação entre o GWEB e o TEF funciona apenas em dispositivos **com sistema operacional Windows**.
+> Caso deseje saber quais dispositivos TEF são compatíveis com o GWEB, acesse a página de [requisitos](https://help.gdoorweb.com.br/pt-br/requisitos). <br> A comunicação entre o GWEB e o TEF funciona apenas em dispositivos **com sistema operacional Windows**.
 {.is-info}
 
 Listamos, neste tópico, o passo a passo completo para a configuração e teste do **TEF** no **GWEB**.
@@ -23,9 +23,6 @@ Listamos, neste tópico, o passo a passo completo para a configuração e teste 
 No GWEB, acesse o menu **Cadastros > Pagamentos** e clique ícone <span class="mdi mdi-plus"></span>, disponível no submenu **Dispositivos**, para cadastrar um **novo dispositivo TEF**.
 
 ![Menu de dispositivos](/tutoriais/tef/1_menu_cadastro_pagamentos_dispositivos_.png)
-
-> Caso deseje saber quais dispositivos TEF são compatíveis com o GWEB, acesse a página de [requisitos](https://help.gdoorweb.com.br/pt-br/requisitos)
-{.is-info}
 
 Na tela do **novo cadastro**, selecione o **tipo "TEF"** e preencha os dados conforme as informações do seu terminal.
 
