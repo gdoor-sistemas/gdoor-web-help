@@ -2,7 +2,7 @@
 title: Requisitos do sistema
 description: Listamos neste tópico os requisitos de hardware, sistemas operacionais, SAT e balanças compatíveis para instalação dos apps vinculados ao GWEB.
 published: true
-date: 2025-07-21T11:58:02.787Z
+date: 2025-08-01T19:12:24.147Z
 tags: pdv híbrido, gaveta, balança, sat, mfe, requisitos
 editor: markdown
 dateCreated: 2024-10-25T14:16:12.016Z
@@ -82,6 +82,33 @@ As maquininhas e os modelos compatíveis com o ZPOS, são:
 
 # TEF
 
-### Comunicação TEF: 
-- **TEF DIAL** (troca de arquivos);
-- **TEF Dedicado** (comunicação por DLL);
+### Dispositivos TEF compatíveis: 
+**TEF DIAL** (troca de arquivos): 
+- **TefDisc**
+- **HiperTef**
+- **CliSiTef**
+- **Tefu**
+- **VeSPague**
+- **Banese**
+- **TefAuttar**
+- **GoodCard**
+- **FoxWin**
+- **CliDTEF**
+- **Petrocard**
+- **CrediShop**
+- **TicketCar**
+- **ConvCard**
+- **Cappta**
+- **PayGo**
+- **PayGoWeb**
+- **CliSiTefModular**
+- **TefDirecao**
+- **TefDialScopeGetcard**
+- **TefElgin**
+
+**TEF Dedicado** (comunicação por DLL);
+- **Api PayGo Web**
+- **Api Cli SiTEF**
+- **Api Elgin**
+- **Stone AutoTEF**
+- **Aditum API**
