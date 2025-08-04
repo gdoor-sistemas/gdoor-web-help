@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-07-30T19:40:33.345Z
+date: 2025-08-04T19:14:53.146Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 264
+- Ajustes: 266
 
-**Total: 286**
+**Total: 288**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,11 +26,17 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/08/2025
+b3.10.317 {.versions}
+
+## Ajustes
+- Corrigido erro na unidade de federação no MDF-e ao transmitir.
+- Ajustado envio de XMLs automáticos.
+
 # 30/07/2025
 f2.11.157, f2.11.158, b3.10.313, b3.10.314, b3.10.315, b3.10.316 {.versions}
 
 ## Ajustes
-
 - Corrigida a importação das unidades de medidas do XML para o sistema que estava ocasionando o erro nas importações das notas de compra.
 - Corrigida a validação ao cadastrar uma regra de imposto, permitindo assim salvar a regra quando vinculada a um produto.
 - Corrigida a automação de envio dos XML's do mês por email.
@@ -57,7 +63,6 @@ f2.11.152, b3.10.301, p1.0.46 {.versions}
 - Possibilitado desconsiderar frete, seguro e outras despesas na NFe de importação.
 - Adequação a NT 2025.001 - Simplificação operacional
 
-
 ## Ajustes
 - Ajustada visualização dos pagamentos em cartão de crédito dentro das movimentações.
 - Ajustada possibilidade de finalizar despesa após informar desconto zero.
@@ -70,7 +75,6 @@ f2.11.152, b3.10.301, p1.0.46 {.versions}
 - Adicionado o campo acréscimo ao efetivar receita.
 - Ajustado relatório de plano de contas para trazer o título correto na inicial de cada página.
 - Corrigido o Relatório Pedidos de venda (Simplificado) para constar o filtro de Status.
-
 
 # 15/07/2025
 b3.10.300 {.versions}
