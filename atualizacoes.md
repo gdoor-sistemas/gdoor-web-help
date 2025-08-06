@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-08-04T19:26:26.644Z
+date: 2025-08-06T17:48:45.419Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 266
+- Ajustes: 267
 
-**Total: 288**
+**Total: 289**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/08/2025
+b3.10.323 {.versions}
+
+## Ajustes
+- Corrigido para não gerar comissão duplicada quando o pedido de venda já havia gerado o financeiro, pois ao importar este pedido para outro documento fiscal estava gerando a comissão para o vendedor novamente.
+
 # 04/08/2025
 b3.10.317, b3.10.322 {.versions}
 
