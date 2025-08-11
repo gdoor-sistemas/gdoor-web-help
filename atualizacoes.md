@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-08-06T17:56:26.477Z
+date: 2025-08-11T20:18:43.469Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 43
-- Ajustes: 267
+- Ajustes: 268
 
-**Total: 289**
+**Total: 290**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/08/2025
+b3.10.325 {.versions}
+
+## Ajustes
+- Ajustada na emissão da NF-e a possibilidade de retirar do DANF-e a data e hora da saída/entrada.
+
 # 06/08/2025
 b3.10.323 {.versions}
 
