@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-08-11T20:20:11.932Z
+date: 2025-08-12T11:48:27.662Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 43
-- Ajustes: 268
+- Novidades: 45
+- Ajustes: 279
 
-**Total: 290**
+**Total: 324**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,26 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/08/2025
+f2.11.159, b3.10.326, p1.0.47 {.versions}
+
+## Novidades
+- Mantido os códigos dos produtos ao converter bases do GPRO para o GWEB.
+- Ajustadas casas decimais do impresso do pedido de venda e orçamento.
+
+## Ajustes
+- Ajustado valor total de NF-es que estava apresentando dados incorretos no Sintegra.
+- Ajustado pedido de venda que ao ser vinculado com outro pedido não estava gerando dados financeiros.
+- Ajustado link de visualização de receitas/despesas gerado no detalhamento das movimentações.
+- Ajustado para que o Sistema Web não assuma o caixa do PDV Híbrido ao fechar.
+- Retirado dados de juros e multa da visualização da listagem de despesas.
+- Ajustado no CT-e o campo "documentos transportados pelo CT-e" que não estavam salvando o tipo do documento corretamente.
+- Ajustado para solicitar a geração de uma NFS-e para cada pedido no município de Serra/ES.
+- Corrigida importação de NFC-e para NF-e que não estava apresentando o valor do acréscimo nos totais da nota.
+- Ajustado dispositivo de pagamento que não permite a exclusão após excluir a forma de pagamento a qual esta vinculado.
+- Ajustada validação do Registro 70 no Sintegra para CT-es de entrada.
+- Ajustada função de vendedor vinculado com o cliente que não estava funcionando no GPED.
+
 # 11/08/2025
 b3.10.325 {.versions}
 
