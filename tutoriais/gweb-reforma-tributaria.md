@@ -2,14 +2,17 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-08-26T18:26:01.438Z
+date: 2025-08-26T18:26:52.738Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
 ---
 
-# Reforma tributária
+# Mudanças no GWEB para a Reforma tributária
 Confira neste tópico as alterações feitas no GWeb para adequação à reforma tributária.
+
+# Introdução
+INTRODUÇÃO AQUI
 
 # Alterações no emitente
 
