@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-08-26T19:38:01.965Z
+date: 2025-08-26T19:46:17.154Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -55,9 +55,14 @@ Clicando no submenu de **cidades**, adicione as cidades para as quais você vend
 
 Na seção de **Impostos**, na de aba **imposto seletivo** é possível selecionar o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
-![6_regra_tributacao_aba2_imposto_seletivo.png](/tutoriais/reforma-tributaria/6_regra_tributacao_aba2_imposto_seletivo.png)
+![Imposto Seletivo](/tutoriais/reforma-tributaria/6_regra_tributacao_aba2_imposto_seletivo.png)
 
 > O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
 {.is-info}
 
+# Alterações nas naturezas de operação
+
+No menu de **cadastros > operações** é possível incluir uma regra de tributação da reforma tributária para a natureza de tributação.
+
+![Reforma de tributação na natureza de operação](/tutoriais/reforma-tributaria/7_natureza_operacao_regra_tributacao.png)
 
