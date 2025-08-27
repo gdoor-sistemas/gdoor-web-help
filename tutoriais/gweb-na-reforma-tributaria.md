@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-08-27T14:28:59.314Z
+date: 2025-08-27T14:34:00.512Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -20,7 +20,7 @@ No menu **configurações > emitente** foi incluído um novo campo para aderir o
 
 ![Emitente](/tutoriais/reforma-tributaria/1_emitente.png)
 
-Ao optar por aderir, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma, quer serão exibidas a seguir.
+Ao optar por aderir, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma, que serão exibidas a seguir.
 
 > Solicite o acompanhamento da **contabilidade** em todo o processo do cadastro para adequação à reforma tributária. 
 {.is-warning}
@@ -29,11 +29,13 @@ Ao optar por aderir, é possível visualizar e configurar as novas informações
 
 # Alterações nas regras de tributação
 
-No menu **configurações > impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário antigo (**ICMS, PIS, COFINS e IPI**) ou pelo novo (**CBS, IBS e IS**).
+No menu **configurações > impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da reforma tributária (**CBS, IBS e IS**).
 
 ![Selecionar modelo tributário](/tutoriais/reforma-tributaria/2_regra_tributacao_selecionar_tipo.png)
 
-Na seção de **identificação** permanece a mesma, com **nome da regra** e **identificação**.
+Ao selecionar o modelo da reforma tributária, o formulário de cadastro de uma nova regra de tributação será diferente.
+
+No formulário da regra, a seção de **identificação** permanece a mesma, com o **nome da regra** e **descrição** para identificação da mesma.
 
 ## Seção dos impostos IBS/CBS
 
