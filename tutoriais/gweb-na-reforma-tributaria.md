@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-08-27T14:34:00.512Z
+date: 2025-08-27T14:37:03.072Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -24,7 +24,6 @@ Ao optar por aderir, é possível visualizar e configurar as novas informações
 
 > Solicite o acompanhamento da **contabilidade** em todo o processo do cadastro para adequação à reforma tributária. 
 {.is-warning}
-
 
 
 # Alterações nas regras de tributação
@@ -83,6 +82,7 @@ Ao lançar o produto em qualquer documento fiscal do Gweb, na seção de **impos
 - IBS/CBS
 - IS
 
+ESSA IMAGEM PRECISA SER AJUSTADA POIS FALTA O PIS/COFINS QUE NÃO ESTÁ APARECENDO NA TAREFA (POTTER IRÁ AJUSTAR).
 ![Impostos de produtos](/tutoriais/reforma-tributaria/8_nf_e_impostos_produtos.png)
 
 Cada aba contém dados individuais e todas são preenchidas com base nas regras de tributação configuradas.
