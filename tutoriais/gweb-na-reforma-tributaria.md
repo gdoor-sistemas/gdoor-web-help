@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-08-27T14:47:00.359Z
+date: 2025-09-01T12:12:51.629Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -89,4 +89,8 @@ Cada aba contém dados individuais e todas são preenchidas com base nas regras 
 
 > Esta tela está disponível na **NF-e** e na **compra** ao **lançar um produto**, ou no **PDV (NFC-e)** ao pressionar o atalho **<kbd>CTRL + D</kbd>** em um produto.
 {.is-info}
+
+# Alterações no CT-e
+
+## AGUARDANDO NO RELEASER PARA SER FEITO
 
