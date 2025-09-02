@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-09-02T19:37:11.707Z
+date: 2025-09-02T19:41:43.552Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -37,7 +37,7 @@ f2.11.165, b3.10.349, p1.0.48 {.versions}
 - Ajustado o total das receitas para contabilizar os juros e multas e ajustado o valor em atraso do cliente para contabilizar somente receitas e não despesas.
 - Ajustada a busca de relatórios para pesquisar com mais de uma palavra.
 - Ajustado o envio do e-mail com os XMLs do mês.
-- Corrigido o cadastro do emitente e pessoas para permitir remover o RNTRC.
+- Corrigido o emitente e pessoas para permitir remover o RNTRC.
 - Corrigida a configuração "Não informar pagamentos" na NFS-e.
 - Ajustado o endereço do emitente no DACTE para não sobrepor a logomarca.
 - Removida a função de recebimento do PDV Híbrido devido ao híbrido não possuir o módulo financeiro.
