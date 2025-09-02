@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-09-02T19:41:43.552Z
+date: 2025-09-02T19:45:46.545Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,7 +31,7 @@ f2.11.165, b3.10.349, p1.0.48 {.versions}
 
 ## Ajustes
 - Alterado o nome e descrição da configuração ‘Utilizar CNAE como código de serviço’ para melhorar a compreensão da configuração.
-- Ajustada a ordenação dos planos de contas no relatório Relatório ‘Planos de contas’.
+- Ajustada a ordenação dos planos de contas no relatório ‘Planos de contas’.
 - Corrigida a impressão do DACTE para trazer as 4 casas  decimais da quantidade de carga.
 - Corrigido o estorno de receitas pelo PDV.
 - Ajustado o total das receitas para contabilizar os juros e multas e ajustado o valor em atraso do cliente para contabilizar somente receitas e não despesas.
