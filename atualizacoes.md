@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-08-28T14:33:19.737Z
+date: 2025-09-02T13:38:01.510Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 45
-- Ajustes: 282
+- Ajustes: 284
 
-**Total: 327**
+**Total: 329**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/09/2025
+f2.11.164, b3.10.347, b3.10.348 {.versions}
+
+## Ajustes
+- Ajustada PV com pagamento digital para que seja gerado o financeiro dessas vendas.
+- Atualização do link de consulta do QRCode da SEFAZ de GO para emissão de NFC-e.
+
 # 28/08/2025
 b3.10.339 {.versions}
 
