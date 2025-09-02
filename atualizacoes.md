@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-09-02T14:02:17.090Z
+date: 2025-09-02T19:35:17.249Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 45
-- Ajustes: 284
+- Ajustes: 307
 
 **Total: 329**
 
@@ -26,6 +26,35 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/09/2025
+f2.11.165, b3.10.349, p1.0.48 {.versions}
+
+## Ajustes
+- Alterado o nome e descrição da configuração ‘Utilizar CNAE como código de serviço’ para melhorar a compreensão da configuração.
+- Ajustada a ordenação dos planos de contas no relatório Relatório ‘Planos de contas’.
+- Corrigida a impressão do DACTE para trazer as 4 casas  decimais da quantidade de carga.
+- Corrigido o estorno de receitas pelo PDV.
+- Ajustado o total das receitas para contabilizar os juros e multas e ajustado o valor em atraso do cliente para contabilizar somente receitas e não despesas.
+- Ajustada a busca de relatórios para pesquisar com mais de uma palavra.
+- Ajustado o envio do e-mail com os XMLs do mês.
+- Corrigido o cadastro do emitente e pessoas para permitir remover o RNTRC.
+- Corrigida a configuração "Não informar pagamentos" na NFS-e.
+- Ajustado o endereço do emitente no DACTE para não sobrepor a logomarca.
+- Removida a função de recebimento do PDV Híbrido devido ao híbrido não possuir o módulo financeiro.
+- Corrigido o valor da parcela que estava gravando incorretamente após edição e adição de produto em um PDV.
+- Ajustada a contabilização dos valores no relatório ‘Total de vendas por meio de pagamento’ quando o documento fiscal é gerado de um pedido.
+- Corrigida a transmissão da NFC-e com serviços no PDV Híbrido.
+- Ajustada a validação da configuração de saldo insuficiente do produto para não contabilizar o produto de dentro da nota não emitida.
+- Corrigida a exclusão de regras de tributação de serviço.
+- Adicionado filtro por operação nos seguintes relatórios de venda ‘Margem de lucro sobre preço de venda’, ‘Produtos vendidos por categoria’, ‘Produtos vendidos por tipo de imposto’, ‘Comissão por vendedor’ e ‘Produtos por vendedor’.
+- Ajustado o valor total apresentado no relatório ‘Contas a pagar’ quando utilizado o pagamento único nas despesas.
+- Ajustado o valor mostrado no modal de estorno de despesas pagas com a opção de pagamento único.
+- Corrigida a importação para somente salvar itens quando houver itens para importar. 
+- Corrigido o recebimento da primeira parcela da venda após edição e adição de produto em um PDV.
+- Ajustada validação da configuração ‘Não faturar documentos a prazo para clientes inadimplentes’ para trazer o modal de permissão para realização das vendas de clientes inadimplentes.
+- Ajustada diferença entre os relatórios de balancete do sistema.
+
+
 # 01/09/2025
 f2.11.164, b3.10.347, b3.10.348 {.versions}
 
