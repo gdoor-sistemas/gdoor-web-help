@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T13:40:22.899Z
+date: 2025-09-10T13:53:42.492Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -16,7 +16,7 @@ Com a implementação da Reforma Tributária, o Gweb passou por adequações imp
 
 Neste material, serão apresentadas as principais alterações realizadas no sistema.
 
-> Para conhecer em detalhes as alterações da Reforma Tributária, acesse a [cartilha do SEBRAE](https://sebrae.com.br/Sebrae/Portal%20Sebrae/Reforma%20tributaria/CTDs/Reforma_Tributária_Pequenos_Negócios_-_ebook.pdf)
+> Para conhecer em detalhes as alterações da Reforma Tributária, acesse a [cartilha do SEBRAE](https://sebrae.com.br/Sebrae/Portal%20Sebrae/Reforma%20tributaria/CTDs/Reforma_Tributária_Pequenos_Negócios_-_ebook.pdf) ou assista aos vídeos disponíveis no final deste material.
 {.is-info}
 
 # Alterações no Emitente
