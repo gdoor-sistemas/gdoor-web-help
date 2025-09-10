@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:24:54.463Z
+date: 2025-09-10T12:30:21.813Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -14,7 +14,7 @@ Confira neste tópico as alterações feitas no Gweb para adequação à reforma
 # Introdução
 INTRODUÇÃO AQUI
 
-# Alterações no emitente
+# Alterações no Emitente
 
 No menu **Configurações > Emitente**, está disponível um campo para aderir à **Reforma Tributária**.
 
@@ -26,7 +26,7 @@ Assim que marcada a opção, é possível visualizar e configurar as novas infor
 {.is-warning}
 
 
-# Alterações nas regras de tributação
+# Alterações nas Regras de tributação
 
 No menu **Configurações > Impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da Reforma Tributária (**CBS, IBS e IS**).
 
@@ -36,7 +36,7 @@ Ao selecionar o modelo tributário como **Impostos da Reforma Tributária**, rea
 
 
 
-## Seção dos impostos IBS/CBS
+## Configuração dos impostos IBS/CBS
 
 Na seção de **Impostos**, na aba **IBS/CBS**, selecione o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
@@ -56,24 +56,24 @@ Já na aba **Cidades**, adicione as cidades para onde serão realizadas vendas e
 > Caso a cidade **não** esteja na lista, o Gweb utilizará a **alíquota geral**.
 {.is-info}
 
-## Seção do Imposto Seletivo (IS)
+## Configuração do Imposto Seletivo (IS)
 
-Na seção de **Impostos**, na de aba **Imposto Seletivo** é possível selecionar o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
+Na seção de **Impostos**, na aba **Imposto Seletivo**, selecione o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
 ![Imposto Seletivo](/tutoriais/reforma-tributaria/6_regra_tributacao_aba2_imposto_seletivo.png)
 
 > O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
 {.is-info}
 
-# Alterações nas naturezas de operação
+# Alterações nas Naturezas de operação
 
-No menu de **Cadastros > Operações** é possível incluir uma **regra de tributação** da Reforma Tributária para a **Natureza de Operação**.
+No menu de **Cadastros > Operações**, inclua uma **Regra de tributação** da Reforma Tributária para a **Natureza de Operação**.
 
 ![Reforma de tributação na natureza de operação](/tutoriais/reforma-tributaria/7_natureza_operacao_regra_tributacao.png)
 
 # Alterações na NF-e e NFC-e
 
-Ao lançar o produto em qualquer documento fiscal do Gweb, na seção de **impostos** serão exibidas as seguintes abas:
+Ao lançar o produto em qualquer documento fiscal do Gweb, na seção de **Impostos** serão exibidas as seguintes abas:
 
 - ICMS
 - PIS/COFINS
@@ -84,9 +84,9 @@ Ao lançar o produto em qualquer documento fiscal do Gweb, na seção de **impos
 ESSA IMAGEM PRECISA SER AJUSTADA POIS FALTA O PIS/COFINS QUE NÃO ESTÁ APARECENDO NA TAREFA (POTTER IRÁ AJUSTAR).
 ![Impostos de produtos](/tutoriais/reforma-tributaria/8_nf_e_impostos_produtos.png)
 
-Cada aba contém dados individuais e todas são preenchidas com base nas regras de tributação configuradas.
+Cada aba contém dados individuais que serão preenchidas com base nas regras de tributação configuradas.
 
-> Esta tela está disponível na **NF-e** e na **compra** ao **lançar um produto**, ou no **PDV (NFC-e)** ao pressionar o atalho **<kbd>CTRL + D</kbd>** em um produto.
+> Esta tela está disponível na **NF-e** e na **Nota de compra** ao lançar um produto, ou no **PDV (NFC-e)** ao pressionar o atalho **<kbd>CTRL + D</kbd>** em um produto.
 {.is-info}
 
 # Alterações no CT-e
