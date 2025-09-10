@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:14:43.221Z
+date: 2025-09-10T12:17:00.891Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -32,9 +32,9 @@ No menu **Configurações > Impostos**, ao criar uma nova regra de tributação,
 
 ![Selecionar modelo tributário](/tutoriais/reforma-tributaria/2_regra_tributacao_selecionar_tipo.png)
 
-Ao selecionar o modelo da reforma tributária, o formulário de cadastro de uma nova regra de tributação será diferente.
+Ao selecionar o modelo tributário como **"Impostos da Reforma Tributária"**, realize a configuração dos impostos.
 
-No formulário da regra, a seção de **identificação** permanece a mesma, com o **nome da regra** e **descrição** para identificação da mesma.
+
 
 ## Seção dos impostos IBS/CBS
 
