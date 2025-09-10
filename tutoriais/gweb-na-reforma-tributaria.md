@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:05:32.295Z
+date: 2025-09-10T12:06:30.499Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -68,7 +68,7 @@ Na seção de **Impostos**, na de aba **Imposto Seletivo** é possível selecion
 
 # Alterações nas naturezas de operação
 
-No menu de **Cadastros > Operações** é possível incluir uma regra de tributação da reforma tributária para a natureza de tributação.
+No menu de **Cadastros > Operações** é possível incluir uma **regra de tributação** da Reforma Tributária para a **Natureza de Operação**.
 
 ![Reforma de tributação na natureza de operação](/tutoriais/reforma-tributaria/7_natureza_operacao_regra_tributacao.png)
 
