@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-01T12:12:51.629Z
+date: 2025-09-10T11:59:19.828Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -16,13 +16,13 @@ INTRODUÇÃO AQUI
 
 # Alterações no emitente
 
-No menu **configurações > emitente** foi incluído um novo campo para aderir ou não à reforma tributária.
+No menu **Configurações > Emitente** foi incluído um novo campo para aderir à **Reforma Tributária**.
 
 ![Emitente](/tutoriais/reforma-tributaria/1_emitente.png)
 
 Ao optar por aderir, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma, que serão exibidas a seguir.
 
-> Solicite o acompanhamento da **contabilidade** em todo o processo do cadastro para adequação à reforma tributária. 
+> Solicite o acompanhamento da **contabilidade** em todo o processo do cadastro para adequação à Reforma Tributária. 
 {.is-warning}
 
 
