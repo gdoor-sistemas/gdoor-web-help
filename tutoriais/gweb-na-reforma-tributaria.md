@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T17:52:05.748Z
+date: 2025-09-10T17:52:58.768Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -47,7 +47,7 @@ Na seção de **Impostos**, na aba **IBS/CBS**, selecione o **CST (Código da si
 
 ![3_regra_de_tributacao_aba2_cst_cct.png](/tutoriais/reforma-tributaria/3_regra_de_tributacao_aba2_cst_cct.png)
 
-> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
+> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado.
 {.is-info}
 
 Na sequência, configure o percentual da **Alíquota federal CBS (Contribuição sobre bens e serviços)** e, na seção **Alíquotas IBS**, na aba **Estados**, informe o percentual da **Base de cálculo** e a **Alíquota IBS (Imposto sobre bens e serviços)** de cada estado da federação.
@@ -67,7 +67,7 @@ Na seção de **Impostos**, na aba **Imposto Seletivo**, selecione o **CST (Cód
 
 ![Imposto Seletivo](/tutoriais/reforma-tributaria/6_regra_tributacao_aba2_imposto_seletivo.png)
 
-> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
+> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado.
 {.is-info}
 
 # Alterações nas Naturezas de Operação
@@ -100,7 +100,7 @@ Cada aba contém dados individuais que serão preenchidos com base nas [regras d
 # Alterações no CT-e
 No menu **Impostos**, acesse a aba **IBS/CBS**, selecione o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
-> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
+> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado.
 {.is-info}
 
 ![Aba de impostos do CT-e](/tutoriais/reforma-tributaria/9_aba_impostos_ct_e.png)
