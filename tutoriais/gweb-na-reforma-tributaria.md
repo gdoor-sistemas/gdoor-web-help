@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T14:23:14.669Z
+date: 2025-09-10T14:42:27.880Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -100,10 +100,12 @@ No **formulário do CT-e**, na **seção de impostos**, foi incluída a aba **IB
 
 Nela, os campos disponíveis são:
 
-- **CST:** Código da situação tributária.
-- **Código da Classificação Tributária:** .
+- **CST (Código da situação tributária)**
+- **Código da Classificação Tributária** - É exibido de acordo com o CST selecionado.
 
 ![Aba de impostos do CT-e](/tutoriais/reforma-tributaria/9_aba_impostos_ct_e.png)
+
+De acordo com o **CST** e o **código da classificação tributária** selecionados
 
 # Alterações na NFS-e
 
