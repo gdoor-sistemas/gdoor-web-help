@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T17:25:40.137Z
+date: 2025-09-10T17:48:26.737Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -58,7 +58,7 @@ Já na aba **Cidades**, adicione os municípios de destino das vendas e informe 
 
 ![Alíquotas das cidades](/tutoriais/reforma-tributaria/5_regra_tributacao_aba2_aliquota_cidades.png)
 
-> Caso a cidade **não** esteja na lista, o Gweb utilizará a **alíquota geral**.
+> Caso a cidade **não** constar na lista, o Gweb aplicará a **alíquota geral**.
 {.is-info}
 
 ## Configuração do Imposto Seletivo (IS)
@@ -98,23 +98,20 @@ Cada aba contém dados individuais que serão preenchidos com base nas [regras d
 {.is-info}
 
 # Alterações no CT-e
+No menu **Impostos*, acesse a aba **IBS/CBS**, selecione o CST (Código da situação tributária) e o Código de classificação tributária.
 
-No **formulário do CT-e**, na **seção de impostos**, foi incluída a aba **IBC/CBS**
-
-Nela, os campos disponíveis são:
-
-- **CST (Código da situação tributária)**
-- **Código da Classificação Tributária** - É exibido de acordo com o CST selecionado.
+> O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
+{.is-info}
 
 ![Aba de impostos do CT-e](/tutoriais/reforma-tributaria/9_aba_impostos_ct_e.png)
 
-De acordo com o **CST** e o **código da classificação tributária** selecionados, as alíquotas para o **IBS UF**, **IBS Município** e **CBS** serão liberados:
+De acordo com o **CST** e o **código da classificação tributária** selecionados, as alíquotas para o **IBS UF**, **IBS Município** e **CBS** serão liberadas:
 
 ![10_aba_impostos_cte.png](/tutoriais/reforma-tributaria/10_aba_impostos_cte.png)
 
 # Alterações na NFS-e
 
-As alterações na NFS-e ainda estão **em andamento** pela equipe de desenvolvimento, atualizaremos este material quando estiver disponível.
+As alterações na NFS-e ainda estão **em andamento**. Atualizaremos este material quando estiverem disponíveis.
 
 # Assista aos vídeos sobre a Reforma Tributária
 
