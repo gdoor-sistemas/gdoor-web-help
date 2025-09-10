@@ -2,13 +2,13 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:01:23.192Z
+date: 2025-09-10T12:05:32.295Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
 ---
 
-# Mudanças no GWEB para a Reforma tributária
+# Mudanças no Gweb para a Reforma Tributária
 Confira neste tópico as alterações feitas no Gweb para adequação à reforma tributária.
 
 # Introdução
@@ -28,7 +28,7 @@ Assim que aderir, é possível visualizar e configurar as novas informações tr
 
 # Alterações nas regras de tributação
 
-No menu **configurações > impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da reforma tributária (**CBS, IBS e IS**).
+No menu **Configurações > Impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da reforma tributária (**CBS, IBS e IS**).
 
 ![Selecionar modelo tributário](/tutoriais/reforma-tributaria/2_regra_tributacao_selecionar_tipo.png)
 
@@ -59,7 +59,7 @@ Clicando no submenu de **cidades**, adicione as cidades para as quais você vend
 
 ## Seção do Imposto Seletivo (IS)
 
-Na seção de **Impostos**, na de aba **imposto seletivo** é possível selecionar o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
+Na seção de **Impostos**, na de aba **Imposto Seletivo** é possível selecionar o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
 ![Imposto Seletivo](/tutoriais/reforma-tributaria/6_regra_tributacao_aba2_imposto_seletivo.png)
 
@@ -68,7 +68,7 @@ Na seção de **Impostos**, na de aba **imposto seletivo** é possível selecion
 
 # Alterações nas naturezas de operação
 
-No menu de **cadastros > operações** é possível incluir uma regra de tributação da reforma tributária para a natureza de tributação.
+No menu de **Cadastros > Operações** é possível incluir uma regra de tributação da reforma tributária para a natureza de tributação.
 
 ![Reforma de tributação na natureza de operação](/tutoriais/reforma-tributaria/7_natureza_operacao_regra_tributacao.png)
 
