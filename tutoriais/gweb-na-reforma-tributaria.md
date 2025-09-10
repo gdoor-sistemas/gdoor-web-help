@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:06:30.499Z
+date: 2025-09-10T12:08:56.272Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -22,7 +22,7 @@ No menu **Configurações > Emitente** foi incluído um novo campo para aderir �
 
 Assim que aderir, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma.
 
-> Solicite o acompanhamento da **contabilidade** em todo o processo do cadastro para adequação à **Reforma Tributária**. 
+> Solicite o acompanhamento da **contabilidade** em todo o processo de adequação à **Reforma Tributária**. 
 {.is-warning}
 
 
@@ -45,7 +45,7 @@ Na seção de **Impostos**, na aba **IBS/CBS** é possível selecionar o **CST (
 > O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
 {.is-info}
 
-Logo mais abaixo, configure a alíquota de **CBS (Contribuição sobre bens e serviços) federal**.
+Na sequência, configure a alíquota de **CBS (Contribuição sobre bens e serviços) federal**.
 No submenu **estados** abaixo, a base de cálculo e alíquotas de **IBS (Imposto sobre bens e serviços)** de cada estado da federação.
 
 ![CBS e IBS](/tutoriais/reforma-tributaria/4_regra_tributacao_aba2_cbs_aliquota_estados.png)
@@ -54,7 +54,7 @@ Clicando no submenu de **cidades**, adicione as cidades para as quais você vend
 
 ![Alíquotas das cidades](/tutoriais/reforma-tributaria/5_regra_tributacao_aba2_aliquota_cidades.png)
 
-> Caso a cidade **não** esteja na lista, o Gweb irá utilizar a **alíquota geral**.
+> Caso a cidade **não** esteja na lista, o Gweb utilizará a **alíquota geral**.
 {.is-info}
 
 ## Seção do Imposto Seletivo (IS)
