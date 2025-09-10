@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:17:00.891Z
+date: 2025-09-10T12:24:54.463Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -32,25 +32,24 @@ No menu **Configurações > Impostos**, ao criar uma nova regra de tributação,
 
 ![Selecionar modelo tributário](/tutoriais/reforma-tributaria/2_regra_tributacao_selecionar_tipo.png)
 
-Ao selecionar o modelo tributário como **"Impostos da Reforma Tributária"**, realize a configuração dos impostos.
+Ao selecionar o modelo tributário como **Impostos da Reforma Tributária**, realize a configuração dos impostos.
 
 
 
 ## Seção dos impostos IBS/CBS
 
-Na seção de **Impostos**, na aba **IBS/CBS** é possível selecionar o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
+Na seção de **Impostos**, na aba **IBS/CBS**, selecione o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
 
 ![3_regra_de_tributacao_aba2_cst_cct.png](/tutoriais/reforma-tributaria/3_regra_de_tributacao_aba2_cst_cct.png)
 
 > O **Código de classificação tributária** é exibido de acordo com o **CST** selecionado acima.
 {.is-info}
 
-Na sequência, configure a alíquota de **CBS (Contribuição sobre bens e serviços) federal**.
-No submenu **estados** abaixo, a base de cálculo e alíquotas de **IBS (Imposto sobre bens e serviços)** de cada estado da federação.
+Na sequência, configure a alíquota de **CBS (Contribuição sobre bens e serviços) federal** e na seção **Alíquotas IBS**, na aba **Estados**, informe o percentual da **Base de cálculo** e a **Alíquota IBS (Imposto sobre bens e serviços)** de cada estado da federação.
 
 ![CBS e IBS](/tutoriais/reforma-tributaria/4_regra_tributacao_aba2_cbs_aliquota_estados.png)
 
-Clicando no submenu de **cidades**, adicione as cidades para as quais você vende e a alíquota específica delas.
+Já na aba **Cidades**, adicione as cidades para onde serão realizadas vendas e a alíquota específica de cada uma.
 
 ![Alíquotas das cidades](/tutoriais/reforma-tributaria/5_regra_tributacao_aba2_aliquota_cidades.png)
 
