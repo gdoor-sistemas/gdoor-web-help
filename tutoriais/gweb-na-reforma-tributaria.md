@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T12:08:56.272Z
+date: 2025-09-10T12:11:34.988Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -16,11 +16,11 @@ INTRODUÇÃO AQUI
 
 # Alterações no emitente
 
-No menu **Configurações > Emitente** foi incluído um novo campo para aderir à **Reforma Tributária**.
+No menu **Configurações > Emitente**, está disponível um campo para aderir à **Reforma Tributária**.
 
 ![Emitente](/tutoriais/reforma-tributaria/1_emitente.png)
 
-Assim que aderir, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma.
+Assim que marcada a opção, é possível visualizar e configurar as novas informações tributárias disponíveis com a reforma.
 
 > Solicite o acompanhamento da **contabilidade** em todo o processo de adequação à **Reforma Tributária**. 
 {.is-warning}
@@ -28,7 +28,7 @@ Assim que aderir, é possível visualizar e configurar as novas informações tr
 
 # Alterações nas regras de tributação
 
-No menu **Configurações > Impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da reforma tributária (**CBS, IBS e IS**).
+No menu **Configurações > Impostos**, ao criar uma nova regra de tributação, será possível optar pelo modelo tributário tradicional (**ICMS, PIS, COFINS e IPI**) ou pelo modelo da Reforma Tributária (**CBS, IBS e IS**).
 
 ![Selecionar modelo tributário](/tutoriais/reforma-tributaria/2_regra_tributacao_selecionar_tipo.png)
 
