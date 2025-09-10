@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-10T17:49:01.587Z
+date: 2025-09-10T17:50:46.308Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -111,7 +111,7 @@ De acordo com o **CST** e o **código da classificação tributária** seleciona
 
 # Alterações na NFS-e
 
-As alterações na NFS-e ainda estão **em andamento**. Atualizaremos este material quando estiverem disponíveis.
+As alterações na NFS-e ainda estão em andamento. Este material será atualizado assim que estiverem disponíveis.
 
 # Assista aos vídeos sobre a Reforma Tributária
 
