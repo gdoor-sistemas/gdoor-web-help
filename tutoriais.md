@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2025-07-22T20:14:28.194Z
+date: 2025-09-12T16:43:41.139Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -11,6 +11,15 @@ dateCreated: 2019-11-19T18:56:12.670Z
 # Tutoriais
 
 Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tarefas comuns no Gweb.
+
+## Destaques
+
+- [Reforma tributária *Confira as mudanças do GWeb para a reforma tributária*](https://help.gdoorweb.com.br/pt-br/tutoriais/gweb-na-reforma-tributaria)
+{.links-list}
+
+---
+
+## Guia geral
 
 - [Primeiros passos *Veja como personalizar o seu sistema e começar a utilizar*](/tutoriais/primeiros-passos)
 - [Como emitir uma NF-e? *Passo a passo para emitir uma NF-e no Gweb*](/tutoriais/como-emitir-uma-nfe)
