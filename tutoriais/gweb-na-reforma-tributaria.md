@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: false
-date: 2025-09-11T11:33:19.759Z
+date: 2025-09-12T13:13:59.745Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -11,6 +11,10 @@ dateCreated: 2025-08-25T14:11:33.853Z
 # Mudanças no Gweb para a Reforma Tributária
 Confira neste tópico as alterações feitas no Gweb para adequação à **Reforma Tributária**.
 
+
+> Em breve, todas as alterações apresentadas neste material estarão disponíveis para uso.
+{.is-warning}
+
 # Introdução
 Com a implementação da Reforma Tributária, o Gweb passou por adequações importantes para atender às novas exigências legais. A reforma trouxe ajustes significativos na estrutura de tributos, impactando empresas de diferentes segmentos e exigindo atenção redobrada na gestão das rotinas. Diante desse cenário, torna-se fundamental compreender as alterações e alinhar cada detalhe junto à contabilidade, assegurando que os processos sigam de forma correta e em conformidade com a legislação. 
 
@@ -18,6 +22,14 @@ Neste material, serão apresentadas as principais alterações realizadas no sis
 
 > Para conhecer em detalhes as alterações da Reforma Tributária, acesse a [cartilha do SEBRAE](https://sebrae.com.br/Sebrae/Portal%20Sebrae/Reforma%20tributaria/CTDs/Reforma_Tributária_Pequenos_Negócios_-_ebook.pdf) ou assista aos [vídeos](/tutoriais/gweb-na-reforma-tributaria#assista-aos-v%C3%ADdeos-sobre-a-reforma-tribut%C3%A1ria) disponíveis no final deste material.
 {.is-info}
+
+# Novos Impostos: CBS, IBS e IS
+
+Entre as principais mudanças, três novos tributos passaram a compor a estrutura fiscal brasileira. Cada um deles substitui impostos já existentes. São eles:
+
+- **CBS** – Contribuição sobre Bens e Serviços: a CBS substitui PIS e COFINS, unificando regras de cálculo sobre bens e serviços. É um imposto em esfera federal e com o objetivo de arrecadar fundos para financiar projetos sociais.
+- **IBS** – Imposto sobre Bens e Serviços: o IBS substitui ICMS e ISS, sendo um tributo compartilhado entre estados e municípios, com alíquotas unificadas.
+- **IS** – Imposto Seletivo: criado para incidir sobre produtos considerados nocivos à saúde ou ao meio ambiente, adicionando uma tributação extra. Este imposto vai substituir o IPI, e entra em vigência somente em 2027.
 
 # Alterações no Emitente
 
@@ -97,6 +109,11 @@ Cada aba contém dados individuais que serão preenchidos com base nas [regras d
 
 > Esta tela está disponível na **NF-e** e na **nota de compra** ao lançar um produto, ou no **PDV (NFC-e)** ao pressionar o atalho **<kbd>CTRL + D</kbd>** em um item.
 {.is-info}
+
+# Regimes e Cronograma
+
+![14_-_regime_e_cronograma.png](/tutoriais/reforma-tributaria/14_-_regime_e_cronograma.png)/2027
+
 
 # Alterações no CT-e
 No menu **Impostos**, acesse a aba **IBS/CBS**, selecione o **CST (Código da situação tributária)** e o **Código de classificação tributária**.
