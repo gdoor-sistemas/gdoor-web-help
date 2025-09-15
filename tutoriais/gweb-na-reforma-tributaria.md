@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: true
-date: 2025-09-15T17:26:05.700Z
+date: 2025-09-15T17:27:33.577Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -88,8 +88,7 @@ Na seção de **Impostos**, na aba **Imposto Seletivo**, selecione o **CST (Cód
 
 Ao informar este código, o GWeb irá vincular automaticamente a regra de tributação cadastrada para esse código.
  
-![Cadastro do produto](/tutoriais/reforma-tributaria/13_cad_produto.png)
-
+![Cadastro de produto](/tutoriais/reforma-tributaria/13_cad_produto.png)
 
 # Alterações nas Naturezas de Operação
 
