@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-09-02T19:45:46.545Z
+date: 2025-09-15T12:46:01.691Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 45
-- Ajustes: 307
+- Ajustes: 308
 
-**Total: 352**
+**Total: 353**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/09/2025
+b3.10.350 {.versions}
+
+## Ajustes
+- Corrigida a data de validade para seriais novos criados via reativação.
+
 # 02/09/2025
 f2.11.165, b3.10.349, p1.0.48 {.versions}
 
@@ -53,7 +59,6 @@ f2.11.165, b3.10.349, p1.0.48 {.versions}
 - Corrigido o recebimento da primeira parcela da venda após edição e adição de produto em um PDV.
 - Ajustada validação da configuração ‘Não faturar documentos a prazo para clientes inadimplentes’ para trazer o modal de permissão para realização das vendas de clientes inadimplentes.
 - Ajustada diferença entre os relatórios de balancete do sistema.
-
 
 # 01/09/2025
 f2.11.164, b3.10.347, b3.10.348 {.versions}
