@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-02T14:44:18.726Z
+date: 2025-10-02T14:53:06.464Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 45
+- Novidades: 46
 - Ajustes: 309
 
-**Total: 354**
+**Total: 355**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -27,7 +27,10 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 02/10/2025
-b3.10.352, b3.10.353 {.versions}
+f2.11.166, b3.10.352, b3.10.353, b3.10.354, p1.0.50 {.versions}
+
+## Novidades
+- Implementação do Scope no TEF Gweb.
 
 ## Ajustes
 - Corrigido processo de reset de base de dados.
