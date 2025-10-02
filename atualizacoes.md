@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-02T14:36:44.014Z
+date: 2025-10-02T14:37:02.615Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 45
-- Ajustes: 308
+- Ajustes: 309
 
-**Total: 353**
+**Total: 354**
 
 --- 
 ir para [2024](#h-2024) {.goto}
