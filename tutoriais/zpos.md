@@ -2,7 +2,7 @@
 title: ZPOS no GWEB
 description: Veja como configurar o aplicativo ZPOS das maquininhas no GWEB
 published: true
-date: 2025-03-21T12:47:32.115Z
+date: 2025-10-03T14:19:53.799Z
 tags: tutorial, zpos
 editor: markdown
 dateCreated: 2024-01-10T12:54:23.554Z
@@ -14,7 +14,8 @@ Na integração do sistema **Gweb** com o aplicativo **ZPOS**, o sistema aguarda
 
 A comunicação entre sistema e equipamento é feita por meio de um app instalado na sua maquininha. Ele está disponível nos modelos a seguir:
 
-![Lista de dispositivos compatíveis com o ZPOS](/config/ferramentas/maquininhas_pos-2048x719.png)
+
+![Lista de dispositivos compatíveis com o ZPOS](/config/ferramentas/maquininhas_.png)
 
 >Para esta comunicação, é necessário conectar a maquininha à internet.
 {.is-info}
@@ -44,7 +45,7 @@ Será apresentado o formulário de cadastro de uma nova maquininha, os campos di
 ![novo cadastro](/config/ferramentas/cad-dispositivo02.png)
 
 - **Nome (identificação)**: cadastre nomes diferentes e únicos para cada maquininha afim de facilitar a identificação no momento do uso.
-- **Integradora**: Selecione entre **STONE**, **PAGBANK** e **BANRISUL**.
+- **Integradora**: Selecione entre **Stone**, **PagBank**, **Vero (Banrisul)**, **Rede**, **Cielo**, **Clover**, **Sipag**, **Caixa**, **Bin** e **Sicredi**.
 - **Número serial (POS)**: informação disponível na tela da maquininha, no campo **número de série** do aplicativo **ZPOS**.
 - **Imprimir documento da venda no POS**: Configuração para o GWEB imprimir a NFC-e diretamente na maquininha POS para atender ao decreto 56670/22 do RS 
 
