@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-02T16:29:51.003Z
+date: 2025-10-07T11:17:41.398Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 46
-- Ajustes: 309
+- Novidades: 47
+- Ajustes: 313
 
-**Total: 355**
+**Total: 360**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 06/10/2025
+f2.11.170, b3.10.355, b3.10.361, b3.10.362 {.versions}
+
+## Novidades
+- Adequação do MDF-e para apresentar o campo de NCM e informações de pagamento.
+
+## Ajustes
+- Corrigido erro no CST do IPI de entrada feitas pelo módulo de NF-e.
+- Ajustado os detalhes da PV que não estavam aparecendo com as informações em branco.
+- Ajustada geração do CEST no XML das NF-es.
+- Ajustado para apresentar no XML apenas os primeiros 60 caracteres do nome do emitente.
+
 # 02/10/2025
 f2.11.166, b3.10.352, b3.10.353, b3.10.354, p1.0.50 {.versions}
 
