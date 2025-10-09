@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2025-10-08T19:51:39.152Z
+date: 2025-10-09T11:38:51.536Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -36,6 +36,10 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 
 ## Aba geral
 
+Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
+
+![Geral](/movimentos/mdf-e/aba_gerall.png)
+
 - **UF**: do início do carregamento (campo obrigatório);
 - **Município**: do término do transporte (campo obrigatório);
 - **Início da viagem**: data e horário de partida;
@@ -46,9 +50,11 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 - **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
-![Geral](/movimentos/mdf-e/aba_gerall.png)
-
 ## Aba modal rodoviário
+
+Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto e participantes do MDF-e.
+
+![Modal rodoviário](/movimentos/mdf-e/aba_modal.png)
 
 - **Veículo**: [veículo](https://help.gdoorweb.com.br/pt-br/cadastros/veiculos) principal da operação (campo obrigatório);
 - **Tipo da carga**: selecione entre as opções disponíveis (campo obrigatório);
@@ -60,12 +66,17 @@ Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios,
 Atualização do MDF-e
 - **NCM**: Informe o NCM do produto predominante;
 -->
+- **Condutores**: Selecione uma pessoa cadastrada como condutora.
+<!--
+Atualização do MDF-e
+- **Informações de pagamento**: Inclua os componentes do pagamento e a forma de pagamento do transporte;
+![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
+-->
 - **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
 - **Reboques**: adicione informações dos reboques;
 - **Vale pedágio**: informe o CNPJ do fornecedor do vale pedágio, responsável, comprovante de compra e valor;
+![20_vale_pedagio.png](/movimentos/mdf-e/20_vale_pedagio.png)
 - **Contratante/tomador**: efetue a busca entre os clientes cadastrados ou cadastre um novo.
-
-![Modal rodoviário](/movimentos/mdf-e/aba_modal.png)
 
 ## Aba documentos
 
