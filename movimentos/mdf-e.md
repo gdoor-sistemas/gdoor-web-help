@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2025-10-09T11:38:51.536Z
+date: 2025-10-09T16:37:35.604Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -62,16 +62,10 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 - **CEP descarregamento**: onde será descarregado o MDF-e;
 - **Descrição do produto**: predominante na carga (campo obrigatório);
 - **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
-<!--
-Atualização do MDF-e
-- **NCM**: Informe o NCM do produto predominante;
--->
+- **NCM**: informe o NCM do produto predominante;
 - **Condutores**: Selecione uma pessoa cadastrada como condutora.
-<!--
-Atualização do MDF-e
-- **Informações de pagamento**: Inclua os componentes do pagamento e a forma de pagamento do transporte;
+- **Informações de pagamento**: inclua os componentes do pagamento e a forma de pagamento do transporte;
 ![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
--->
 - **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
 - **Reboques**: adicione informações dos reboques;
 - **Vale pedágio**: informe o CNPJ do fornecedor do vale pedágio, responsável, comprovante de compra e valor;
