@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-07T11:29:09.027Z
+date: 2025-10-16T14:38:00.270Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 47
-- Ajustes: 313
+- Ajustes: 317
 
-**Total: 360**
+**Total: 364**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/10/2025
+b3.10.363, b3.10.365, B3.10.366, p1.0.52 {.versions}
+
+## Ajustes
+- Corrigida falha na impressão de PV no PDV Híbrido pela tela de detalhes.
+- Ajustado nas configurações da NFS-e a seleção da opção "Regime tributário para Simples Nacional" que não estava mantendo salva ao trocar de módulo.
+- Ajustada falha no envio de NFC-es sem a informação de CSOSN.
+- Corrigido valor da tag < tpIntegra > quando o pagamento é integrado.
+
 # 06/10/2025
 f2.11.170, b3.10.355, b3.10.361, b3.10.362 {.versions}
 
