@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-10-22T14:50:25.529Z
+date: 2025-10-22T14:51:26.565Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -296,7 +296,8 @@ Siga um dos procedimentos para geração de arquivo de configuração para balan
 <!--
 # Composição de produtos {#composicao-de-produtos}
 
-A composição de produtos é um conceito utilizado para definir produtos
+A composição de produtos é um conceito utilizado para definir produtos que serão compostos por outros produtos, estes chamados de matérias-prima.
+
 -->
 # Grades
 
