@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-02-18T12:42:20.634Z
+date: 2025-10-22T14:25:19.458Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -29,6 +29,11 @@ A tela para "**novo cadastro**" será aberta:
 Seção para identificação do produto.
 
 ![Identificação](/produtos/3_identificação.png)
+<!--
+Material parcial composição
+Remover a imagem acima e colocar esta:
+![Identificação](/produtos/31_identificacao.png)
+-->
 
 - **Nome**: informe o nome do produto;
 - **Unidade de medida**: indique a unidade desejada ou clique em (<em class="mdi mdi-plus"></em>) para utilizar **unidades de medida adicionais** e **fator de conversão**;
@@ -38,6 +43,17 @@ Seção para identificação do produto.
 - **Observações**: informação adicional para o produto, se adicionada entre as tags também irá para a NF-e;
 - **Imagem**: selecione um arquivo ou tire uma foto do produto;
 
+<!--
+Material parcial composição
+<em class="mdi mdi-check-box-outline"></em> **Composição**
+
+Ao marcar o checkbox, a seção para **criação da composição** do item será mostrada:
+
+![Composição do produto](/produtos/1_composicao.png)
+
+> [Clique aqui](#composicao-de-produtos) para mais informações sobre a composição de produtos.
+{.is-info}
+-->
 
 <em class="mdi mdi-check-box-outline"></em> **Grade**
 
@@ -277,6 +293,11 @@ Siga um dos procedimentos para geração de arquivo de configuração para balan
 
 ![429](/produtos/429.png)
 
+<!--
+# Composição de produtos {#composicao-de-produtos}
+
+A composição de produtos é um conceito utilizado para definir produtos
+-->
 # Grades
 
 A grade de produtos é um conceito utilizado para cadastrar **apenas um produto** com **características diferentes** no estoque. Podemos imaginar uma “tabela”, onde as variáveis são as linhas e colunas iniciais.
