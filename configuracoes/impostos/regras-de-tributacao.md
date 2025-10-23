@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2025-10-23T11:54:29.249Z
+date: 2025-10-23T12:15:30.264Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -114,6 +114,18 @@ A tabela de alíquotas possui uma linha para cada UF porque o cenário da tribut
 
 > A coluna **CFOP** não é de informação obrigatória. Na verdade, o CFOP não é definido pela regra, mas varia de acordo com a operação que estiver sendo realizada. No entanto, a configuração dele na regra facilita o preenchimento automático para que você não precise especificar o CFOP a cada item adicionado a uma NF-e, por exemplo.
 {.is-info .gw .gw-note}
+
+#### Benefício Fiscal
+O "Código de Benefício Fiscal" (cBenef) é um código alfanumérico que identifica a existência de um incentivo fiscal (como isenção, imunidade ou redução da base de cálculo) para NF-e ou NFC-e. A obrigatoriedade e as tabelas de códigos são definidas por cada estado para o ICMS. 
+
+![cbenef.png](/config/impostos/cbenef.png)
+
+- **Código Benefício Fiscal:** informe o código definido pela legislação da UF.
+- **% Alíquota:** informe o percentual de alíquota.
+
+> Em caso de dúvidas sobre o preenchimento dos dados, entre em contato com a Contabilidade.
+{.is-info .gw .gw-note}
+
 
 #### ICMS desonerado
 
