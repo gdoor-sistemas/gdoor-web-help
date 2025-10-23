@@ -2,7 +2,7 @@
 title: Pagamentos
 description: Veja como cadastrar e usar as formas de pagamento no Gweb
 published: true
-date: 2025-06-24T11:22:28.154Z
+date: 2025-10-23T20:54:39.559Z
 tags: cadastros, pagamentos, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:30:35.400Z
@@ -26,6 +26,9 @@ A tela para identificação da forma de pagamento será aberta:
 - **Descrição**: campo opcional;
 - **Tipo de pagamento**: selecione entre as opções disponíveis (campo obrigatório);
 - **Referência na NF-e**: selecione entre as opções disponíveis (campo obrigatório);
+>O campo **“Forma gerada no XML”** deve ser selecionado conforme a forma que será enviada no XML, pois a SEFAZ valida, no XML da NF-e/NFC-e, o campo **"tPag"**, responsável por identificar a forma de pagamento informada no documento fiscal.
+Para consultar todas as formas de pagamento que a SEFAZ valida, acesse o [Portal da Nota Fiscal Eletrônica - Documentos - Diversos](/https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=/NJarYc9nus=) e localize a última Tabela de Meios de Pagamento atualizada.
+{.is-info}
 - **Conta financeira**: selecione uma [conta financeira](/financeiro/contas) já cadastrada para ser associada a este meio de pagamento;
 - **Dispositivo**: Selecione o dispositivo que essa forma de pagamento utilizar.
 
