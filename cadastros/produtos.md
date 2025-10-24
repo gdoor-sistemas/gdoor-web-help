@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-10-24T13:19:25.486Z
+date: 2025-10-24T13:19:38.341Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -292,8 +292,6 @@ Siga um dos procedimentos para geração de arquivo de configuração para balan
 **Imagem ilustrativa demonstrando os valores nutricionais na etiqueta do padrão RDC 429:**
 
 ![429](/produtos/429.png)
-
-
 
 # Grades
 
