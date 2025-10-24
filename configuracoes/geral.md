@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2025-05-20T12:54:03.906Z
+date: 2025-10-24T14:30:42.696Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -13,11 +13,12 @@ dateCreated: 2020-01-03T19:57:44.951Z
 Saiba mais sobre as configurações gerais, que serão aplicadas em diversos módulos do sistema Gweb, como precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque.
 
 Para iniciar, acesse no menu principal: **configurações » geral**.
-
+<!--
+Material parcial composição
+![configurações_gerais_1.png](/config/gerais/configurações_gerais_1.png)
+-->
 A tela abaixo será mostrada:
-
 ![configurações gerais](/config/gerais/configurações_gerais.png)
-
 # Certificado digital
 
 Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para utilizar em todos os módulos do sistema. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> ENVIAR</span>.
@@ -78,11 +79,20 @@ Selecione qual será a **comissão preferencial**: a do cadastro do **vendedor**
 
 Após selecionar, clique em <span class="mat-button mdi "> salvar</span>.
 
-# Quantidade negativa de estoque
+# Gestão de estoque
+
+**Quantidade negativa de estoque:**
 
 Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque. Ao desmarcar, é habilitada a opção **avisar quantidade insuficiente no lançamento do produto** para o sistema exibir um aviso no [PDV](/pt-br/movimentos/pdv) e na [NF-e](/pt-br/tutoriais/como-emitir-uma-nfe).
 
-![quantidade negativa de estoque](/config/gerais/quantidade_negativa_de_estoque.png)
+**Avisar quantidade insuficiente no lançamento do produto:**
+
+Ao marcar a opção **Avisar quantidade insuficiente no lançamento do produto**, o GWeb irá bloquear o lançamento de itens que estão com a quantidade negativa. Com ela desmarcada, o GWeb permite lançar, mas bloqueia na transmissão da venda.
+
+Material parcial composição
+**Montar composições automaticamente:**
+
+Ao marcar a opção **Montar composições automaticamente**, o GWeb irá montar automaticamente o produto composto quado este for utilizado nos documentos.
 
 Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
 
