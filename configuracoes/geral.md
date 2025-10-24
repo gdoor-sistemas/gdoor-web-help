@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2025-10-24T14:30:42.696Z
+date: 2025-10-24T14:30:51.889Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -89,10 +89,12 @@ Ao marcar a opção "**permitir estoque negativo**", será possível efetuar mov
 
 Ao marcar a opção **Avisar quantidade insuficiente no lançamento do produto**, o GWeb irá bloquear o lançamento de itens que estão com a quantidade negativa. Com ela desmarcada, o GWeb permite lançar, mas bloqueia na transmissão da venda.
 
+<!--
 Material parcial composição
 **Montar composições automaticamente:**
 
 Ao marcar a opção **Montar composições automaticamente**, o GWeb irá montar automaticamente o produto composto quado este for utilizado nos documentos.
+-->
 
 Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
 
