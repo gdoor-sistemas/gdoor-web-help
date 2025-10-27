@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-10-24T19:10:04.285Z
+date: 2025-10-27T12:05:02.792Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
@@ -35,8 +35,6 @@ No cadastro de produtos, edite o produto mesa, e localize no formulário do prod
 
 No canto superior direito, clique no botão <em class="mdi mdi-barcode"></em> e selecione os **produtos** necessários e suas respectivas **quantidades** para montar a mesa, como no exemplo acima.
 
-Também é possível clicar no botão <em class="mdi mdi-download-box-outline"></em> para **importar** os **produtos** de uma **NF-e de compra** específica.
-
 No exemplo que estamos utilizando, vamos montar apenas uma unidade de mesa. Mas você pode definir a quantidade desejada, informando ela no campo **Quantidade a montar** no canto inferior direito.
 
 ![Informar quantidade a montar](/tutoriais/composicao/3_form_parcial_quantidade_montar.png)
@@ -44,4 +42,17 @@ No exemplo que estamos utilizando, vamos montar apenas uma unidade de mesa. Mas 
 > Na parte inferior da seção, informe os **custos adicionais** da produção, como mão de obra ou cola, no caso de uma mesa. Além disso, também é possível visualizar o **custo unitário do item composto**e  a **capacidade produtiva** com base nas quantidades disponíveis das matérias-prima.
 {.is-info}
 
+Para excluir um dos itens, basta clicar no ícone <em class="mdi mdi-trash-can" style="color: #b24040"></em> ao lado direito do produto matéria-prima na lista.
 
+> Note que a quantidade no estoque dos produtos caracterizados como matéria-prima, irão diminuir de acordo com a quantia utilizada para montar o produto composto.
+Já o item mesa, contará com uma unidade no estoque, visto que foi montada a partir da composição demonstrada.
+{.is-warning}
+
+# Importanto itens pela nota de compra
+
+Para que não seja necessário cadastrar os itens manualmente, você tem a opção de incluir todos de uma vez, através de uma nota de compra.
+Para isso, basta clicar no ícone <em class="mdi mdi-download-box-outline"></em> localizado no canto superior direito.
+
+![Botão para importar compra](/tutoriais/composicao/4_botao_importar_compra.png)
+
+Selecione a nota de entrada desejada e clique em **importar** no canto inferior direito. Há também possibilidade de realizar a busca pelo fornecedor, número da nota ou chave de acesso, basta clicar no campo “Digite para buscar...”.
