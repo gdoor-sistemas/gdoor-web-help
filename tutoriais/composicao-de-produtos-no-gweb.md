@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-10-27T12:05:02.792Z
+date: 2025-10-27T12:16:37.322Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
@@ -56,3 +56,17 @@ Para isso, basta clicar no ícone <em class="mdi mdi-download-box-outline"></em>
 ![Botão para importar compra](/tutoriais/composicao/4_botao_importar_compra.png)
 
 Selecione a nota de entrada desejada e clique em **importar** no canto inferior direito. Há também possibilidade de realizar a busca pelo fornecedor, número da nota ou chave de acesso, basta clicar no campo “Digite para buscar...”.
+
+![Botão para importar nota de compra](/tutoriais/composicao/5_selecionar_e_importar.png)
+
+Após importar os itens, basta dar continuidade no processo de composição. 
+
+# Desmontando o produto composto
+
+O procedimento de desmontagem do produto composto é o inverso ao da montagem. No módulo **cadastros > produtos** selecione o produto composto e edite.
+
+Selecione a opção Desmontar, informe a quantidade a desmontar e clique no botão <span class="mat mat-button mat-accent">DESMONTAR</span>.
+
+Ao efetuar este procedimento, a quantidade do produto composto irá reduzir e a quantidade dos produtos matéria-prima irão aumentar, de acordo com a quantidade desmontada.
+
+
