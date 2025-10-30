@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-16T16:10:35.810Z
+date: 2025-10-30T17:12:33.697Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2025** já foram implementados:
-- Novidades: 47
-- Ajustes: 318
+- Novidades: 53
+- Ajustes: 345
 
-**Total: 365**
+**Total: 398**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,49 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/10/2025
+f2.11.178, b3.10.368, p1.0.54 {.versions}
+
+## Novidades
+- Implementado endpoint para possibilitar a busca de Kits de produto no GPED.
+- Implementado campo “Código de barras” na aba “Alterar produtos” da Compra.
+- Implementado total de documentos emitidos no relatório NFe, NFCe (Resumo).
+- Implementada caixa de seleção de “Produtor Rural” no cadastro rápido de pessoas direto no documento.
+- Padronizada a visualização do número dos documentos entre a listagem e os detalhes do documento.
+- Implementada visualização das informações de CPF/CNPJ e Apelido/Nome Fantasia na busca de pessoas em todo o sistema.
+
+
+## Ajustes
+- Ajustada a configuração da NF-e para permitir utilizar a série 0 nas notas.
+- Removida a obrigatoriedade do preenchimento do código da ANVISA no cadastro de produtos para NCMs que permitem seu preenchimento.
+- Ajustada a geração da NFS-e a partir de um pedido de venda, para trazer a tributação correta dos serviços.
+- Corrigida a regra de tributação aplicada a uma nota quando a mesma é duplicada e tem sua natureza de operação (com regra de tributação) alterada. 
+- Ajustada a inserção de documentos transportados no CT-e.
+- Corrigida a aplicação de fator de conversão na compra.
+- Alterada a descrição ao passar o mouse sob o botão para criar vendas no PDV para “Nova Venda”.
+- Melhorado o título de uma das configurações de preferência de impressão no PDV de “Imprimir depois de autorizar” para “Imprimir comprovante ao concluir Pré-venda”.
+- Ajustada a apresentação da informação das pessoas participantes do CT-e para conter a descrição IE quando pessoa jurídica.
+- Corrigido o cadastro de pessoas proveniente da importação de CT-e para cadastrar somente pessoas distintas.
+- Inseridos novamente os Gráficos ABC de clientes e Total de vendas por meio de pagamentos no dashboard, assim como criado um relatório ABC de clientes.
+- Melhorado o filtro “Produtos” no relatório “Alterações no produto” para realizar uma busca mais eficiente.
+- Ajustada a receita para não permitir utilizar meio de pagamento “Saldo de Crédito em Loja” sem informar o cliente.
+- Ajustado o totalizador dos relatórios NF-e e NFC-e (Resumo) para respeitarem o filtro de datas e tipos.
+- Impossibilitada a exclusão de um contador que esteja em uso.
+- Ajustado o contador de caracteres do campo “Número de pedido de compra” na nota de ajuste.
+- Ajustada a busca de produtos para pesquisar entre todos os produtos e não só na página atual.
+- Incluído filtro por remetente no relatório CT-e emitidos.
+- Ajustado PDV Híbrido para somente gerar NF-C quando a configuração do pagamento ou do PDV estiver marcada.
+- Ajustada a NF-e para trazer marcado consumidor final somente quando Pessoa Jurídica não contribuinte ou Pessoa Física.
+- Corrigida a MDF-e para não permitir editar quando autorizada.
+- Removido filtro “a vencer” do dashboard dos gráficos financeiros de receitas e despesas e incluído filtro vencendo hoje.
+- Corrigido o campo multiplicador do código de barras do produto para aceitar casas decimais.
+- Ajustada a NFS-e para somente solicitar operação e tomador quando os dados não tiverem sido lançados.
+- Adicionado o campo Código NBS nos serviços da NFS-e para Sumaré/SP.
+- Corrigido o envio dá cópia do e-mail dos documentos para o emitente quando a configuração estiver marcada.
+- Removida a opção de pagamento 'Crédito em loja' da despesa.
+- Ajuste para apresentar as CF-e pela visualização da movimentação dos produtos.
+
+
 # 16/10/2025
 f2.11.177, b3.10.363, b3.10.365, b3.10.366, p1.0.52 {.versions}
 
