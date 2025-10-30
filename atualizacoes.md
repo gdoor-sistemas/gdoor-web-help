@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-30T18:11:29.962Z
+date: 2025-10-30T18:33:09.327Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -67,6 +67,12 @@ f2.11.178, b3.10.371, p1.0.54 {.versions}
 - Corrigido o envio dá cópia do e-mail dos documentos para o emitente quando a configuração estiver marcada.
 - Removida a opção de pagamento 'Crédito em loja' da despesa.
 - Ajuste para apresentar as CF-e pela visualização da movimentação dos produtos.
+
+# 23/10/2025
+b3.10.370 {.versions}
+
+## Ajustes
+- Ajustada a emissão de NF-e com CST 61.
 
 
 # 16/10/2025
