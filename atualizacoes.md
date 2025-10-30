@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-30T17:12:33.697Z
+date: 2025-10-30T18:11:29.962Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -27,7 +27,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 30/10/2025
-f2.11.178, b3.10.368, p1.0.54 {.versions}
+f2.11.178, b3.10.371, p1.0.54 {.versions}
 
 ## Novidades
 - Implementado endpoint para possibilitar a busca de Kits de produto no GPED.
