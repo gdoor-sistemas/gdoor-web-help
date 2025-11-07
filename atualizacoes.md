@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-07T19:04:46.802Z
+date: 2025-11-07T19:05:32.783Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -27,7 +27,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 30/10/2025
-f2.11.178, b3.10.371, p1.0.54 {.versions}
+b3.10.373 {.versions}
 
 ## Ajustes
 - Ajustado carregamento dos filtros do relatório "Documentos fiscais Emitidos".
