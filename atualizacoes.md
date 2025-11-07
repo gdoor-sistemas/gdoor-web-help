@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-10-30T18:33:09.327Z
+date: 2025-11-07T19:04:46.802Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 53
-- Ajustes: 345
+- Ajustes: 348
 
-**Total: 398**
+**Total: 402**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 30/10/2025
+f2.11.178, b3.10.371, p1.0.54 {.versions}
+
+## Ajustes
+- Ajustado carregamento dos filtros do relatório "Documentos fiscais Emitidos".
+- Ajustada a geração do relatório "Produtos em estoque".
+- Ajustada a importação em bases novas para trazer o campo referência do produto.
+
 # 30/10/2025
 f2.11.178, b3.10.371, p1.0.54 {.versions}
 
