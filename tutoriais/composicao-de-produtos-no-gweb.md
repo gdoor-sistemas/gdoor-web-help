@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-11-10T20:24:31.781Z
+date: 2025-11-10T20:35:49.420Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
@@ -27,23 +27,20 @@ Em seguida, é necessário cadastrar o produto final: a **cadeira** marcando a c
 
 # Montando o produto composto
 
-No cadastro de produtos, edite o produto mesa, e localize no formulário do produto, a seção **Composição do produto**.
+Acesse o cadastro do produto **cadeira** e localize a seção **Composição do produto**. Clique no botão <em class="mdi mdi-barcode"></em> e selecione os **produtos** necessários e suas respectivas **quantidades** para montar **uma cadeira**.
 
 ![Formulário da composição do produto](/tutoriais/composicao/2_form_parcial_homolog.png)
 
-No canto superior direito, clique no botão <em class="mdi mdi-barcode"></em> e selecione os **produtos** necessários e suas respectivas **quantidades** para montar a mesa, como no exemplo acima.
-
-No exemplo que estamos utilizando, vamos montar apenas uma unidade de mesa. Mas você pode definir a quantidade desejada, informando ela no campo **Quantidade a montar** no canto inferior direito.
+Defina a quantidade de cadeiras que serão montadas para o estoque no campo **Quantidade a montar**.
 
 ![Informar quantidade a montar](/tutoriais/composicao/3_form_parcial_quantidade_montar.png)
 
-> Na parte inferior da seção, informe os **custos adicionais** da produção, como mão de obra ou cola, no caso de uma mesa. Além disso, também é possível visualizar o **custo unitário do item composto**e  a **capacidade produtiva** com base nas quantidades disponíveis das matérias-prima.
+> Na parte inferior da seção, informe os custos adicionais da produção, como mão de obra ou cola, no caso de uma mesa. Além disso, também é possível visualizar o custo unitário do item composto e a **capacidade produtiva** com base nas quantidades disponíveis das matérias-primas.
 {.is-info}
 
-Para excluir um dos itens, basta clicar no ícone <em class="mdi mdi-trash-can" style="color: #b24040"></em> ao lado direito do produto matéria-prima na lista.
+Para excluir um dos itens, clique no ícone <em class="mdi mdi-trash-can" style="color: #b24040"></em> ao lado do item na lista.
 
-> Note que a quantidade no estoque dos produtos caracterizados como matéria-prima, irão diminuir de acordo com a quantia utilizada para montar o produto composto.
-Já o item mesa, contará com uma unidade no estoque, visto que foi montada a partir da composição demonstrada.
+> Ao montar o produto composto, o estoque das matérias-primas será reduzido conforme o uso, e o produto final, como a **cadeira**, terá sua unidade registrada em estoque.
 {.is-warning}
 
 # Importanto itens pela nota de compra
