@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-10T13:57:16.183Z
+date: 2025-11-10T19:38:37.280Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 53
-- Ajustes: 349
+- Ajustes: 351
 
-**Total: 403**
+**Total: 405**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -27,10 +27,12 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 10/11/2025
-b3.10.375 {.versions}
+b3.10.375, b3.10.376 {.versions}
 
 ## Ajustes
 - Ajustada a importação de XML com dados de ICMS.
+- Ajustada a impressão no POS ao finalizar a venda na NF-e e NFC-e no PIX.
+- Ajustada o código do item no XML da NFS-e.
 
 # 07/11/2025
 b3.10.373 {.versions}
