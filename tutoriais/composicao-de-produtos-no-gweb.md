@@ -2,19 +2,20 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-10-27T12:20:24.455Z
+date: 2025-11-10T19:42:46.018Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
 ---
 
 # Introdução
-Listamos neste tópico, o procedimento de montagem e desmontagem de produtos compostos, e como criar a **composição** do produto.
-
-A composição é realizada através de um produto composto, onde você utiliza determinados produtos para montar um outro produto em específico.
-Vamos utilizar como exemplo, uma mesa. Para fazer uma mesa, precisamos de outros produtos (que chamaremos aqui de matéria-prima).
+A composição é um processo que consiste em utilizar determinados produtos para montar um produto específico ou desmembrar um determinado item em vários produtos.
+Por exemplo, para montar uma cadeira, serão necessários o assento, o encosto, a base e as rodinhas. Esses itens, utilizados na montagem da cadeira, chamaremos de **matéria-prima** neste tutorial.
 
 # Cadastrando os produtos matéria-prima e produto final
+
+No cadastro de produtos, devem ser cadastrados previamente os produtos que compõem a cadeira, ou seja, a matéria-prima: o assento, o encosto, a base, as rodinhas e os braços. as dobradiças, as pernas e outros, com suas respectivas quantidades.
+
 
 No cadastro de produtos, você deve cadastrar previamente os produtos que compõe a mesa, ou seja a matéria-prima: a base, os parafusos, as dobradiças, as pernas e outros, com as suas respectivas quantidades.
 
