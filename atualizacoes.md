@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-07T19:05:32.783Z
+date: 2025-11-10T13:57:16.183Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 53
-- Ajustes: 348
+- Ajustes: 349
 
-**Total: 402**
+**Total: 403**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,7 +26,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 30/10/2025
+# 10/11/2025
+b3.10.375 {.versions}
+
+## Ajustes
+- Ajustada a importação de XML com dados de ICMS.
+
+# 07/11/2025
 b3.10.373 {.versions}
 
 ## Ajustes
