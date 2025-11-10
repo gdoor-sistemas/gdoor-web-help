@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2025-10-24T14:31:23.588Z
+date: 2025-11-10T18:26:19.866Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -13,12 +13,12 @@ dateCreated: 2020-01-03T19:57:44.951Z
 Saiba mais sobre as configurações gerais, que serão aplicadas em diversos módulos do sistema Gweb, como precisão numérica, serviços, autenticação, comissões, quantidade negativa de estoque.
 
 Para iniciar, acesse no menu principal: **configurações » geral**.
-<!--
-Material parcial composição
-![configurações_gerais_1.png](/config/gerais/configurações_gerais_1.png)
--->
+
+
 A tela abaixo será mostrada:
-![configurações gerais](/config/gerais/configurações_gerais.png)
+
+![configurações_gerais_1.png](/config/gerais/configurações_gerais_1.png)
+
 # Certificado digital
 
 Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para utilizar em todos os módulos do sistema. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> ENVIAR</span>.
@@ -51,7 +51,7 @@ Em seguida indique o "**local padrão do fato gerador do ISS**" que se trata do 
 
 - **Cidade do emissor**: serviço prestado dentro do município do emitente.
 - **Cidade do destinatário**: para serviço prestado fora do município, terá como base o município indicado no cadastro do cliente.
-- **Cidade específica**: será habilitada a seção para informação do **UF** e **cidade**:
+- **Cidade específica**: será habilitada a seção para informação do **UF** e **Cidade**:
 
 ![cidade específica](/config/gerais/serviços2.png)
 
