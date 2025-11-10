@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-11-10T20:36:00.715Z
+date: 2025-11-10T20:44:29.904Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
@@ -45,23 +45,25 @@ Para excluir um dos itens, clique no ícone <em class="mdi mdi-trash-can" style=
 
 # Importanto itens pela nota de compra
 
-Para que não seja necessário cadastrar os itens manualmente, você tem a opção de incluir todos de uma vez, através de uma nota de compra.
-Para isso, basta clicar no ícone <em class="mdi mdi-download-box-outline"></em> localizado no canto superior direito.
+Para não ser necessário cadastrar os itens manualmente, é possível incluí-los todos de uma vez por meio de uma nota de compra. Clique no ícone <em class="mdi mdi-download-box-outline"></em> localizado no canto superior direito.
 
 ![Botão para importar compra](/tutoriais/composicao/4_botao_importar_compra.png)
 
-Selecione a nota de entrada desejada e clique em **importar** no canto inferior direito. Há também possibilidade de realizar a busca pelo fornecedor, número da nota ou chave de acesso, basta clicar no campo “Digite para buscar...”.
+Selecione a nota de entrada e clique em **importar**. 
+
+>A busca pela nota pode ser feita pelo fornecedor, número da nota ou chave de acesso por meio do campo “Digite para buscar”.
+{.is-info}
 
 ![Botão para importar nota de compra](/tutoriais/composicao/5_selecionar_e_importar.png)
 
-Após importar os itens, basta dar continuidade no processo de composição. 
+Após importar os itens, realize o processo de composição repassado anteriormente.
 
 # Desmontando o produto composto
 
-O procedimento de desmontagem do produto composto é o inverso ao da montagem. No módulo **cadastros > produtos** selecione o produto composto e edite.
+O procedimento de desmontagem de um produto composto segue o caminho inverso ao da montagem. No módulo **Cadastros > Produtos**, localize o produto composto e clique em **Editar**.
 
-Selecione a opção Desmontar, informe a quantidade a desmontar e clique no botão <span class="mat mat-button mat-accent">DESMONTAR</span>.
+Selecione a opção Desmontar, informe a quantidade a desmontar e acione o botão <span class="mat mat-button mat-accent">DESMONTAR</span>.
 
-Ao efetuar este procedimento, a quantidade do produto composto irá reduzir e a quantidade dos produtos matéria-prima irão aumentar, de acordo com a quantidade desmontada.
+Ao realizar o procedimento, a quantidade do produto composto será reduzida e a quantidade dos produtos matérias-primas serão aumentadas no estoque, proporcionalmente à quantidade desmontada.
 
 
