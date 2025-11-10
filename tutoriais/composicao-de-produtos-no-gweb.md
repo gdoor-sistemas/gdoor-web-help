@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-11-10T19:42:46.018Z
+date: 2025-11-10T20:24:31.781Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
@@ -14,18 +14,15 @@ Por exemplo, para montar uma cadeira, serão necessários o assento, o encosto, 
 
 # Cadastrando os produtos matéria-prima e produto final
 
-No cadastro de produtos, devem ser cadastrados previamente os produtos que compõem a cadeira, ou seja, a matéria-prima: o assento, o encosto, a base, as rodinhas e os braços. as dobradiças, as pernas e outros, com suas respectivas quantidades.
+No **cadastro de produtos**, cadastre os produtos que compõem a cadeira, ou seja, a matéria-prima: o assento, o encosto, a base, as rodinhas e os braços.
 
-
-No cadastro de produtos, você deve cadastrar previamente os produtos que compõe a mesa, ou seja a matéria-prima: a base, os parafusos, as dobradiças, as pernas e outros, com as suas respectivas quantidades.
-
-Em seguida, é necessário cadastrar o produto final: a mesa marcando a caixa de **composição**.
+Em seguida, é necessário cadastrar o produto final: a **cadeira** marcando a caixa de **composição**.
 
 ![Cadastro da mesa](/tutoriais/composicao/1_cadastro_mesa.png)
 
-É necessário que as matérias-primas tenham quantidades e custos cadastrados, pois estes valores serão usados ao fazer a composição, calculando o custo total do produto final.
+É necessário que as matérias-primas possuam quantidades e custos cadastrados, pois esses valores serão usados na composição, calculando o custo total do produto final.
 
-> Lembrando que o produto final: mesa, deve ser cadastrado com a **quantidade zerada** no estoque, pois será a partir da montagem da composição, que o saldo no estoque ficará positivo.
+> Lembrando que o produto final, mesa, deve ser cadastrado com a **quantidade zerada** no estoque, pois será a partir da montagem da composição que o saldo no estoque ficará positivo.
 {.is-info}
 
 # Montando o produto composto
