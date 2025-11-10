@@ -2,7 +2,7 @@
 title: Tutoriais
 description: Tutoriais de tarefas mais comuns a serem realizadas no sistema
 published: true
-date: 2025-10-27T12:22:27.504Z
+date: 2025-11-10T20:48:04.744Z
 tags: tutoriais
 editor: markdown
 dateCreated: 2019-11-19T18:56:12.670Z
@@ -16,10 +16,8 @@ Abaixo listamos alguns artigos com orientações passo-a-passo para realizar tar
 
 - [Reforma tributária *Confira as mudanças do GWeb para a reforma tributária*](https://help.gdoorweb.com.br/pt-br/tutoriais/gweb-na-reforma-tributaria)
 {.links-list}
-<!--
-Material parcial composição
 - [Composição de produtos *Confira o funcionamento da composição de produtos no GWeb*](https://help.gdoorweb.com.br/pt-br/tutoriais/composicao-de-produtos-no-gweb)
--->
+
 
 
 
