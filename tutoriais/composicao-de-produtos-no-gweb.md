@@ -2,7 +2,7 @@
 title: Composição de produtos no GWeb
 description: Confira neste tópico, detalhes, como configurar e utilizar a composição de produtos no GWeb.
 published: false
-date: 2025-11-10T20:35:49.420Z
+date: 2025-11-10T20:36:00.715Z
 tags: nf-e, produtos, nfc-e, pdv, pré-venda-gerencial
 editor: markdown
 dateCreated: 2025-10-21T19:08:06.007Z
