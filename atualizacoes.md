@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-11T17:37:41.702Z
+date: 2025-11-11T19:33:47.386Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 54
-- Ajustes: 351
+- Ajustes: 352
 
-**Total: 406**
+**Total: 407**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -27,10 +27,13 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 10/11/2025
-f2.11.183, b3.10.377, p1.0.56 {.versions}
+f2.11.183, f2.11.185, b3.10.377, p1.0.56 {.versions}
 
 ## Novidades
 - Implementada a composição de produtos.
+
+## Ajustes
+- Ajustada composição para somente mostrar mensagem de quantidade insuficiente na montagem quando não houver matéria prima suficiente.
 
 # 10/11/2025
 b3.10.375, b3.10.376 {.versions}
