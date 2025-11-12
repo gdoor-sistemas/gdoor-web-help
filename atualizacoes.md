@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-11T19:33:47.386Z
+date: 2025-11-12T11:39:36.301Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 54
-- Ajustes: 352
+- Ajustes: 353
 
-**Total: 407**
+**Total: 408**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,7 +26,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 10/11/2025
+# 12/11/2025
+b3.10.378 {.versions}
+
+## Ajustes
+- Ajustado o preenchimento do campo item de serviço no XML da NFS-e para não ter "." quando o ambiente for nacional, mas manter a pontuação no ambiente normal.
+
+# 11/11/2025
 f2.11.183, f2.11.185, b3.10.377, p1.0.56 {.versions}
 
 ## Novidades
