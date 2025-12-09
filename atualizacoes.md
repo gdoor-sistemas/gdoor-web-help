@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-11-17T19:13:03.559Z
+date: 2025-12-09T11:59:44.277Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 54
-- Ajustes: 354
+- Ajustes: 357
 
-**Total: 409**
+**Total: 412**
 
 --- 
 ir para [2024](#h-2024) {.goto}
@@ -26,6 +26,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/12/2025
+b3.10.385, b3.10.386, b3.10.387 {.versions}
+
+## Ajustes
+- Corrigido o salvamento do perfil para usuários que tem bases apagadas.
+- Ajustada a exportação de XML da NFS-e quando todas estão canceladas.
+- Habilitado o preenchimento do campo regime de operação para o ambiente nacional na NFS-e.
+
+
 # 17/11/2025
 b3.10.379, f2.11.186 {.versions}
 
