@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-12-29T11:33:12.060Z
+date: 2025-12-29T11:35:12.480Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -468,4 +468,4 @@ Para realizar alguma atualização, você deve:
 > Exemplo: **Quando** NCM **for** 2202.10.00, **alterar** ativo para inativo - Esta execução irá inativar todos os produtos que possuem o NCM 2202.10.00.
 {.is-info}
 
-
+Caso for necessário em alguma situação, é possível marcar a opção **em branco** para filtrar algum campo que não possui informação.
