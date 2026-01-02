@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2025-12-09T11:59:44.277Z
+date: 2026-01-02T18:50:18.387Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,7 +12,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2025** já foram implementados:
 - Novidades: 54
-- Ajustes: 357
+- Ajustes: 359
 
 **Total: 412**
 
@@ -26,6 +26,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/12/2025
+b3.10.389, b2.11.188 {.versions}
+
+## Ajustes
+- Possibilitada a seleção do regime de recolhimento correspondente a '11' nas configurações gerais da NFS-e.
+- Ajustada a gravação de venda com ZPOS para bases geradas sem o módulo financeiro.
+
 # 09/12/2025
 b3.10.385, b3.10.386, b3.10.387 {.versions}
 
