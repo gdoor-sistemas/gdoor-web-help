@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-02T18:54:53.413Z
+date: 2026-01-02T19:29:16.665Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -49,8 +49,29 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 31/12/2025
+f02.01.2026, b02.01.2026, p02.01.2026 {.versions}
+
+## Novidades
+- Adicionada a data de pagamento e recebimento nas listagens de receitas e despesas.
+- Implementada alteração em massa para dados de produtos.
+- Implementação da reforma tributária.
+
+## Ajustes
+- Ajustado recálculo do valor e base de cálculo do ICMS ao alterar CST.
+- Possibilitado o recebimento de pagamento em voucher (vale alimentação e refeição) no ZPOS.
+- Ajustado o texto do e-mail de envio automático do sintegra para enviar o mês correto.
+- Corrigigo envio automático de arquivos XML.
+- Possibilitada emissão de NFS-e para cliente estrangeiro.
+- Ajustada a impressão de MDF-e encerrado para conter a marca d'agua indicativa.
+- Ajustado o relatório "Total de vendas por meio de pagamento" para não considerar o troco quando estiver configurado para tal.
+- Ajustada a configuração de orçamentos na emissão de NF-e e NFC-e com serviços para não permitir gerar essas notas somente com serviços.
+- Corrigida alíquota gerada no campo de alíquota interna da ST.
+- Ajustada venda para puxar o preço de atacado ao utilizar a tabela de preço referente.
+- Corrigida a ediçao da NFC-e para não solicitar cliente quando o pagamento é realizado pelo ZPOS.
+
 # 18/12/2025
-b3.10.389, b2.11.188 {.versions}
+f2.11.188, b3.10.389 {.versions}
 
 ## Ajustes
 - Possibilitada a seleção do regime de recolhimento correspondente a '11' nas configurações gerais da NFS-e.
