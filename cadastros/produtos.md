@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2026-01-05T18:29:44.612Z
+date: 2026-01-05T18:35:05.779Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -461,6 +461,8 @@ Para acessar a funcionalidade, no cadastro de **Produtos**, clique no menu **Alt
 
 Para realizar uma atualização em massa, siga os passos abaixo:
 
+![menu_alteracao_massa2.png](/produtos/menu_alteracao_massa1.png)
+
 ## Identificar produtos
 
 
@@ -484,6 +486,6 @@ Para realizar uma atualização em massa, siga os passos abaixo:
 {.is-info}
 
 
-Clique em <span class="mat mat-button">confirmar</span>, assim a alteração será executada em segundo plano e você será notificado no GWEB.
--->
+Clique em <span class="mat mat-button">confirmar</span>. A alteração será executada em segundo plano e uma notificação será exibida ao final do processamento.
+
 
