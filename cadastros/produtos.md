@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2026-01-05T17:45:06.025Z
+date: 2026-01-05T18:18:08.036Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -451,29 +451,32 @@ Na lista de **unidades de medida cadastradas** clique no ícone <span class="mdi
 
 # Alteração em massa
 
-Para acessar a funcionalidade, no **Cadastro de produtos", clique no menu **Alteração em massa**.
+Para acessar a funcionalidade, no cadastro de **Produtos**, clique no menu **Alteração em massa**.
 
 ![Menu de alterações em massa](/produtos/menu_alteracao_massa.png)
 
-![menu_alteracao_massa2.png](/produtos/menu_alteracao_massa2.png)
-
-> As alterações em massa serão executadas em lote. **O processamento será enviado para a fila em segundo plano.** Portanto, é necessário **aguardar até que seja concluída**.
+> As alterações em massa serão executadas em lote. **O processamento será enviado para uma fila em segundo plano.** Portanto, é necessário **aguardar até que seja concluído**.
 {.is-warning}
 
 
-Para realizar uma atualização em massa, você deve:
+Para realizar uma atualização em massa, siga os passos abaixo:
 
 ## Identificar produtos
 
-- **Quando:** Selecione por qual campo os produtos forem selecionados.
-- **For:** Informe um dado para filtrar os produtos.
+
+- **Quando**: selecione o campo que será utilizado na operação.
+- **For:** informe um valor cadastrado nos produtos para que todos recebam a alteração aplicada.
 
 ## Aplicar alteração
 
-- **Alterar:** Selecione em qual campo quer aplicar a alteração e abaixo informe o dado que deseja ser incluído nesse campo.
+- **Alterar**: escolha o campo que será alterado e informe o valor que será incluído.
 
-> Exemplo: **Quando** NCM **for** 2202.10.00, **alterar** ativo para inativo - Esta execução irá inativar todos os produtos que possuem o NCM 2202.10.00.
-{.is-info}
+Por exemplo: **"Quando"** o campo **NCM** dos produtos **For** **2202.10.00**, **"Alterar"** o campo **NCM** dos produtos para **2009.89.90**.
+
+> Os valores apresentados são meramente explicativos e não devem ser considerados como regra.
+{.is-warning}
+
+![menu_alteracao_massa2.png](/produtos/menu_alteracao_massa2.png)
 
 Caso for necessário em alguma situação, é possível marcar a opção **em branco** para filtrar algum campo que não possui informação ou remover alguma informação **em branco**.
 
