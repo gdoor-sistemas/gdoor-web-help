@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2025-12-30T12:47:00.598Z
+date: 2026-01-05T17:45:06.025Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -448,12 +448,14 @@ Ao preencher os campos, clique em <span class="mat mat-button">ADICIONAR UNIDADE
 
 Na lista de **unidades de medida cadastradas** clique no ícone <span class="mdi mdi-pencil"></span> para editar e no ícone <span style="color: darkred;" class="mdi mdi-delete"></span>
 
-<!--
+
 # Alteração em massa
 
-No GWEB é possível alterar em massa dados de tributos no cadastro de produtos. Para isso, clique no menu **alteração em massa** no menu direito.
+Para acessar a funcionalidade, no **Cadastro de produtos", clique no menu **Alteração em massa**.
 
 ![Menu de alterações em massa](/produtos/menu_alteracao_massa.png)
+
+![menu_alteracao_massa2.png](/produtos/menu_alteracao_massa2.png)
 
 > As alterações em massa serão executadas em lote. **O processamento será enviado para a fila em segundo plano.** Portanto, é necessário **aguardar até que seja concluída**.
 {.is-warning}
