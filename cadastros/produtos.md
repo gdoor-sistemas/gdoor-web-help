@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2026-01-05T18:21:50.608Z
+date: 2026-01-05T18:29:44.612Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -464,8 +464,8 @@ Para realizar uma atualização em massa, siga os passos abaixo:
 ## Identificar produtos
 
 
-- **Quando**: selecione o campo que será utilizado na operação.
-- **For:** informe um valor cadastrado nos produtos para que todos recebam a alteração aplicada.
+- **Quando**: selecione o campo que será utilizado como critério.
+- **For:** informe o valor existente nos produtos que deverão receber a alteração.
 
 ## Aplicar alteração
 
@@ -480,8 +480,10 @@ Para realizar uma atualização em massa, siga os passos abaixo:
 
 ![menu_alteracao_massa2.png](/produtos/menu_alteracao_massa2.png)
 
-Caso for necessário em alguma situação, é possível marcar a opção **em branco** para filtrar algum campo que não possui informação ou remover alguma informação **em branco**.
+> Caso necessário, marque a opção **"Em branco"** para filtrar campos sem informação ou remover valores preenchidos.
+{.is-info}
 
-Para realizar a alteração em massa configurada, clique em <span class="mat mat-button">confirmar</span>. A alteração será feita em segundo plano e você será notificado no GWEB.
+
+Clique em <span class="mat mat-button">confirmar</span>, assim a alteração será executada em segundo plano e você será notificado no GWEB.
 -->
 
