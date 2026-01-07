@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2025-09-10T13:41:59.406Z
+date: 2026-01-07T12:48:51.640Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -46,6 +46,6 @@ O Gweb é um sistema que está em constante expansão e aprimoramento. Vejas as 
 ## Vídeo
 
 <div class="text-center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/SI8Nc0jxQq0?si=wWHY93ZFftjbqdgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SI8Nc0jxQq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
