@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-13T14:03:48.848Z
+date: 2026-01-13T18:06:08.311Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 0
+- Novidades: 1
 - Ajustes: 5
 
-**Total: 5**
+**Total: 6**
 
 --- 
 
@@ -43,8 +43,10 @@ b3.10.397 {.versions}
 - Corrigida a unidade cadastrada na importação de base.
 
 # 05/01/2026
-f2.11.191, b3.10.393, b3.10.394 {.versions}
+f2.11.191, f2.11.192, b3.10.393, b3.10.394, b3.10.395 {.versions}
 
+## Novidades
+- Implementaçção campos novos para NFSe conforme Focus.
 ## Ajustes
 - Ajustada a importação do XML de compra com tags da reforma tributária.
 - Ajustado link para redefinição de senha.
