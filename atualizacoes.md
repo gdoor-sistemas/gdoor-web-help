@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-02T19:30:12.707Z
+date: 2026-01-13T14:03:48.848Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 0
-- Ajustes: 0
+- Ajustes: 5
 
-**Total: 0**
+**Total: 5**
 
 --- 
 
@@ -29,6 +29,26 @@ ir para [2022](#h-2022) {.goto}
 
 ir para [2021](#h-2021) {.goto}
 
+---
+# 12/01/2026
+b3.10.400 {.versions}
+
+## Ajustes
+- Ajustada a sincronização do Gped no Gweb.
+
+# 08/01/2026
+b3.10.397 {.versions}
+
+## Ajustes
+- Corrigida a unidade cadastrada na importação de base.
+
+# 05/01/2026
+f2.11.191, b3.10.393, b3.10.394 {.versions}
+
+## Ajustes
+- Ajustada a importação do XML de compra com tags da reforma tributária.
+- Ajustado link para redefinição de senha.
+- Ajustada abertura da regra de tributação sem CST selecionado
 
 --- 
 # 2025 {.year}
