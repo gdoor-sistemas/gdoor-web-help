@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: true
-date: 2025-09-15T17:27:37.970Z
+date: 2026-01-16T13:57:06.095Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -110,6 +110,8 @@ Exibe a alíquota de para **UF**, **município** e **CBS**.
 ### IS
 
 Exibe a **alíquota**, **base de cálculo**, **valor total** e **alíquota específica** do IS.
+>Este imposto substituirá o IPI e entrará em **vigência somente em 2027**.
+{.is-warning}
 
 ![Aba IS](/tutoriais/reforma-tributaria/12_aba_iss.png)
 
