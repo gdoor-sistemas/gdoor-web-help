@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-20T14:20:42.057Z
+date: 2026-01-20T14:30:15.597Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,13 +31,17 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 14/01/2026
-f2.11.196, b3.10.402 {.versions}
+f2.11.196, b3.10.402, b3.10.403, b3.10.404 {.versions}
 
 ## Novidades
 - Implementado campo para definir o município de incidência da tributação da NFSe.
+- Implementado campo código do serviço nacional ao JSON de envio do ambiente nacional.
+- Implementado campo de dispensa de IR na NFe e NFSe.
+- Implementados campos de finalidade de emissão, código de indicador da operação e indicador do destinatário para ambiente nacional na NFS-e.
+- Implementado campo de percentual de alíquota relativa do município no envio ne NFS-e para ambiente nacional.
 
 ## Ajustes
-- 
+- Ajustado consulta de CNPJ no cadastro de pessoas
 
 # 13/01/2026
 b3.10.401 {.versions}
