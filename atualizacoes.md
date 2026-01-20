@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-13T18:06:08.311Z
+date: 2026-01-20T14:13:23.786Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 13/01/2026
+b3.10.401 {.versions}
+
+## Novidades
+- Atualização do leiaute do SPED fiscal.
+
 # 12/01/2026
 b3.10.400 {.versions}
 
