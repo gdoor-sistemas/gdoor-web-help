@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-23T19:34:49.340Z
+date: 2026-01-23T19:50:39.711Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 7
-- Ajustes: 7
+- Ajustes: 8
 
-**Total: 14**
+**Total: 15**
 
 --- 
 
@@ -31,10 +31,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 23/01/2026
-f2.11.198 {.versions}
+f2.11.198, f2.11.199 {.versions}
 
 ## Ajustes
 - Ajustada a busca dos impostos da regra de tributação na NFS-e.
+- Ajustada visualização da aba "Rastreamento" ao informar produto com código da ANVISA.
 
 # 14/01/2026
 f2.11.196, b3.10.402, b3.10.403, b3.10.404 {.versions}
