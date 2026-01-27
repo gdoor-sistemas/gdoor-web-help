@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-23T19:50:39.711Z
+date: 2026-01-27T15:03:47.303Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 7
+- Novidades: 8
 - Ajustes: 8
 
-**Total: 15**
+**Total: 16**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/01/2026
+f2.11.200, b3.10.407 {.versions}
+
+## Novidades
+- Criado o campo código interno do contribuinte dentro das configurações da NFS-e.
+
 # 23/01/2026
 f2.11.198, f2.11.199 {.versions}
 
