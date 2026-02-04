@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-01-30T14:48:50.895Z
+date: 2026-02-04T14:00:15.703Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 10
-- Ajustes: 9
+- Novidades: 12
+- Ajustes: 10
 
-**Total: 19**
+**Total: 22**
 
 --- 
 
@@ -30,6 +30,16 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/02/2026
+b3.10.412. b3.10.415 {.versions}
+
+## Novidades
+- Adicionados os campos de percentual de redução de alíquota compra governamental e finalidade de emissão parra o padrão ABRASF.
+- Adicionados os campos percentual total de tributos federais, estaduais, municipais e do simples nacional, assim como indicador total de tributação na NFSe.
+
+## Ajustes
+- Ajuste no envio de tags IBS/CSB no município de Petrolina.
+
 # 30/01/2026
 f2.11.202, b3.10.409. b3.10.411 {.versions}
 
