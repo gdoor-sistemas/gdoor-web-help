@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-04T17:48:18.590Z
+date: 2026-02-05T12:38:19.378Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 12
-- Ajustes: 11
+- Ajustes: 12
 
-**Total: 23**
+**Total: 24**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/02/2026
+b3.10.416 {.versions}
+
+## Ajustes
+- Substituido campo "optante_simples_nacional" pelo "codigo_opcao_simples_nacional" conforme padrão da focus na NFSe.
+
 # 04/02/2026
 f2.11.203, b3.10.412. b3.10.415 {.versions}
 
