@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-05T12:38:19.378Z
+date: 2026-02-12T12:12:21.277Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 12
-- Ajustes: 12
+- Ajustes: 24
 
-**Total: 24**
+**Total: 36**
 
 --- 
 
@@ -30,6 +30,23 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/02/2026
+f2.11.204, b3.10.418, p1.0.58 {.versions}
+
+## Ajustes
+- Ajustada NF-e para ao alterar natureza de operação da nota solicitar se deseja utilizar a regra da natureza de operação.
+- Ajustado o CST90 para somente gerar tags de ICMS ST quando houver valor informado.
+- Corrigida a apresentação da mensagem de limite de crédito em pedidos criados no GPED e finalizados no GWEB.
+- Criada uma operação padrão de devolução na configuração da NF-e. Ajustada a devolução de compra para solicitar operação quando não houver nenhuma padrão configurada.
+- Ajustado relatório de fechamento de caixa para não descontar o troco da NFC-e do total do recebimento.
+- Ajustado cálculo de ICMS ST ao informar redução de base de cálculo.
+- Ajustadas tags e descrição do relatório "Documentos fiscais emitidos".
+- Corrigido histórico do vendedor para listar produtos de pré-vendas.
+- Corrigida devolução de receita parcelada para que seja devolvido o valor total da receita.
+- Possibilitada geração de pedidos ao marcar múltiplos orçamentos.
+- Destacado hiperlink para baixar os XMLs do mês no e-mail encaminhado pelo GWEB.
+- Corrigida exportação dados de movimentações.
+
 # 05/02/2026
 b3.10.416 {.versions}
 
