@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-13T19:13:06.771Z
+date: 2026-02-13T19:15:07.569Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -34,7 +34,7 @@ ir para [2021](#h-2021) {.goto}
 f2.11.206 {.versions}
 
 ## Ajustes
-- Ajustado o preenchimento da tributação nas notas para trazer o MVA.
+- Ajustado o preenchimento da tributação nas notas para trazer o MVA da regra de tributação.
 
 # 12/02/2026
 f2.11.204, f2.11.205, b3.10.418, b3.10.420, p1.0.58 {.versions}
