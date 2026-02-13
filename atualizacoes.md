@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-13T11:48:59.022Z
+date: 2026-02-13T19:10:26.208Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 13
-- Ajustes: 24
+- Ajustes: 25
 
-**Total: 37**
+**Total: 38**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/02/2026
+f2.11.206 {.versions}
+
+## Ajustes
+- Ajustado o preenchimento da tributação nas notas para trazer o MVA.
+
 # 12/02/2026
 f2.11.204, f2.11.205, b3.10.418, b3.10.420, p1.0.58 {.versions}
 
