@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-12T12:12:21.277Z
+date: 2026-02-13T11:48:59.022Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 12
+- Novidades: 13
 - Ajustes: 24
 
-**Total: 36**
+**Total: 37**
 
 --- 
 
@@ -31,7 +31,10 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 12/02/2026
-f2.11.204, b3.10.418, p1.0.58 {.versions}
+f2.11.204, f2.11.205, b3.10.418, b3.10.420, p1.0.58 {.versions}
+
+## Novidades
+- Criada configuração na NFS-e para utilizar o layout do padrão nacional, mas realizar o envio para os provedores do município.
 
 ## Ajustes
 - Ajustada NF-e para ao alterar natureza de operação da nota solicitar se deseja utilizar a regra da natureza de operação.
