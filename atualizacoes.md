@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-13T19:15:07.569Z
+date: 2026-02-18T19:05:10.346Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,6 +30,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/02/2026
+f2.11.208, b3.10.423 {.versions}
+
+## Ajustes
+- Ajustado o envio de dados da NFS-e para constar somente percentual ou valor dos impostos municipais, estaduais e federais.
+- Ajustado cálculo dos impostos da nota de importação para somar o IBS/CBS nas notas de importação.
+
 # 13/02/2026
 f2.11.206 {.versions}
 
