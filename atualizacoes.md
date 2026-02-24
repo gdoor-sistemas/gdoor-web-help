@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-19T19:17:47.137Z
+date: 2026-02-24T20:39:38.249Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 13
-- Ajustes: 28
+- Ajustes: 31
 
-**Total: 41**
+**Total: 44**
 
 --- 
 
@@ -30,6 +30,19 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/02/2026
+f2.11.211, f2.11.212 {.versions}
+
+## Ajustes
+- Implementada geração do grupo de estorno de crédito na NFe.
+- Ajustado tributação importada da regra de tributação ao lançar mais de um produto na nota.
+
+# 20/02/2026
+f2.11.210 {.versions}
+
+## Ajustes
+- Ajustado o cálculo da base de cálculo do IBS/CBS na nota de importação.
+
 # 19/02/2026
 f2.11.207, p1.0.60 {.versions}
 
