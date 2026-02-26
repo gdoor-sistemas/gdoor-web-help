@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-24T20:39:38.249Z
+date: 2026-02-26T11:52:20.741Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 13
-- Ajustes: 31
+- Ajustes: 32
 
-**Total: 44**
+**Total: 45**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/02/2026
+b3.10.426 {.versions}
+
+## Ajustes
+- Ajustada lentidão ao abrir o módulo NF-e.
+
 # 23/02/2026
 f2.11.211, f2.11.212 {.versions}
 
