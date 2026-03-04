@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-04T14:02:13.278Z
+date: 2026-03-04T19:07:37.639Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 13
+- Novidades: 14
 - Ajustes: 34
 
-**Total: 47**
+**Total: 48**
 
 --- 
 
@@ -30,7 +30,7 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 0303/2026
+# 03/03/2026
 f2.12.214 {.versions}
 
 ## Ajustes
@@ -49,7 +49,10 @@ b3.10.426 {.versions}
 - Ajustada lentidão ao abrir o módulo NF-e.
 
 # 23/02/2026
-f2.11.211, f2.11.212 {.versions}
+f2.11.211, f2.11.212, b3.10.424 {.versions}
+
+## Novidades
+- Implementadas as tags idCSRT e hashCSRT no XML referente ao responsável ttécnico de acordo com NT2018 005_v1_51.
 
 ## Ajustes
 - Implementada geração do grupo de estorno de crédito na NFe.
