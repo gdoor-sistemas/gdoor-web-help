@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-02-26T11:52:20.741Z
+date: 2026-03-04T13:56:02.781Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 13
-- Ajustes: 32
+- Ajustes: 34
 
-**Total: 45**
+**Total: 47**
 
 --- 
 
@@ -30,6 +30,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 0303/2026
+f2.12.214 {.versions}
+
+## Ajustes
+- Ajustados os dados de impostos ao salvar a nota quando a regra de tributação está vinculada a natureza de operação.
+
+# 02/03/2026
+f2.12.213 {.versions}
+
+## Ajustes
+- Ajustada a busca de tibutação de ICMS ST na geração de NF-e baseada em pedido, quando a regra de tributação está vinculada no produto.
+
 # 25/02/2026
 b3.10.426 {.versions}
 
