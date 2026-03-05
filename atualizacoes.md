@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-04T19:07:37.639Z
+date: 2026-03-05T12:31:43.451Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 14
-- Ajustes: 34
+- Ajustes: 35
 
-**Total: 48**
+**Total: 49**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/03/2026
+f2.11.217 {.versions}
+
+## Ajustes
+- Ajustada mensagem de impostos precisam de atenção na NF-e para aparecer somente quando é necessário preencher algum imposto.
+
 # 03/03/2026
 f2.12.214 {.versions}
 
