@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-10T11:29:07.123Z
+date: 2026-03-10T11:34:21.700Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -34,7 +34,7 @@ ir para [2021](#h-2021) {.goto}
 b3.10.430 {.versions}
 
 ## Ajustes
-- Ajustada código tributário do município para NFS-e emitida no ambiente nacional.
+- Ajustado código tributário do município para NFS-e emitida no ambiente nacional.
 
 # 03/03/2026
 f2.12.214, f2.11.217 {.versions}
