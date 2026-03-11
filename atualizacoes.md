@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-10T11:36:51.110Z
+date: 2026-03-11T21:22:38.027Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 14
-- Ajustes: 37
+- Novidades: 15
+- Ajustes: 38
 
-**Total: 51**
+**Total: 53**
 
 --- 
 
@@ -30,11 +30,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 11/03/2026
+f2.11.218, b3.10.433 {.versions}
+
+## Novidades
+- Iclusos avisos no "Agendamento do envio do XML" para destacar quando será realizado o próximo envio.
+
 # 10/03/2026
-b3.10.431 {.versions}
+b3.10.431, b3.10.432 {.versions}
 
 ## Ajustes
 - Ajustada geração das informações de agro quando não aderido a reforma tributária.
+- Ajustado para não enviar o campo código de incedência do município na NFSe quando o regime de recolhimento for "Não incidência".
 
 # 06/03/2026
 b3.10.430 {.versions}
