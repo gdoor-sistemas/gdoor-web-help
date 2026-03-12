@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-11T21:22:38.027Z
+date: 2026-03-12T21:07:03.381Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 15
-- Ajustes: 38
+- Ajustes: 40
 
-**Total: 53**
+**Total: 55**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/03/2026
+b3.10.434 {.versions}
+
+- Ajustado Bloco H (inventário) do Sped fiscal para não trazer itens com quantidade zerada ou negativa.
+- Ajustado Registro 74 (inventário) do Sintegra para não trazer itens com quantidade zerada ou negativa.
+
 # 11/03/2026
 f2.11.218, b3.10.433 {.versions}
 
