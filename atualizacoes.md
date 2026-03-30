@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-30T04:08:36.897Z
+date: 2026-03-30T04:15:47.807Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 15
-- Ajustes: 42
+- Novidades: 16
+- Ajustes: 43
 
-**Total: 57**
+**Total: 59**
 
 --- 
 
@@ -30,16 +30,31 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+
+
 # 26/03/2026
 b3.10.441 {.versions}
+
+## Ajustes
 - Ajustado geração do sintegra para utilizar o mesmo filtro do inventário. 
+- Ajustado preenchimento do iss retido na NFS-e em ambiente nacional.
+
+# 23/03/2026
+b3.10.438 {.versions}
+
+## Novidades
+- Aumentada a quantidade de cadastros de grade para 300 grades.
 
 # 18/03/2026
 b3.10.436 {.versions}
+
+## Ajustes
 - Ajustada a importação de XML autorizado para correção do erro 539 duplicidade na NF-e e NFC-e 
 
 # 12/03/2026
 b3.10.434 {.versions}
+
+## Ajustes
 
 - Ajustado Bloco H (inventário) do Sped fiscal para não trazer itens com quantidade zerada ou negativa.
 - Ajustado Registro 74 (inventário) do Sintegra para não trazer itens com quantidade zerada ou negativa.
