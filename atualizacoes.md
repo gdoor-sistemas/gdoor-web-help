@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-30T04:15:47.807Z
+date: 2026-03-30T04:16:53.790Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -33,7 +33,7 @@ ir para [2021](#h-2021) {.goto}
 
 
 # 26/03/2026
-b3.10.441 {.versions}
+b3.10.440, b3.10.441 {.versions}
 
 ## Ajustes
 - Ajustado geração do sintegra para utilizar o mesmo filtro do inventário. 
