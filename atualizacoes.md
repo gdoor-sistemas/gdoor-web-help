@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-03-30T04:16:53.790Z
+date: 2026-04-07T11:39:28.835Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 16
-- Ajustes: 43
+- Ajustes: 50
 
-**Total: 59**
+**Total: 66**
 
 --- 
 
@@ -31,6 +31,17 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 
+# 06/04/2026
+b3.10.442, f2.11.220, p1.0.62 {.versions}
+
+## Ajustes
+- Ajustada a abertura do caixa no PDV Hibrido com a configuração 'Utilizar caixa já aberto'.
+- Ajustado comportamento de abertura de caixa quando usuário tem vínculo com o caixa.
+- Ajustadas opções da nota com Situação 150 (autorização fora de prazo), incluindo a opção de cancelamento.
+- Melhoradas validações de pagamento da NFC-e, para não permitir gerar troco quando houver pagamento em cartão.
+- Corrigida a finalização da NFC-e com mais de um meio de pagamento.
+- Ajustada tag de comissão no arquivo de importação de produtos.
+- Ajustada a abertura de caixa do PDV via atalho.
 
 # 26/03/2026
 b3.10.440, b3.10.441 {.versions}
