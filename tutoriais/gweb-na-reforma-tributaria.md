@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: true
-date: 2026-04-13T16:54:51.796Z
+date: 2026-04-13T16:55:17.917Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -149,7 +149,7 @@ Confira os vídeos preparados pela Zucchetti com explicações completas sobre a
 
 - **Webinar | Reforma Tributária**
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+src="https://www.youtube.com/watch?v=SI8Nc0jxQq0"
 allowfullscreen>
 </iframe>
 
@@ -157,7 +157,7 @@ allowfullscreen>
 Assistir Webinar Reforma Tributária
 </a>
 
-https://www.youtube.com/watch?v=SI8Nc0jxQq0
+
 
   
 - **Reforma Tributária: o que muda no varejo?** 
