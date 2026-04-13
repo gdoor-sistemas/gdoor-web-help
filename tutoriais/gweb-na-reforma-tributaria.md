@@ -2,7 +2,7 @@
 title: Reforma Tributária
 description: Veja neste tópico informações e mudanças no GWEB relacionadas à reforma tributária.
 published: true
-date: 2026-04-13T16:44:02.766Z
+date: 2026-04-13T16:46:34.643Z
 tags: nf-e, impostos, tributos, operações, nota fiscal, configurações, emitente, nfc-e, cbs, ibs, imposto seletivo, ct-e
 editor: markdown
 dateCreated: 2025-08-25T14:11:33.853Z
@@ -148,11 +148,14 @@ As alterações na NFS-e ainda estão em andamento. Este material será atualiza
 Confira os vídeos preparados pela Zucchetti com explicações completas sobre as principais mudanças da Reforma Tributária:
 
 - **Webinar | Reforma Tributária** - 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/WfM3w40FScI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WfM3w40FScI?si=qinEClgkvkhlyCnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WfM3w40FScI?si=ginEC1gkvkhlyCNW"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin"
+allowfullscreen>
+</iframe>
   
  - **Reforma Tributária: o que muda no varejo?** 
  	<iframe width="560" height="315" src="https://www.youtube.com/embed/oCUYdeoqjLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
