@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2026-04-13T18:32:15.679Z
+date: 2026-04-13T18:44:58.602Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -940,16 +940,5 @@ Para realizar a reimpressão, basta clicar na opção **Visualizar** do menu do 
 
 ![Reimpressão do caixa](/tutoriais/controle-caixa/9_reimpressao.png)
 
-<div style="max-width:800px;cursor:pointer"
-onclick="window.location.href='https://www.youtube.com/watch?v=WfM3w40FScI'">
-
-  <img src="https://img.youtube.com/vi/WfM3w40FScI/maxresdefault.jpg" 
-  style="width:100%;border-radius:10px;">
-
-  <div style="position:relative;top:-50%;text-align:center;font-size:60px;color:white;">
-    ▶
-  </div>
-
-</div>
 
 
