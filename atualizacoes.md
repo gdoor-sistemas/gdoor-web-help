@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-14T13:29:40.583Z
+date: 2026-04-14T13:33:54.886Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -35,7 +35,7 @@ b3.10.445, f2.11.221, p1.0.63 {.versions}
 
 ## Novidades
 - Criado o ícone "Item verificado" na lista de produtos da compra para identificar itens que já foram editados.
-- Inclusa identificadação do total de parcelas no nome do documento financeiro. Quando o documento tiver parcelas, após a "/" será apresentado "parcela atual - total de parcelas".
+- Inclusa identificação do total de parcelas no nome do documento financeiro. Quando o documento tiver parcelas, após a "/" será apresentado "parcela atual - total de parcelas".
 - Implementado campo "Código de Classificação tributária" na regra de tributação.
 - Inclusa opção "Novo valor total" no modal de alteração no preço total do PDV.
 - Aprimorados relatórios de contar a pagar e contas a receber. Incluso campo "Total" (valor total) e alterados os campos "Valor recebido" e "Valor restante" para considerarem taxas e juros.
