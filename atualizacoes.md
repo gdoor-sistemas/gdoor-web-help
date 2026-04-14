@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-07T11:39:28.835Z
+date: 2026-04-14T13:29:40.583Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 16
-- Ajustes: 50
+- Novidades: 23
+- Ajustes: 51
 
-**Total: 66**
+**Total: 74**
 
 --- 
 
@@ -30,6 +30,20 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 14/04/2026
+b3.10.445, f2.11.221, p1.0.63 {.versions}
+
+## Novidades
+- Criado o ícone "Item verificado" na lista de produtos da compra para identificar itens que já foram editados.
+- Inclusa identificadação do total de parcelas no nome do documento financeiro. Quando o documento tiver parcelas, após a "/" será apresentado "parcela atual - total de parcelas".
+- Implementado campo "Código de Classificação tributária" na regra de tributação.
+- Inclusa opção "Novo valor total" no modal de alteração no preço total do PDV.
+- Aprimorados relatórios de contar a pagar e contas a receber. Incluso campo "Total" (valor total) e alterados os campos "Valor recebido" e "Valor restante" para considerarem taxas e juros.
+- Implementadas TAGs com cores na listagem de pessoas para mostrar os atributos dela.
+- Inclusas formas de pagamento das vendas na listagem dos documentos.
+
+## Ajustes
+- Ajustada edição da receita para permitir remover o cliente.
 
 # 06/04/2026
 b3.10.442, f2.11.220, p1.0.62 {.versions}
