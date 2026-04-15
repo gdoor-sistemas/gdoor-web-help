@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-15T20:22:36.841Z
+date: 2026-04-15T20:29:05.624Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -34,7 +34,7 @@ ir para [2021](#h-2021) {.goto}
 b3.10.446 {.versions}
 
 ## Ajustes
-- Ajustada a abertura dos detalhes de notas que tinham produtos com e sem valor do ICMS desonerado na mesma NF-e
+- Ajustada a abertura dos detalhes de notas que tinham produtos com e sem valor do ICMS desonerado na mesma NF-e.
 
 # 14/04/2026
 b3.10.445, f2.11.221, p1.0.63 {.versions}
