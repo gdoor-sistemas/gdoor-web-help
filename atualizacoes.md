@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-14T13:33:54.886Z
+date: 2026-04-15T20:22:36.841Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 23
-- Ajustes: 51
+- Ajustes: 52
 
-**Total: 74**
+**Total: 75**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/04/2026
+b3.10.446 {.versions}
+
+## Ajustes
+- Ajustada a abertura dos detalhes de notas que tinham produtos com e sem valor do ICMS desonerado na mesma NF-e
+
 # 14/04/2026
 b3.10.445, f2.11.221, p1.0.63 {.versions}
 
