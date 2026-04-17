@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-15T20:29:05.624Z
+date: 2026-04-17T19:12:55.756Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 23
-- Ajustes: 52
+- Ajustes: 53
 
-**Total: 75**
+**Total: 76**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/04/2026
+b3.10.447 {.versions}
+
+## Ajustes
+- Incluso filtro de documento de origem "Pedidos" no relatório "Margem de lucro sobre preço de venda", dessa forma pedidos que movimentam estoque e financeiro podem ser gerados separadamente no relatório.
+
 # 15/04/2026
 b3.10.446 {.versions}
 
