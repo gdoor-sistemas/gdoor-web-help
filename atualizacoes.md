@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-22T13:12:35.436Z
+date: 2026-04-22T18:05:46.016Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 23
-- Ajustes: 56
+- Ajustes: 57
 
-**Total: 79**
+**Total: 80**
 
 --- 
 
@@ -31,13 +31,18 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 20/04/2026
+b3.10.449 {.versions}
+
+## Ajustes
+- Ajustada impressão da NFS-e para trazer informações complementares da nota.
+
+# 20/04/2026
 b3.10.448, f2.11.223 {.versions}
 
 ## Ajustes
 - Possibilitada utilização de "Exterior" como município de início e município de fim no CT-e.
 - Ajustado nome do tomador no XML e DACTE quando emitido um CT-e simplificado em ambiente de produção.
 - Ajustada geração da tag "regime_tributario_simples_nacional" na NFS-e quando CRT for "Simples nacional - Excesso sublimite".
-
 
 # 17/04/2026
 b3.10.447 {.versions}
