@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-04-22T18:06:00.411Z
+date: 2026-04-27T16:43:13.872Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 23
-- Ajustes: 57
+- Ajustes: 58
 
-**Total: 80**
+**Total: 81**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/04/2026
+b3.10.451 {.versions}
+
+## Ajustes
+- Ajustada de função de adicionar NFe em MDFe com carregamento posterior.
+
 # 22/04/2026
 b3.10.449 {.versions}
 
