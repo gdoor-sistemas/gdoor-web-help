@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-19T20:34:36.311Z
+date: 2026-05-19T20:40:18.035Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 28
-- Ajustes: 67
+- Novidades: 29
+- Ajustes: 68
 
-**Total: 95**
+**Total: 97**
 
 --- 
 
@@ -31,7 +31,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 19/05/2026
-b3.10.454, b3.10.456, f2.11.226, p1.0.64 {.versions}
+b3.10.454, b3.10.455, b3.10.456, f2.11.226, p1.0.64 {.versions}
 
 ## Novidades
 - Implementada impressão do pedido de venda e orçamento em impressora térmica 40 colunas.
@@ -49,6 +49,7 @@ b3.10.454, b3.10.456, f2.11.226, p1.0.64 {.versions}
 - Corrigido envio do valor da base de cálculo do PIS/COFINS para o XML.
 - Removidos os dados de IBS/BCS para emitentes que utilizem regime ou regime especial do Simples Nacional.
 - Removido grupo de crédito presumido da NFC-e.
+- Ajustado salvamento da NFS-e após edição da mesma.
 
 # 30/04/2026
 b3.10.453 {.versions}
