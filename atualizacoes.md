@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-19T12:25:48.441Z
+date: 2026-05-19T20:34:36.311Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,7 +31,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 19/05/2026
-b3.10.454, f2.11.226, p1.0.64 {.versions}
+b3.10.454, b3.10.456, f2.11.226, p1.0.64 {.versions}
 
 ## Novidades
 - Implementada impressão do pedido de venda e orçamento em impressora térmica 40 colunas.
@@ -39,6 +39,7 @@ b3.10.454, f2.11.226, p1.0.64 {.versions}
 - Cadastradas operações de débito e crédito.
 - Em breve Getnet nas integradoras.
 - Adequação a NT 2022.002 v1.30 referente a disponibilidade dos campos cBenefRBC, vICMSOp, pDif e vICMSDif no CST 90.
+- Atualizados os links de consulta da NFC-e que constam nos QR Codes.
 
 ## Ajustes
 - Ajustado cálculo do ICMS ST não ao importar pedido para NF-e.
