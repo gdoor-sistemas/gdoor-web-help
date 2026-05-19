@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-19T20:44:08.892Z
+date: 2026-05-19T20:44:42.252Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -49,7 +49,7 @@ b3.10.454, b3.10.455, b3.10.456, f2.11.226, p1.0.64 {.versions}
 - Corrigido envio do valor da base de cálculo do PIS/COFINS para o XML.
 - Removidos os dados de IBS/BCS para emitentes que utilizem regime ou regime especial do Simples Nacional.
 - Removido grupo de crédito presumido da NFC-e.
-- Ajustado edição da NFS-e.
+- Ajustada edição da NFS-e para permitir salvar as alterações.
 
 # 30/04/2026
 b3.10.453 {.versions}
