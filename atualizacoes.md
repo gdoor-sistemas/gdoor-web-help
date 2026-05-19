@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-04T12:34:09.925Z
+date: 2026-05-19T12:18:44.419Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 23
-- Ajustes: 60
+- Novidades: 28
+- Ajustes: 67
 
-**Total: 83**
+**Total: 95**
 
 --- 
 
@@ -30,6 +30,25 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 14/04/2026
+b3.10.454, f2.11.226, p1.0.64 {.versions}
+
+## Novidades
+- Implementada impressão do pedido de venda e orçamento em impressora térmica 40 colunas.
+- Criada integração com a API de consulta da Sefaz.
+- Cadastradas operações de débito e crédito.
+- Em breve Getnet nas integradoras.
+- Adequação a NT 2022.002 v1.30 referente a disponibilidade dos campos cBenefRBC, vICMSOp, pDif e vICMSDif no CST 90.
+
+## Ajustes
+- Ajustado cálculo do ICMS ST não ao importar pedido para NF-e.
+- Removida obrigatoriedade do remetente em CT-e de Redespacho Intermediário.
+- Removidas as alíquotas padrão de IBS e CBS quando houver tributação regular.
+- Ajustado tamanho permitido do código de barras do produto para 20 dígitos.
+- Corrigido envio do valor da base de cálculo do PIS/COFINS para o XML.
+- Removidos os dados de IBS/BCS para emitentes que utilizem regime ou regime especial do Simples Nacional.
+- Removido grupo de crédito presumido da NFC-e.
+
 # 30/04/2026
 b3.10.453 {.versions}
 
