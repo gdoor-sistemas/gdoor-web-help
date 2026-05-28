@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-27T18:13:56.474Z
+date: 2026-05-28T20:07:01.100Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,8 +30,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/05/2026
+b3.10.459 {.versions}
+## Novidades
+- Desenvolvida integração entre o Gweb e o Gcontábil.
+
 # 20/05/2026
 b3.10.458 {.versions}
+## Ajustes
 - Corrigida nota de ajuste para não conter incidencia de transporte.
 
 # 19/05/2026
