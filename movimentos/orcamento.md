@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: true
-date: 2026-06-02T20:40:39.976Z
+date: 2026-06-02T20:44:21.072Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -231,7 +231,7 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 Neste tópico você verá o que pode ser configurado no orçamento.
 
-![configuracoes_orcamento.png](/movimentos/orçamentos/configuracoes_orcamento.png)
+![Configurações Orçamento](/movimentos/orçamentos/configuracoes_orcamento.png)
 
 ## Comportamento
 
@@ -265,7 +265,14 @@ Caso o formato de impressão selecionado seja 40 colunas (80mm), os campos dispo
 
 ## Validade
 
-Nesta seção você pode configurar a quantidade de dias que um orçamento é valido.
+Nesta seção, ficam disponíveis as configurações relacionadas ao prazo de validade dos orçamentos, permitindo controlar a data limite considerada para aprovação ou conversão.
+
+Os campos disponíveis para configuração são:
+
+- **Qtd. de dias**: informe a quantidade de dias que o orçamento permanecerá válido.
+- **Validade em dias úteis**: determina como o sistema deve proceder quando a data de validade do orçamento coincidir com um dia não útil. É possível manter a data original, ajustar para o próximo dia útil ou antecipar para o dia útil anterior.
+- **Ignorar sábados como dia útil**: ao marcar esta opção, os sábados não serão considerados na contagem dos dias de validade.
+- **Ignorar domingos como dia útil**: ao marcar esta opção, os domingos não serão considerados na contagem dos dias de validade.
 
 ![Validade](/movimentos/orçamentos/validade_conf.png)
 
