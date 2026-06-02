@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-06-02T17:38:23.867Z
+date: 2026-06-02T17:38:40.754Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -281,10 +281,7 @@ Nesta seção, você pode definir as configurações de impressão do Pedidos de
 
 
 ## Vídeo
-
-<div class=text-center>
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=9PmgTQ6XW88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+ 
   
 <div class="text-center">
     <iframe
