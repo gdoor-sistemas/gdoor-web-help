@@ -2,7 +2,7 @@
 title: Orçamentos
 description: Veja como registrar seus orçamentos no Gweb
 published: true
-date: 2023-11-01T12:30:55.172Z
+date: 2026-06-02T20:40:39.976Z
 tags: orçamentos
 editor: markdown
 dateCreated: 2022-10-05T14:30:35.360Z
@@ -231,13 +231,37 @@ Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar<
 
 Neste tópico você verá o que pode ser configurado no orçamento.
 
+![configuracoes_orcamento.png](/movimentos/orçamentos/configuracoes_orcamento.png)
+
 ## Comportamento
 
 Nesta seção você configura como o sistema deve se comportar em determinadas situações.
 
-**Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo orçamento.
+- **Sugerir vendedor**: o usuário logado é sugerido preferencialmente ao efetuar um novo pedido.
+- **Separar produtos e serviços ao importar documento**: ao marcar, os produtos serão importados para a NF-e/NFC-e e os serviços para a NFS-e, ao desmarcar, os produtos e os serviços serão importados juntos para a NF-e/NFC-e;
 
 ![Comportamento](/movimentos/orçamentos/comportamento.png)
+
+## Configurações de exibição
+Nesta seção, estão disponíveis as opções que controlam a exibição de informações financeiras do cliente durante o atendimento, permitindo maior visibilidade sobre crédito disponível e valores em atraso.
+- **Exibir limite de crédito**: quando marcado, apresenta o valor de crédito disponível do cliente durante o atendimento ou consulta.
+- **Exibir valores inadimplentes**: quando habilitado, exibe os valores de parcelas em atraso vinculadas ao cliente.
+
+![Configurações Exibição Orçamento](/movimentos/orçamentos/configuracoes_exibicao_orcamento.png)
+
+## Configurações de impressão
+Esta seção concentra os parâmetros relacionados ao layout de impressão dos pedidos, possibilitando ajustar o formato e o espaçamento conforme o modelo da impressora utilizada.
+
+- **Formato da impressão**: selecione o formato de impressão compatível com o equipamento utilizado, como A4 ou 40 colunas (80mm).
+
+Caso o formato de impressão selecionado seja 40 colunas (80mm), os campos disponíveis para configuração são:
+
+- **Largura**: corresponde à largura da área utilizada para impressão do conteúdo.
+- **Margem de impressão**: permite ajustar o espaçamento lateral aplicado na impressão.
+- **Espaçamento final**:adiciona espaços ao final da impressão para melhorar o posicionamento do comprovante na saída da impressora.
+
+![Configuracoes Impressao Orcamento](/movimentos/orçamentos/configuracoes_impressao_orcamento.png)
+
 
 ## Validade
 
