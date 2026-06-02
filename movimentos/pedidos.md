@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-06-02T20:19:50.856Z
+date: 2026-06-02T20:20:56.778Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -267,9 +267,9 @@ Nesta seção, estão disponíveis as opções que controlam a exibição de inf
 ## Configurações de impressão
 Esta seção concentra os parâmetros relacionados ao layout de impressão dos pedidos, possibilitando ajustar o formato e o espaçamento conforme o modelo da impressora utilizada.
 
-- **Formato da impressão**: selecione o formato de impressão compatível com o equipamento utilizado, como A4 ou 40 colunas.
+- **Formato da impressão**: selecione o formato de impressão compatível com o equipamento utilizado, como A4 ou 40 colunas (80mm).
 
-Caso o formato de impressão selecionado seja 40 colunas, os campos disponíveis para configuração são:
+Caso o formato de impressão selecionado seja 40 colunas (80mm), os campos disponíveis para configuração são:
 
 - **Largura**: corresponde à largura da área utilizada para impressão do conteúdo.
 - **Margem de impressão**: permite ajustar o espaçamento lateral aplicado na impressão.
