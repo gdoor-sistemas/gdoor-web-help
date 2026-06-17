@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-05-28T20:21:44.041Z
+date: 2026-06-17T11:57:16.388Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/07/2026
+b3.10.460, f.2.11.228 {.versions}
+## Ajustes
+- Ajustada geração do CFOP para que o primeiro digito corresponda a localização do destinatário (idDest).
+- Ajustada a lista de sugestão de CFOP para que o primeiro digito corresponda a localização do destinatário (idDest).
+
 # 19/05/2026
 b3.10.459 {.versions}
 ## Novidades
