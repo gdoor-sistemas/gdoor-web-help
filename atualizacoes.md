@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-19T11:35:35.989Z
+date: 2026-06-19T11:40:04.786Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 30
-- Ajustes: 73
+- Ajustes: 74
 
-**Total: 103**
+**Total: 104**
 
 --- 
 
@@ -30,6 +30,11 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/07/2026
+f2.11.230 {.versions}
+## Ajustes
+- Ajustado para "99.01.01" o código de atividade do "Serviço sem a incidência de ISSQN e ICMS".
+
 # 17/07/2026
 b3.10.461, b3.10.462, f2.11.229 {.versions}
 ## Ajustes
