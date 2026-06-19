@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-19T11:40:04.786Z
+date: 2026-06-19T11:48:19.738Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -39,7 +39,7 @@ f2.11.230 {.versions}
 b3.10.461, b3.10.462, f2.11.229 {.versions}
 ## Ajustes
 - Alterado comportamento de produtos pesados, adicionando campo "Produto pesado" para alteração em massa de, assim como para a importação e exportação de Produtos. 
-- Corrigidos do CST 051 para habilitar preenchimento do "Grupo de Estorno de Crédito".
+- Corrigido o CST 051 para habilitar preenchimento do "Grupo de Estorno de Crédito".
 
 # 16/07/2026
 b3.10.460, f.2.11.228 {.versions}
