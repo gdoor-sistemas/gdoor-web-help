@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-06-22T19:50:20.480Z
+date: 2026-06-22T19:50:42.256Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -198,7 +198,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ## Contingência
 
-O modo de contingência offline pode ser acessado no menu de acesso rápido localizado a direita da tela em "**contingência (desativado)**" ou através das [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#configura%C3%A7%C3%B5es).
+O modo de contingência offline pode ser acessado no menu de acesso rápido localizado a direita da tela em "**contingência (desativado)**" ou através das [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#configura%C3%A7%C3%B5es).
 
 ![Contingência desativada](/movimentos/mdf-e/desativada.png)
 
