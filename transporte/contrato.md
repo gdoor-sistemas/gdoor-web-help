@@ -1,8 +1,8 @@
 ---
 title: Contrato de frete
-description: 
+description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: true
-date: 2026-06-22T13:53:50.724Z
+date: 2026-06-22T13:55:10.252Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
