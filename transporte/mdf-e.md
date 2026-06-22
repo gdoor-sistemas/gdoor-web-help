@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-06-22T19:46:31.964Z
+date: 2026-06-22T19:50:20.480Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -31,7 +31,7 @@ Também é possível gerar um MDF-e a partir da **NF-e**, desta forma, todas as 
 
 ![NF-e gerar MDF-e](/movimentos/mdf-e/nf-e.gif)
 
-A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
+A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-seguro), sendo possível navegar entre elas. 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
 ## Aba geral
@@ -89,7 +89,7 @@ Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar 
 
 # Lista
 
-Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
 {.is-info}
@@ -149,7 +149,7 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 ## Buscar
 
 Para localizar um MDF-e, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
+Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para ordenar a lista por número ou data de emissão clique em "**ordenar**" (<em class="mdi mdi-sort"></em>).
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
 
