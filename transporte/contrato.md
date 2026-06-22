@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T16:35:41.643Z
+date: 2026-06-22T17:10:43.924Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -11,21 +11,32 @@ dateCreated: 2026-06-22T13:37:14.427Z
 # Introdução
 
 O módulo **Contrato de Frete** permite cadastrar, gerenciar e emitir o **CIOT (Código Identificador da Operação de Transporte)** no Gweb. 
-	Cada registro representa uma viagem e concentra em um único local todas as informações relacionadas ao transporte, incluindo dados de trajeto, motorista, veículos, carga, valores e pagamento.
+
+Cada registro representa uma viagem e concentra em um único local todas as informações relacionadas ao transporte, incluindo dados de trajeto, motorista, veículos, carga, valores e pagamento.
 
 A partir do cadastro da viagem, o sistema realiza a integração com a empresa responsável pela emissão do CIOT e acompanha o status do processo.
 
 Com o módulo é possível:
 
-- Cadastrar viagens;
-- Reaproveitar cadastros já existentes de pessoas, motoristas, veículos e contas;
-- Emitir o CIOT por integração;
-- Acompanhar o status das viagens;
-- Editar registros;
-- Baixar registros;
-- Cancelar registros.
+- **Cadastrar viagens**;
+- **Reaproveitar cadastros já existentes de pessoas, motoristas, veículos e contas**;
+- **Emitir o CIOT por integração**;
+- **Acompanhar o status das viagens**;
+- **Editar registros**;
+- **Baixar registros**;
+- **Cancelar registros**.
 
-> As imagens apresentadas neste artigo foram obtidas em ambiente de desenvolvimento. Os dados exibidos são fictícios. {.is-info}
+# Novo Contrato de frete
+
+Para criar um contrato,acesse o módulo **"Transporte"**, clique em **"Contrato de frete"**.
+
+
+
+você pode:
+
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
+- Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
+
 
 Acessando o módulo Contrato de Frete
 
