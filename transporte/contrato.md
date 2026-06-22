@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T20:35:22.336Z
+date: 2026-06-22T20:39:13.984Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -30,27 +30,7 @@ Para acessar o módulo, clique no menu **"Transporte"** e escolha **"Contrato de
 
 ![Novo Contrato.png](/transporte/1-novo.png)
 
-# Lista
 
-Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma **busca**, **filtrar** informações para visualizar apenas dados que necessita, **ordenar** a listagem ou **atualizar** as informações.
-
-> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "Por página", além de poder navegar entre elas **< >**.
-{.is-info}
-
-![3-lista1.png](/transporte/3-lista1.png)
-
-As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
-
-![3-lista2.png](/transporte/3-lista2.png)
-
-- **Nº**: identificador interno do registro;
-- **Número CIOT**: número oficial gerado na emissão;
-- **Origem / Destino**: pessoas relacionadas ao trajeto;
-- **Data**: data da operação;
-- **Total**: valor total do frete;
-- **Motorista**: motorista vinculado à viagem;
-- **Veículo**: placa do veículo utilizado no transporte;
-- **Status**: situação da viagem e da integração.
 
 
 # Configurando a emissão de CIOT
@@ -85,7 +65,7 @@ Para criar um contrato, escolha uma das opções:
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto superior, ao lado do acesso à "Lista".
 
 
-A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
+A emissão é dividida em 4 abas: **geral**, [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
 ## Aba geral
@@ -141,13 +121,27 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 
 Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mat-accent mdi "> salvar</span> o MDF-e.
 
+# Lista
 
+Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma **busca**, **filtrar** informações para visualizar apenas dados que necessita, **ordenar** a listagem ou **atualizar** as informações.
 
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "Por página", além de poder navegar entre elas **< >**.
+{.is-info}
 
+![3-lista1.png](/transporte/3-lista1.png)
 
+As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
 
+![3-lista2.png](/transporte/3-lista2.png)
 
-
+- **Nº**: identificador interno do registro;
+- **Número CIOT**: número oficial gerado na emissão;
+- **Origem / Destino**: pessoas relacionadas ao trajeto;
+- **Data**: data da operação;
+- **Total**: valor total do frete;
+- **Motorista**: motorista vinculado à viagem;
+- **Veículo**: placa do veículo utilizado no transporte;
+- **Status**: situação da viagem e da integração.
 
 
 
