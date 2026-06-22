@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T20:21:40.929Z
+date: 2026-06-22T20:23:56.776Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -31,12 +31,14 @@ Com o módulo é possível:
 
 Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma **busca**, **filtrar** informações para visualizar apenas dados que necessita, **ordenar** a listagem ou **atualizar** as informações.
 
-> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "Por página", além de poder navegar entre elas **< >**.
 {.is-info}
 
-
+![3-lista1.png](/transporte/3-lista1.png)
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
+
+![3-lista2.png](/transporte/3-lista2.png)
 
 - **Nº**: identificador interno do registro;
 - **Número CIOT**: número oficial gerado na emissão;
@@ -44,7 +46,7 @@ As informações mostradas variam de acordo com a situação atual do documento 
 - **Data**: data da operação;
 - **Total**: valor total do frete;
 - **Motorista**: motorista vinculado à viagem;
-- **Veículo**: veículo utilizado no transporte;
+- **Veículo**: placa do veículo utilizado no transporte;
 - **Status**: situação da viagem e da integração.
 
 
