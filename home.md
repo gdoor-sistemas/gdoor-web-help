@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2026-06-22T11:28:03.605Z
+date: 2026-06-22T11:28:32.456Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
@@ -14,13 +14,13 @@ Seja bem-vindo(a) à ajuda do Gweb.
 
 Aqui você vai encontrar ajuda para executar algumas tarefas no sistema, bem como a descrição e explicação de funções existentes.
 
-## O que é o Gweb?
+## O que é o Gweb
 
 O Gweb é um sistema on-line para automação comercial, destinado a empresas de pequeno e médio porte.
 
 Possui emissão de documentos fiscais, pedido de venda, orçamento, além dos cadastros e controles auxiliares, como o cadastro de pessoas, produtos e configurações pertinentes. Ao passar do tempo, novas funcionalidades serão adicionadas.
 
-## Para quem é indicado o Gweb?
+## Para quem é indicado o Gweb
 
 O Gweb pode ser usado em vários tipos de empresas de comércio de médio e pequeno porte. Seus recursos são mais indicados para empresas:
 
