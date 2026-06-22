@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T14:37:58.833Z
+date: 2026-06-22T16:35:41.643Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -10,23 +10,22 @@ dateCreated: 2026-06-22T13:37:14.427Z
 
 # Introdução
 
-O módulo Contrato de Frete (CIOT) permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte) diretamente no Gweb, sem necessidade de utilizar sistemas externos.
-
-Cada registro representa uma viagem e concentra em um único local todas as informações relacionadas ao transporte, incluindo dados de trajeto, motorista, veículos, carga, valores e pagamento.
+O módulo **Contrato de Frete** permite cadastrar, gerenciar e emitir o **CIOT (Código Identificador da Operação de Transporte)** no Gweb. 
+	Cada registro representa uma viagem e concentra em um único local todas as informações relacionadas ao transporte, incluindo dados de trajeto, motorista, veículos, carga, valores e pagamento.
 
 A partir do cadastro da viagem, o sistema realiza a integração com a empresa responsável pela emissão do CIOT e acompanha o status do processo.
 
 Com o módulo é possível:
 
-Cadastrar viagens;
-Reaproveitar cadastros já existentes de pessoas, motoristas, veículos e contas;
-Emitir o CIOT por integração;
-Acompanhar o status das viagens;
-Editar registros;
-Baixar registros;
-Cancelar registros.
+- Cadastrar viagens;
+- Reaproveitar cadastros já existentes de pessoas, motoristas, veículos e contas;
+- Emitir o CIOT por integração;
+- Acompanhar o status das viagens;
+- Editar registros;
+- Baixar registros;
+- Cancelar registros.
 
-Informação: As imagens apresentadas neste artigo foram obtidas em ambiente de desenvolvimento. Os dados exibidos são fictícios.
+> As imagens apresentadas neste artigo foram obtidas em ambiente de desenvolvimento. Os dados exibidos são fictícios. {.is-info}
 
 Acessando o módulo Contrato de Frete
 
