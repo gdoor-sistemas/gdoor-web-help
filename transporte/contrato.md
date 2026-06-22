@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T20:44:36.603Z
+date: 2026-06-22T20:46:58.104Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -65,14 +65,14 @@ Para criar um contrato, escolha uma das opções:
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto superior, ao lado do acesso à "Lista".
 
 
-A emissão é dividida em 4 abas: **geral**, [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
+A emissão é dividida em 4 abas: **geral**, **Motorista e Veículo**, **Carga e Valores** e **Pagamento**, sendo possível navegar entre elas. 
 Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
 ## Aba geral
 
 Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
 
-![Geral](/movimentos/mdf-e/aba_gerall.png)
+![Geral.png](/transporte/4-geral.png)
 
 - **UF**: do início do carregamento (campo obrigatório);
 - **Município**: do término do transporte (campo obrigatório);
@@ -84,11 +84,11 @@ Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e
 - **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
-## Aba modal rodoviário
+## Aba Motorista e Veículo
 
 Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto e participantes do MDF-e.
 
-![Modal rodoviário](/movimentos/mdf-e/aba_modal.png)
+![Motorista e Veículo.png](/transporte/4-motorista-veículo.png)
 
 - **Veículo**: [veículo](https://help.gdoorweb.com.br/pt-br/cadastros/veiculos) principal da operação (campo obrigatório);
 - **Tipo da carga**: selecione entre as opções disponíveis (campo obrigatório);
