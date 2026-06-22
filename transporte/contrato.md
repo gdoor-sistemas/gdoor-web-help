@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T18:00:57.390Z
+date: 2026-06-22T19:42:48.407Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -26,6 +26,53 @@ Com o módulo é possível:
 - **Baixar registros**;
 - **Cancelar registros**.
 
+# Lista
+
+Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
+
+> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
+{.is-info}
+
+As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
+
+- **Nº**: identificador interno do registro;
+- **Número CIOT**: número oficial gerado na emissão;
+- **Origem / Destino**: pessoas relacionadas ao trajeto;
+- **Data**: data da operação;
+- **Total**: valor total do frete;
+- **Motorista**: motorista vinculado à viagem;
+- **Veículo**: veículo utilizado no transporte;
+- **Status**: situação da viagem e da integração.
+
+
+# Configurando a emissão de CIOT
+
+Antes de emitir o primeiro CIOT, é necessário configurar a integração responsável pela emissão.
+
+Acesse o módulo "Transporte", clique em "Contrato de frete", selecione "Configurações" e clique em "Configurações do CIOT".
+
+[Inserir imagem da tela Configurações do CIOT]
+
+Preencha os campos conforme necessário:
+
+Empresa integradora: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
+Ambiente de emissão: determina o ambiente utilizado para emissão dos CIOTs.
+
+As opções disponíveis são:
+
+Homologação: utilizada para testes;
+Produção: utilizada para emissões reais.
+
+Após concluir o preenchimento, clique em "Salvar".
+
+Alerta: Utilize o ambiente Homologação para validar o fluxo de emissão sem gerar CIOTs reais.
+
+Alerta: Altere para Produção somente quando estiver preparado para realizar emissões válidas de viagens reais.
+
+
+
+
+
 # Novo contrato de frete (CIOT)
 
 Acesse o módulo **"Transporte"** e clique em **"Contrato de frete"**.
@@ -36,6 +83,119 @@ Para criar um contrato, escolha uma das opções:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto superior, ao lado do acesso à "Lista".
+
+
+A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#aba-seguro), sendo possível navegar entre elas. 
+Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
+
+## Aba geral
+
+Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
+
+![Geral](/movimentos/mdf-e/aba_gerall.png)
+
+- **UF**: do início do carregamento (campo obrigatório);
+- **Município**: do término do transporte (campo obrigatório);
+- **Início da viagem**: data e horário de partida;
+- **Unidade de medida**: peso bruto da carga KG ou TON (campo obrigatório);
+- **Peso bruto**: total da carga;
+- **Valor total**: da mercadoria/carga transportada;
+- **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
+- **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
+- **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
+
+## Aba modal rodoviário
+
+Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto e participantes do MDF-e.
+
+![Modal rodoviário](/movimentos/mdf-e/aba_modal.png)
+
+- **Veículo**: [veículo](https://help.gdoorweb.com.br/pt-br/cadastros/veiculos) principal da operação (campo obrigatório);
+- **Tipo da carga**: selecione entre as opções disponíveis (campo obrigatório);
+- **CEP carregamento**: onde foi carregado o MDF-e;
+- **CEP descarregamento**: onde será descarregado o MDF-e;
+- **Descrição do produto**: predominante na carga (campo obrigatório);
+- **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
+- **NCM**: informe o NCM do produto predominante;
+- **Condutores**: Selecione uma pessoa cadastrada como condutora.
+- **Informações de pagamento**: inclua os componentes do pagamento e a forma de pagamento do transporte;
+![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
+- **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
+- **Reboques**: adicione informações dos reboques;
+- **Vale pedágio**: informe o CNPJ do fornecedor do vale pedágio, responsável, comprovante de compra e valor;
+![20_vale_pedagio.png](/movimentos/mdf-e/20_vale_pedagio.png)
+- **Contratante/tomador**: efetue a busca entre os clientes cadastrados ou cadastre um novo.
+
+## Aba documentos
+
+- **Documentos transportados**: importe o "**XML**" ou informe a "**chave**" dos documentos transportados  (campo obrigatório);
+- **Outras informações**: informações adicionais e de interesse do Fisco.
+
+![Documentos](/movimentos/mdf-e/documentoss.png)
+
+## Aba seguro
+
+- **Seguro**: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
+
+![Seguro](/movimentos/mdf-e/aba_seguro.png)
+
+Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mat-accent mdi "> salvar</span> o MDF-e.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Configurando a emissão de CIOT
