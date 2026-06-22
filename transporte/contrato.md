@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T17:10:43.924Z
+date: 2026-06-22T17:18:54.788Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -28,11 +28,13 @@ Com o módulo é possível:
 
 # Novo Contrato de frete
 
-Para criar um contrato,acesse o módulo **"Transporte"**, clique em **"Contrato de frete"**.
+Acesse o módulo **"Transporte"** e clique em **"Contrato de frete"**.
 
+![Novo Contrato.png](/transporte/1-novo.png)
 
+Para criar um contrato, acesse uma das opções:
 
-você pode:
+![Adicionar.png](/transporte/2-adicionar.png)
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
