@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T19:42:48.407Z
+date: 2026-06-22T20:21:40.929Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -26,12 +26,15 @@ Com o módulo é possível:
 - **Baixar registros**;
 - **Cancelar registros**.
 
+
 # Lista
 
-Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/movimentos/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma **busca**, **filtrar** informações para visualizar apenas dados que necessita, **ordenar** a listagem ou **atualizar** as informações.
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
 {.is-info}
+
+
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
 
@@ -47,30 +50,22 @@ As informações mostradas variam de acordo com a situação atual do documento 
 
 # Configurando a emissão de CIOT
 
-Antes de emitir o primeiro CIOT, é necessário configurar a integração responsável pela emissão.
+Antes de emitir o primeiro CIOT, é necessário configurar a integração responsável pela emissão. Clique em "Configurações do CIOT" no lado direito da tela.
 
-Acesse o módulo "Transporte", clique em "Contrato de frete", selecione "Configurações" e clique em "Configurações do CIOT".
-
-[Inserir imagem da tela Configurações do CIOT]
+![5-configura.png](/transporte/5-configura.png)
 
 Preencha os campos conforme necessário:
 
-Empresa integradora: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
-Ambiente de emissão: determina o ambiente utilizado para emissão dos CIOTs.
+- **Empresa integradora**: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
+- **Ambiente de emissão**: determina o ambiente utilizado para emissão dos CIOTs.
+	As opções disponíveis são:	
+  - **Homologação**: utilizada para testes;
+  - **Produção**: utilizada para emissões com efeito fiscal.
+  
+> Em caso de dúvidas no preenchimento das informações, consulte a contabilidade da empresa.
+{.is-info}
 
-As opções disponíveis são:
-
-Homologação: utilizada para testes;
-Produção: utilizada para emissões reais.
-
-Após concluir o preenchimento, clique em "Salvar".
-
-Alerta: Utilize o ambiente Homologação para validar o fluxo de emissão sem gerar CIOTs reais.
-
-Alerta: Altere para Produção somente quando estiver preparado para realizar emissões válidas de viagens reais.
-
-
-
+![Configura2.png](/transporte/6-configura2.png)
 
 
 # Novo contrato de frete (CIOT)
