@@ -2,7 +2,7 @@
 title: Início
 description: Introdução à ajuda do Gweb
 published: true
-date: 2026-04-13T16:33:41.015Z
+date: 2026-06-22T11:28:03.605Z
 tags: visão geral
 editor: markdown
 dateCreated: 2019-10-28T03:11:14.300Z
