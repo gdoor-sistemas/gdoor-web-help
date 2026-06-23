@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:19:24.639Z
+date: 2026-06-23T13:21:09.969Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -217,122 +217,7 @@ As informações mostradas variam de acordo com a situação atual do documento 
 
 
 
-Ao acessar o módulo, será exibida a listagem de todos os contratos de frete cadastrados.
 
-[Inserir imagem da listagem]
-
-Cada linha da listagem representa uma viagem cadastrada.
-
-As informações exibidas são:
-
-Nº: identificador interno do registro;
-Número CIOT: número oficial gerado na emissão;
-Origem / Destino: pessoas relacionadas ao trajeto;
-Data: data da operação;
-Total: valor total do frete;
-Motorista: motorista vinculado à viagem;
-Veículo: veículo utilizado no transporte;
-Status: situação da viagem e da integração.
-Ferramentas disponíveis na listagem
-
-A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
-
-Digite para buscar: pesquisa textual dos registros;
-Filtrar: aplica filtros na listagem;
-Ordenar: altera a ordenação dos registros;
-Por página: define a quantidade de registros exibidos por página;
-< e >: navegação entre páginas;
-Botão "+": criação de um novo contrato de frete.
-
-No painel lateral também estão disponíveis os atalhos:
-
-Acesso > Lista
-Configurações > Configurações do CIOT
-Cadastrando um novo Contrato de Frete (CIOT)
-
-Para criar um novo CIOT, clique no botão "+" localizado na parte inferior da tela.
-
-O cadastro é dividido nas seguintes etapas:
-
-Geral;
-Motorista e Veículo;
-Carga e Valores;
-Pagamento.
-Aba Geral
-
-A aba "Geral" concentra as informações iniciais da viagem e do trajeto.
-
-[Inserir imagem da aba Geral]
-
-Dados da viagem
-
-Preencha os campos conforme necessário:
-
-Status da viagem: situação inicial do registro. Exemplo: Rascunho;
-Tipo da operação: modalidade do CIOT. Exemplo: Operação Carga Lotação;
-Distância da viagem (KM): distância total do trajeto em quilômetros;
-Data da coleta: data e horário da coleta da carga;
-Previsão de entrega: data e horário previstos para entrega.
-
-Informação: Quando já existir um trajeto cadastrado com a mesma origem e destino, o campo "Distância da viagem (KM)" será preenchido automaticamente.
-
-Origem e Destino
-
-Nas seções "Origem" e "Destino", selecione as pessoas relacionadas ao transporte.
-
-O sistema reutiliza os cadastros já existentes.
-
-Ao selecionar uma pessoa, os seguintes dados são preenchidos automaticamente:
-
-CNPJ/CPF;
-Inscrição Estadual;
-Endereço.
-
-Também é possível:
-
-Utilizar a lupa para localizar um cadastro existente;
-Utilizar o botão "+" para cadastrar uma nova pessoa sem sair da tela.
-
-Informação: Os campos identificados com "*" são obrigatórios.
-
-Após concluir o preenchimento da aba, clique em "Próximo".
-
-Aba Motorista e Veículo
-
-Nesta etapa devem ser informados o motorista e os veículos utilizados na operação.
-
-[Inserir imagem da aba Motorista e Veículo]
-
-Preencha os campos:
-
-Condutor: motorista responsável pela viagem;
-Veículo principal: veículo de tração utilizado no transporte;
-Primeira carreta: primeiro reboque da composição, quando existir;
-Segunda carreta: segundo reboque da composição, quando existir.
-
-Informação: Ao selecionar o condutor, o CPF será exibido automaticamente.
-
-Também é possível:
-
-Utilizar a lupa para localizar motoristas já cadastrados;
-Utilizar o botão "+" para cadastrar um novo motorista.
-Características da operação
-
-Marque as opções conforme a operação realizada:
-
-Operação de alto desempenho;
-Retorno vazio;
-Composição veicular.
-Significado das opções
-Operação de alto desempenho: identifica operações enquadradas nessa modalidade;
-Retorno vazio: informa que o veículo retornará sem carga;
-Composição veicular: identifica operações com utilização de reboques ou carretas.
-
-Alerta: Verifique cuidadosamente o veículo informado antes da emissão.
-
-Alerta: Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro.
-
-Após concluir o preenchimento, clique em "Próximo".
 
 Aba Carga e Valores
 
