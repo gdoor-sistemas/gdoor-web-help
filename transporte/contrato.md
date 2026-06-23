@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T17:14:41.812Z
+date: 2026-06-23T17:17:00.166Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -220,4 +220,4 @@ A listagem apresenta duas colunas de status:
 ### Status da integração
 - **Integrado**: indica que os dados foram enviados com sucesso para a integradora e que o número oficial do CIOT foi retornado.
 
-> Uma viagem pode apresentar simultaneamente os status "Concluída" e "Integrado". O primeiro representa a situação operacional da viagem e o segundo representa a situação da emissão do CIOT.{.is-info}
+> Uma viagem pode apresentar simultaneamente os status **"Concluída"** e **"Integrado"**. O primeiro representa a situação operacional da viagem e o segundo representa a situação da emissão do CIOT.{.is-info}
