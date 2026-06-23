@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T14:22:39.355Z
+date: 2026-06-23T14:23:43.354Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -157,12 +157,12 @@ Nesta etapa são configuradas as informações de pagamento do frete. Clique no 
 - Tipo de conta: tipo da conta bancária.
 - Adicionando múltiplos pagamentos
 
-> Utilize o botão "+" localizado na seção "Informações de pagamento" para adicionar novos pagamentos. Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.{.is-success} 
+> Utilize o botão **"+"** localizado na seção "Informações de pagamento" para adicionar novos pagamentos. Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.{.is-success} 
 
 ### Trabalhando com parcelas
 
-- Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas".
-- Utilize o botão "+" para adicionar parcelas.
+- Quando a opção **"A prazo"** estiver habilitada, o sistema disponibilizará a seção "Parcelas".
+- Utilize o botão **"+"** para adicionar parcelas.
 - Para cada parcela devem ser informadas as seguintes informações:
 		Número da parcela;
     Data de vencimento;
