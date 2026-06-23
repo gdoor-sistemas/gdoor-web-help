@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:36:21.783Z
+date: 2026-06-23T13:38:23.672Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -124,24 +124,22 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 
 ## Carga e Valores
 
-Nesta etapa são informadas as características da carga transportada e os valores envolvidos na operação.
+Nesta etapa são informadas as características da carga transportada e os valores envolvidos na operação. Preencha os campos:
 
 ![Carga e Valores.png](/transporte/4-carga-valores.png)
 
-Preencha os campos:
+- **Produto predominante**: principal mercadoria transportada;
+- **Natureza da carga**: classificação da carga transportada;
+- **Unidade de medida**: unidade utilizada para controle da quantidade;
+- **Quantidade**: quantidade transportada;
+- **Peso**: peso total da carga;
+- **Valor da mercadoria**: valor dos bens transportados;
+- **Valor do frete**: valor cobrado pelo transporte;
+- **Valor do pedágio**: valor dos pedágios relacionados à viagem.
 
-Produto predominante: principal mercadoria transportada;
-Natureza da carga: classificação da carga transportada;
-Unidade de medida: unidade utilizada para controle da quantidade;
-Quantidade: quantidade transportada;
-Peso: peso total da carga;
-Valor da mercadoria: valor dos bens transportados;
-Valor do frete: valor cobrado pelo transporte;
-Valor do pedágio: valor dos pedágios relacionados à viagem.
+> O campo "Valor do frete" compõe o valor total da operação de transporte.{.is-info}
 
-Informação: O campo "Valor do frete" compõe o valor total da operação de transporte.
-
-Após concluir o preenchimento, clique em "Próximo".
+Após concluir o preenchimento, clique em **"Próximo"**.
 
 
 
