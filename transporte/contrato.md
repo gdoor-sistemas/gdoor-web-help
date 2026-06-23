@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T12:51:27.565Z
+date: 2026-06-23T12:59:07.184Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -103,25 +103,39 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 
 ## Motorista e Veículo
 
-Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto e participantes do MDF-e.
+Nesta etapa devem ser informados o motorista e os veículos utilizados na operação. Preencha os campos:
 
 ![Motorista e Veículo.png](/transporte/4-motorista-veículo.png)
 
-- **Veículo**: [veículo](https://help.gdoorweb.com.br/pt-br/cadastros/veiculos) principal da operação (campo obrigatório);
-- **Tipo da carga**: selecione entre as opções disponíveis (campo obrigatório);
-- **CEP carregamento**: onde foi carregado o MDF-e;
-- **CEP descarregamento**: onde será descarregado o MDF-e;
-- **Descrição do produto**: predominante na carga (campo obrigatório);
-- **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
-- **NCM**: informe o NCM do produto predominante;
-- **Condutores**: Selecione uma pessoa cadastrada como condutora.
-- **Informações de pagamento**: inclua os componentes do pagamento e a forma de pagamento do transporte;
-![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
-- **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
-- **Reboques**: adicione informações dos reboques;
-- **Vale pedágio**: informe o CNPJ do fornecedor do vale pedágio, responsável, comprovante de compra e valor;
-![20_vale_pedagio.png](/movimentos/mdf-e/20_vale_pedagio.png)
-- **Contratante/tomador**: efetue a busca entre os clientes cadastrados ou cadastre um novo.
+- **Condutor**: selecione ou cadastre o motorista responsável pela viagem;
+> Caso o condutor não esteja cadastrado, clique no botão **"+"** para adicionar. {.is-success .gw .gw-tip}
+- **Veículo principal**: veículo de tração utilizado no transporte;
+- **Primeira carreta**: informe o primeiro reboque da composição, quando existir;
+- **Segunda carreta**: informe o segundo reboque da composição, quando existir.
+
+Informação: Ao selecionar o condutor, o CPF será exibido automaticamente.
+
+Também é possível:
+
+Utilizar a lupa para localizar motoristas já cadastrados;
+Utilizar o botão "+" para cadastrar um novo motorista.
+Características da operação
+
+Marque as opções conforme a operação realizada:
+
+Operação de alto desempenho;
+Retorno vazio;
+Composição veicular.
+Significado das opções
+Operação de alto desempenho: identifica operações enquadradas nessa modalidade;
+Retorno vazio: informa que o veículo retornará sem carga;
+Composição veicular: identifica operações com utilização de reboques ou carretas.
+
+Alerta: Verifique cuidadosamente o veículo informado antes da emissão.
+
+Alerta: Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro.
+
+Após concluir o preenchimento, clique em "Próximo".
 
 ## Carga e Valores
 
