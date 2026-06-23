@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-19T11:48:19.738Z
+date: 2026-06-23T17:52:24.041Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,18 +30,18 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
-# 18/07/2026
+# 18/06/2026
 f2.11.230 {.versions}
 ## Ajustes
 - Ajustado para "99.01.01" o código de atividade do "Serviço sem a incidência de ISSQN e ICMS".
 
-# 17/07/2026
+# 17/06/2026
 b3.10.461, b3.10.462, f2.11.229 {.versions}
 ## Ajustes
 - Alterado comportamento de produtos pesados, adicionando campo "Produto pesado" para alteração em massa de, assim como para a importação e exportação de Produtos. 
 - Corrigido o CST 051 para habilitar preenchimento do "Grupo de Estorno de Crédito".
 
-# 16/07/2026
+# 16/06/2026
 b3.10.460, f.2.11.228 {.versions}
 ## Ajustes
 - Ajustada geração do CFOP para que o primeiro digito corresponda a localização do destinatário (idDest).
