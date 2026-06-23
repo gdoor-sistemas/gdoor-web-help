@@ -2,7 +2,7 @@
 title: Conhecimento de Transporte Eletrônico - CT-e
 description: Veja como você pode cadastrar os Conhecimentos de Transporte Eletrônico 
 published: true
-date: 2026-06-23T14:37:35.918Z
+date: 2026-06-23T14:38:14.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:51:41.589Z
@@ -105,7 +105,7 @@ Ordene (<em class="mdi mdi-sort"></em>) a lista de acordo com sua preferência, 
 > O CT-e é um documento no qual podem existir diversas **particularidades** dependendo da operação que está sendo contratada. Para auxiliar no preenchimento dos dados, é necessário que esteja sempre com a NF-e em mãos.
 Alguns dos campos do CT-e são de **preenchimento facultativo**, pois variam de acordo com o tipo de transporte que está sendo realizado.{.is-success .gw .gw-tip}
 
-Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/movimentos/ct-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
+Para cadastrar um conhecimento de transporte eletrônico, clique no botão de adição (<em class="mdi mdi-plus-circle"></em>) no canto direito inferior da [tela inicial](https://help.gdoorweb.com.br/pt-br/transporte/ct-e#lista) ou no botão de adição (<em class="mdi mdi-plus"></em>) ao lado do acesso lista.
 
 ![lista.png](/movimentos/cte/lista.png)
 
