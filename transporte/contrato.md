@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:46:24.507Z
+date: 2026-06-23T14:16:31.422Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -146,7 +146,7 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 ## Pagamento
 Nesta etapa são configuradas as informações de pagamento do frete.
 
-[Inserir imagem da aba Pagamento]
+![4-pagamento.png](/transporte/4-pagamento.png)
 
 O sistema permite cadastrar um ou mais pagamentos para a mesma viagem.
 
@@ -177,36 +177,31 @@ Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será divi
 		Pagamentos cadastrados;
 		Parcelas cadastradas.
 		Salvando ou emitindo o CIOT
+    
+ 
 
-Ao concluir o preenchimento, estarão disponíveis duas opções. A opção **"Salvar"** grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
+> Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto. {.is-warning}
 
-## Salvar e emitir CIOT
+### Salvar
 
-A opção "Salvar e emitir CIOT" grava o cadastro e envia as informações para a integração responsável pela emissão.
+Ao concluir o preenchimento, estarão disponíveis duas opções. 
+- **Salvar**: grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
+> Utilize a opção **"Salvar"** enquanto existirem pendências ou informações que ainda precisam ser conferidas.{.is-success }
+- **Salvar e emitir CIOT**: grava o cadastro e envia as informações para a integração responsável pela emissão.
+> Utilize **"Salvar e emitir CIOT"** somente quando todos os dados estiverem revisados.{.is-success }
 
 Quando a emissão for concluída, será gerado o número oficial do CIOT.
 
-Dica: Utilize a opção "Salvar" enquanto existirem pendências ou informações que ainda precisam ser conferidas.
-
-Dica: Utilize "Salvar e emitir CIOT" somente quando todos os dados estiverem revisados.
-
-Alerta: Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto.
-
-Alerta: Sem a configuração da integração, a emissão do CIOT não poderá ser executada.
-
 # Lista
 Na lista, será exibida a listagem de todos os contratos de frete cadastrados. A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
+
+![3-lista1.png](/transporte/3-lista1.png)
 
 - **Digite para buscar**: pesquisa textual dos registros;
 - **Filtrar**: aplica filtros na listagem;
 - **Ordenar**: altera a ordenação dos registros;
 - **Por página**: define a quantidade de registros exibidos por página;
 - **<** e **>**: navegação entre páginas;
-
-> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "Por página", além de poder navegar entre elas **< >**.
-{.is-info}
-
-![3-lista1.png](/transporte/3-lista1.png)
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
 
