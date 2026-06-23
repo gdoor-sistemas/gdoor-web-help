@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: true
-date: 2026-06-23T17:33:04.458Z
+date: 2026-06-23T17:43:18.119Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -158,12 +158,14 @@ Nesta etapa são configuradas as informações de pagamento do frete. Clique no 
 - Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas" para configuração dos vencimentos.
 - Utilize o botão **"+"** para adicionar parcelas.
 - Para cada parcela devem ser informadas as seguintes informações:
-		Número da parcela;
-    Data de vencimento;
-    Valor da parcela.
+	-	Número da parcela;
+  - Data de vencimento;
+  - Valor da parcela.
+    
+    
 - O ícone <em class="mdi mdi-delete"></em> permite excluir:
-		Pagamentos cadastrados;
-		Parcelas cadastradas.  
+	- Pagamentos cadastrados;
+	- Parcelas cadastradas.  
 
 > Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto. {.is-warning}
 
