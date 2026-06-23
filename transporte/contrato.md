@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:38:23.672Z
+date: 2026-06-23T13:46:24.507Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -165,29 +165,20 @@ Utilize o botão "+" localizado na seção "Informações de pagamento" para adi
 
 Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.
 
-Trabalhando com parcelas
+### Trabalhando com parcelas
 
-Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas".
+- Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas".
+- Utilize o botão "+" para adicionar parcelas.
+- Para cada parcela devem ser informadas as seguintes informações:
+		Número da parcela;
+    Data de vencimento;
+    Valor da parcela.
+- O ícone de lixeira permite excluir:
+		Pagamentos cadastrados;
+		Parcelas cadastradas.
+		Salvando ou emitindo o CIOT
 
-Utilize o botão "+" para adicionar parcelas.
-
-Para cada parcela devem ser informadas as seguintes informações:
-
-Número da parcela;
-Data de vencimento;
-Valor da parcela.
-
-O ícone de lixeira permite excluir:
-
-Pagamentos cadastrados;
-Parcelas cadastradas.
-Salvando ou emitindo o CIOT
-
-Ao concluir o preenchimento da aba "Pagamento", estarão disponíveis duas opções.
-
-Salvar
-
-A opção "Salvar" grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status "Rascunho", permitindo alterações futuras.
+Ao concluir o preenchimento, estarão disponíveis duas opções. A opção **"Salvar"** grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
 
 ## Salvar e emitir CIOT
 
