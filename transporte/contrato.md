@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T12:32:55.128Z
+date: 2026-06-23T12:51:27.565Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -72,20 +72,34 @@ A emissão é dividida em 4 abas: **geral**, **Motorista e Veículo**, **Carga e
 
 
 ## Geral
-
-Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
+A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os campos disponíveis nesta aba são:
 
 ![Geral.png](/transporte/4-geral.png)
 
-- **UF**: do início do carregamento (campo obrigatório);
-- **Município**: do término do transporte (campo obrigatório);
-- **Início da viagem**: data e horário de partida;
-- **Unidade de medida**: peso bruto da carga KG ou TON (campo obrigatório);
-- **Peso bruto**: total da carga;
-- **Valor total**: da mercadoria/carga transportada;
-- **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
-- **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
-- **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
+- **Status da viagem**: selecione situação inicial do registro;
+- **Tipo da operação**: escolha o tipo de modalidade do CIOT;
+- **Distância da viagem (KM)**: informe a distância total do trajeto em quilômetros;
+- **Data da coleta**: cadastre a data e horário da coleta da carga;
+- **Previsão de entrega**: informe a data e horário previsto para entrega.
+
+> Quando já existir um trajeto cadastrado com a mesma origem e destino, o campo "Distância da viagem (KM)" será preenchido automaticamente.{.is-info}
+
+**Trajeto**
+
+Nas seções **"Origem"** e **"Destino"**, selecione as pessoas relacionadas ao transporte.
+
+> O sistema reutiliza os cadastros já existentes.{.is-info}
+
+Ao selecionar um cadastro existente, os seguintes dados são preenchidos automaticamente:
+
+- **CNPJ/CPF**;
+- **Inscrição Estadual**;
+- **Endereço**.
+
+> Caso o cliente não esteja cadastrado, clique no botão **"+"** para adicionar. {.is-success .gw .gw-tip}
+
+
+Após concluir o preenchimento, clique em **"Próximo"**.
 
 ## Motorista e Veículo
 
@@ -126,7 +140,13 @@ Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar 
 
 # Lista
 
-Na lista, será exibida a listagem de todos os contratos de frete cadastrados, podendo efetuar uma **busca**, **filtrar** informações para visualizar apenas dados que necessita, **ordenar** a listagem ou **atualizar** as informações.
+Na lista, será exibida a listagem de todos os contratos de frete cadastrados. A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
+
+- **Digite para buscar**: pesquisa textual dos registros;
+- **Filtrar**: aplica filtros na listagem;
+- **Ordenar**: altera a ordenação dos registros;
+- **Por página**: define a quantidade de registros exibidos por página;
+- **<** e **>**: navegação entre páginas;
 
 > Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "Por página", além de poder navegar entre elas **< >**.
 {.is-info}
