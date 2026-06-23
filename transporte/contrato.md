@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-22T20:51:23.951Z
+date: 2026-06-23T12:32:55.128Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -66,9 +66,12 @@ Para criar um contrato, escolha uma das opções:
 
 
 A emissão é dividida em 4 abas: **geral**, **Motorista e Veículo**, **Carga e Valores** e **Pagamento**, sendo possível navegar entre elas. 
-Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
 
-## Aba geral
+> Os campos com asterísco indicam obrigatoriedade no preenchimento.
+{.is-warning}
+
+
+## Geral
 
 Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
 
@@ -84,7 +87,7 @@ Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e
 - **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
-## Aba Motorista e Veículo
+## Motorista e Veículo
 
 Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto e participantes do MDF-e.
 
@@ -106,14 +109,14 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 ![20_vale_pedagio.png](/movimentos/mdf-e/20_vale_pedagio.png)
 - **Contratante/tomador**: efetue a busca entre os clientes cadastrados ou cadastre um novo.
 
-## Aba Carga e Valores
+## Carga e Valores
 
 - **Documentos transportados**: importe o "**XML**" ou informe a "**chave**" dos documentos transportados  (campo obrigatório);
 - **Outras informações**: informações adicionais e de interesse do Fisco.
 
 ![Carga e Valores.png](/transporte/4-carga-valores.png)
 
-## Aba Pagamento
+## Pagamento
 
 - **Seguro**: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
 
@@ -192,31 +195,7 @@ As informações mostradas variam de acordo com a situação atual do documento 
 
 
 
-Configurando a emissão de CIOT
 
-Antes de emitir o primeiro CIOT, é necessário configurar a integração responsável pela emissão.
-
-Acesse o módulo "Transporte", clique em "Contrato de frete", selecione "Configurações" e clique em "Configurações do CIOT".
-
-[Inserir imagem da tela Configurações do CIOT]
-
-Preencha os campos conforme necessário:
-
-Empresa integradora: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
-Ambiente de emissão: determina o ambiente utilizado para emissão dos CIOTs.
-
-As opções disponíveis são:
-
-Homologação: utilizada para testes;
-Produção: utilizada para emissões reais.
-
-Após concluir o preenchimento, clique em "Salvar".
-
-Alerta: Utilize o ambiente Homologação para validar o fluxo de emissão sem gerar CIOTs reais.
-
-Alerta: Altere para Produção somente quando estiver preparado para realizar emissões válidas de viagens reais.
-
-Conhecendo a listagem do módulo
 
 Ao acessar o módulo, será exibida a listagem de todos os contratos de frete cadastrados.
 
@@ -418,6 +397,12 @@ Dica: Utilize "Salvar e emitir CIOT" somente quando todos os dados estiverem rev
 Alerta: Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto.
 
 Alerta: Sem a configuração da integração, a emissão do CIOT não poderá ser executada.
+
+
+
+
+
+
 
 Entendendo os status do CIOT
 
