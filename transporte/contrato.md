@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T14:49:18.567Z
+date: 2026-06-23T16:51:43.555Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -10,7 +10,7 @@ dateCreated: 2026-06-22T13:37:14.427Z
 
 # Introdução
 
-O módulo **Contrato de Frete** permite cadastrar, gerenciar e emitir o **CIOT (Código Identificador da Operação de Transporte)** no Gweb. 
+O módulo **"Contrato de Frete (CIOT)"** permite cadastrar, gerenciar e emitir o **CIOT (Código Identificador da Operação de Transporte)** no Gweb. 
 
 Cada contrato de frete representa uma operação de transporte e centraliza as informações da viagem, incluindo origem, destino, motorista, veículos, carga transportada, valores e forma de pagamento.
 
