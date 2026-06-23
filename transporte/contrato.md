@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T14:23:43.354Z
+date: 2026-06-23T14:41:50.694Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -16,7 +16,7 @@ Cada registro representa uma viagem e concentra em um único local todas as info
 
 A partir do cadastro da viagem, o sistema realiza a integração com a empresa responsável pela emissão do CIOT e acompanha o status do processo.
 
-Com o módulo é possível:
+Com o módulo,  é possível:
 
 - **Cadastrar viagens**;
 - **Reaproveitar cadastros já existentes de pessoas, motoristas, veículos e contas**;
@@ -40,7 +40,7 @@ Antes de emitir o primeiro CIOT, é necessário configurar a integração respon
 Preencha os campos conforme necessário:
 
 - **Empresa integradora**: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
-- **Ambiente de emissão**: determina o ambiente utilizado para emissão dos CIOTs.
+- **Ambiente de emissão**: determina o ambiente utilizado para emissão dos CIOT.
 	As opções disponíveis são:	
   - **Homologação**: utilizada para testes;
   - **Produção**: utilizada para emissões com efeito fiscal.
@@ -64,9 +64,9 @@ Para criar um contrato, escolha uma das opções:
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto superior, ao lado do acesso à "Lista".
 
 
-A emissão é dividida em 4 abas: **geral**, **Motorista e Veículo**, **Carga e Valores** e **Pagamento**, sendo possível navegar entre elas. 
+O cadastro é dividido em quatro etapas: **Geral**, **Motorista e Veículo**, **Carga e Valores** e **Pagamento**, sendo possível navegar entre elas durante o preenchimento.
 
-> Os campos com asterísco indicam obrigatoriedade no preenchimento.
+> Os campos identificados com asterisco (*) possuem preenchimento obrigatório.
 {.is-warning}
 
 
