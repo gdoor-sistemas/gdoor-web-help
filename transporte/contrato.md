@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T16:51:43.555Z
+date: 2026-06-23T17:14:41.812Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -39,7 +39,7 @@ Antes de emitir o primeiro CIOT, é necessário configurar a integração respon
 
 Preencha os campos conforme necessário:
 
-- **Empresa integradora**: empresa responsável pela emissão do CIOT. Exemplo: ANTT (frota própria);
+- **Empresa integradora**: empresa responsável pela emissão do CIOT;
 - **Ambiente de emissão**: determina o ambiente utilizado para emissão dos CIOT.
 	As opções disponíveis são:	
   - **Homologação**: utilizada para testes;
@@ -54,15 +54,12 @@ Preencha os campos conforme necessário:
 
 # Novo contrato de frete (CIOT)
 
-Acesse o módulo **"Transporte"** e clique em **"Contrato de frete"**.
-
-![Novo Contrato.png](/transporte/1-novo.png)
-
 Para criar um contrato, escolha uma das opções:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto superior, ao lado do acesso à "Lista".
 
+![Novo Contrato.png](/transporte/1-novo.png)
 
 O cadastro é dividido em quatro etapas: **Geral**, **Motorista e Veículo**, **Carga e Valores** e **Pagamento**, sendo possível navegar entre elas durante o preenchimento.
 
@@ -71,7 +68,7 @@ O cadastro é dividido em quatro etapas: **Geral**, **Motorista e Veículo**, **
 
 
 ## Geral
-A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os campos disponíveis nesta aba são:
+A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os campos disponíveis são:
 
 ![Geral.png](/transporte/4-geral.png)
 
@@ -83,11 +80,9 @@ A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os cam
 
 > Quando já existir um trajeto cadastrado com a mesma origem e destino, o campo "Distância da viagem (KM)" será preenchido automaticamente.{.is-info}
 
-**Trajeto**
+### Trajeto
 
 Nas seções **"Origem"** e **"Destino"**, selecione os participantes relacionados ao transporte.
-
-> O sistema reutiliza os cadastros já existentes.{.is-info}
 
 Ao selecionar um cadastro existente, os seguintes dados são preenchidos automaticamente:
 
@@ -96,7 +91,6 @@ Ao selecionar um cadastro existente, os seguintes dados são preenchidos automat
 - **Endereço**.
 
 > Caso o cadastro ainda não exista, clique em **"+"** para realizar o registro. {.is-success .gw .gw-tip}
-
 
 Após concluir o preenchimento, clique em **"Próximo"**.
 
@@ -173,14 +167,19 @@ Nesta etapa são configuradas as informações de pagamento do frete. Clique no 
 
 > Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto. {.is-warning}
 
+
 ### Salvar
 
 Após concluir o preenchimento das informações, estarão disponíveis duas opções:
 
 - **Salvar**: grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
-> Utilize a opção **"Salvar"** enquanto existirem pendências ou informações que ainda precisam ser conferidas.{.is-success}
+
+> Revise cuidadosamente todas as informações preenchidas nas abas "Geral", "Motorista e Veículo", "Carga e Valores" e "Pagamento".
+Caso ainda existam informações pendentes ou que necessitem de conferência, utilize a opção **"Salvar"** para manter o registro como **Rascunho** e concluir o preenchimento posteriormente. {.is-warning}
+
 - **Salvar e emitir CIOT**: grava o cadastro e envia as informações para a integração responsável pela emissão.
-> Utilize **"Salvar e emitir CIOT"** somente quando todos os dados estiverem revisados.{.is-success }
+
+> Utilize **"Salvar e emitir CIOT"** somente quando **todos os dados estiverem revisados**, principalmente as informações do veículo..{.is-info}
 
 Quando a emissão for concluída, será gerado o número oficial do CIOT.
 
