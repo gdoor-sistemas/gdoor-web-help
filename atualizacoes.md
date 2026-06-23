@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-23T17:52:24.041Z
+date: 2026-06-23T18:02:11.933Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,10 +12,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 
 Em **2026** já foram implementados:
-- Novidades: 30
+- Novidades: 31
 - Ajustes: 74
 
-**Total: 104**
+**Total: 105**
 
 --- 
 
@@ -30,6 +30,11 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/06/2026
+b3.10.463, f2.11.232 {.versions}
+## Novidades
+- Implementado módulo de Contrato de frete (CIOT).
+
 # 18/06/2026
 f2.11.230 {.versions}
 ## Ajustes
