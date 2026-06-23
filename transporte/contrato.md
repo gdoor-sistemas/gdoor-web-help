@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T14:16:31.422Z
+date: 2026-06-23T14:22:39.355Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -144,26 +144,20 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 
 
 ## Pagamento
-Nesta etapa são configuradas as informações de pagamento do frete.
+Nesta etapa são configuradas as informações de pagamento do frete. Clique no botão **"+"** e preencha os campos:
+
+> O sistema permite cadastrar um ou mais pagamentos para a mesma viagem.{.is-info}
 
 ![4-pagamento.png](/transporte/4-pagamento.png)
 
-O sistema permite cadastrar um ou mais pagamentos para a mesma viagem.
+- Forma de pagamento: forma utilizada para pagamento do frete;
+- Instituição financeira: banco da conta de destino;
+- Agência: agência bancária;
+- Conta: número da conta;
+- Tipo de conta: tipo da conta bancária.
+- Adicionando múltiplos pagamentos
 
-Dados do pagamento
-
-Preencha os campos:
-
-Forma de pagamento: forma utilizada para pagamento do frete;
-Instituição financeira: banco da conta de destino;
-Agência: agência bancária;
-Conta: número da conta;
-Tipo de conta: tipo da conta bancária.
-Adicionando múltiplos pagamentos
-
-Utilize o botão "+" localizado na seção "Informações de pagamento" para adicionar novos pagamentos.
-
-Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.
+> Utilize o botão "+" localizado na seção "Informações de pagamento" para adicionar novos pagamentos. Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.{.is-success} 
 
 ### Trabalhando com parcelas
 
@@ -173,12 +167,11 @@ Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será divi
 		Número da parcela;
     Data de vencimento;
     Valor da parcela.
-- O ícone de lixeira permite excluir:
+- O ícone <em class="mdi mdi-delete"></em> permite excluir:
 		Pagamentos cadastrados;
 		Parcelas cadastradas.
 		Salvando ou emitindo o CIOT
     
- 
 
 > Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto. {.is-warning}
 
@@ -186,7 +179,7 @@ Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será divi
 
 Ao concluir o preenchimento, estarão disponíveis duas opções. 
 - **Salvar**: grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
-> Utilize a opção **"Salvar"** enquanto existirem pendências ou informações que ainda precisam ser conferidas.{.is-success }
+> Utilize a opção **"Salvar"** enquanto existirem pendências ou informações que ainda precisam ser conferidas.{.is-success}
 - **Salvar e emitir CIOT**: grava o cadastro e envia as informações para a integração responsável pela emissão.
 > Utilize **"Salvar e emitir CIOT"** somente quando todos os dados estiverem revisados.{.is-success }
 
