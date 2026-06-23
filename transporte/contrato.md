@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T14:41:50.694Z
+date: 2026-06-23T14:49:18.567Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -12,7 +12,7 @@ dateCreated: 2026-06-22T13:37:14.427Z
 
 O módulo **Contrato de Frete** permite cadastrar, gerenciar e emitir o **CIOT (Código Identificador da Operação de Transporte)** no Gweb. 
 
-Cada registro representa uma viagem e concentra em um único local todas as informações relacionadas ao transporte, incluindo dados de trajeto, motorista, veículos, carga, valores e pagamento.
+Cada contrato de frete representa uma operação de transporte e centraliza as informações da viagem, incluindo origem, destino, motorista, veículos, carga transportada, valores e forma de pagamento.
 
 A partir do cadastro da viagem, o sistema realiza a integração com a empresa responsável pela emissão do CIOT e acompanha o status do processo.
 
@@ -75,8 +75,8 @@ A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os cam
 
 ![Geral.png](/transporte/4-geral.png)
 
-- **Status da viagem**: selecione situação inicial do registro;
-- **Tipo da operação**: escolha o tipo de modalidade do CIOT;
+- **Status da viagem**: selecione a situação inicial do registro;
+- **Tipo da operação**: selecione a modalidade da operação de transporte;
 - **Distância da viagem (KM)**: informe a distância total do trajeto em quilômetros;
 - **Data da coleta**: cadastre a data e horário da coleta da carga;
 - **Previsão de entrega**: informe a data e horário previsto para entrega.
@@ -85,7 +85,7 @@ A aba "Geral" concentra as informações iniciais da viagem e do trajeto. Os cam
 
 **Trajeto**
 
-Nas seções **"Origem"** e **"Destino"**, selecione as pessoas relacionadas ao transporte.
+Nas seções **"Origem"** e **"Destino"**, selecione os participantes relacionados ao transporte.
 
 > O sistema reutiliza os cadastros já existentes.{.is-info}
 
@@ -95,7 +95,7 @@ Ao selecionar um cadastro existente, os seguintes dados são preenchidos automat
 - **Inscrição Estadual**;
 - **Endereço**.
 
-> Caso o cliente não esteja cadastrado, clique no botão **"+"** para adicionar. {.is-success .gw .gw-tip}
+> Caso o cadastro ainda não exista, clique em **"+"** para realizar o registro. {.is-success .gw .gw-tip}
 
 
 Após concluir o preenchimento, clique em **"Próximo"**.
@@ -112,13 +112,13 @@ Nesta etapa devem ser informados o motorista e os veículos utilizados na opera�
 - **Primeira carreta**: informe o primeiro reboque da composição, quando existir;
 - **Segunda carreta**: informe o segundo reboque da composição, quando existir.
 
-E seguida, marque as opções referente às características da operação que serão utilizadas:
+Em seguida, marque as opções referentes às características da operação:
 
-- **Operação de alto desempenho**: identifica operações enquadradas nessa modalidade;
+- **Operação de alto desempenho**: identifica viagens enquadradas como operação de alto desempenho;
 - **Retorno vazio**: informa que o veículo retornará sem carga;
 - **Composição veicular**: identifica operações com utilização de reboques ou carretas.
 
-> Verifique cuidadosamente o veículo informado antes da emissão. Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro. {.is-warning}
+> Verifique cuidadosamente o veículo informado antes da emissão. Após a emissão do CIOT, a placa do veículo **não poderá ser alterada**. Em casos de substituição do veículo durante a operação, será necessário cancelar o CIOT emitido e realizar uma nova emissão.{.is-warning}
 
 Após concluir o preenchimento, clique em **"Próximo"**.
 
@@ -135,9 +135,9 @@ Nesta etapa são informadas as características da carga transportada e os valor
 - **Peso**: peso total da carga;
 - **Valor da mercadoria**: valor dos bens transportados;
 - **Valor do frete**: valor cobrado pelo transporte;
-- **Valor do pedágio**: valor dos pedágios relacionados à viagem.
+- **Valor do pedágio**: total dos pedágios previstos para a operação.
 
-> O campo "Valor do frete" compõe o valor total da operação de transporte.{.is-info}
+> O valor informado no campo **"Valor do frete"** será utilizado como base da operação de transporte.{.is-info}
 
 Após concluir o preenchimento, clique em **"Próximo"**.
 
@@ -146,7 +146,7 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 ## Pagamento
 Nesta etapa são configuradas as informações de pagamento do frete. Clique no botão **"+"** e preencha os campos:
 
-> O sistema permite cadastrar um ou mais pagamentos para a mesma viagem.{.is-info}
+> É possível cadastrar múltiplos pagamentos para a mesma viagem quando o valor do frete for dividido entre diferentes contas ou formas de pagamento.{.is-info}
 
 ![4-pagamento.png](/transporte/4-pagamento.png)
 
@@ -161,7 +161,7 @@ Nesta etapa são configuradas as informações de pagamento do frete. Clique no 
 
 ### Trabalhando com parcelas
 
-- Quando a opção **"A prazo"** estiver habilitada, o sistema disponibilizará a seção "Parcelas".
+- Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas" para configuração dos vencimentos.
 - Utilize o botão **"+"** para adicionar parcelas.
 - Para cada parcela devem ser informadas as seguintes informações:
 		Número da parcela;
@@ -169,15 +169,14 @@ Nesta etapa são configuradas as informações de pagamento do frete. Clique no 
     Valor da parcela.
 - O ícone <em class="mdi mdi-delete"></em> permite excluir:
 		Pagamentos cadastrados;
-		Parcelas cadastradas.
-		Salvando ou emitindo o CIOT
-    
+		Parcelas cadastradas.  
 
 > Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto. {.is-warning}
 
 ### Salvar
 
-Ao concluir o preenchimento, estarão disponíveis duas opções. 
+Após concluir o preenchimento das informações, estarão disponíveis duas opções:
+
 - **Salvar**: grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status **"Rascunho"**, permitindo alterações futuras.
 > Utilize a opção **"Salvar"** enquanto existirem pendências ou informações que ainda precisam ser conferidas.{.is-success}
 - **Salvar e emitir CIOT**: grava o cadastro e envia as informações para a integração responsável pela emissão.
@@ -186,7 +185,7 @@ Ao concluir o preenchimento, estarão disponíveis duas opções.
 Quando a emissão for concluída, será gerado o número oficial do CIOT.
 
 # Lista
-Na lista, será exibida a listagem de todos os contratos de frete cadastrados. A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
+Na tela **"Lista"**, são exibidos todos os contratos de frete cadastrados. A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
 
 ![3-lista1.png](/transporte/3-lista1.png)
 
@@ -196,7 +195,7 @@ Na lista, será exibida a listagem de todos os contratos de frete cadastrados. A
 - **Por página**: define a quantidade de registros exibidos por página;
 - **<** e **>**: navegação entre páginas;
 
-As informações mostradas variam de acordo com a situação atual do documento exibido na lista. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
+Algumas informações exibidas podem variar conforme a situação do contrato de frete. Cada linha da listagem representa uma viagem cadastrada. As informações exibidas, normalmente, são:
 
 ![3-lista2.png](/transporte/3-lista2.png)
 
@@ -220,6 +219,6 @@ A listagem apresenta duas colunas de status:
 - **Cancelada**: indica que a viagem foi cancelada.
 
 ### Status da integração
-- **Integrado**: indica que a viagem foi enviada com sucesso para a empresa responsável pela emissão e que o número oficial do CIOT foi gerado.
+- **Integrado**: indica que os dados foram enviados com sucesso para a integradora e que o número oficial do CIOT foi retornado.
 
 > Uma viagem pode apresentar simultaneamente os status "Concluída" e "Integrado". O primeiro representa a situação operacional da viagem e o segundo representa a situação da emissão do CIOT.{.is-info}
