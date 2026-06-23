@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:21:09.969Z
+date: 2026-06-23T13:34:37.012Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -31,8 +31,6 @@ Para acessar o módulo, clique no menu **"Transporte"** e escolha **"Contrato de
 ![Novo Contrato.png](/transporte/1-novo.png)
 
 
-
-
 # Configurando a emissão de CIOT
 
 Antes de emitir o primeiro CIOT, é necessário configurar a integração responsável pela emissão. Clique em "Configurações do CIOT" no lado direito da tela.
@@ -51,6 +49,7 @@ Preencha os campos conforme necessário:
 {.is-info}
 
 ![Configura2.png](/transporte/6-configura2.png)
+
 
 
 # Novo contrato de frete (CIOT)
@@ -125,21 +124,88 @@ Após concluir o preenchimento, clique em **"Próximo"**.
 
 ## Carga e Valores
 
-- **Documentos transportados**: importe o "**XML**" ou informe a "**chave**" dos documentos transportados  (campo obrigatório);
-- **Outras informações**: informações adicionais e de interesse do Fisco.
+Nesta etapa são informadas as características da carga transportada e os valores envolvidos na operação.
 
 ![Carga e Valores.png](/transporte/4-carga-valores.png)
 
+Preencha os campos:
+
+Produto predominante: principal mercadoria transportada;
+Natureza da carga: classificação da carga transportada;
+Unidade de medida: unidade utilizada para controle da quantidade;
+Quantidade: quantidade transportada;
+Peso: peso total da carga;
+Valor da mercadoria: valor dos bens transportados;
+Valor do frete: valor cobrado pelo transporte;
+Valor do pedágio: valor dos pedágios relacionados à viagem.
+
+Informação: O campo "Valor do frete" compõe o valor total da operação de transporte.
+
+Após concluir o preenchimento, clique em "Próximo".
+
+
+
 ## Pagamento
+Nesta etapa são configuradas as informações de pagamento do frete.
 
-- **Seguro**: informe o responsável pelo seguro, nome e CNPJ da seguradora, número da apólice e da averbação.
+[Inserir imagem da aba Pagamento]
 
-![Seguro](/movimentos/mdf-e/aba_seguro.png)
+O sistema permite cadastrar um ou mais pagamentos para a mesma viagem.
 
-Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mat-accent mdi "> salvar</span> o MDF-e.
+Dados do pagamento
+
+Preencha os campos:
+
+Forma de pagamento: forma utilizada para pagamento do frete;
+Instituição financeira: banco da conta de destino;
+Agência: agência bancária;
+Conta: número da conta;
+Tipo de conta: tipo da conta bancária.
+Adicionando múltiplos pagamentos
+
+Utilize o botão "+" localizado na seção "Informações de pagamento" para adicionar novos pagamentos.
+
+Esse recurso pode ser utilizado, por exemplo, quando o valor do frete será dividido entre contas diferentes.
+
+Trabalhando com parcelas
+
+Quando a opção "A prazo" estiver habilitada, o sistema disponibilizará a seção "Parcelas".
+
+Utilize o botão "+" para adicionar parcelas.
+
+Para cada parcela devem ser informadas as seguintes informações:
+
+Número da parcela;
+Data de vencimento;
+Valor da parcela.
+
+O ícone de lixeira permite excluir:
+
+Pagamentos cadastrados;
+Parcelas cadastradas.
+Salvando ou emitindo o CIOT
+
+Ao concluir o preenchimento da aba "Pagamento", estarão disponíveis duas opções.
+
+Salvar
+
+A opção "Salvar" grava o cadastro da viagem sem realizar a emissão do CIOT. O registro permanecerá com status "Rascunho", permitindo alterações futuras.
+
+# Salvar e emitir CIOT
+
+A opção "Salvar e emitir CIOT" grava o cadastro e envia as informações para a integração responsável pela emissão.
+
+Quando a emissão for concluída, será gerado o número oficial do CIOT.
+
+Dica: Utilize a opção "Salvar" enquanto existirem pendências ou informações que ainda precisam ser conferidas.
+
+Dica: Utilize "Salvar e emitir CIOT" somente quando todos os dados estiverem revisados.
+
+Alerta: Antes da emissão, confirme se as configurações da integração foram preenchidas corretamente e se o ambiente selecionado está correto.
+
+Alerta: Sem a configuração da integração, a emissão do CIOT não poderá ser executada.
 
 # Lista
-
 Na lista, será exibida a listagem de todos os contratos de frete cadastrados. A tela disponibiliza diversos recursos para localização e gerenciamento dos registros.
 
 - **Digite para buscar**: pesquisa textual dos registros;
@@ -165,6 +231,24 @@ As informações mostradas variam de acordo com a situação atual do documento 
 - **Motorista**: motorista vinculado à viagem;
 - **Veículo**: placa do veículo utilizado no transporte;
 - **Status**: situação da viagem e da integração.
+
+
+## Entendendo os status do CIOT
+
+A listagem apresenta duas colunas de status:
+
+### Status da viagem
+- **Rascunho**: indica que o registro foi salvo, porém ainda não foi emitido. Registros nessa situação podem ser editados normalmente;
+- **Concluída**: indica que a viagem foi finalizada ou baixada;
+- **Cancelada**: indica que a viagem foi cancelada.
+
+### Status da integração
+- **Integrado**: indica que a viagem foi enviada com sucesso para a empresa responsável pela emissão e que o número oficial do CIOT foi gerado.
+
+> Uma viagem pode apresentar simultaneamente os status "Concluída" e "Integrado". O primeiro representa a situação operacional da viagem e o segundo representa a situação da emissão do CIOT.{.is-info}
+
+
+
 
 
 
