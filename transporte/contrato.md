@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T12:59:07.184Z
+date: 2026-06-23T13:11:53.766Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -113,27 +113,13 @@ Nesta etapa devem ser informados o motorista e os veículos utilizados na opera�
 - **Primeira carreta**: informe o primeiro reboque da composição, quando existir;
 - **Segunda carreta**: informe o segundo reboque da composição, quando existir.
 
-Informação: Ao selecionar o condutor, o CPF será exibido automaticamente.
+E seguida, marque as opções referente às características da operação que serão utilizadas:
 
-Também é possível:
+- **Operação de alto desempenho**: identifica operações enquadradas nessa modalidade;
+- **Retorno vazio**: informa que o veículo retornará sem carga;
+- **Composição veicular**: identifica operações com utilização de reboques ou carretas.
 
-Utilizar a lupa para localizar motoristas já cadastrados;
-Utilizar o botão "+" para cadastrar um novo motorista.
-Características da operação
-
-Marque as opções conforme a operação realizada:
-
-Operação de alto desempenho;
-Retorno vazio;
-Composição veicular.
-Significado das opções
-Operação de alto desempenho: identifica operações enquadradas nessa modalidade;
-Retorno vazio: informa que o veículo retornará sem carga;
-Composição veicular: identifica operações com utilização de reboques ou carretas.
-
-Alerta: Verifique cuidadosamente o veículo informado antes da emissão.
-
-Alerta: Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro.
+> Verifique cuidadosamente o veículo informado antes da emissão. Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro. {.is-warning}
 
 Após concluir o preenchimento, clique em "Próximo".
 
