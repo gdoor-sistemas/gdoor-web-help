@@ -2,7 +2,7 @@
 title: Contrato de frete
 description: Este módulo permite cadastrar, gerenciar e emitir o CIOT (Código Identificador da Operação de Transporte).
 published: false
-date: 2026-06-23T13:11:53.766Z
+date: 2026-06-23T13:19:24.639Z
 tags: transporte, ciot
 editor: markdown
 dateCreated: 2026-06-22T13:37:14.427Z
@@ -121,7 +121,7 @@ E seguida, marque as opções referente às características da operação que s
 
 > Verifique cuidadosamente o veículo informado antes da emissão. Depois que o CIOT for integrado, a placa do veículo não poderá ser alterada. Em situações de troca de veículo ou quebra durante a viagem, será necessário cancelar o CIOT e emitir um novo registro. {.is-warning}
 
-Após concluir o preenchimento, clique em "Próximo".
+Após concluir o preenchimento, clique em **"Próximo"**.
 
 ## Carga e Valores
 
