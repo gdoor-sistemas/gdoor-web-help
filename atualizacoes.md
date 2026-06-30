@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-23T20:03:16.110Z
+date: 2026-06-30T13:57:14.459Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 31
-- Ajustes: 74
+- Ajustes: 77
 
-**Total: 105**
+**Total: 108**
 
 --- 
 
@@ -30,6 +30,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 25/06/2026
+b3.10.467, f2.11.233 {.versions}
+## Ajustes
+- Permitido informar mais de duas carretas no CIOT.
+- Corrigida edição do CIOT para manter a Distancia de Viagem.
+- Ajustada emissão do CIOT com tipo de operação "Operação com carga fracionada".
+
 # 23/06/2026
 b3.10.463, f2.11.232 {.versions}
 ## Novidades
