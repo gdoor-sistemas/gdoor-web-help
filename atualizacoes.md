@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-30T13:57:14.459Z
+date: 2026-06-30T14:07:11.011Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,11 +31,12 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 25/06/2026
-b3.10.467, f2.11.233 {.versions}
+b3.10.467, b3.10.468, f2.11.233 {.versions}
 ## Ajustes
 - Permitido informar mais de duas carretas no CIOT.
 - Corrigida edição do CIOT para manter a Distancia de Viagem.
 - Ajustada emissão do CIOT com tipo de operação "Operação com carga fracionada".
+- Ajustado o XML da NFS-e para não enviar o campo "perc_reducao_aliquota_governamental" quando emitente for do simples nacional.
 
 # 23/06/2026
 b3.10.463, f2.11.232 {.versions}
