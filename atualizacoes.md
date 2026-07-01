@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-06-30T14:25:10.093Z
+date: 2026-07-01T13:50:02.282Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 31
-- Ajustes: 79
+- Ajustes: 80
 
-**Total: 110**
+**Total: 111**
 
 --- 
 
@@ -30,8 +30,16 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/07/2026
+f2.11.237 {.versions}
+
+## Ajustes
+- Ajustado o valor da Base de Cálculo do IBS/CBS para seguir a regra da SEFAZ.
+
+
 # 25/06/2026
 b3.10.467, b3.10.468, f2.11.233 {.versions}
+
 ## Ajustes
 - Permitido informar mais de duas carretas no CIOT.
 - Corrigida edição do CIOT para manter a Distancia de Viagem.
@@ -40,38 +48,45 @@ b3.10.467, b3.10.468, f2.11.233 {.versions}
 
 # 23/06/2026
 b3.10.463, f2.11.232 {.versions}
+
 ## Novidades
 - Implementado módulo de Contrato de frete (CIOT).
 
 # 19/06/2026
 f2.11.231 {.versions}
+
 ## Ajustes
 - Ajustado campo de alíquota do ICMS para permitir informar 100%.
 
 # 18/06/2026
 f2.11.230 {.versions}
+
 ## Ajustes
 - Ajustado para "99.01.01" o código de atividade do "Serviço sem a incidência de ISSQN e ICMS".
 
 # 17/06/2026
 b3.10.461, b3.10.462, f2.11.229 {.versions}
+
 ## Ajustes
 - Alterado comportamento de produtos pesados, adicionando campo "Produto pesado" para alteração em massa de, assim como para a importação e exportação de Produtos. 
 - Corrigido o CST 051 para habilitar preenchimento do "Grupo de Estorno de Crédito".
 
 # 16/06/2026
 b3.10.460, f.2.11.228 {.versions}
+
 ## Ajustes
 - Ajustada geração do CFOP para que o primeiro digito corresponda a localização do destinatário (idDest).
 - Ajustada a lista de sugestão de CFOP para que o primeiro digito corresponda a localização do destinatário (idDest).
 
 # 19/05/2026
 b3.10.459 {.versions}
+
 ## Novidades
 - Atualizado o envio de arquivos.
 
 # 20/05/2026
 b3.10.458 {.versions}
+
 ## Ajustes
 - Corrigida nota de ajuste para não conter incidencia de transporte.
 
