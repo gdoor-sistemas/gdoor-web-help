@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-01T14:15:02.976Z
+date: 2026-07-01T14:15:20.613Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -41,7 +41,7 @@ b3.10.472, f2.11.237 {.versions}
 b3.10.471 {.versions}
 
 ## Ajustes
-- Ajustado o erro na sincronização dos dados no painel com o admim do Gweb.
+- Ajustada sincronização dos dados no painel com o admim do Gweb.
 
 # 25/06/2026
 b3.10.467, b3.10.468, f2.11.233 {.versions}
