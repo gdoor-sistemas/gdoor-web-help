@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-01T13:50:02.282Z
+date: 2026-07-01T13:53:55.955Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 31
-- Ajustes: 80
+- Ajustes: 81
 
-**Total: 111**
+**Total: 112**
 
 --- 
 
@@ -31,10 +31,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 01/07/2026
-f2.11.237 {.versions}
+b3.10.472, f2.11.237 {.versions}
 
 ## Ajustes
 - Ajustado o valor da Base de Cálculo do IBS/CBS para seguir a regra da SEFAZ.
+- Ajustado o valor da Base de Cálculo de PIS/COFINS na NFS-e.
 
 
 # 25/06/2026
