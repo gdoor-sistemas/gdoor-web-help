@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-01T14:15:20.613Z
+date: 2026-07-06T11:44:39.576Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -39,6 +39,12 @@ b3.10.472, f2.11.237 {.versions}
 
 # 30/06/2026
 b3.10.471 {.versions}
+
+## Novidades
+- Implementada NF-e no PDV.
+- Implementado trial de 24 horas da NF-e no PDV para clientes que não possuem NF-e.
+- Implementado PLG de Arquivos fiscais, possibilitando o cliente a testar as funcionalidades dos arquivos fiscais por 15 dias.
+- Implementado novo modelo do TEF "ScopeAPI".
 
 ## Ajustes
 - Ajustada sincronização dos dados no painel com o admim do Gweb.
