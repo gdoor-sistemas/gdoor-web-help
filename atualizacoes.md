@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-06T11:47:33.280Z
+date: 2026-07-06T17:10:17.599Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -38,7 +38,7 @@ b3.10.472, f2.11.237 {.versions}
 - Ajustado o valor da Base de Cálculo de PIS/COFINS na NFS-e.
 
 # 30/06/2026
-b3.10.471 {.versions}
+b3.10.470, b3.10.471, f2.11.235, p1.0.66, a2.3.14{.versions}
 
 ## Novidades
 - Implementada NF-e no PDV.
