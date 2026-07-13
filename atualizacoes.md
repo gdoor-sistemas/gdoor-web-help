@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-06T17:12:14.231Z
+date: 2026-07-13T11:36:04.584Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,6 +30,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/07/2026
+b3.10.481, f2.11.241, p1.0.67 {.versions}
+
+## Ajustes
+- Ajustada base do IBS/CBS para não subtrair caso o ICMS tenha CST com retenção.
+- Cadastrada descrição do código ANP 130202001.
+
+
 # 01/07/2026
 b3.10.472, f2.11.237 {.versions}
 
