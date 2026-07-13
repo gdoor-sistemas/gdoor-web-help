@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-13T11:38:54.029Z
+date: 2026-07-13T13:40:23.895Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 84
+- Ajustes: 85
 
-**Total: 115**
+**Total: 120**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 10/07/2026
+b3.10.486 {.versions}
+
+## Ajustes
+- Corrigido envio da tag PesoCarga quando o tipo da operação TAC-Agregado.
+
 # 09/07/2026
 b3.10.481, f2.11.241, p1.0.67 {.versions}
 
