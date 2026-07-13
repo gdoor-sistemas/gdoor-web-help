@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-13T13:55:16.709Z
+date: 2026-07-13T19:25:01.188Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -31,10 +31,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 10/07/2026
-b3.10.486 {.versions}
+b3.10.485, b3.10.486, f2.11.242 {.versions}
 
 ## Ajustes
 - Corrigido envio da tag PesoCarga quando o tipo da operação TAC-Agregado.
+- Criada configuração para definir se será ou não enviado o código de tributação nacional ISS.
 
 # 09/07/2026
 b3.10.481, f2.11.241, p1.0.67 {.versions}
