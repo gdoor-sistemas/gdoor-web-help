@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-16T12:32:51.864Z
+date: 2026-07-16T13:50:54.563Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,7 +13,7 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 104
+- Ajustes: 105
 
 **Total: 121**
 
@@ -48,6 +48,7 @@ b3.10.488, f2.11.244, a2.3.19, p1.0.68 {.versions}
 - Otimizada a mensagem de validação de ausência de CST na NF-e.
 - Ajustado método utilizado na formatação de String na geração do SPED.
 - Otimizado campo de busca por cliente no relatório de contas a receber.
+- DEP29572 - Ajustada ordenação por cliente no relatório de contas a receber.
 - Ajustado para que a numeração dos pedidos de venda seja exibida nas observações da NF-e quando mais de um pedido for importado simultaneamente.
 - Ajustado o registro das parcelas na importação de notas de compra com pagamento a prazo.
 - Corrigido o problema que impedia a geração da NFC-e para Pré-Vendas com produtos e serviços.
