@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-16T13:51:09.138Z
+date: 2026-07-20T17:19:05.137Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -13,9 +13,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 105
+- Ajustes: 106
 
-**Total: 121**
+**Total: 122**
 
 --- 
 
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/07/2026
+b3.10.489 {.versions}
+
+## Ajustes
+- Ajustado preenchimento da vICMSOp quando não há valores de diferimento na nota.
+
 # 16/07/2026
 b3.10.488, f2.11.244, a2.3.19, p1.0.68 {.versions}
 
