@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-20T17:19:05.137Z
+date: 2026-07-21T18:12:30.509Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,6 +30,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 21/07/2026
+f2.11.245 {.versions}
+
+## Ajustes
+- Ajustado ver registros financeiros de compra importada via XML e adicionados pagamentos.
+
 # 17/07/2026
 b3.10.489 {.versions}
 
