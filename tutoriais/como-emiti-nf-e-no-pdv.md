@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-21T19:47:17.366Z
+date: 2026-07-22T18:54:31.226Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -72,4 +72,3 @@ Sempre que uma nota for autorizada, independentemente do local da emissão (mód
 
 Caso ocorram emissões simultâneas nos dois módulos, a numeração continuará sequencial entre ambos.
 
-Your content here
