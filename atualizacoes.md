@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-21T18:12:59.835Z
+date: 2026-07-23T17:24:04.205Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 107
+- Ajustes: 110
 
-**Total: 123**
+**Total: 126**
 
 --- 
 
@@ -29,6 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/07/2026
+b3.10.492, b3.10.494, b3.10.495, f2.11.246, f2.11.247 {.versions}
+
+## Ajustes
+- Ajustar ordenação por cliente no relatório de contas a receber, apresentando o código após o nome e a ordenação alfabética.
+- Implementado checkbox no serviço para informar quando o ISS tributa prestar e adicionado o campo "tributa_prestador" nos dados de envio de NFSe.
+- Inclusos dados de CIOT nas observações da DAMDFE.
+
 # 21/07/2026
 f2.11.245 {.versions}
 
