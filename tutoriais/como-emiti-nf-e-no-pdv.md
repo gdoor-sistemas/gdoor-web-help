@@ -2,13 +2,13 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-22T20:52:59.685Z
+date: 2026-07-23T14:22:14.929Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
 ---
 
-# # Como emitir NF-e no PDV
+#  Como emitir NF-e no PDV
 Confira neste tópico todos os passos para emitir a NF-e por dentro do PDV.
 
 # Introdução 
