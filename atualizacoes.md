@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-23T17:26:33.139Z
+date: 2026-07-24T14:13:40.815Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 111
+- Ajustes: 112
 
-**Total: 126**
+**Total: 127**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/07/2026
+b3.10.497 {.versions}
+
+## Ajustes
+- Ajustada geração do grupo de devolução de tributos na NF-e e NFS-e.
+
 # 23/07/2026
 b3.10.492, b3.10.494, b3.10.495, f2.11.246, f2.11.247 {.versions}
 
