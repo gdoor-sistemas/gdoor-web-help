@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-29T14:05:31.852Z
+date: 2026-07-29T14:50:04.501Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 113
+- Ajustes: 116
 
-**Total: 128**
+**Total: 131**
 
 --- 
 
@@ -30,10 +30,13 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 29/07/2026
-b3.10.498 {.versions}
+b3.10.498, b3.10.499, b3.10.500, f2.11.248, f2.11.249, f2.11.500, p1.0.69 {.versions}
 
 ## Ajustes
 - Ajustada edição de NFC-e com rejeição.
+- Implementada configuração para indicar finalidade da NFS-e para municípios que necessitam.
+- Ajustado para trazer o código de classificação tributária quando houver vínculo entre a regra com código específico e o produto ou operação da NF-e.
+- Ajustado carregamento de vendedores no PDV.
 
 # 24/07/2026
 b3.10.497 {.versions}
