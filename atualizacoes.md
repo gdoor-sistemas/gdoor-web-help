@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-07-24T14:13:40.815Z
+date: 2026-07-29T14:05:31.852Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 35
-- Ajustes: 112
+- Ajustes: 113
 
-**Total: 127**
+**Total: 128**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 29/07/2026
+b3.10.498 {.versions}
+
+## Ajustes
+- Ajustada edição de NFC-e com rejeição.
+
 # 24/07/2026
 b3.10.497 {.versions}
 
