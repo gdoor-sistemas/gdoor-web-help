@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T20:30:38.610Z
+date: 2026-07-30T20:35:50.417Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -64,29 +64,21 @@ Após concluir as configurações, acesse o módulo **"Movimentações"**, cliqu
 
 ![5-config-nfe-pdv.png](/movimentos/pdv/5-config-nfe-pdv.png)
 
-Realize o lançamento dos produtos e durante a venda a qualquer momento, pressione o atalho F9 para alternar para NF-e e realize o lançamento do **Cliente**.
+Realize o lançamento dos produtos e pressione o atalho **F9** para alternar para NF-e e selecione o **Cliente**.
 
+> Como a identificação do destinatário é obrigatória na **NF-e**, será solicitado o cadastro de um cliente antes de prosseguir. {.is-warning}
 
+![6-config-nfe-pdv.png](/movimentos/pdv/6-config-nfe-pdv.png)
 
-O sistema alterará a emissão de Pré-venda ou NFC-e para NF-e.
+O sistema alterará a emissão de Pré-venda ou NFC-e para NF-e. A venda continuará normalmente, porém agora utilizando NF-e como documento fiscal.
 
+![7-config-nfe-pdv.png](/movimentos/pdv/7-config-nfe-pdv.png)
 
-
-Como a identificação do destinatário é obrigatória na NF-e, será solicitado o cadastro de um cliente antes de prosseguir.
-
-Selecione o cliente desejado.
-
-Após a confirmação, a venda continuará normalmente, porém agora utilizando NF-e como documento fiscal.
-
-Realize o lançamento dos produtos normalmente.
 
 Finalize a venda conforme o processo habitual do PDV.
 
-Após a autorização pela SEFAZ, o DANFE será disponibilizado para impressão conforme o modelo configurado.
+> O processo de venda permanece praticamente igual ao utilizado na NFC-e, alterando apenas o documento fiscal emitido. {.is-info}
 
-Importante
-
-O processo de venda permanece praticamente igual ao utilizado na NFC-e, alterando apenas o documento fiscal emitido.
 
 ## Consultar as NF-e emitidas
 
