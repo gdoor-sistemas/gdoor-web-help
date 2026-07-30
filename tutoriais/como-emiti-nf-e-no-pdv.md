@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T20:27:57.597Z
+date: 2026-07-30T20:28:05.267Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -63,9 +63,6 @@ A sequência numérica utilizada pela NF-e emitida no PDV é compartilhada com o
 Após concluir as configurações, acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Nova venda"** ou pressione a tecla **"F2"**.
 
 ![5-config-nfe-pdv.png](/movimentos/pdv/5-config-nfe-pdv.png)
-
-
-
 
 Durante a venda, pressione o atalho F9 para alternar o documento fiscal.
 
