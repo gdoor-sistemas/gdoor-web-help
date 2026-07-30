@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T18:47:00.593Z
+date: 2026-07-30T19:32:15.627Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -26,9 +26,9 @@ Antes de emitir NF-e pelo PDV, algumas configurações devem ser verificadas e s
 
 ## Comportamento
 
-Na seção **Comportamento**, marque a opção **"Solicitar cliente"** e clique em **"Salvar"**.
+Recomenda-se habilitar a opção **"Solicitar cliente"** para que todas as vendas e pré-vendas sejam registradas com um cliente vinculado. Dessa forma, esses documentos poderão ser utilizados posteriormente para a geração de NF-e por meio da listagem de lançamentos.
 
-> A NF-e exige a identificação do destinatário, portanto é obrigatório selecionar um cliente antes de concluir a venda. {.is-warning}
+> Ao iniciar a emissão da NF-e durante a venda por meio da tecla **F9**, o sistema solicitará automaticamente a identificação do cliente, independentemente da opção **"Solicitar cliente"** estar habilitada, pois essa informação é obrigatória para a emissão da NF-e. {.is-info}
 
 ![2-config-nfe-pdv.png](/movimentos/pdv/2-config-nfe-pdv.png)
 
@@ -60,7 +60,10 @@ A sequência numérica utilizada pela NF-e emitida no PDV é compartilhada com o
 
 # Emitir NF-e pelo PDV
 
-Após concluir as configurações, acesse o PDV e inicie uma nova venda.
+Após concluir as configurações, acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Nova venda"** ou pressione a tecla **"F2"**.
+
+
+
 
 Durante a venda, pressione o atalho F9 para alternar o documento fiscal.
 
