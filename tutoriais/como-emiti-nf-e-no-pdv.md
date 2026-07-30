@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T14:36:55.253Z
+date: 2026-07-30T17:44:43.403Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -18,7 +18,7 @@ Toda a operação é realizada no próprio frente de caixa, utilizando a mesma r
 
 Além da emissão manual, também é possível gerar NF-e a partir de orçamentos, pedidos de venda e pré-vendas, reduzindo retrabalho e agilizando o atendimento.
 
-# Configurações para emissão de NF-e no PDV
+# Configurações do PDV
 
 Antes de emitir NF-e pelo PDV, algumas configurações devem ser verificadas e se necessário realizadas. Acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Configurações do PDV"**.
 
@@ -32,10 +32,19 @@ Na seção **Comportamento**, marque a opção **"Solicitar cliente"**.
 
 ![2-config-nfe-pdv.png](/movimentos/pdv/2-config-nfe-pdv.png)
 
+## Configurações da NF-e
 
-## Definir a operação padrão
+Configure a operação padrão, a impressão automática depois de autorizar a NF-e e o modelo de impressão do DANFE.
 
-A operação padrão determina qual tributação será utilizada por padrão durante a emissão da NF-e pelo PDV.
+
+![3-config-nfe-pdv.png](/movimentos/pdv/3-config-nfe-pdv.png)
+
+- **Operação padrão:** a operação padrão determina qual tributação será utilizada por padrão durante a emissão da NF-e pelo PDV.
+- **Configurar impressão automática:** quando essa opção estiver ativada, o documento será aberto automaticamente após a autorização da NF-e, dispensando a necessidade de solicitar a impressão manual.
+- **Modelo de impressão padrão:** é possível definir qual modelo de DANFE será utilizado automaticamente nas emissões realizadas pelo PDV. Selecione uma das opções disponíveis:
+		- DANFE A4: impressão em folha A4.
+		- DANFE Simplificado: impressão em bobina térmica de 80 mm (40 colunas).
+		- DANFE Simplificado Etiqueta: impressão em etiqueta para identificação de volumes.
 
 Acesse **Fiscal > NF-e > Configurações**
 
