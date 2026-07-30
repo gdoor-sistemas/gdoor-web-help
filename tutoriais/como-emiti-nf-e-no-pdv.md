@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T14:22:23.299Z
+date: 2026-07-30T14:26:48.905Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -18,9 +18,12 @@ Toda a operação é realizada no próprio frente de caixa, utilizando a mesma r
 
 Além da emissão manual, também é possível gerar NF-e a partir de orçamentos, pedidos de venda e pré-vendas, reduzindo retrabalho e agilizando o atendimento.
 
-# Como configurar
+# Configurações para emissão de NF-e no PDV
 
-Antes de emitir NF-e pelo PDV, algumas configurações devem ser verificadas e se necessário realizadas. Acesse o módulo "Movimentações", clique em "PDV" e selecione "Configurações do PDV".
+Antes de emitir NF-e pelo PDV, algumas configurações devem ser verificadas e se necessário realizadas. Acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Configurações do PDV"**.
+
+![1-config-nfe-pdv.png](/movimentos/pdv/1-config-nfe-pdv.png)
+
 
 ## Definir a operação padrão
 
