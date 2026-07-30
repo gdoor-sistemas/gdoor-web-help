@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T20:28:05.267Z
+date: 2026-07-30T20:30:38.610Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -64,9 +64,13 @@ Após concluir as configurações, acesse o módulo **"Movimentações"**, cliqu
 
 ![5-config-nfe-pdv.png](/movimentos/pdv/5-config-nfe-pdv.png)
 
-Durante a venda, pressione o atalho F9 para alternar o documento fiscal.
+Realize o lançamento dos produtos e durante a venda a qualquer momento, pressione o atalho F9 para alternar para NF-e e realize o lançamento do **Cliente**.
 
-O sistema alterará a emissão de NFC-e para NF-e.
+
+
+O sistema alterará a emissão de Pré-venda ou NFC-e para NF-e.
+
+
 
 Como a identificação do destinatário é obrigatória na NF-e, será solicitado o cadastro de um cliente antes de prosseguir.
 
