@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T18:46:29.559Z
+date: 2026-07-30T18:47:00.593Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -44,7 +44,8 @@ Configure a operação padrão, a impressão automática depois de autorizar a N
 		- DANFE A4: impressão em folha A4.
 		- DANFE Simplificado: impressão em bobina térmica de 80 mm (40 colunas).
 		- DANFE Simplificado Etiqueta: impressão em etiqueta para identificação de volumes.
-
+    
+Clique em **"Salvar"**
 
 
 ## Ambiente da NF-e
