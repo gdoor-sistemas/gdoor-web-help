@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T17:44:43.403Z
+date: 2026-07-30T17:49:19.595Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -36,7 +36,6 @@ Na seção **Comportamento**, marque a opção **"Solicitar cliente"**.
 
 Configure a operação padrão, a impressão automática depois de autorizar a NF-e e o modelo de impressão do DANFE.
 
-
 ![3-config-nfe-pdv.png](/movimentos/pdv/3-config-nfe-pdv.png)
 
 - **Operação padrão:** a operação padrão determina qual tributação será utilizada por padrão durante a emissão da NF-e pelo PDV.
@@ -46,37 +45,7 @@ Configure a operação padrão, a impressão automática depois de autorizar a N
 		- DANFE Simplificado: impressão em bobina térmica de 80 mm (40 colunas).
 		- DANFE Simplificado Etiqueta: impressão em etiqueta para identificação de volumes.
 
-Acesse **Fiscal > NF-e > Configurações**
 
-Localize o campo Operação padrão e selecione a operação que deverá ser utilizada nas emissões realizadas pelo PDV.
-
-Sempre que existir uma regra tributária vinculada à operação, ela terá prioridade sobre as informações cadastradas no produto.
-
-Caso não exista uma regra definida para a operação, o sistema utilizará a tributação cadastrada no produto.
-
-Observação
-
-Caso a empresa já utilize emissão de NF-e pelo módulo tradicional, recomenda-se utilizar a mesma operação padrão para manter o mesmo comportamento tributário.
-
-## Configurar o modelo de impressão
-
-Também é possível definir qual modelo de DANFE será utilizado automaticamente nas emissões realizadas pelo PDV.
-
-Nas configurações do PDV, selecione uma das opções disponíveis:
-
-DANFE A4;
-DANFE Simplificado;
-DANFE Simplificado Etiqueta.
-
-Essa configuração define o modelo utilizado como padrão durante a impressão da nota.
-
-## Configurar impressão automática
-
-Ainda nas configurações do PDV, é possível habilitar a impressão automática do DANFE.
-
-Quando essa opção estiver ativada, o documento será aberto automaticamente após a autorização da NF-e, dispensando a necessidade de solicitar a impressão manual.
-
-Esse comportamento é semelhante ao já utilizado na emissão da NFC-e.
 
 ## Configurar a numeração da NF-e
 
