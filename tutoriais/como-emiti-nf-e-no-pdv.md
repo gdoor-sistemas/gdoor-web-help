@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T17:49:19.595Z
+date: 2026-07-30T18:46:29.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -26,7 +26,7 @@ Antes de emitir NF-e pelo PDV, algumas configurações devem ser verificadas e s
 
 ## Comportamento
 
-Na seção **Comportamento**, marque a opção **"Solicitar cliente"**.
+Na seção **Comportamento**, marque a opção **"Solicitar cliente"** e clique em **"Salvar"**.
 
 > A NF-e exige a identificação do destinatário, portanto é obrigatório selecionar um cliente antes de concluir a venda. {.is-warning}
 
@@ -47,21 +47,17 @@ Configure a operação padrão, a impressão automática depois de autorizar a N
 
 
 
-## Configurar a numeração da NF-e
+## Ambiente da NF-e
 
-A sequência numérica utilizada pela NF-e emitida no PDV é compartilhada com o módulo tradicional de NF-e.
+A sequência numérica utilizada pela NF-e emitida no PDV é compartilhada com o módulo normal de NF-e. Caso a NF-e já esteja configurada no sistema, não será necessário fazer alterações.
 
-Acesse:
+![4-config-nfe-pdv.png](/movimentos/pdv/4-config-nfe-pdv.png)
 
-Fiscal > NF-e > Configurações
 
-Configure normalmente a sequência numérica da NF-e.
+> Sempre que uma nota for autorizada, independentemente do local da emissão (módulo NF-e ou PDV), será utilizado o próximo número disponível da sequência. {.is-info}
 
-Sempre que uma nota for autorizada, independentemente do local da emissão (módulo NF-e ou PDV), será utilizado o próximo número disponível da sequência.
 
-Caso ocorram emissões simultâneas nos dois módulos, a numeração continuará sequencial entre ambos.
-
-## Emitir NF-e pelo PDV
+# Emitir NF-e pelo PDV
 
 Após concluir as configurações, acesse o PDV e inicie uma nova venda.
 
