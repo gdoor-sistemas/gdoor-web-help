@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-31T20:04:34.254Z
+date: 2026-07-31T20:36:51.815Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -84,17 +84,18 @@ Finalize a venda conforme o processo habitual do PDV.
 
 Todas as NF-e emitidas pelo PDV ficam disponíveis na listagem de documentos.
 
-Acesse a tela de documentos do PDV para visualizar todas as emissões realizadas.
+![8-config-nfe-pdv.png](/movimentos/pdv/8-config-nfe-pdv.png)
 
-Além da consulta, é possível acessar os detalhes da nota para conferir todas as informações transmitidas.
+Acessando os detalhes da nota será possível:
+
+![9-config-nfe-pdv.png](/movimentos/pdv/9-config-nfe-pdv.png)
+
+
 
 ## Filtrar somente NF-e
 
-Para facilitar a localização das notas fiscais, foi disponibilizado um novo filtro na listagem de documentos.
+Para facilitar a localização das notas fiscais, foi disponibilizado um novo filtro na listagem de documentos. Dessa forma, a consulta fica mais rápida, principalmente em empresas que também realizam emissão de NFC-e. Os campos disponíveis são:
 
-Selecione o filtro NF-e para exibir somente esse tipo de documento.
-
-Dessa forma, a consulta fica mais rápida, principalmente em empresas que também realizam emissão de NFC-e.
 
 
 ## Fechamento de caixa
@@ -126,7 +127,6 @@ Durante esse período, todas as emissões poderão ser realizadas normalmente, p
 Após o encerramento das 24 horas, novas emissões serão bloqueadas automaticamente.
 
 Ao tentar emitir uma nova NF-e, será apresentada uma mensagem informando que o período de avaliação foi encerrado e que será necessário entrar em contato com a revenda para adquirir o módulo.
-
 
 
 
