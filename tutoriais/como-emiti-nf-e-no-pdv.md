@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-31T20:53:14.019Z
+date: 2026-07-31T20:55:25.369Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -129,9 +129,7 @@ As vendas realizadas por meio de NF-e também fazem parte do fechamento de caixa
 
 Ao realizar o fechamento, o sistema apresenta um novo bloco específico para esse documento fiscal, permitindo identificar separadamente os valores referentes às NF-e emitidas.
 
-Além dos totalizadores das vendas, o sistema também considera as movimentações relacionadas às NF-e, mantendo o mesmo comportamento aplicado aos demais documentos fiscais.
 
-Caso existam cancelamentos de NF-e, essas informações também serão apresentadas durante o fechamento, permitindo uma conferência completa das movimentações realizadas no caixa.
 
 ## Período de testes
 
