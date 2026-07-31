@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-30T20:41:03.608Z
+date: 2026-07-31T20:04:34.254Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -96,103 +96,6 @@ Selecione o filtro NF-e para exibir somente esse tipo de documento.
 
 Dessa forma, a consulta fica mais rápida, principalmente em empresas que também realizam emissão de NFC-e.
 
-## Modelos de DANFE
-
-A emissão da NF-e pelo PDV disponibiliza três modelos de impressão do DANFE.
-
-Cada modelo atende uma necessidade específica da empresa.
-
-### DANFE A4
-
-O DANFE A4 é o modelo tradicional da Nota Fiscal Eletrônica.
-
-Esse modelo contém todas as informações exigidas para acompanhar o transporte da mercadoria e deve ser utilizado quando houver necessidade de impressão em papel A4.
-
-É recomendado para empresas que utilizam impressoras convencionais.
-
-### DANFE Simplificado
-
-O DANFE Simplificado foi desenvolvido para impressão em impressoras térmicas de 80 mm (40 colunas).
-
-Esse modelo apresenta praticamente as mesmas informações do DANFE tradicional, porém adaptadas para um formato reduzido.
-
-São apresentados:
-
-dados do emitente;
-dados do destinatário;
-produtos;
-totais da nota;
-chave de acesso;
-QR Code, quando aplicável;
-demais informações fiscais necessárias.
-
-Esse modelo permite reaproveitar a mesma impressora utilizada para emissão da NFC-e.
-
-Dica
-
-O DANFE Simplificado é recomendado para empresas que desejam emitir NF-e diretamente no caixa utilizando impressoras térmicas.
-
-### DANFE Simplificado Etiqueta
-
-O DANFE Simplificado Etiqueta possui uma finalidade diferente do modelo anterior.
-
-Ele foi desenvolvido para identificação dos volumes durante o transporte.
-
-Nesse modelo não são impressos os produtos nem os valores da nota.
-
-São apresentados apenas os dados necessários para identificar a entrega, como:
-
-emitente;
-destinatário;
-endereço;
-chave da NF-e;
-informações de transporte.
-
-Esse modelo é indicado para ser fixado na embalagem durante o transporte da mercadoria.
-
-Importante
-
-Como o objetivo é apenas identificar a entrega, as informações comerciais da nota não são exibidas nesse modelo.
-
-## Importar documentos
-
-Além da emissão manual, também é possível gerar NF-e utilizando documentos previamente cadastrados no sistema.
-
-Essa funcionalidade reduz o retrabalho, evitando novo lançamento dos produtos.
-
-### Gerar NF-e a partir de um orçamento
-
-Acesse o módulo de Orçamentos.
-
-Selecione o orçamento desejado.
-
-Em seguida, utilize a opção Gerar NF-e pelo PDV.
-
-Os produtos serão carregados automaticamente para o PDV, permitindo apenas a conferência e finalização da venda.
-
-### Gerar NF-e a partir de um pedido de venda
-
-Também é possível emitir NF-e utilizando um pedido de venda.
-
-Acesse o módulo de Pedidos de Venda.
-
-Selecione o pedido desejado.
-
-Utilize a opção Gerar NF-e pelo PDV.
-
-Todas as informações do pedido serão importadas automaticamente.
-
-### Gerar NF-e a partir de uma pré-venda
-
-As pré-vendas também podem ser convertidas em NF-e.
-
-Localize a pré-venda desejada.
-
-Finalize normalmente a operação escolhendo a emissão de NF-e pelo PDV.
-
-Esse processo mantém o mesmo fluxo operacional já utilizado para NFC-e.
-
-
 
 ## Fechamento de caixa
 
@@ -228,27 +131,4 @@ Ao tentar emitir uma nova NF-e, será apresentada uma mensagem informando que o 
 
 
 
-
-
-
-
-### Mensagens e validações
-
-Durante a utilização da funcionalidade, algumas mensagens poderão ser apresentadas pelo sistema conforme o cenário da emissão.
-
-#### Cliente não informado
-
-Ao tentar alterar a emissão para NF-e sem selecionar um cliente, o sistema solicitará a identificação do destinatário, pois esse dado é obrigatório para a emissão da Nota Fiscal Eletrônica.
-
-#### Módulo não habilitado
-
-Caso a empresa não possua o módulo de NF-e contratado, será apresentada uma mensagem oferecendo a ativação do período de testes.
-
-Após a ativação, a emissão ficará disponível durante 24 horas.
-
-#### Período de testes encerrado
-
-Quando o período de avaliação expirar, o sistema informará que a funcionalidade não está mais disponível.
-
-Para continuar emitindo NF-e pelo PDV, será necessário adquirir o módulo junto à revenda.
 
