@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-07-31T20:36:51.815Z
+date: 2026-07-31T20:53:14.019Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
@@ -86,9 +86,23 @@ Todas as NF-e emitidas pelo PDV ficam disponíveis na listagem de documentos.
 
 ![8-config-nfe-pdv.png](/movimentos/pdv/8-config-nfe-pdv.png)
 
-Acessando os detalhes da nota será possível:
+Ao abrir o menu de um documento, estão disponíveis as seguintes opções:
 
 ![9-config-nfe-pdv.png](/movimentos/pdv/9-config-nfe-pdv.png)
+
+ - **Marcar:** seleciona o documento para execução de ações em lote.
+- **Consultar status:** consulta novamente a situação do documento na SEFAZ.
+- **Copiar chave de acesso:** copia a chave de acesso da NF-e ou NFC-e para a área de transferência.
+- **Enviar por e-mail:** envia o XML e/ou DANFE para o endereço eletrônico do destinatário.
+- **Visualizar DANFE:** abre a representação gráfica do documento fiscal no tamanho A4, Simplificado etiqueta ou Simplificado.
+- **Visualizar XML:** exibe o arquivo XML autorizado.
+- **Eventos da NF-e:** permite consultar ou executar eventos fiscais relacionados ao documento, como "Carta de Correção", "Conciliação Financeira (ECONF)" ou "Eventos da reforma tributária.
+- **Ajustar (NF-e de ajuste):** gera uma NF-e de ajuste vinculada ao documento.
+- **Complementar (NF-e complementar):** permite emitir uma NF-e complementar quando necessário.
+- **Gerar CT-e:** inicia a emissão de um Conhecimento de Transporte Eletrônico relacionado ao documento.
+- **Gerar contrato de frete (CIOT):** permite gerar o contrato de frete e o respectivo CIOT quando aplicável.
+- **Salvar documento:** realiza o download dos arquivos do documento fiscal.
+- **Cancelar NF-e:** solicita o cancelamento da nota fiscal, desde que esteja dentro das regras e do prazo permitido pela legislação.
 
 
 
@@ -96,6 +110,17 @@ Acessando os detalhes da nota será possível:
 
 Para facilitar a localização das notas fiscais, foi disponibilizado um novo filtro na listagem de documentos. Dessa forma, a consulta fica mais rápida, principalmente em empresas que também realizam emissão de NFC-e. Os campos disponíveis são:
 
+![10-config-nfe-pdv.png](/movimentos/pdv/10-config-nfe-pdv.png)
+
+- **Cliente/Fornecedor;**
+- **Usuário;**
+- **Vendedor;**
+- **Status;**
+- **Data inicial e data final;**
+- **Ambiente de emissão;**
+- **Espécie de pagamento;**
+- **Tipo de documento;**
+- **Incluir pré-vendas com documento fiscal emitido.**
 
 
 ## Fechamento de caixa
