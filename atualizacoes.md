@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-03T11:50:53.912Z
+date: 2026-08-03T17:50:00.278Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 40
-- Ajustes: 116
+- Ajustes: 117
 
-**Total: 156**
+**Total: 157**
 
 --- 
 
@@ -30,7 +30,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 03/08/2026
-b3.10.501, f2.11.251, p1.0.70 {.versions}
+b3.10.501, b3.10.502, f2.11.251, f2.11.252, p1.0.70 {.versions}
 
 ## Novidades
 - Implementada configuração para imprimir o NCM no pedido de venda e orçamento.
@@ -38,6 +38,9 @@ b3.10.501, f2.11.251, p1.0.70 {.versions}
 - Adequações NT 1.40, referente a NF-e de devolução e débito tipo 4, campos de tributação para ALC/ZFM e devolução de tributos. 
 - Implementados campos para Compra Governamental o módulo NF-e.
 - Adequações a Nota Técnica Nº 007, referente ao Grupo de informações dos tributos PIS/COFINS na NFS-e.
+
+## Ajustes
+- Ajustado campo CNH do condutor para aceitar 11 caracteres.
 
 # 29/07/2026
 b3.10.498, b3.10.499, b3.10.500, f2.11.248, f2.11.249, f2.11.500, p1.0.69 {.versions}
