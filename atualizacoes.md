@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-03T17:50:00.278Z
+date: 2026-08-04T21:08:56.315Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -29,6 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/08/2026
+b3.10.503, b3.10.504, b3.10.505, f2.11.253, f2.11.254, p1.0.71, p1.0.72 {.versions}
+
+## Ajustes
+- Permitido gerar pré-venda somente com serviços. 
+- Ajustado o valor das "Vendas" na sangria de fechamento de caixa para apresentar somente o valor em dinheiro.
+- Ajustado título do PDV quando a configutação for "Gerar NFC-e" para apresentar "NFC-e aberta".
+
 # 03/08/2026
 b3.10.501, b3.10.502, f2.11.251, f2.11.252, p1.0.70 {.versions}
 
