@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-04T21:10:49.740Z
+date: 2026-08-05T19:29:44.385Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/08/2026
+b3.10.506, f2.11.255 {.versions}
+
+## Ajustes
+- Adicionada a declaração de importação única no gweb em adequação a NT2020.005_v1_21.
+
 # 04/08/2026
 b3.10.503, b3.10.504, b3.10.505, f2.11.253, f2.11.254, p1.0.71, p1.0.72 {.versions}
 
