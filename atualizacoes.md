@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-06T17:41:56.917Z
+date: 2026-08-06T17:45:06.598Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -33,7 +33,7 @@ ir para [2021](#h-2021) {.goto}
 p1.0.73 {.versions}
 
 ## Ajustes
-- Ajustada carregamento das configurações e banco de dados ao acessar a base no PDV Híbrido.
+- Ajustado carregamento das configurações e banco de dados ao acessar a base no PDV Híbrido.
 
 # 05/08/2026
 b3.10.506, f2.11.255 {.versions}
