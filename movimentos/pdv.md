@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2026-08-14T18:00:47.037Z
+date: 2026-08-14T18:04:20.471Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -952,13 +952,13 @@ Toda a operação é realizada no próprio frente de caixa, utilizando a mesma r
 
 Além da emissão manual, também é possível gerar NF-e a partir de orçamentos, pedidos de venda e pré-vendas, reduzindo o retrabalho e agilizando o atendimento.
 
-# Configurações do PDV
+## Configurações do PDV
 
 Antes de emitir NF-e pelo PDV, verifique as configurações necessárias e realize os ajustes, se necessário. Acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Configurações do PDV"**.
 
 ![1-config-nfe-pdv.png](/movimentos/pdv/1-config-nfe-pdv.png)
 
-## Comportamento
+### Comportamento
 
 Recomenda-se habilitar a opção **"Solicitar cliente"** para que todas as vendas e pré-vendas sejam registradas com um cliente vinculado. Dessa forma, esses documentos poderão ser utilizados posteriormente para gerar NF-e por meio da listagem de lançamentos.
 
@@ -966,7 +966,7 @@ Recomenda-se habilitar a opção **"Solicitar cliente"** para que todas as venda
 
 ![2-config-nfe-pdv.png](/movimentos/pdv/2-config-nfe-pdv.png)
 
-## Configurações da NF-e
+### Configurações da NF-e
 
 Configure a operação padrão, a impressão automática após a autorização da NF-e e o modelo de impressão do DANFE.
 
@@ -982,7 +982,7 @@ Configure a operação padrão, a impressão automática após a autorização d
 Clique em **"Salvar"**.
 
 
-## Ambiente da NF-e
+### Ambiente da NF-e
 
 A sequência numérica utilizada na NF-e emitida pelo PDV é compartilhada com o módulo de NF-e. Caso a NF-e já esteja configurada no sistema, não será necessário realizar alterações.
 
@@ -992,7 +992,7 @@ A sequência numérica utilizada na NF-e emitida pelo PDV é compartilhada com o
 > Sempre que uma nota for autorizada, independentemente do local da emissão (módulo NF-e ou PDV), será utilizado o próximo número disponível da sequência. {.is-info}
 
 
-# Emitir NF-e pelo PDV
+## Emitir NF-e pelo PDV
 
 Após concluir as configurações, acesse o módulo **"Movimentações"**, clique em **"PDV"** e selecione **"Nova venda"** ou pressione a tecla **"F2"**.
 
@@ -1014,7 +1014,7 @@ Finalize a venda conforme o processo habitual do PDV.
 > O processo de venda permanece praticamente igual ao utilizado na NFC-e, com alteração apenas do documento fiscal emitido. {.is-info}
 
 
-## Consultar as NF-e emitidas
+### Consultar as NF-e emitidas
 
 Todas as NF-e emitidas pelo PDV ficam disponíveis na listagem de documentos.
 
@@ -1040,7 +1040,7 @@ Ao abrir o menu de um documento, estão disponíveis as seguintes opções:
 
 
 
-## Filtrar somente NF-e
+### Filtrar somente NF-e
 
 Para facilitar a localização das notas fiscais, a listagem de documentos conta com um filtro específico para NF-e. Dessa forma, a consulta fica mais rápida, principalmente em empresas que também emitem NFC-e. Os filtros disponíveis são:
 
@@ -1057,7 +1057,7 @@ Para facilitar a localização das notas fiscais, a listagem de documentos conta
 - **Incluir pré-vendas com documento fiscal emitido.**
 
 
-## Fechamento de caixa
+### Fechamento de caixa
 
 As vendas realizadas por meio de NF-e também são consideradas no fechamento de caixa do PDV.
 
@@ -1066,7 +1066,7 @@ Ao realizar o fechamento, o sistema apresenta um bloco específico para esse doc
 ![12-config-nfe-pdv.png](/movimentos/pdv/12-config-nfe-pdv.png)
 
 
-## Período de testes
+### Período de testes
 
 Empresas que ainda não possuem o módulo de NF-e contratado podem testar a emissão desse documento fiscal diretamente pelo PDV, sem a necessidade de contratar o módulo imediatamente.
 
