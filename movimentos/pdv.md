@@ -2,7 +2,7 @@
 title: Ponto de venda
 description: Veja como funciona o módulo de PDV, pré-vendas gerenciais, NFC-e, SAT/MF-e e o PDV Híbrido no Gweb
 published: true
-date: 2026-08-14T17:59:38.430Z
+date: 2026-08-14T18:00:47.037Z
 tags: estoque, movimentos, nfc-e, visão geral, pré-venda-gerencial
 editor: markdown
 dateCreated: 2020-08-05T19:18:19.255Z
@@ -943,9 +943,9 @@ Para realizar a reimpressão, basta clicar na opção **Visualizar** do menu do 
 
 
 # Como emitir NF-e pelo PDV
-Confira neste tópico os procedimentos para emitir NF-e pelo PDV.
 
-# Introdução 
+
+
 A emissão de NF-e pelo PDV permite realizar vendas utilizando a Nota Fiscal Eletrônica sem a necessidade de acessar o módulo tradicional de NF-e.
 
 Toda a operação é realizada no próprio frente de caixa, utilizando a mesma rotina já conhecida pelos operadores, mantendo integração com a tributação, numeração da NF-e, fechamento de caixa e demais recursos do sistema.
