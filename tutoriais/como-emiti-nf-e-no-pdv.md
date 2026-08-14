@@ -2,7 +2,7 @@
 title: Como emitir NF-e no PDV
 description: 
 published: true
-date: 2026-08-14T17:57:37.415Z
+date: 2026-08-14T17:58:44.019Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T19:47:17.366Z
