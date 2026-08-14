@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-06T17:45:06.598Z
+date: 2026-08-14T18:25:43.369Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 40
-- Ajustes: 122
+- Ajustes: 125
 
-**Total: 162**
+**Total: 165**
 
 --- 
 
@@ -29,6 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 14/08/2026
+b3.10.509, f2.11.256 {.versions}
+
+## Ajustes
+- Ajustados campos de IBS/CBS no CT-e, assim como na importação de CT-e.
+- Ajustado cálculo do valor da base de cálculo do IBS/CBS.
+- Ajustada NFS-e com layout nacional para mostrar lista de retenção de PIS/COFINS na tributação do produto.
+
 # 06/08/2026
 p1.0.73 {.versions}
 
