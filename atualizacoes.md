@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-14T18:25:43.369Z
+date: 2026-08-18T11:19:20.003Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 40
-- Ajustes: 125
+- Novidades: 43
+- Ajustes: 131
 
-**Total: 165**
+**Total: 174**
 
 --- 
 
@@ -29,6 +29,22 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 18/08/2026
+b3.10.510, f2.11.257, p1.0.74{.versions}
+
+## Novidades
+- Implementado IBS/CBS no CT-e simplificado e simplificado substituição.
+- Implementado crédito presumido na regra de tributação.
+- Criada pré-visualização de dados enviados do CIOT.
+
+## Ajustes
+- Inclusão e envio dos campos "codigo_opcao_simples_nacional, regime_tributario_simples_nacional, codigo_municipio_prestacao, tipo_retencao_iss, tributacao_iss" no JSON da NFS-e para prefeituras.
+- Adicionada a NFS-e os campos para preenchimento do grupo de informação de obra.
+- Possibilitada remoção do tipo de frete no PDV, assim como ajustado pra remover dados e valor de frete automaticamente ao marcar operação presencial.
+- Ajustado preenchimento das notas para buscar 0 para dados tributários quando informado 0 na regra de tributação.
+- Ajustada aplicação das regras de tributação na NFC-e.
+- Ajustada inclusão de produtos no PDV Híbrido offline pelo código de barras.
+
 # 14/08/2026
 b3.10.509, f2.11.256 {.versions}
 
