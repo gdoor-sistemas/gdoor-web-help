@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-18T11:19:20.003Z
+date: 2026-08-19T19:56:25.334Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 43
-- Ajustes: 131
+- Ajustes: 132
 
-**Total: 174**
+**Total: 175**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/08/2026
+b3.10.512, f2.11.258 {.versions}
+
+## Ajustes
+- Ajustado cadastro da NFS-e para trazer por padrão o campo "Pagador retenção ISSQN" preenchido como "Não retido".
+
 # 18/08/2026
 b3.10.510, f2.11.257, p1.0.74{.versions}
 
