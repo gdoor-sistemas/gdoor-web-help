@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-19T19:56:25.334Z
+date: 2026-08-20T17:31:55.763Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 43
-- Ajustes: 132
+- Ajustes: 133
 
-**Total: 175**
+**Total: 176**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/08/2026
+b3.10.513 {.versions}
+
+## Ajustes
+- Incluso CST do PIS/COFINS no envio da NFS-e em ambiente nacional ou layout nacional.
+
 # 19/08/2026
 b3.10.512, f2.11.258 {.versions}
 
