@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-20T17:31:55.763Z
+date: 2026-08-26T20:28:38.393Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 43
-- Ajustes: 133
+- Ajustes: 137
 
-**Total: 176**
+**Total: 180**
 
 --- 
 
@@ -29,6 +29,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/08/2026
+b3.10.515, f2.11.259 {.versions}
+
+## Ajustes
+- Corrigido envio do campo de situação tributária do PIS e COFINS quando não há valor para o mesmo.
+- Ajustada geração da NFS-e baseado em pedidos/orçamentos com mais de um serviço.
+- Corrigido preenchimento da operação da NFS-e quando houver operação padrão configurada e a nota for gerada a partir de um pedido/orçamento.
+- Ajustada mensagem de validação da NFS-e apresentada ao salvar nota quando não há operação padrão configurada.
+
 # 19/08/2026
 b3.10.513 {.versions}
 
