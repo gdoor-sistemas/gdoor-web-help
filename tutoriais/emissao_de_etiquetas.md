@@ -1,0 +1,372 @@
+---
+title: Emissão de Etiquetas
+description: 
+published: true
+date: 2026-08-26T20:49:20.170Z
+tags: 
+editor: markdown
+dateCreated: 2026-08-26T20:49:20.170Z
+---
+
+# Emissão de Etiquetas 
+Listamos neste artigo as orientações para consultar modelos de etiquetas, cadastrar novas configurações, definir medidas e informações impressas, gerar etiquetas manualmente ou por documentos de compra, configurar a impressão direta e utilizar o código interno como código de barras.
+
+# Introdução
+
+
+
+O processo utiliza as informações cadastradas nos produtos, permitindo gerar etiquetas com dados como descrição, preço e código de barras, sem necessidade de redigitação.
+
+Os modelos de etiqueta podem ser utilizados para diferentes necessidades de impressão, como etiquetas de produtos, etiquetas de prateleira, reimpressões após alteração de preços e impressões em lote com base nos produtos de uma nota de compra.
+
+# Consultar e criar modelos de etiqueta
+
+Acesse **"Cadastros"**, selecione **"Produtos"**, clique em **"Ações"** e escolha **"Etiquetas"**.
+
+[INSERIR PRINT — Tela de listagem de etiquetas, destacando o acesso pelo menu "Cadastros", "Produtos", "Ações" e "Etiquetas".]
+
+A listagem apresenta os modelos cadastrados, permitindo identificar o tipo de impressão (**Folha** ou **Bobina**), as dimensões da página e as dimensões da etiqueta.
+
+Utilize o campo **"Digite para buscar..."** para localizar um modelo pelo nome.
+
+Para atualizar a listagem, clique no ícone de atualização.
+
+Cada modelo disponibiliza ações específicas:
+
+Editar: permite alterar a configuração do modelo.
+Imprimir: abre diretamente a tela de impressão utilizando o modelo selecionado.
+
+Para cadastrar um novo modelo, clique no botão "+", localizado no canto inferior da tela.
+
+(alerta) Na versão apresentada no material, a listagem disponibiliza apenas as opções de edição e impressão. As opções para duplicar ou excluir modelos não fazem parte do escopo apresentado.
+
+Configurar as medidas da etiqueta
+
+No cadastro da etiqueta, informe a "Descrição".
+
+A descrição é obrigatória e aceita até 30 caracteres.
+
+[INSERIR PRINT — Tela de cadastro da etiqueta, destacando o campo "Descrição" e a seção de medidas.]
+
+Na seção de medidas, verifique o "Modelo aplicado", que identifica a configuração utilizada pelo modelo atual.
+
+Para utilizar uma configuração previamente cadastrada, clique em "Usar modelo existente".
+
+[INSERIR PRINT — Janela "Modelos de medidas", mostrando os modelos disponíveis e o botão "Importar modelo".]
+
+A relação de modelos permite pesquisar por nome, descrição ou medida.
+
+Os modelos podem apresentar duas identificações:
+
+"Padrão": modelos disponibilizados pelo sistema.
+"Meu modelo": modelos cadastrados para utilização própria.
+
+Os modelos padrão apresentados no material são:
+
+A4 63,5 × 31 mm;
+A4 99 × 33,9 mm;
+Bobina 50 × 25 mm;
+Bobina 75 × 50 mm;
+Bobina 100 × 50 mm.
+
+Expanda o modelo para consultar as informações de papel, etiqueta e grade antes de aplicá-lo.
+
+Clique em "Importar modelo" para utilizar uma configuração disponível.
+
+Configurar as medidas manualmente
+
+Caso nenhum modelo existente corresponda ao formato necessário, configure as medidas manualmente.
+
+Preencha as informações relacionadas à "Página", considerando:
+
+Tipo do papel;
+Largura da bobina ou da impressão web;
+Quantidade de etiquetas por linha;
+Margem esquerda;
+Margem direita.
+
+Na configuração de "Etiqueta", informe:
+
+Altura da etiqueta;
+Largura da etiqueta;
+Espaçamento entre colunas.
+
+[INSERIR PRINT — Tela "Medidas", destacando os campos de página, etiqueta, legenda numerada e preview.]
+
+A legenda numerada apresenta visualmente a área correspondente a cada medida configurada.
+
+O preview é atualizado conforme os valores são alterados, permitindo conferir a distribuição das etiquetas antes de concluir o cadastro.
+
+Salvar um modelo de medidas
+
+Para reutilizar a configuração em outras etiquetas, marque "Cadastrar as medidas atuais como modelo".
+
+Informe o "Nome do modelo".
+
+Se necessário, preencha também a "Descrição do modelo".
+
+[INSERIR PRINT — Parte inferior da tela "Medidas", destacando "Cadastrar as medidas atuais como modelo", "Nome do modelo" e "Descrição do modelo".]
+
+Clique em "Salvar" para concluir o cadastro da etiqueta.
+
+(informação) O modelo de medidas é criado utilizando os valores configurados nessa seção somente quando a etiqueta completa for salva.
+
+Os modelos cadastrados também podem ser consultados diretamente. Acesse "Cadastros", selecione "Produtos", clique em "Ações" e escolha "Modelos de medidas".
+
+Compor as informações da etiqueta
+
+No cadastro da etiqueta, acesse a seção "Informações nas etiquetas".
+
+[INSERIR PRINT — Tela "Informações nas etiquetas", mostrando o modelo aplicado, os elementos disponíveis, o preview e a tabela de informações.]
+
+O campo "Modelo aplicado" identifica a composição atualmente utilizada.
+
+Para utilizar uma composição previamente cadastrada, clique em "Usar modelo existente".
+
+A composição pode ser montada utilizando os seguintes elementos:
+
+"Adicionar campo": adiciona uma informação disponível no cadastro do produto.
+"Texto livre": permite inserir um texto definido manualmente.
+"Código": adiciona o código de barras.
+"QR": adiciona um QR Code.
+"Forma": adiciona uma forma gráfica.
+"Linha": adiciona uma linha à composição.
+
+Cada elemento inserido passa a fazer parte da tabela "Informações a serem impressas na etiqueta".
+
+Configurar os elementos
+
+Para cada informação adicionada, configure os atributos disponíveis conforme a necessidade da etiqueta:
+
+Posição no topo;
+Posição à esquerda;
+Altura;
+Fonte;
+Tamanho da fonte;
+Negrito;
+Itálico;
+Sublinhado;
+Quebra de linha;
+Alinhamento;
+Cor da fonte;
+Cor de fundo;
+Tamanho automático.
+
+Para alterar a ordem dos elementos, arraste o ícone localizado à esquerda da respectiva linha.
+
+Para remover um elemento, clique no ícone de lixeira.
+
+O preview apresenta as alterações em tempo real, permitindo conferir a composição antes de salvar.
+
+(informação) Os campos relacionados aos produtos utilizam as informações já cadastradas no sistema, como descrição, preço de venda, código de barras, unidade e grade. Não é necessário redigitar essas informações na etiqueta.
+
+Salvar um modelo de informações
+
+Para reutilizar a composição em outras etiquetas, marque "Cadastrar as informações atuais como modelo".
+
+[INSERIR PRINT — Rodapé da seção "Informações nas etiquetas", destacando a opção "Cadastrar as informações atuais como modelo".]
+
+Salve a etiqueta para registrar o modelo de informações.
+
+Os modelos cadastrados também podem ser consultados diretamente. Acesse "Cadastros", selecione "Produtos", clique em "Ações" e escolha "Modelos de informações".
+
+Imprimir etiquetas
+
+Na listagem de etiquetas, localize o modelo que será utilizado e clique no ícone de impressora correspondente.
+
+Também é possível acessar a impressão pela tela de edição do modelo.
+
+[INSERIR PRINT — Listagem de etiquetas, destacando o ícone de impressora do modelo.]
+
+A tela de impressão permite incluir os produtos manualmente ou importar os itens de um documento de compra.
+
+Incluir produtos manualmente
+
+Na tela de impressão, clique no botão "+" para adicionar os produtos.
+
+[INSERIR PRINT — Tela "Imprimindo etiqueta", destacando o botão "+" para inclusão dos produtos.]
+
+Informe os produtos que receberão as etiquetas.
+
+A relação de itens apresenta:
+
+Descrição do produto;
+Quantidade;
+Grade;
+Serial.
+
+Para remover um item individualmente, clique no ícone de lixeira correspondente.
+
+Conforme os produtos e quantidades forem informados, o sistema recalcula automaticamente:
+
+Total de etiquetas;
+Total de folhas.
+Definir as opções de impressão
+
+Configure a "Saída".
+
+Na versão apresentada no material, a saída disponível é PDF.
+
+Defina também a "Ordenação", conforme a necessidade de organização dos produtos.
+
+Utilize "Iniciar na etiqueta nº" para determinar a posição inicial da impressão.
+
+Essa opção é útil para aproveitar uma folha que já tenha algumas etiquetas impressas.
+
+[INSERIR PRINT — Tela de impressão com produtos adicionados, destacando "Saída", "Ordenação", "Iniciar na etiqueta nº", total de etiquetas e total de folhas.]
+
+(dica) Utilize "Iniciar na etiqueta nº" quando houver uma folha parcialmente utilizada. Dessa forma, a impressão pode começar na primeira posição disponível, evitando o desperdício das etiquetas restantes.
+
+Conferir a impressão
+
+Marque "Visualizar preview" para conferir a composição antes da impressão.
+
+Clique em "Prévia PDF" para gerar uma prévia do resultado.
+
+[INSERIR PRINT — Prévia em PDF mostrando a distribuição das etiquetas na folha.]
+
+Confira se os elementos estão posicionados corretamente e se a quantidade de etiquetas corresponde aos produtos incluídos.
+
+Para concluir a impressão, clique em "Imprimir".
+
+(informação) A prévia utiliza a grade definida nas medidas da etiqueta, posicionando os elementos conforme a configuração de página e etiqueta cadastrada.
+
+Importar produtos por documento
+
+Os produtos também podem ser incluídos automaticamente a partir de documentos de compra.
+
+Na tela de impressão, clique no ícone localizado ao lado do botão "+".
+
+Será aberta a janela "Selecionar documento".
+
+[INSERIR PRINT — Janela "Selecionar documento", mostrando as opções "Nota de compra" e "NF-e".]
+
+Selecione a origem dos produtos:
+
+"Nota de compra";
+"NF-e".
+
+Utilize o campo de pesquisa para localizar o documento.
+
+Selecione o documento desejado e clique em "Importar".
+
+Os produtos do documento serão incluídos automaticamente na fila de impressão, utilizando as quantidades informadas no documento.
+
+(alerta) Caso nenhum documento esteja disponível para importação, a janela "Selecionar documento" apresenta um estado vazio. Nesse cenário, verifique se existe um documento compatível com a opção selecionada.
+
+Configurar a impressora e a impressão direta
+
+Para utilizar uma impressora específica para as etiquetas, acesse "Configurações" e selecione "Impressões".
+
+[INSERIR PRINT — Tela "Configurações de impressão", destacando "Impressoras padrão por documento", "Etiqueta" e "Serviço de impressão direta".]
+
+Na seção "Impressoras padrão por documento", localize o documento "Etiqueta".
+
+Selecione a impressora que será utilizada para esse tipo de impressão.
+
+A relação também apresenta outros documentos, como:
+
+Pedido de venda;
+Orçamento;
+NF-e;
+NFC-e;
+NF-e no PDV;
+Pré-venda;
+NFS-e;
+Recibo.
+Ativar o envio direto para impressão
+
+Para utilizar o envio direto, marque "Configurar serviço de impressão direta".
+
+Utilize o botão "Download" para instalar o agente de impressão no computador.
+
+O agente permite enviar o documento diretamente para a impressora configurada, sem utilizar a caixa de diálogo de impressão do navegador.
+
+[INSERIR PRINT — Configuração do serviço de impressão direta com o botão "Download".]
+
+Quando o envio direto estiver ativado para um documento, será disponibilizado o campo "Cópias" na respectiva linha.
+
+Informe a quantidade de cópias que o agente deverá imprimir a cada envio.
+
+[INSERIR PRINT — Linha de "Etiqueta" com impressora selecionada e campo "Cópias".]
+
+(informação) A quantidade de cópias é independente para cada tipo de documento. O recurso não é exclusivo das etiquetas: qualquer documento configurado para envio direto pode apresentar o campo "Cópias".
+
+Verificar o agente de impressão
+
+Quando o agente não estiver instalado ou em execução, o sistema apresentará uma mensagem indicando o problema antes da tentativa de impressão.
+
+[INSERIR PRINT — Mensagem "Agente de impressão direta não encontrado".]
+
+(alerta) Ao receber a mensagem "Agente de impressão direta não encontrado", verifique se o serviço foi instalado e se está em execução no computador utilizado para a impressão.
+
+Replicar código interno no código de barras
+
+Produtos sem código de barras podem utilizar o código interno como identificação para impressão.
+
+Para configurar esse recurso, acesse "Configurações", selecione "Geral" e localize o bloco "Gestão de estoque".
+
+[INSERIR PRINT — Tela "Geral", destacando o bloco "Gestão de estoque" e a opção "Replicar código interno no código de barras".]
+
+Marque "Replicar código interno no código de barras".
+
+A opção permite utilizar o código interno do produto como código de barras, reduzindo a necessidade de cadastrar ou informar manualmente outro código.
+
+O bloco anteriormente denominado "Controlar quantidades do estoque" passa a utilizar o nome "Controlar estoque e identificação dos produtos" e apresenta a opção de replicação acompanhada da identificação "NOVO".
+
+Aplicar a replicação aos produtos cadastrados
+
+Ao marcar a opção, será apresentada a janela "Aplicar aos produtos já cadastrados?".
+
+[INSERIR PRINT — Janela "Aplicar aos produtos já cadastrados?", destacando as opções disponíveis.]
+
+Selecione uma das opções:
+
+Replicar
+
+Adiciona o código interno como mais um código de barras cadastrado para o produto.
+
+Replicar e definir como principal
+
+Adiciona o código interno como código de barras e também define esse código como principal.
+
+Depois de selecionar a opção, defina como a configuração deverá ser aplicada.
+
+A janela apresenta três ações:
+
+"Fechar": encerra a janela sem aplicar alterações.
+"Somente novos produtos": mantém a configuração ativa para produtos cadastrados posteriormente, sem alterar os produtos existentes.
+"Aplicar": executa a opção escolhida também para os produtos já cadastrados.
+
+[INSERIR PRINT — Janela com os botões "Fechar", "Somente novos produtos" e "Aplicar".]
+
+Ao clicar em "Aplicar", o sistema executa o processamento em lote.
+
+Durante o procedimento, será apresentado o progresso da aplicação.
+
+Ao finalizar, o sistema informa:
+
+Quantidade de produtos atualizados;
+Opção utilizada na replicação.
+
+(informação) Executar novamente a aplicação não duplica os códigos de barras que já tenham sido replicados.
+
+Desativar a replicação
+
+Para interromper a replicação para novos produtos, desmarque "Replicar código interno no código de barras".
+
+(alerta) Desmarcar a opção não remove os códigos de barras que já foram aplicados aos produtos existentes. A alteração apenas interrompe a replicação para novos produtos.
+
+Fluxo recomendado para emissão
+
+Para realizar a emissão de etiquetas de forma organizada, acesse "Cadastros", selecione "Produtos", clique em "Ações" e escolha "Etiquetas". Em seguida, consulte um modelo existente ou cadastre uma nova etiqueta, defina as medidas da página e da etiqueta, componha as informações que serão impressas e salve o modelo para reutilização, quando necessário.
+
+Na sequência, acesse a impressão pelo ícone de impressora, inclua os produtos manualmente ou importe os itens de uma "Nota de compra" ou "NF-e", defina a ordenação e a posição inicial da impressão, gere a "Prévia PDF" para conferir o resultado e clique em "Imprimir" para concluir.
+
+(dica) Quando a operação utilizar repetidamente o mesmo formato de etiqueta, salve as configurações de medidas e informações como modelos. Dessa forma, novos cadastros podem reutilizar configurações já validadas, reduzindo o trabalho de configuração.
+
+Observação sobre o recurso de código de barras
+
+(informação) O recurso de replicação do código interno permite reduzir um dos principais motivos de produtos sem código de barras: a ausência de um código cadastrado. Ao ativar a opção, o código interno pode passar a alimentar o código de barras do produto, permitindo utilizar essa identificação na emissão das etiquetas.
+
+[INSERIR PRINT — Resultado da aplicação da replicação, mostrando a configuração ativa e a quantidade de produtos atualizados.]
