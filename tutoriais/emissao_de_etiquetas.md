@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-27T11:44:07.263Z
+date: 2026-08-27T14:02:54.631Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -23,7 +23,7 @@ Acesse **"Cadastros"**, selecione **"Produtos"**. Na seção **"Ações"**, esco
 
 ![etiquetas-2.png](/produtos/etiquetas-2.png)
 
-Para cadastrar um novo modelo, clique no botão **"+"**, localizado no canto inferior da tela.
+Para cadastrar um novo modelo, clique no botão **"+"**, localizado no canto inferior da tela. Informe uma descrição com no máximo 30 caracteres.
 
 ![etiquetas-4.png](/produtos/etiquetas-4.png)
 
@@ -46,9 +46,6 @@ Cada modelo disponibiliza ações específicas:
 
 ## Configurar as medidas da etiqueta
 
-No cadastro da etiqueta, informe a "Descrição".
-
-A descrição é obrigatória e aceita até 30 caracteres.
 
 [INSERIR PRINT — Tela de cadastro da etiqueta, destacando o campo "Descrição" e a seção de medidas.]
 
