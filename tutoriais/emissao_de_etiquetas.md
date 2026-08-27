@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-26T20:49:20.170Z
+date: 2026-08-27T11:25:15.093Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -29,14 +29,14 @@ A listagem apresenta os modelos cadastrados, permitindo identificar o tipo de im
 
 Utilize o campo **"Digite para buscar..."** para localizar um modelo pelo nome.
 
-Para atualizar a listagem, clique no ícone de atualização.
+Para atualizar a listagem, clique no ícone de **atualização**.
 
 Cada modelo disponibiliza ações específicas:
 
-Editar: permite alterar a configuração do modelo.
-Imprimir: abre diretamente a tela de impressão utilizando o modelo selecionado.
+- **Editar**: permite alterar a configuração do modelo.
+- **Imprimir**: abre diretamente a tela de impressão utilizando o modelo selecionado.
 
-Para cadastrar um novo modelo, clique no botão "+", localizado no canto inferior da tela.
+Para cadastrar um novo modelo, clique no botão **"+"**, localizado no canto inferior da tela.
 
 (alerta) Na versão apresentada no material, a listagem disponibiliza apenas as opções de edição e impressão. As opções para duplicar ou excluir modelos não fazem parte do escopo apresentado.
 
