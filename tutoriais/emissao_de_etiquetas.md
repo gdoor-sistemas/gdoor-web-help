@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-27T18:28:30.376Z
+date: 2026-08-27T20:45:25.345Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -76,31 +76,37 @@ Os modelos padrão apresentados são:
 - A4 99 × 33,9 mm;
 - Bobina 50 × 25 mm;
 - Bobina 75 × 50 mm;
-- Bobina 100 × 50 mm.**
+- Bobina 100 × 50 mm.
 
 Expanda o modelo para consultar as informações de papel, etiqueta e grade antes de aplicá-lo.
 
-Clique em "Importar modelo" para utilizar uma configuração disponível.
+![etiquetas-20.png](/produtos/etiquetas-20.png)
 
-Configurar as medidas manualmente
+Clique em **"Aplicar modelo"** para utilizar uma configuração disponível.
 
-Caso nenhum modelo existente corresponda ao formato necessário, configure as medidas manualmente.
 
-Preencha as informações relacionadas à "Página", considerando:
+### Configurar as medidas manualmente
 
-Tipo do papel;
-Largura da bobina ou da impressão web;
-Quantidade de etiquetas por linha;
-Margem esquerda;
-Margem direita.
+Caso nenhum modelo existente corresponda ao formato necessário, configure as medidas manualmente. Acesse o menu **"Modelos de etiquetas"** e clique no botão **"+"**.
 
-Na configuração de "Etiqueta", informe:
 
-Altura da etiqueta;
-Largura da etiqueta;
-Espaçamento entre colunas.
 
-[INSERIR PRINT — Tela "Medidas", destacando os campos de página, etiqueta, legenda numerada e preview.]
+
+
+Preencha as informações relacionadas à **"Página"**, considerando:
+
+- Tipo do papel;
+- Largura da bobina ou da impressão web;
+- Quantidade de etiquetas por linha;
+- Margem esquerda;
+- Margem direita.
+
+Na configuração de **"Etiqueta"**, informe:
+
+- Altura da etiqueta;
+- Largura da etiqueta;
+- Espaçamento entre colunas.
+
 
 A legenda numerada apresenta visualmente a área correspondente a cada medida configurada.
 
