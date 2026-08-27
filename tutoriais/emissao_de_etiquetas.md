@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-27T11:25:15.093Z
+date: 2026-08-27T11:44:07.263Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -11,36 +11,40 @@ dateCreated: 2026-08-26T20:49:20.170Z
 # Emissão de Etiquetas 
 Listamos neste artigo as orientações para consultar modelos de etiquetas, cadastrar novas configurações, definir medidas e informações impressas, gerar etiquetas manualmente ou por documentos de compra, configurar a impressão direta e utilizar o código interno como código de barras.
 
-# Introdução
-
-
+## Introdução
 
 O processo utiliza as informações cadastradas nos produtos, permitindo gerar etiquetas com dados como descrição, preço e código de barras, sem necessidade de redigitação.
 
 Os modelos de etiqueta podem ser utilizados para diferentes necessidades de impressão, como etiquetas de produtos, etiquetas de prateleira, reimpressões após alteração de preços e impressões em lote com base nos produtos de uma nota de compra.
 
-# Consultar e criar modelos de etiqueta
+## Consultar e criar modelos de etiqueta
 
-Acesse **"Cadastros"**, selecione **"Produtos"**, clique em **"Ações"** e escolha **"Etiquetas"**.
+Acesse **"Cadastros"**, selecione **"Produtos"**. Na seção **"Ações"**, escolha **"Etiquetas"**. 
 
-[INSERIR PRINT — Tela de listagem de etiquetas, destacando o acesso pelo menu "Cadastros", "Produtos", "Ações" e "Etiquetas".]
+![etiquetas-2.png](/produtos/etiquetas-2.png)
+
+Para cadastrar um novo modelo, clique no botão **"+"**, localizado no canto inferior da tela.
+
+![etiquetas-4.png](/produtos/etiquetas-4.png)
+
+Utilize o campo **"Digite para buscar..."** para localizar um modelo pelo nome. Para atualizar a listagem, clique no ícone de **atualização**. 
 
 A listagem apresenta os modelos cadastrados, permitindo identificar o tipo de impressão (**Folha** ou **Bobina**), as dimensões da página e as dimensões da etiqueta.
 
-Utilize o campo **"Digite para buscar..."** para localizar um modelo pelo nome.
+![etiquetas-3.png](/produtos/etiquetas-3.png)
 
-Para atualizar a listagem, clique no ícone de **atualização**.
 
 Cada modelo disponibiliza ações específicas:
+
+![etiquetas-5.png](/produtos/etiquetas-5.png)
 
 - **Editar**: permite alterar a configuração do modelo.
 - **Imprimir**: abre diretamente a tela de impressão utilizando o modelo selecionado.
 
-Para cadastrar um novo modelo, clique no botão **"+"**, localizado no canto inferior da tela.
 
-(alerta) Na versão apresentada no material, a listagem disponibiliza apenas as opções de edição e impressão. As opções para duplicar ou excluir modelos não fazem parte do escopo apresentado.
+> A listagem disponibiliza apenas as opções de edição e impressão. As opções para duplicar ou excluir modelos não fazem parte do escopo apresentado. {.is-warning}
 
-Configurar as medidas da etiqueta
+## Configurar as medidas da etiqueta
 
 No cadastro da etiqueta, informe a "Descrição".
 
