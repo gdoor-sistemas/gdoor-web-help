@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-27T18:25:21.990Z
+date: 2026-08-27T18:28:30.376Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -62,24 +62,21 @@ Na aba **Medidas**, verifique o **"Modelo aplicado"**, que identifica a configur
 
 ![etiquetas-7-3.png](/produtos/etiquetas-7-3.png)
 
-Para utilizar uma configuração previamente cadastrada, clique em **"Usar modelo existente"**
+Para utilizar uma configuração previamente cadastrada, clique em **"Usar modelo existente"**. A relação de modelos permite pesquisar por nome, descrição ou medida.
+
+> Os modelos podem apresentar duas identificações:
+**Padrão**: modelos disponibilizados pelo sistema.
+**Meu modelo**: modelos cadastrados para utilização própria.{.is-info}
 
 ![etiquetas-18.png](/produtos/etiquetas-18.png).
 
-A relação de modelos permite pesquisar por nome, descrição ou medida.
+Os modelos padrão apresentados são:
 
-Os modelos podem apresentar duas identificações:
-
-"Padrão": modelos disponibilizados pelo sistema.
-"Meu modelo": modelos cadastrados para utilização própria.
-
-Os modelos padrão apresentados no material são:
-
-A4 63,5 × 31 mm;
-A4 99 × 33,9 mm;
-Bobina 50 × 25 mm;
-Bobina 75 × 50 mm;
-Bobina 100 × 50 mm.
+- A4 63,5 × 31 mm;
+- A4 99 × 33,9 mm;
+- Bobina 50 × 25 mm;
+- Bobina 75 × 50 mm;
+- Bobina 100 × 50 mm.**
 
 Expanda o modelo para consultar as informações de papel, etiqueta e grade antes de aplicá-lo.
 
