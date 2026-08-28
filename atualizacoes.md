@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-28T13:06:14.197Z
+date: 2026-08-28T13:12:03.095Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -44,7 +44,7 @@ b3.10.515, f2.11.259 {.versions}
 - Corrigido preenchimento da operação da NFS-e quando houver operação padrão configurada e a nota for gerada a partir de um pedido/orçamento.
 - Ajustada mensagem de validação da NFS-e apresentada ao salvar nota quando não há operação padrão configurada.
 
-# 19/08/2026
+# 20/08/2026
 b3.10.513 {.versions}
 
 ## Ajustes
