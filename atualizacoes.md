@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-26T20:28:38.393Z
+date: 2026-08-28T13:06:14.197Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 43
-- Ajustes: 137
+- Ajustes: 138
 
-**Total: 180**
+**Total: 181**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 28/08/2026
+f2.11.260 {.versions}
+
+## Ajustes
+- Ajustada lista de códigos de crédito presumido da NF-e para apresentar o código 1.
+
 # 26/08/2026
 b3.10.515, f2.11.259 {.versions}
 
