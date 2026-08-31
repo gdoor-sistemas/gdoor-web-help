@@ -2,7 +2,7 @@
 title: Cadastro de produtos
 description: Veja como funciona o cadastro de produtos no Gweb
 published: true
-date: 2026-01-05T18:54:49.897Z
+date: 2026-08-31T16:31:11.583Z
 tags: cadastros, produtos, grade, estoque, visão geral, kits, categorias
 editor: markdown
 dateCreated: 2020-01-03T19:26:26.647Z
@@ -429,6 +429,10 @@ Caso tenha dúvidas sobre como configurar os produtos para a etiqueta de balanç
 - [Balança de etiquetas com 5 dígitos no código do produto *Veja como configurar a leitura do código de barras com 5 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-5-digitos)
 - [Balança de etiquetas com 4 dígitos no código do produto *Veja como configurar a leitura do código de barras com 4 dígitos no código do produto*](/tutoriais/configuracao-balanca-etiqueta-4-digitos)
 {.links-list}
+
+# Etiquetas
+
+> Material em produção {.is-warning}
 
 # Unidade de medida
 
