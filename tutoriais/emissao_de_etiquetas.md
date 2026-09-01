@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T20:53:39.285Z
+date: 2026-09-01T21:00:30.917Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -233,11 +233,12 @@ AS demais informações da tela são:
 
 Marque **"Visualizar preview"** para conferir a impressão ou clique em **"Prévia PDF"** para gerar uma prévia do resultado.
 
+![etiquetas-31-1.png](/produtos/etiquetas-31-1.png)
 
+![etiquetas-32.png](/produtos/etiquetas-32.png)
 
-Para concluir a impressão, clique em "Imprimir".
+Para concluir a impressão, clique em **"Imprimir"**.
 
-(informação) A prévia utiliza a grade definida nas medidas da etiqueta, posicionando os elementos conforme a configuração de página e etiqueta cadastrada.
 
 ### Importar produtos por documento
 
