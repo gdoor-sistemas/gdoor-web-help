@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T14:24:14.789Z
+date: 2026-09-01T18:27:41.049Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -40,6 +40,92 @@ Para cada modelo, estão disponíveis as seguintes ações:
 
 > A listagem disponibiliza apenas as opções de **edição** e **impressão**. As opções para duplicar ou excluir modelos não fazem parte do escopo apresentado. {.is-warning}
 
+### Configurar os modelos de medidas
+
+Para cadastrar um modelo conforme a necessidade, acesse o menu **"Modelos de etiquetas"** e clique no botão **"+"**.
+
+![etiquetas-23.png](/produtos/etiquetas-23.png)
+
+Preencha os campos apresentados na tela conforme as características da página, das etiquetas e das margens utilizadas na impressão.
+
+![etiquetas-24.png](/produtos/etiquetas-24.png)
+
+Nas informações relacionadas à **"Página"**, considere:
+
+- Tipo do papel;
+- Largura da bobina ou da impressão web;
+- Quantidade de etiquetas por linha;
+- Margem esquerda;
+- Margem direita.
+
+Na configuração de **"Etiqueta"**, informe:
+
+- Altura da etiqueta;
+- Largura da etiqueta;
+- Espaçamento entre colunas.
+
+Em **"Margens"**, informe:
+- Margem superior;
+- Margem inferior;
+- Margem esquerda;
+- Margem direita.
+
+
+### Cadastrar modelo de informações
+
+Ajuste as informações conforme as características que serão impressas na etiqueta, das etiquetas e das margens utilizadas na impressão. Informe os dados básicos do modelo e defina as dimensões da etiqueta. 
+
+Acesse o menu **"Modelos de informações"** e clique no botão **"+"**.
+
+![etiquetas-25.png](/produtos/etiquetas-25.png)
+
+
+- **Nome do modelo:** informe um nome para identificar o modelo de etiqueta.
+
+- **Descrição:** registre uma descrição para facilitar a identificação e indicar a finalidade do modelo.
+
+- **Largura de referência (mm):** informe a largura da etiqueta em milímetros.
+
+- **Altura de referência (mm):** informe a altura da etiqueta em milímetros.
+
+As dimensões informadas servem como referência para a montagem do modelo. Ao aplicar a etiqueta, o conteúdo será ajustado proporcionalmente ao tamanho da etiqueta utilizada.
+
+Utilize os recursos disponíveis na parte superior do editor para adicionar os elementos que farão parte da impressão.
+
+
+- **Adicionar campo:** inclua informações provenientes do cadastro do produto, como nome, preço e demais campos disponíveis para seleção.
+> Os campos relacionados aos produtos utilizam as informações já cadastradas no sistema, como descrição, preço de venda, código de barras e unidade. Não é necessário redigitar essas informações na etiqueta.{.is-warning}
+- **Texto livre:** insira um texto fixo na etiqueta, sem depender de informações cadastradas no produto.
+- **Código:** adicione um código para impressão na etiqueta, conforme as opções disponibilizadas pelo sistema.
+- **Forma:** insira uma forma gráfica no modelo, permitindo compor visualmente a etiqueta.
+- **Linha:** adicione linhas para separar ou organizar os elementos apresentados na etiqueta.
+
+> A área central apresenta uma prévia da etiqueta enquanto o modelo é configurado. Os elementos podem ser posicionados para definir a disposição das informações na impressão. Na imagem apresentada, o modelo contém o **Nome do produto** na parte superior e o **Preço de venda** em destaque. {.is-info}
+
+A tabela inferior apresenta os elementos adicionados ao modelo e permite ajustar as características de cada informação.
+
+- **Campo:** identifica a informação utilizada na etiqueta, por exemplo **Nome do produto**, **Fundo do preço** e **Preço de venda**.
+- **Posição topo:** define a posição vertical do elemento dentro da etiqueta.
+- **Posição esquerda:** define a posição horizontal do elemento.
+- **Altura:** determina a altura ocupada pelo elemento na etiqueta.
+- **Fonte:** permite definir a fonte utilizada na informação.
+- **Tamanho da fonte:** determine o tamanho do texto apresentado na etiqueta.
+- **Negrito:** marque a opção para apresentar o conteúdo em negrito.
+- **Itálico: **marque a opção para apresentar o conteúdo em itálico.
+- **Sublinhado:** marque a opção para apresentar o conteúdo sublinhado.
+- **Quebra de linha: **define se o conteúdo poderá ocupar mais de uma linha quando o texto ultrapassar o espaço disponível.
+- **Alinhamento:** define o posicionamento do conteúdo dentro da área do campo, permitindo ajustar a informação conforme a disposição desejada na etiqueta.
+- **Cor da fonte:** permite definir a cor utilizada na impressão do texto.
+- **Cor de fundo:** define a cor preenchida na área correspondente ao campo.
+- **Tamanho automático:** ajusta automaticamente o tamanho da fonte para que o conteúdo se adapte ao espaço definido para o campo.
+
+Para **remover** um elemento, clique no ícone de **lixeira**.
+
+> Para alterar a ordem dos elementos, arraste o ícone localizado à esquerda da respectiva linha. {.is-success}
+
+O preview apresenta as alterações em tempo real, permitindo conferir a composição antes de **salvar**. 
+
+
 ### Cadastrar um modelo
 
 Para cadastrar uma nova etiqueta, clique no botão **"+"**, localizado no canto inferior da tela.
@@ -55,10 +141,12 @@ Na sequência, configure as medidas e as informações que serão impressas.
 ![etiquetas-7-2.png](/produtos/etiquetas-7-2.png)
 
 
-## Configurar as medidas da etiqueta
+### Selecione as medidas e informações da etiqueta
 
 
 Na aba **Medidas**, verifique o **"Modelo aplicado"**, que identifica a configuração utilizada pelo modelo atual.
+
+> A legenda numerada apresenta visualmente a área correspondente a cada medida configurada. {.is-success}
 
 ![etiquetas-7-3.png](/produtos/etiquetas-7-3.png)
 
@@ -84,109 +172,20 @@ Expanda o modelo para consultar as informações de papel, etiqueta e grade ante
 
 Clique em **"Aplicar modelo"** para utilizar uma configuração disponível.
 
-
-### Configurar as medidas manualmente
-
-Caso nenhum modelo existente corresponda ao formato necessário, configure as medidas manualmente. Acesse o menu **"Modelos de etiquetas"** e clique no botão **"+"**.
-
-
-
-
-
-Preencha as informações relacionadas à **"Página"**, considerando:
-
-- Tipo do papel;
-- Largura da bobina ou da impressão web;
-- Quantidade de etiquetas por linha;
-- Margem esquerda;
-- Margem direita.
-
-Na configuração de **"Etiqueta"**, informe:
-
-- Altura da etiqueta;
-- Largura da etiqueta;
-- Espaçamento entre colunas.
-
-
-A legenda numerada apresenta visualmente a área correspondente a cada medida configurada.
-
 > O preview é atualizado conforme os valores são alterados, permitindo conferir a distribuição das etiquetas antes de concluir o cadastro. {.is-info}
 
 ![etiquetas-21.png](/produtos/etiquetas-21.png)
 
 
-### Salvar um modelo de medidas
+Para reutilizar a configuração em outras etiquetas, marque **"Cadastrar as medidas atuais como modelo"**, informe o **"Nome do modelo"** e preencha a **"Descrição do modelo"**.
 
-Para reutilizar a configuração em outras etiquetas, marque "Cadastrar as medidas atuais como modelo".
+![etiquetas-22.png](/produtos/etiquetas-22.png)
 
-Informe o "Nome do modelo".
+Clique em **"Salvar"** para concluir o cadastro da etiqueta.
 
-Se necessário, preencha também a "Descrição do modelo".
+Em seguida, selecione o o modelo de **"Informações nas etiquetas"**, também cadastrado anteriormente.
 
-[INSERIR PRINT — Parte inferior da tela "Medidas", destacando "Cadastrar as medidas atuais como modelo", "Nome do modelo" e "Descrição do modelo".]
-
-Clique em "Salvar" para concluir o cadastro da etiqueta.
-
-(informação) O modelo de medidas é criado utilizando os valores configurados nessa seção somente quando a etiqueta completa for salva.
-
-Os modelos cadastrados também podem ser consultados diretamente. Acesse "Cadastros", selecione "Produtos", clique em "Ações" e escolha "Modelos de medidas".
-
-Compor as informações da etiqueta
-
-No cadastro da etiqueta, acesse a seção "Informações nas etiquetas".
-
-[INSERIR PRINT — Tela "Informações nas etiquetas", mostrando o modelo aplicado, os elementos disponíveis, o preview e a tabela de informações.]
-
-O campo "Modelo aplicado" identifica a composição atualmente utilizada.
-
-Para utilizar uma composição previamente cadastrada, clique em "Usar modelo existente".
-
-A composição pode ser montada utilizando os seguintes elementos:
-
-"Adicionar campo": adiciona uma informação disponível no cadastro do produto.
-"Texto livre": permite inserir um texto definido manualmente.
-"Código": adiciona o código de barras.
-"QR": adiciona um QR Code.
-"Forma": adiciona uma forma gráfica.
-"Linha": adiciona uma linha à composição.
-
-Cada elemento inserido passa a fazer parte da tabela "Informações a serem impressas na etiqueta".
-
-Configurar os elementos
-
-Para cada informação adicionada, configure os atributos disponíveis conforme a necessidade da etiqueta:
-
-Posição no topo;
-Posição à esquerda;
-Altura;
-Fonte;
-Tamanho da fonte;
-Negrito;
-Itálico;
-Sublinhado;
-Quebra de linha;
-Alinhamento;
-Cor da fonte;
-Cor de fundo;
-Tamanho automático.
-
-Para alterar a ordem dos elementos, arraste o ícone localizado à esquerda da respectiva linha.
-
-Para remover um elemento, clique no ícone de lixeira.
-
-O preview apresenta as alterações em tempo real, permitindo conferir a composição antes de salvar.
-
-(informação) Os campos relacionados aos produtos utilizam as informações já cadastradas no sistema, como descrição, preço de venda, código de barras, unidade e grade. Não é necessário redigitar essas informações na etiqueta.
-
-Salvar um modelo de informações
-
-Para reutilizar a composição em outras etiquetas, marque "Cadastrar as informações atuais como modelo".
-
-[INSERIR PRINT — Rodapé da seção "Informações nas etiquetas", destacando a opção "Cadastrar as informações atuais como modelo".]
-
-Salve a etiqueta para registrar o modelo de informações.
-
-Os modelos cadastrados também podem ser consultados diretamente. Acesse "Cadastros", selecione "Produtos", clique em "Ações" e escolha "Modelos de informações".
+![etiquetas-27.png](/produtos/etiquetas-27.png)
 
 Imprimir etiquetas
 
