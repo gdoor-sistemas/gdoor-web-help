@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-08-28T13:12:03.095Z
+date: 2026-09-01T11:41:06.692Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 43
+- Novidades: 48
 - Ajustes: 138
 
-**Total: 181**
+**Total: 186**
 
 --- 
 
@@ -29,6 +29,16 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/09/2026
+f2.11.260 {.versions}
+
+## Novidades
+- Implementado o módulo de Etiquetas, permitindo a criação e o gerenciamento de etiquetas para os produtos.
+- Implementada a replicação do código interno para o código de barras dos produtos, facilitando o preenchimento dessas informações no cadastro.
+- Implementado o serviço de impressão direta, proporcionando mais agilidade e praticidade no processo de impressão.
+- Implementado o informativo de novidades, permitindo a divulgação de novos recursos e melhorias disponíveis no sistema.
+- Implementada a averbação de cargas pela ATM, ampliando as funcionalidades relacionadas ao gerenciamento e transporte de mercadorias. A averbação permite comunicar à seguradora os dados da carga transportada, garantindo o registro da operação para fins de cobertura do seguro de transporte.
+
 # 28/08/2026
 f2.11.260 {.versions}
 
