@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-01T11:41:06.692Z
+date: 2026-09-01T11:46:15.999Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,7 +30,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 01/09/2026
-f2.11.260 {.versions}
+f2.11.261, b3.10.516, a2.3.21, p1.0.75 {.versions}
 
 ## Novidades
 - Implementado o módulo de Etiquetas, permitindo a criação e o gerenciamento de etiquetas para os produtos.
