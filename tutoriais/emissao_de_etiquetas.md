@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T20:42:12.254Z
+date: 2026-09-01T20:53:39.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -204,51 +204,36 @@ Na tela de impressão, clique no botão **"Lançamento manual"** para adicionar 
 
 ![etiquetas-30.png](/produtos/etiquetas-30.png)
 
-Localize e selecione os produtos que receberão as etiquetas, e clique em **"Adicionar"**.
+**Localize** e **selecione** os produtos que receberão as etiquetas, e clique em **"Adicionar"**.
 
 ![etiquetas-30-1.png](/produtos/etiquetas-30-1.png)
 
-
-A relação de itens apresenta:
+Em seguida, informe a **quantidade de etiquetas** que serão impressas para cada produto.
 
 ![etiquetas-31.png](/produtos/etiquetas-31.png)
 
-Descrição do produto;
-Quantidade;
-Grade;
-Serial.
+A relação de itens apresenta:
 
-Para remover um item individualmente, clique no ícone de lixeira correspondente.
+- **Descrição do produto;**
+- **Quantidade:**
+- **Grade;**
+- **Serial.**
 
-Conforme os produtos e quantidades forem informados, o sistema recalcula automaticamente:
+Para **remover** um item individualmente, clique no ícone de **lixeira** correspondente.
 
-Total de etiquetas;
-Total de folhas.
-Definir as opções de impressão
+AS demais informações da tela são:
 
-Configure a "Saída".
+- **Saída:** escolha o formato que o documento será gerado.
+- **Ordenação:** defina conforme a necessidade de organização dos produtos.
+- **Iniciar na etiqueta nº:** utilizado para determinar a posição inicial da impressão.
+> Utilize **"Iniciar na etiqueta nº"** quando houver uma folha parcialmente utilizada. Dessa forma, a impressão pode começar na primeira posição disponível, evitando o desperdício das etiquetas restantes. {.is-success}
+- **Total de etiquetas:** atializada confirme a quaquantidade é alterada para cada produto.
+- **Total de folhas:** ajusta automaticamente conforme a quantidade que será impressa.
 
-Na versão apresentada no material, a saída disponível é PDF.
 
-Defina também a "Ordenação", conforme a necessidade de organização dos produtos.
+Marque **"Visualizar preview"** para conferir a impressão ou clique em **"Prévia PDF"** para gerar uma prévia do resultado.
 
-Utilize "Iniciar na etiqueta nº" para determinar a posição inicial da impressão.
 
-Essa opção é útil para aproveitar uma folha que já tenha algumas etiquetas impressas.
-
-[INSERIR PRINT — Tela de impressão com produtos adicionados, destacando "Saída", "Ordenação", "Iniciar na etiqueta nº", total de etiquetas e total de folhas.]
-
-(dica) Utilize "Iniciar na etiqueta nº" quando houver uma folha parcialmente utilizada. Dessa forma, a impressão pode começar na primeira posição disponível, evitando o desperdício das etiquetas restantes.
-
-Conferir a impressão
-
-Marque "Visualizar preview" para conferir a composição antes da impressão.
-
-Clique em "Prévia PDF" para gerar uma prévia do resultado.
-
-[INSERIR PRINT — Prévia em PDF mostrando a distribuição das etiquetas na folha.]
-
-Confira se os elementos estão posicionados corretamente e se a quantidade de etiquetas corresponde aos produtos incluídos.
 
 Para concluir a impressão, clique em "Imprimir".
 
