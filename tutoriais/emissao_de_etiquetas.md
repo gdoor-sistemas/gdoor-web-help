@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T20:24:16.259Z
+date: 2026-09-01T20:32:31.464Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -191,9 +191,10 @@ Em seguida, selecione o o modelo de **"Informações nas etiquetas"**, também c
 
 Na listagem de etiquetas, localize o modelo que será utilizado e clique no ícone de impressora correspondente.
 
-Também é possível acessar a impressão pela tela de edição do modelo.
+> Também é possível acessar a impressão pela tela de edição do modelo. {.is-info}
 
-[INSERIR PRINT — Listagem de etiquetas, destacando o ícone de impressora do modelo.]
+![etiquetas-29.png](/produtos/etiquetas-29.png)
+
 
 A tela de impressão permite incluir os produtos manualmente ou importar os itens de um documento de compra.
 
@@ -201,7 +202,7 @@ A tela de impressão permite incluir os produtos manualmente ou importar os iten
 
 Na tela de impressão, clique no botão "+" para adicionar os produtos.
 
-[INSERIR PRINT — Tela "Imprimindo etiqueta", destacando o botão "+" para inclusão dos produtos.]
+![etiquetas-30.png](/produtos/etiquetas-30.png)
 
 Informe os produtos que receberão as etiquetas.
 
