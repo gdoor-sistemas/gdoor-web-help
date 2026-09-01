@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-08-27T20:45:25.345Z
+date: 2026-09-01T14:24:14.789Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -110,9 +110,12 @@ Na configuração de **"Etiqueta"**, informe:
 
 A legenda numerada apresenta visualmente a área correspondente a cada medida configurada.
 
-O preview é atualizado conforme os valores são alterados, permitindo conferir a distribuição das etiquetas antes de concluir o cadastro.
+> O preview é atualizado conforme os valores são alterados, permitindo conferir a distribuição das etiquetas antes de concluir o cadastro. {.is-info}
 
-Salvar um modelo de medidas
+![etiquetas-21.png](/produtos/etiquetas-21.png)
+
+
+### Salvar um modelo de medidas
 
 Para reutilizar a configuração em outras etiquetas, marque "Cadastrar as medidas atuais como modelo".
 
