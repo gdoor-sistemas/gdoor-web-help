@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T18:54:43.048Z
+date: 2026-09-01T20:24:16.259Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -197,7 +197,7 @@ Também é possível acessar a impressão pela tela de edição do modelo.
 
 A tela de impressão permite incluir os produtos manualmente ou importar os itens de um documento de compra.
 
-Incluir produtos manualmente
+### Incluir produtos manualmente
 
 Na tela de impressão, clique no botão "+" para adicionar os produtos.
 
@@ -248,7 +248,7 @@ Para concluir a impressão, clique em "Imprimir".
 
 (informação) A prévia utiliza a grade definida nas medidas da etiqueta, posicionando os elementos conforme a configuração de página e etiqueta cadastrada.
 
-Importar produtos por documento
+### Importar produtos por documento
 
 Os produtos também podem ser incluídos automaticamente a partir de documentos de compra.
 
@@ -271,7 +271,7 @@ Os produtos do documento serão incluídos automaticamente na fila de impressão
 
 (alerta) Caso nenhum documento esteja disponível para importação, a janela "Selecionar documento" apresenta um estado vazio. Nesse cenário, verifique se existe um documento compatível com a opção selecionada.
 
-Configurar a impressora e a impressão direta
+### Configurar a impressora e a impressão direta
 
 Para utilizar uma impressora específica para as etiquetas, acesse "Configurações" e selecione "Impressões".
 
@@ -309,7 +309,7 @@ Informe a quantidade de cópias que o agente deverá imprimir a cada envio.
 
 (informação) A quantidade de cópias é independente para cada tipo de documento. O recurso não é exclusivo das etiquetas: qualquer documento configurado para envio direto pode apresentar o campo "Cópias".
 
-Verificar o agente de impressão
+#### Verificar o agente de impressão
 
 Quando o agente não estiver instalado ou em execução, o sistema apresentará uma mensagem indicando o problema antes da tentativa de impressão.
 
@@ -317,7 +317,7 @@ Quando o agente não estiver instalado ou em execução, o sistema apresentará 
 
 (alerta) Ao receber a mensagem "Agente de impressão direta não encontrado", verifique se o serviço foi instalado e se está em execução no computador utilizado para a impressão.
 
-Replicar código interno no código de barras
+### Replicar código interno no código de barras
 
 Produtos sem código de barras podem utilizar o código interno como identificação para impressão.
 
@@ -368,7 +368,7 @@ Opção utilizada na replicação.
 
 (informação) Executar novamente a aplicação não duplica os códigos de barras que já tenham sido replicados.
 
-Desativar a replicação
+#### Desativar a replicação
 
 Para interromper a replicação para novos produtos, desmarque "Replicar código interno no código de barras".
 
