@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T18:27:41.049Z
+date: 2026-09-01T18:54:43.048Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -71,7 +71,7 @@ Em **"Margens"**, informe:
 - Margem direita.
 
 
-### Cadastrar modelo de informações
+### Configurar os modelos de informações
 
 Ajuste as informações conforme as características que serão impressas na etiqueta, das etiquetas e das margens utilizadas na impressão. Informe os dados básicos do modelo e defina as dimensões da etiqueta. 
 
@@ -126,7 +126,7 @@ Para **remover** um elemento, clique no ícone de **lixeira**.
 O preview apresenta as alterações em tempo real, permitindo conferir a composição antes de **salvar**. 
 
 
-### Cadastrar um modelo
+## Cadastrar uma nova etiqueta
 
 Para cadastrar uma nova etiqueta, clique no botão **"+"**, localizado no canto inferior da tela.
 
@@ -187,7 +187,7 @@ Em seguida, selecione o o modelo de **"Informações nas etiquetas"**, também c
 
 ![etiquetas-27.png](/produtos/etiquetas-27.png)
 
-Imprimir etiquetas
+## Imprimir etiquetas
 
 Na listagem de etiquetas, localize o modelo que será utilizado e clique no ícone de impressora correspondente.
 
