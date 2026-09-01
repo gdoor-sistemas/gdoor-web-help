@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T20:32:31.464Z
+date: 2026-09-01T20:42:12.254Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -200,13 +200,18 @@ A tela de impressão permite incluir os produtos manualmente ou importar os iten
 
 ### Incluir produtos manualmente
 
-Na tela de impressão, clique no botão "+" para adicionar os produtos.
+Na tela de impressão, clique no botão **"Lançamento manual"** para adicionar os produtos.
 
 ![etiquetas-30.png](/produtos/etiquetas-30.png)
 
-Informe os produtos que receberão as etiquetas.
+Localize e selecione os produtos que receberão as etiquetas, e clique em **"Adicionar"**.
+
+![etiquetas-30-1.png](/produtos/etiquetas-30-1.png)
+
 
 A relação de itens apresenta:
+
+![etiquetas-31.png](/produtos/etiquetas-31.png)
 
 Descrição do produto;
 Quantidade;
