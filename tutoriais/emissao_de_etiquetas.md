@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-02T17:59:28.775Z
+date: 2026-09-02T18:12:25.615Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -29,7 +29,7 @@ Utilize o campo **"Digite para buscar..."** para localizar um modelo pelo nome. 
 
 Cada registro apresenta as principais características da configuração, como:
 
-- **Tipo:** identifica se a impressão utiliza folha ou bobina.
+- **Tipo:** identifica se o modelo utiliza folha ou bobina.
 - **Página:** apresenta as dimensões da página configurada.
 - **Etiqueta:** apresenta as dimensões da etiqueta.
 
@@ -42,7 +42,7 @@ Para cada modelo, estão disponíveis as seguintes ações:
 
 ### Configurar os modelos de medidas
 
-Para cadastrar um modelo conforme a necessidade, acesse o menu **"Modelos de etiquetas"** e clique no botão **"+"**.
+Para cadastrar um modelo de medidas, acesse o menu **"Modelos de etiquetas"** e clique no botão **"+"**.
 
 ![etiquetas-23.png](/produtos/etiquetas-23.png)
 
@@ -96,13 +96,13 @@ Utilize os recursos disponíveis na parte superior do editor para adicionar os e
 - **Adicionar campo:** inclua informações provenientes do cadastro do produto, como nome, preço e demais campos disponíveis para seleção.
 > Os campos relacionados aos produtos utilizam as informações já cadastradas no sistema, como descrição, preço de venda, código de barras e unidade. Não é necessário redigitar essas informações na etiqueta.{.is-warning}
 - **Texto livre:** insira um texto fixo na etiqueta, sem depender de informações cadastradas no produto.
-- **Código:** adicione um código para impressão na etiqueta, conforme as opções disponibilizadas pelo sistema.
+- **Código:** adicione um código para impressão na etiqueta, conforme as opções disponíveis no sistema.
 - **Forma:** insira uma forma gráfica no modelo, permitindo compor visualmente a etiqueta.
 - **Linha:** adicione linhas para separar ou organizar os elementos apresentados na etiqueta.
 
 > A área central apresenta uma prévia da etiqueta enquanto o modelo é configurado. Os elementos podem ser posicionados para definir a disposição das informações na impressão. Na imagem apresentada, o modelo contém o **Nome do produto** na parte superior e o **Preço de venda** em destaque. {.is-info}
 
-A tabela inferior apresenta os elementos adicionados ao modelo e permite ajustar as características de cada informação.
+A tabela inferior apresenta os elementos adicionados ao modelo e permite ajustar as configurações de cada informação.
 
 - **Campo:** identifica a informação utilizada na etiqueta, por exemplo **Nome do produto**, **Fundo do preço** e **Preço de venda**.
 - **Posição topo:** define a posição vertical do elemento dentro da etiqueta.
@@ -136,7 +136,7 @@ Informe a **"Descrição"** do modelo, utilizando no máximo 30 caracteres.
 
 ![etiquetas-7-1.png](/produtos/etiquetas-7-1.png)
 
-Na sequência, configure as medidas e as informações que serão impressas.
+Na sequência, configure as medidas e as informações que serão impressas nas etiquetas.
 
 ![etiquetas-7-2.png](/produtos/etiquetas-7-2.png)
 
@@ -146,11 +146,11 @@ Na sequência, configure as medidas e as informações que serão impressas.
 
 Na aba **Medidas**, verifique o **"Modelo aplicado"**, que identifica a configuração utilizada pelo modelo atual.
 
-> A legenda numerada apresenta visualmente a área correspondente a cada medida configurada. {.is-success}
+> A legenda numerada identifica visualmente a área correspondente a cada medida configurada.{.is-success}
 
 ![etiquetas-7-3.png](/produtos/etiquetas-7-3.png)
 
-Para utilizar uma configuração previamente cadastrada, clique em **"Usar modelo existente"**. A relação de modelos permite pesquisar por nome, descrição ou medida.
+Para utilizar uma configuração previamente cadastrada, clique em **"Usar modelo existente"**. A lista de modelos permite pesquisar por nome, descrição ou medida.
 
 > Os modelos podem apresentar duas identificações:
 **Padrão**: modelos disponibilizados pelo sistema.
@@ -170,7 +170,7 @@ Expanda o modelo para consultar as informações de papel, etiqueta e grade ante
 
 ![etiquetas-20.png](/produtos/etiquetas-20.png)
 
-Clique em **"Aplicar modelo"** para utilizar uma configuração disponível.
+Clique em **"Aplicar modelo"** para utilizar a configuração selecionada.
 
 > O preview é atualizado conforme os valores são alterados, permitindo conferir a distribuição das etiquetas antes de concluir o cadastro. {.is-info}
 
@@ -195,8 +195,7 @@ Na listagem de etiquetas, localize o modelo que será utilizado e clique no íco
 
 ![etiquetas-28.png](/produtos/etiquetas-28.png)
 
-
-A tela de impressão permite incluir os produtos manualmente ou importar os itens de um documento de compra.
+A tela de impressão permite incluir produtos manualmente ou importar itens a partir de um documento de compra.
 
 ![etiquetas-29.png](/produtos/etiquetas-29.png)
 
@@ -206,7 +205,7 @@ Na tela de impressão, clique no botão **"Lançamento manual"** para adicionar 
 
 ![etiquetas-30.png](/produtos/etiquetas-30.png)
 
-**Localize** e **selecione** os produtos que receberão as etiquetas, e clique em **"Adicionar"**.
+**Localize** e **selecione** os produtos que receberão as etiquetas e clique em **"Adicionar"**.
 
 ![etiquetas-30-1.png](/produtos/etiquetas-30-1.png)
 
@@ -226,12 +225,11 @@ Para **remover** um item individualmente, clique no ícone de **lixeira** corres
 As demais informações da tela são:
 
 - **Saída:** escolha o formato em que o documento será gerado.
-- **Ordenação:** defina conforme a necessidade de organização dos produtos.
+- **Ordenação:** defina a ordem de organização dos produtos.
 - **Iniciar na etiqueta nº:** utilizado para determinar a posição inicial da impressão.
 > Utilize **"Iniciar na etiqueta nº"** quando houver uma folha parcialmente utilizada. Dessa forma, a impressão pode começar na primeira posição disponível, evitando o desperdício das etiquetas restantes. {.is-success}
-- **Total de etiquetas:** atializada confirme a quaquantidade é alterada para cada produto.
-- **Total de folhas:** ajusta automaticamente conforme a quantidade que será impressa.
-
+- **Total de etiquetas:** atualizado automaticamente conforme a quantidade é alterada para cada produto.
+- **Total de folhas:** atualizado automaticamente conforme a quantidade de etiquetas que será impressa.
 
 Marque **"Visualizar preview"** para conferir a impressão ou clique em **"Prévia PDF"** para gerar uma prévia do resultado.
 
@@ -246,9 +244,10 @@ Para concluir a impressão, clique em **"Imprimir"**.
 
 Os produtos também podem ser incluídos automaticamente a partir de documentos de compra.
 
-Na tela de impressão, clique no botão **"Importar produtos por nota"**, selecione **"Nota de compra"** ou a **"NF-e"**. Utilize o campo de pesquisa para localizar o documento, selecione a nota e clique em **"Importar"**.
+Na tela de impressão, clique no botão **"Importar produtos por nota"** e selecione **"Nota de compra"** ou **"NF-e"**. Utilize o campo de pesquisa para localizar o documento, selecione a nota e clique em **"Importar"**.
 
-> Os produtos serão incluídos automaticamente na listagem, utilizando as quantidades informadas na nota. Se necessário, ajuste as quantidades antes de imprimir {.is-warning}
+
+> Os produtos serão incluídos automaticamente na listagem, utilizando as quantidades informadas na nota. Se necessário, ajuste as quantidades antes de imprimir.{.is-warning}
 
 ![etiquetas-33.png](/produtos/etiquetas-33.png)
 
