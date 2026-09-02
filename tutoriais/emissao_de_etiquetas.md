@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-01T21:00:30.917Z
+date: 2026-09-02T17:52:41.472Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -193,10 +193,12 @@ Na listagem de etiquetas, localize o modelo que será utilizado e clique no íco
 
 > Também é possível acessar a impressão pela tela de edição do modelo. {.is-info}
 
-![etiquetas-29.png](/produtos/etiquetas-29.png)
+![etiquetas-28.png](/produtos/etiquetas-28.png)
 
 
 A tela de impressão permite incluir os produtos manualmente ou importar os itens de um documento de compra.
+
+![etiquetas-29.png](/produtos/etiquetas-29.png)
 
 ### Incluir produtos manualmente
 
@@ -244,24 +246,20 @@ Para concluir a impressão, clique em **"Imprimir"**.
 
 Os produtos também podem ser incluídos automaticamente a partir de documentos de compra.
 
-Na tela de impressão, clique no ícone localizado ao lado do botão "+".
+Na tela de impressão, clique no botão **"Importar produtos por nota"**, selecione **"Nota de compra"** ou a **"NF-e"**. Utilize o campo de pesquisa para localizar o documento, selecione a nota e clique em **"Importar"**.
 
-Será aberta a janela "Selecionar documento".
+> Os produtos serão incluídos automaticamente na listagem, utilizando as quantidades informadas na nota. Se necessário, ajuste as quantidades antes de imprimir {.is-warning}
 
-[INSERIR PRINT — Janela "Selecionar documento", mostrando as opções "Nota de compra" e "NF-e".]
+![etiquetas-33.png](/produtos/etiquetas-33.png)
 
-Selecione a origem dos produtos:
+Marque **"Visualizar preview"** para conferir a impressão ou clique em **"Prévia PDF"** para gerar uma prévia do resultado.
 
-"Nota de compra";
-"NF-e".
+![etiquetas-34.png](/produtos/etiquetas-34.png)
+![etiquetas-35.png](/produtos/etiquetas-35.png)
 
-Utilize o campo de pesquisa para localizar o documento.
+Para concluir a impressão, clique em **"Imprimir"**.
 
-Selecione o documento desejado e clique em "Importar".
 
-Os produtos do documento serão incluídos automaticamente na fila de impressão, utilizando as quantidades informadas no documento.
-
-(alerta) Caso nenhum documento esteja disponível para importação, a janela "Selecionar documento" apresenta um estado vazio. Nesse cenário, verifique se existe um documento compatível com a opção selecionada.
 
 ### Configurar a impressora e a impressão direta
 
