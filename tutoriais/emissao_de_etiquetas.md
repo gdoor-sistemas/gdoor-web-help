@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-02T17:57:22.637Z
+date: 2026-09-02T17:59:28.775Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -183,7 +183,7 @@ Para reutilizar a configuração em outras etiquetas, marque **"Cadastrar as med
 
 Clique em **"Salvar"** para concluir o cadastro da etiqueta.
 
-Em seguida, selecione o o modelo de **"Informações nas etiquetas"**, também cadastrado anteriormente.
+Em seguida, selecione o modelo de "Informações nas etiquetas", também cadastrado anteriormente.
 
 ![etiquetas-27.png](/produtos/etiquetas-27.png)
 
@@ -223,9 +223,9 @@ A relação de itens apresenta:
 
 Para **remover** um item individualmente, clique no ícone de **lixeira** correspondente.
 
-AS demais informações da tela são:
+As demais informações da tela são:
 
-- **Saída:** escolha o formato que o documento será gerado.
+- **Saída:** escolha o formato em que o documento será gerado.
 - **Ordenação:** defina conforme a necessidade de organização dos produtos.
 - **Iniciar na etiqueta nº:** utilizado para determinar a posição inicial da impressão.
 > Utilize **"Iniciar na etiqueta nº"** quando houver uma folha parcialmente utilizada. Dessa forma, a impressão pode começar na primeira posição disponível, evitando o desperdício das etiquetas restantes. {.is-success}
