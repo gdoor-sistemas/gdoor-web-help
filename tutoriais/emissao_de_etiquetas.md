@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-02T17:52:41.472Z
+date: 2026-09-02T17:57:22.637Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
@@ -73,7 +73,7 @@ Em **"Margens"**, informe:
 
 ### Configurar os modelos de informações
 
-Ajuste as informações conforme as características que serão impressas na etiqueta, das etiquetas e das margens utilizadas na impressão. Informe os dados básicos do modelo e defina as dimensões da etiqueta. 
+Ajuste as informações que serão impressas na etiqueta. Informe os dados básicos do modelo e defina as dimensões utilizadas como referência.
 
 Acesse o menu **"Modelos de informações"** e clique no botão **"+"**.
 
@@ -109,11 +109,11 @@ A tabela inferior apresenta os elementos adicionados ao modelo e permite ajustar
 - **Posição esquerda:** define a posição horizontal do elemento.
 - **Altura:** determina a altura ocupada pelo elemento na etiqueta.
 - **Fonte:** permite definir a fonte utilizada na informação.
-- **Tamanho da fonte:** determine o tamanho do texto apresentado na etiqueta.
+- **Tamanho da fonte:** determina o tamanho do texto apresentado na etiqueta.
 - **Negrito:** marque a opção para apresentar o conteúdo em negrito.
-- **Itálico: **marque a opção para apresentar o conteúdo em itálico.
+- **Itálico:** marque a opção para apresentar o conteúdo em itálico.
 - **Sublinhado:** marque a opção para apresentar o conteúdo sublinhado.
-- **Quebra de linha: **define se o conteúdo poderá ocupar mais de uma linha quando o texto ultrapassar o espaço disponível.
+- **Quebra de linha:** define se o conteúdo poderá ocupar mais de uma linha quando o texto ultrapassar o espaço disponível.
 - **Alinhamento:** define o posicionamento do conteúdo dentro da área do campo, permitindo ajustar a informação conforme a disposição desejada na etiqueta.
 - **Cor da fonte:** permite definir a cor utilizada na impressão do texto.
 - **Cor de fundo:** define a cor preenchida na área correspondente ao campo.
