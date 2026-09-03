@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:24:38.124Z
+date: 2026-09-03T20:36:41.169Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -127,11 +127,34 @@ Após selecionar a opção desejada, clique em **"Salvar"**.
 
 # Gestão de estoque
 
+Reúne configurações relacionadas ao controle de estoque e ao lançamento de produtos nas operações do sistema.
+
+- **Permitir estoque negativo:** permite realizar movimentações mesmo quando a quantidade disponível do produto for insuficiente, possibilitando que o estoque fique negativo.
+
+- **Avisar quantidade insuficiente no lançamento do produto:** verifica a quantidade disponível durante o lançamento do produto.
+
+> Quando a quantidade informada for superior ao estoque disponível, será apresentado um aviso ao usuário. {.is-warning}
+
+- **Montar composições automaticamente:** realiza automaticamente a montagem dos produtos compostos quando eles forem utilizados nos documentos.
+
+- **Replicar código interno no código de barras:** permite utilizar o código interno do produto como código de barras, reduzindo a necessidade de cadastrar ou informar manualmente outro código.
+
+> Clique aqui para acessar o turorial com mais detalhes sobre **Replicar código interno no código de barras**. {.is-info}
+
+
+https://help.gdoorweb.com.br/e/pt-br/tutoriais/emissao_de_etiquetas
+
+
+
+Após realizar as configurações, clique em **"Salvar"**.
+
 **Quantidade negativa de estoque:**
 
 Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque. Ao desmarcar, é habilitada a opção **avisar quantidade insuficiente no lançamento do produto** para o sistema exibir um aviso no [PDV](/pt-br/movimentos/pdv) e na [NF-e](/pt-br/tutoriais/como-emitir-uma-nfe).
 
 **Avisar quantidade insuficiente no lançamento do produto:**
+
+
 
 Ao marcar a opção **Avisar quantidade insuficiente no lançamento do produto**, o GWeb irá bloquear o lançamento de itens que estão com a quantidade negativa. Com ela desmarcada, o GWeb permite lançar, mas bloqueia na transmissão da venda.
 
