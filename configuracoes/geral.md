@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T21:03:31.463Z
+date: 2026-09-03T21:03:42.593Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -169,8 +169,6 @@ Após configurar as opções, clique em **"Salvar"**.
 # Configurações gerais dos documentos
 
 Permite estabelecer regras aplicadas ao salvar documentos como **Orçamento**, **Pedido**, **NF-e**, **PDV**,** CT-e** e **NFS-e**.
-
-Defina como serão as configurações ao salvar os documentos (Orçamento, Pedido, NF-e, PDV, CT-e, NFS-e)
 
 ![config_geral_docs.png](/config/gerais/config_geral_docs.png)
 
