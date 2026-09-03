@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T14:08:27.092Z
+date: 2026-09-03T14:24:21.979Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -21,12 +21,15 @@ A tela abaixo será mostrada:
 
 # Certificado digital
 
-Nesta seção, você adiciona o [certificado digital](/glossario#certificado-digital) para utilizar em todos os módulos do sistema. Clique em <span class="mat-button mdi "> carregar certificado</span> e selecione o arquivo do certificado digital A1 no computador. Em seguida informe a senha e clique em <span class="mat-button mdi "> ENVIAR</span>.
-Para remover o certificado digital, clique no [<em class="mdi mdi-close"></em>] à direita do nome.
+Nesta seção, é possível adicionar o [certificado digital](/glossario#certificado-digital) que será utilizado nos módulos que realizam emissão de documentos fiscais.
+
+Para adicionar o certificado, na seção **Certificado digital**, clique no botão **"Carregar certificado"** e selecione o arquivo do certificado digital **A1** no computador. Em seguida, informe a senha do certificado e confirme a inclusão.
+
+Para remover o certificado digital, clique no X à direita do certificado cadastrado.
 
 ![Configurar Certificado digital](/config/gerais/configurar-certificado.png)
 
-> No momento, o GDOOR WEB só é compatível com certificado digital do tipo A1.
+> No momento, o Gweb é compatível com certificado digital do tipo A1.
 {.is-warning}
 
 # Precisão numérica
