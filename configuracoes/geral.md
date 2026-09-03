@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T18:59:57.289Z
+date: 2026-09-03T19:40:22.478Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -60,11 +60,19 @@ Em seguida indique o "**local padrão do fato gerador do ISS**" que se trata do 
 
 - **Cidade do emissor**: serviço prestado dentro do município do emitente.
 - **Cidade do destinatário**: para serviço prestado fora do município, terá como base o município indicado no cadastro do cliente.
-- **Cidade específica**: será habilitada a seção para informação do **UF** e **Cidade**:
+- **Cidade específica**: permite definir um município específico como local padrão da prestação do serviço.
+
+Ao selecionar Cidade específica, serão habilitados os campos:
+
+- **UF:** informe o estado correspondente ao local da prestação do serviço.
+- **Município:** informe o município onde o serviço será executado.
 
 ![cidade específica](/config/gerais/serviços2.png)
 
+
 Após o preenchimento das informações, clique em <span class="mat-button mat-accent mdi "> salvar</span>.
+
+![serviços3.png](/config/gerais/serviços3.png)
 
 > Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
 {.is-info}
