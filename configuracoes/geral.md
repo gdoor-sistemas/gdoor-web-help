@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:41:57.374Z
+date: 2026-09-03T20:44:07.126Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -145,7 +145,7 @@ Após marcar, clique em **"Salvar**".
 
 # Parcelamentos
 
-Defina como será o comportamento do sistema em vendas parceladas.
+Permite configurar o comportamento do sistema para o cálculo e a geração de parcelas nas vendas.
 
 - **Data inicial dos parcelamentos**: Define se a primeira parcela deve assumir a data do movimento ou se fica para o próximo período;
 - **Prazo mínimo para considerar dia de acerto**: Para clientes que possuem dia de acerto no [cadastro de cliente](/pt-br/cadastros/pessoas);
