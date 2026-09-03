@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T21:03:42.593Z
+date: 2026-09-03T21:07:23.397Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -12,7 +12,7 @@ dateCreated: 2020-01-03T19:57:44.951Z
 
 As configurações gerais do sistema Gweb podem ser aplicadas em diferentes módulos e operações, como precisão numérica, utilização de serviços, autenticação, comissões, gestão de estoque, parcelamentos e documentos fiscais.
 
-Para acessar, no menu **Configurações** e clique em **Geral**.
+Para acessar, no menu **Configurações**, clique em **Geral**.
 
 
 A tela abaixo será mostrada:
@@ -21,7 +21,7 @@ A tela abaixo será mostrada:
 
 # Certificado digital
 
-Nesta seção, é possível adicionar o [certificado digital](/glossario#certificado-digital) que será utilizado nos módulos que realizam emissão de documentos fiscais.
+Nesta seção, é possível adicionar o [certificado digital](/glossario#certificado-digital) que será utilizado nos módulos que realizam a emissão de documentos fiscais.
 
 Para adicionar o certificado, na seção **Certificado digital**, clique no botão **"Carregar certificado"** e selecione o arquivo do certificado digital **A1** no computador. Em seguida, informe a senha do certificado e confirme a inclusão.
 
@@ -51,10 +51,12 @@ Após informar os campos, clique em **"Salvar"**.
 
 # Serviços
 
-Configuração para uso de serviços em documentos fiscais.
+Configuração para o uso de serviços em documentos fiscais.
 
 Clique em "**Habilitar o uso de serviços no sistema**".
-Em seguida indique o "**Local padrão do fato gerador do ISS**" que se trata do **local onde o serviço será executado**, isso também será base para geração do imposto (ISS).
+
+Em seguida, indique o **"Local padrão do fato gerador do ISS"**, que corresponde ao **local onde o serviço será executado**. Essa informação também servirá de base para a geração do imposto (ISS).
+
 
 ![serviços](/config/gerais/serviços.png)
 
