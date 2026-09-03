@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:57:21.179Z
+date: 2026-09-03T21:03:31.463Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -168,12 +168,15 @@ Após configurar as opções, clique em **"Salvar"**.
 
 # Configurações gerais dos documentos
 
+Permite estabelecer regras aplicadas ao salvar documentos como **Orçamento**, **Pedido**, **NF-e**, **PDV**,** CT-e** e **NFS-e**.
+
 Defina como serão as configurações ao salvar os documentos (Orçamento, Pedido, NF-e, PDV, CT-e, NFS-e)
 
 ![config_geral_docs.png](/config/gerais/config_geral_docs.png)
 
- - **Verificar limite ao salvar documentos a prazo:**
- - **Verificar limite ao salvar documentos em todos os tipos de pagamentos:**
- - **Não faturar documentos a prazo para clientes inadimplentes:**
- - **Não faturar para clientes inadimplentes, independentemente da forma de pagamento:**
+- **Verificar limite ao salvar documentos a prazo:** verifica o limite de crédito disponível para o cliente ao salvar documentos com pagamento a prazo.
+- **Verificar limite ao salvar documentos em todos os tipos de pagamentos:** realiza a verificação do limite de crédito do cliente independentemente da forma de pagamento utilizada.
+- **Não faturar documentos a prazo para clientes inadimplentes:** impede o faturamento de documentos com pagamento a prazo para clientes que possuem pendências financeiras.
+- **Não faturar para clientes inadimplentes, independentemente da forma de pagamento:** impede o faturamento para clientes inadimplentes, para qualquer forma de pagamento.
+
 
