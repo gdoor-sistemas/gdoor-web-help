@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:40:18.098Z
+date: 2026-09-03T20:40:26.109Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -139,7 +139,7 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 - **Replicar código interno no código de barras:** permite utilizar o código interno do produto como código de barras, reduzindo a necessidade de cadastrar ou informar manualmente outro código.
 
-> [Clique aqui](/tutoriais/replicar_cod_inter_com_barras) para acessar o turorial com mais detalhes sobre **Replicar código interno no código de barras**. {.is-info}
+> [Clique aqui](/tutoriais/replicar_cod_inter_com_barras) para acessar o turorial com mais detalhes sobre **replicar código interno no código de barras**. {.is-info}
 
 
 
