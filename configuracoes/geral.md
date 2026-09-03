@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:17:28.759Z
+date: 2026-09-03T20:23:43.966Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -98,9 +98,9 @@ Após selecionar a pessoa, clique em **"Salvar"**.
 
 # Autenticação
 
-Ao marcar a opção **"Desativar verificação de IP durante a autenticação no sistema"**, desativa a verificação do endereço IP durante o processo de autenticação.
+Marque a opção **"Desativar verificação de IP durante a autenticação no sistema"** somente em situações de **problemas de conectividade** ou **logoffs constantes**. 
 
-> A desativação da verificação de IP pode reduzir a segurança do acesso ao sistema. Recomenda-se **utilizar essa opção somente em situações de problemas de conectividade** ou logoffs constantes. 
+> A desativação da verificação de IP pode reduzir a segurança do acesso ao sistema. 
 {.is-warning}
 
 ![autenticação](/config/gerais/autenticação.png)
@@ -122,7 +122,7 @@ Em **Comissão preferencial**, selecione uma das opções disponíveis:
 - **Menor:** considera a menor porcentagem entre as comissões configuradas.
 - **Ambas:** mantém as comissões configuradas para o vendedor e para o produto ou serviço.
 
-Após selecionar a opção desejada, clique em Salvar.
+Após selecionar a opção desejada, clique em **"Salvar"**.
 
 
 # Gestão de estoque
