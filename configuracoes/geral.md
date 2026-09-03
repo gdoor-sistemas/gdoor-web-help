@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T14:29:20.807Z
+date: 2026-09-03T14:29:45.971Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -25,12 +25,13 @@ Nesta seção, é possível adicionar o [certificado digital](/glossario#certifi
 
 Para adicionar o certificado, na seção **Certificado digital**, clique no botão **"Carregar certificado"** e selecione o arquivo do certificado digital **A1** no computador. Em seguida, informe a senha do certificado e confirme a inclusão.
 
-Para remover o certificado digital, clique no X à direita do certificado cadastrado.
+> No momento, o Gweb é compatível com certificado digital do tipo A1.
+{.is-warning}
+
 
 ![Configurar Certificado digital](/config/gerais/configurar-certificado.png)
 
-> No momento, o Gweb é compatível com certificado digital do tipo A1.
-{.is-warning}
+Para remover o certificado digital, clique no X à direita do certificado cadastrado.
 
 # Precisão numérica
 
