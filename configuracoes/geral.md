@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:56:42.355Z
+date: 2026-09-03T20:57:21.179Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -75,10 +75,10 @@ Na seção **"Tributação PIS e COFINS"**, defina qual regra de tributação de
 
 ![serviços3.png](/config/gerais/serviços3.png)
 
-Após realizar as configurações, clique em **"Salvar"**.
-
 > Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
 {.is-info}
+
+Após realizar as configurações, clique em **"Salvar"**.
 
 # Contador
 
@@ -155,7 +155,6 @@ Permite configurar o comportamento do sistema para o cálculo e a geração de p
 
 Após configurar como deseja, clique em **"Salvar"**.
 
-
 # NF-e/NFC-e
 
 Reúne configurações gerais relacionadas à emissão de NF-e e NFC-e.
@@ -166,9 +165,6 @@ Reúne configurações gerais relacionadas à emissão de NF-e e NFC-e.
 - **Gerar as TAGs \<CNPJReceb> e \<idTermPag> no XML**: adiciona ao XML do documento fiscal as informações de **CNPJ do beneficiário** do pagamento e **identificador do terminal** de pagamento, utilizadas na **integração das informações de pagamento** com a emissão do documento fiscal.
 
 Após configurar as opções, clique em **"Salvar"**.
-
-
-
 
 # Configurações gerais dos documentos
 
