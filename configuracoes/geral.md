@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:08:31.469Z
+date: 2026-09-03T20:15:01.324Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -96,15 +96,35 @@ Permite selecionar o contador responsável pela empresa e configurar o envio de 
 
 Após selecionar a pessoa, clique em **"Salvar"**.
 
+# Autenticação
+
+Ao marcar esta opção, a verificação de IP para autenticar-se no sistema será **desativada**.
+
+> Ativar esta configuração pode ser um risco à segurança dos dados da empresa. 
+{.is-warning}
+
+Sugerimos que a **utilize somente em caso de problemas** de conectividade ou logoffs constantes.
+
+![autenticação](/config/gerais/autenticação.png)![autenticação.png](/config/gerais/autenticação.png)
+
+Após marcar, clique em <span class="mat-button mat-accent"> salvar</span>.
+
 # Comissões
 
 Determine o comportamento para **geração de comissão dos vendedores** quando houver comissão do **vendedor** e do **produto** simultaneamente na venda.
 
-Selecione qual será a **comissão preferencial**: a do cadastro do **vendedor**, do cadastro do **produto**, a porcentagem **mais alta**, a porcentagem **mais baixa** ou se **ambas** (vendedor e produto) serão mantidas.
-
 ![comissões](/config/gerais/comissões.png)
 
-Após selecionar, clique em <span class="mat-button mdi "> salvar</span>.
+Em **Comissão preferencial**, selecione uma das opções disponíveis:
+
+- **Vendedor:** considera a comissão configurada no cadastro do vendedor.
+- **Produto:** considera a comissão configurada no cadastro do produto ou serviço.
+- **Maior:** considera a maior porcentagem entre as comissões configuradas.
+- **Menor:** considera a menor porcentagem entre as comissões configuradas.
+- **Ambas:** mantém as comissões configuradas para o vendedor e para o produto ou serviço.
+
+Após selecionar a opção desejada, clique em Salvar.
+
 
 # Gestão de estoque
 
@@ -134,18 +154,7 @@ Defina como será o comportamento do sistema em vendas parceladas.
 ![geral-parcelamento.png](/config/gerais/geral-parcelamento.png)
 Após configurar como deseja, clique em <span class="mat-button mat-accent"> salvar</span>.
 
-# Autenticação
 
-Ao marcar esta opção, a verificação de IP para autenticar-se no sistema será **desativada**.
-
-> Ativar esta configuração pode ser um risco à segurança dos dados da empresa. 
-{.is-danger}
-
-Sugerimos que a **utilize somente em caso de problemas** de conectividade ou logoffs constantes.
-
-![autenticação](/config/gerais/autenticação.png)
-
-Após marcar, clique em <span class="mat-button mat-accent"> salvar</span>.
 
 # NF-e/NFC-e
 
