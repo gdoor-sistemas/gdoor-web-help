@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T14:29:45.971Z
+date: 2026-09-03T18:57:31.264Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -35,14 +35,19 @@ Para remover o certificado digital, clique no X à direita do certificado cadast
 
 # Precisão numérica
 
-Determine as casas decimais para **quantidades** e para **preços**.
+Permite configurar a quantidade de casas decimais utilizadas pelo sistema para **quantidades** e **preços**.
+
+
+> Casas decimais são os números apresentados após a vírgula. Por exemplo, 0,392 possui três casas decimais.
+{.is-success}
 
 ![precisão numérica](/config/gerais/precisão_numérica.png)
 
-Após informar os campos, clique em <span class="mat-button mat-accent"> salvar</span>.
+- Quantidade: informa o número de casas decimais utilizadas para as quantidades dos produtos.
+- Preço: informa o número de casas decimais utilizadas para os preços dos produtos e serviços.
 
-> Números que ficarão após a vírgula. Exemplo: 0,392 é um número com 3 casas decimais após a vírgula.
-{.is-success}
+Após informar os campos, clique em **"Salvar"**.
+
 
 # Serviços
 
