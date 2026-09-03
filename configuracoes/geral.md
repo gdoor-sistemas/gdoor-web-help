@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:51:14.806Z
+date: 2026-09-03T20:56:42.355Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -156,17 +156,18 @@ Permite configurar o comportamento do sistema para o cálculo e a geração de p
 Após configurar como deseja, clique em **"Salvar"**.
 
 
-
 # NF-e/NFC-e
 
-Defina como será o comportamento geral do sistema na NF-e e na NFC-e.
+Reúne configurações gerais relacionadas à emissão de NF-e e NFC-e.
 
-![NFC-e](/config/gerais/nfce.png)
+![nfce.png](/config/gerais/nfce.png)
 
-- **Emitir NFC-e no recebimento de parcelas**: Ao **receber uma parcela** no **PDV** ou no **módulo de Receitas**, uma** NFC-e será emitida** referente a esse recebimento.
-- **Gerar as TAGs \<CNPJReceb> e \<idTermPag> no XML**: Os campos **CNPJReceb** e **idTermPag** são destinados a informar o **CNPJ do beneficiário** do pagamento e o **Identificador do terminal** de pagamento para fins de **integração do pagamento** com a **emissão do documento** fiscal eletrônico.
+- **Emitir NFC-e no recebimento de parcelas**: permite emitir uma NFC-e referente ao recebimento de uma parcela realizado no **PDV** ou no módulo de **Receitas**.
+- **Gerar as TAGs \<CNPJReceb> e \<idTermPag> no XML**: adiciona ao XML do documento fiscal as informações de **CNPJ do beneficiário** do pagamento e **identificador do terminal** de pagamento, utilizadas na **integração das informações de pagamento** com a emissão do documento fiscal.
 
-Após marcar, clique em <span class="mat-button mat-active"> salvar</span>.
+Após configurar as opções, clique em **"Salvar"**.
+
+
 
 
 # Configurações gerais dos documentos
