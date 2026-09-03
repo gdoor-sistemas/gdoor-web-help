@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:23:43.966Z
+date: 2026-09-03T20:24:38.124Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -116,10 +116,10 @@ Determine o comportamento para **geração de comissão dos vendedores** quando 
 
 Em **Comissão preferencial**, selecione uma das opções disponíveis:
 
-- **Vendedor:** considera a comissão configurada no cadastro do vendedor.
-- **Produto:** considera a comissão configurada no cadastro do produto ou serviço.
-- **Maior:** considera a maior porcentagem entre as comissões configuradas.
-- **Menor:** considera a menor porcentagem entre as comissões configuradas.
+- **Do vendedor:** considera a comissão configurada no cadastro do vendedor.
+- **Do produto/serviço:** considera a comissão configurada no cadastro do produto ou serviço.
+- **Mais alta:** considera a maior porcentagem entre as comissões configuradas.
+- **Mais baixa:** considera a menor porcentagem entre as comissões configuradas.
 - **Ambas:** mantém as comissões configuradas para o vendedor e para o produto ou serviço.
 
 Após selecionar a opção desejada, clique em **"Salvar"**.
