@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:44:07.126Z
+date: 2026-09-03T20:51:14.806Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -147,12 +147,13 @@ Após marcar, clique em **"Salvar**".
 
 Permite configurar o comportamento do sistema para o cálculo e a geração de parcelas nas vendas.
 
-- **Data inicial dos parcelamentos**: Define se a primeira parcela deve assumir a data do movimento ou se fica para o próximo período;
-- **Prazo mínimo para considerar dia de acerto**: Para clientes que possuem dia de acerto no [cadastro de cliente](/pt-br/cadastros/pessoas);
-- **Vencimento em dias úteis**: Define o comportamento do sistema caso a data de vencimento não caia em um dia útil.
+- **Data inicial dos parcelamentos**: determina a data utilizada como referência para a primeira parcela, podendo considerar a **data do movimento** ou **após o primeiro período**, conforme a opção selecionada.
+- **Prazo mínimo para considerar dia de acerto**: estabelece o prazo mínimo utilizado para considerar o dia de acerto informado no cadastro do cliente.
+- **Vencimento em dias úteis**: define como o sistema deverá tratar o vencimento das parcelas quando a data calculada não cair em um dia útil entre **não fazer nada**, **ajustar para o próximo dia útil** ou **ajustar para o dia útil anterior**.
 
 ![geral-parcelamento.png](/config/gerais/geral-parcelamento.png)
-Após configurar como deseja, clique em <span class="mat-button mat-accent"> salvar</span>.
+
+Após configurar como deseja, clique em **"Salvar"**.
 
 
 
