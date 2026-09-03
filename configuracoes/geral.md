@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:36:41.169Z
+date: 2026-09-03T20:37:38.753Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -139,10 +139,12 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 - **Replicar código interno no código de barras:** permite utilizar o código interno do produto como código de barras, reduzindo a necessidade de cadastrar ou informar manualmente outro código.
 
-> Clique aqui para acessar o turorial com mais detalhes sobre **Replicar código interno no código de barras**. {.is-info}
+> [Clique aqui](/tutoriais/emissao_de_etiquetas) para acessar o turorial com mais detalhes sobre **Replicar código interno no código de barras**. {.is-info}
 
 
-https://help.gdoorweb.com.br/e/pt-br/tutoriais/emissao_de_etiquetas
+
+
+
 
 
 
