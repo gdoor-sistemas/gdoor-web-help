@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:40:26.109Z
+date: 2026-09-03T20:41:29.923Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -131,7 +131,7 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 - **Permitir estoque negativo:** permite realizar movimentações mesmo quando a quantidade disponível do produto for insuficiente, possibilitando que o estoque fique negativo.
 
-- **Avisar quantidade insuficiente no lançamento do produto:** verifica a quantidade disponível durante o lançamento do produto.
+- **Avisar quantidade insuficiente no lançamento do produto:** verifica a quantidade disponível durante o lançamento do produto. Com a opção desmarcada, o GWeb permite lançar o item, mas bloqueia na transmissão da venda.
 
 > Quando a quantidade informada for superior ao estoque disponível, será apresentado um aviso ao usuário. {.is-warning}
 
@@ -148,13 +148,7 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 
 
-Após realizar as configurações, clique em **"Salvar"**.
 
-**Quantidade negativa de estoque:**
-
-Ao marcar a opção "**permitir estoque negativo**", será possível efetuar movimentações mesmo com quantidades negativas no estoque. Ao desmarcar, é habilitada a opção **avisar quantidade insuficiente no lançamento do produto** para o sistema exibir um aviso no [PDV](/pt-br/movimentos/pdv) e na [NF-e](/pt-br/tutoriais/como-emitir-uma-nfe).
-
-**Avisar quantidade insuficiente no lançamento do produto:**
 
 
 
