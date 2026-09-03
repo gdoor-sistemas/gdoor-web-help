@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T21:07:23.397Z
+date: 2026-09-03T21:09:44.234Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -56,7 +56,6 @@ Configuração para o uso de serviços em documentos fiscais.
 Clique em "**Habilitar o uso de serviços no sistema**".
 
 Em seguida, indique o **"Local padrão do fato gerador do ISS"**, que corresponde ao **local onde o serviço será executado**. Essa informação também servirá de base para a geração do imposto (ISS).
-
 
 ![serviços](/config/gerais/serviços.png)
 
@@ -141,7 +140,7 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 - **Replicar código interno no código de barras:** permite utilizar o código interno do produto como código de barras, reduzindo a necessidade de cadastrar ou informar manualmente outro código.
 
-> [Clique aqui](/tutoriais/replicar_cod_inter_com_barras) para acessar o turorial com mais detalhes sobre **replicar código interno no código de barras**. {.is-info}
+> [Clique aqui](/tutoriais/replicar_cod_inter_com_barras) para acessar o tutorial com mais detalhes sobre **replicar código interno no código de barras**. {.is-info}
 
 Após marcar, clique em **"Salvar**".
 
@@ -151,7 +150,7 @@ Permite configurar o comportamento do sistema para o cálculo e a geração de p
 
 - **Data inicial dos parcelamentos**: determina a data utilizada como referência para a primeira parcela, podendo considerar a **data do movimento** ou **após o primeiro período**, conforme a opção selecionada.
 - **Prazo mínimo para considerar dia de acerto**: estabelece o prazo mínimo utilizado para considerar o dia de acerto informado no cadastro do cliente.
-- **Vencimento em dias úteis**: define como o sistema deverá tratar o vencimento das parcelas quando a data calculada não cair em um dia útil entre **não fazer nada**, **ajustar para o próximo dia útil** ou **ajustar para o dia útil anterior**.
+- **Vencimento em dias úteis**: define como o sistema deverá tratar o vencimento das parcelas quando a data calculada não cair em um dia útil. As opções disponíveis são **Não fazer nada**, **Ajustar para o próximo dia útil** ou **Ajustar para o dia útil anterior**.
 
 ![geral-parcelamento.png](/config/gerais/geral-parcelamento.png)
 
@@ -170,7 +169,7 @@ Após configurar as opções, clique em **"Salvar"**.
 
 # Configurações gerais dos documentos
 
-Permite estabelecer regras aplicadas ao salvar documentos como **Orçamento**, **Pedido**, **NF-e**, **PDV**,** CT-e** e **NFS-e**.
+Permite estabelecer regras aplicadas ao salvar documentos como **Orçamento**, **Pedido**, **NF-e**, **PDV**,**CT-e** e **NFS-e**.
 
 ![config_geral_docs.png](/config/gerais/config_geral_docs.png)
 
