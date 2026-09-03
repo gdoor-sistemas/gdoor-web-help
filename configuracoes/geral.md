@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:01:01.398Z
+date: 2026-09-03T20:08:23.106Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -82,12 +82,19 @@ Após realizar as configurações, clique em **"Salvar"**.
 
 # Contador
 
-Selecione o contador que irá ser referenciado na geração do [SPED FISCAL](/pt-br/arquivos-fiscais/sped), é necessário que a pessoa tenha o atributo [Contador](/pt-br/cadastros/pessoas#formulário).
-Também é possível definir em que **dia do mês** o sistema irá **notificar** o usuário para enviar os **documentos fiscais** a **contabilidade**.
+Permite selecionar o contador responsável pela empresa e configurar o envio de lembretes relacionados aos documentos fiscais.
 
 ![geral-contador.png](/config/gerais/geral-contador.png)
 
-Após selecionar a pessoa, clique em <span class="mat-button mat-accent"> salvar</span>.
+- **Contador:** permite pesquisar e selecionar o contador cadastrado no sistema. A pessoa selecionada deve possuir o atributo Contador em seu cadastro.
+
+> O contador selecionado também será referenciado na geração do SPED Fiscal. {.is-success}
+
+![geral-contador2.png](/config/gerais/geral-contador2.png)
+
+- **Dia para envio dos documentos:** permite selecionar o dia do mês em que o sistema deverá notificar o usuário para realizar o envio dos documentos fiscais à contabilidade.
+
+Após selecionar a pessoa, clique em **"Salvar"**.
 
 # Comissões
 
