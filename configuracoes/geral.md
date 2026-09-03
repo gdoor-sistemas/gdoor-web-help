@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:15:01.324Z
+date: 2026-09-03T20:17:28.759Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -98,16 +98,15 @@ Após selecionar a pessoa, clique em **"Salvar"**.
 
 # Autenticação
 
-Ao marcar esta opção, a verificação de IP para autenticar-se no sistema será **desativada**.
+Ao marcar a opção **"Desativar verificação de IP durante a autenticação no sistema"**, desativa a verificação do endereço IP durante o processo de autenticação.
 
-> Ativar esta configuração pode ser um risco à segurança dos dados da empresa. 
+> A desativação da verificação de IP pode reduzir a segurança do acesso ao sistema. Recomenda-se **utilizar essa opção somente em situações de problemas de conectividade** ou logoffs constantes. 
 {.is-warning}
 
-Sugerimos que a **utilize somente em caso de problemas** de conectividade ou logoffs constantes.
+![autenticação](/config/gerais/autenticação.png)
 
-![autenticação](/config/gerais/autenticação.png)![autenticação.png](/config/gerais/autenticação.png)
+Após alterar a opção, clique em **"Salvar"**.
 
-Após marcar, clique em <span class="mat-button mat-accent"> salvar</span>.
 
 # Comissões
 
