@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T19:40:22.478Z
+date: 2026-09-03T19:43:55.515Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -53,8 +53,8 @@ Após informar os campos, clique em **"Salvar"**.
 
 Configuração para uso de serviços em documentos fiscais.
 
-Clique em "**habilitar o uso de serviços no sistema**".
-Em seguida indique o "**local padrão do fato gerador do ISS**" que se trata do **local onde o serviço será executado**, isso também será base para geração do imposto (ISS).
+Clique em "**Habilitar o uso de serviços no sistema**".
+Em seguida indique o "**Local padrão do fato gerador do ISS**" que se trata do **local onde o serviço será executado**, isso também será base para geração do imposto (ISS).
 
 ![serviços](/config/gerais/serviços.png)
 
@@ -69,10 +69,13 @@ Ao selecionar Cidade específica, serão habilitados os campos:
 
 ![cidade específica](/config/gerais/serviços2.png)
 
-
-Após o preenchimento das informações, clique em <span class="mat-button mat-accent mdi "> salvar</span>.
+Na seção **"Tributação PIS e COFINS"**, defina qual regra de tributação de PIS e COFINS será considerada para os serviços. As opções disponíveis são:
+- **Padrão:** utiliza a regra padrão de tributação de PIS e COFINS configurada para o serviço.
+- **Com Retenção:** considera a tributação de PIS e COFINS com retenção para o serviço.
 
 ![serviços3.png](/config/gerais/serviços3.png)
+
+Após realizar as configurações, clique em **"Salvar"**.
 
 > Para saber mais sobre a configuração de impostos de serviços [clique aqui](/configuracoes/impostos/servicos).
 {.is-info}
