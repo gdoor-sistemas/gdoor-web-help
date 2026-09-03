@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T20:41:29.923Z
+date: 2026-09-03T20:41:57.374Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -141,25 +141,7 @@ Reúne configurações relacionadas ao controle de estoque e ao lançamento de p
 
 > [Clique aqui](/tutoriais/replicar_cod_inter_com_barras) para acessar o turorial com mais detalhes sobre **replicar código interno no código de barras**. {.is-info}
 
-
-
-
-
-
-
-
-
-
-
-
-Ao marcar a opção **Avisar quantidade insuficiente no lançamento do produto**, o GWeb irá bloquear o lançamento de itens que estão com a quantidade negativa. Com ela desmarcada, o GWeb permite lançar, mas bloqueia na transmissão da venda.
-
-**Montar composições automaticamente:**
-
-Ao habilitar a opção **Montar composições automaticamente**, o GWeb passa a montar o produto composto de forma automática sempre que ele for utilizado nos documentos.
-
-
-Após marcar, clique em <span class="mat-button mdi "> salvar</span>.
+Após marcar, clique em **"Salvar**".
 
 # Parcelamentos
 
