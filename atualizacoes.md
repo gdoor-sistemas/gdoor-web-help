@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-01T11:47:04.676Z
+date: 2026-09-03T14:03:41.942Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 48
-- Ajustes: 138
+- Ajustes: 140
 
-**Total: 186**
+**Total: 188**
 
 --- 
 
@@ -29,6 +29,13 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 03/09/2026
+f2.11.262, b3.10.518 {.versions}
+
+## Ajustes
+- Corrigida configuração da NFC-e que estava influenciando na tela de visualização da impressão na pré-venda.
+- Ajustada busca da na NF-e para apresentar todas as notas, inclusive as que possuam meios de pagamento excluídos.
+
 # 01/09/2026
 f2.11.261, b3.10.516, a2.3.21, p1.0.75 {.versions}
 
