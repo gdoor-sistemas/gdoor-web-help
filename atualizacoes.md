@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-03T14:03:58.461Z
+date: 2026-09-04T19:22:21.463Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 48
-- Ajustes: 140
+- Ajustes: 141
 
-**Total: 188**
+**Total: 189**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 04/09/2026
+f2.11.263, b3.10.520 {.versions}
+
+## Ajustes
+- Possibilitado colocar o CIOT em contingência.
+
 # 03/09/2026
 f2.11.262, b3.10.518 {.versions}
 
