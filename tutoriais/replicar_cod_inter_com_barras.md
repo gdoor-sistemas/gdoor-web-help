@@ -1,8 +1,8 @@
 ---
 title: Replicar código interno no código de barras
 description: 
-published: false
-date: 2026-09-04T20:14:41.488Z
+published: true
+date: 2026-09-04T20:17:27.029Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T20:40:01.995Z
