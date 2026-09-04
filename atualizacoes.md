@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-04T19:22:21.463Z
+date: 2026-09-04T19:22:49.967Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -33,7 +33,7 @@ ir para [2021](#h-2021) {.goto}
 f2.11.263, b3.10.520 {.versions}
 
 ## Ajustes
-- Possibilitado colocar o CIOT em contingência.
+- Possibilitado colocar o contrato de frete (CIOT) em contingência.
 
 # 03/09/2026
 f2.11.262, b3.10.518 {.versions}
