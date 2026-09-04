@@ -2,7 +2,7 @@
 title: Replicar código interno no código de barras
 description: 
 published: false
-date: 2026-09-04T19:15:54.269Z
+date: 2026-09-04T19:26:11.376Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T20:40:01.995Z
@@ -55,6 +55,11 @@ Selecione **"Replicar"** ou **"Replicar e definir como principal"** e clique em 
 
 ![rep4.png](/config/gerais/rep4.png)
 
+Ao finalizar, o sistema informa uma mensagem sobre os códigos replicados.
+
+![rep7.png](/config/gerais/rep7.png)
+
+
 ## Conferir o resultado no cadastro do produto
 
 Acesse o módulo **"Cadastros"**, selecione **"Produtos"** e abra o cadastro de um item para conferir o resultado da replicação.
@@ -65,16 +70,18 @@ No exemplo, o produto possui o código interno **"1"**. Com a replicação aplic
 
 Dessa forma, o código interno passa a ser utilizado como uma identificação disponível para leitura, mesmo quando o produto não possuir um código de barras próprio cadastrado.
 
-![rep6.png](/config/gerais/rep6.png)
-
-
 > A configuração é especialmente útil para produtos que não possuem código de barras de fábrica, permitindo utilizar o código interno como identificação para leitura. {.is-success}
+
+![rep6.png](/config/gerais/rep6.png)
 
 # Desativar a replicação
 
-Para interromper a replicação automática nos novos produtos, acesse "Configurações", selecione "Geral" e desmarque "Replicar código interno no código de barras".
+Para interromper a replicação automática nos novos produtos, acesse **"Configurações"**, selecione **"Geral"** e desmarque **"Replicar código interno no código de barras"**.
 
-ATENÇÃO: Desmarcar a opção não remove os códigos de barras que já foram replicados para os produtos existentes. A alteração apenas interrompe a replicação automática para os novos produtos cadastrados.
+>  Desmarcar a opção não remove os códigos de barras que já foram replicados para os produtos existentes. A alteração apenas interrompe a replicação automática para os novos produtos cadastrados. {.is-warning}
+
+
+
 
 # Resultado da configuração
 
