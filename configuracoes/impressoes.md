@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-04T18:12:00.946Z
+date: 2026-09-04T20:39:23.963Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -20,31 +20,39 @@ Com o serviço de impressão direta instalado e em execução no computador, os 
 
 A configuração é realizada individualmente para cada documento. Dessa forma, determinados documentos podem utilizar o envio direto, enquanto os demais continuam utilizando o processo de impressão manual.
 
-# Acessar as configurações de impressão
+# Instalar o serviço de impressão direta
 
-Acesse o módulo "Configurações" e selecione "Impressões".
+Acesse **"Configurações"** e selecione **"Impressões"**. Na seção **"Serviço de impressão direta"**, clique em **"DOWNLOAD"** para baixar o aplicativo.
 
-[INSERIR IMAGEM — Tela "Impressões", destacando as seções "Impressoras padrão por documento" e "Serviço de impressão direta".]
+
+
+Instale o serviço no computador que será utilizado para realizar as impressões.
+
+Após a instalação, confirme que o serviço está em execução.
+
+ATENÇÃO: O serviço de impressão direta precisa estar instalado e em execução no computador para que o GWeb consiga enviar os documentos diretamente para a impressora.
+
+![imp_auto1.png](/config/impressões/imp_auto1.png)
 
 A tela apresenta as configurações relacionadas às impressoras utilizadas pelo sistema e ao serviço de impressão direta.
 
 # Configurar a impressora padrão por documento
 
-Na seção "Impressoras padrão por documento", localize o documento que receberá a configuração.
+Na seção **"Impressoras padrão por documento"**, localize o documento que receberá a configuração.
 
 [INSERIR IMAGEM — Seção "Impressoras padrão por documento", mostrando a lista de documentos disponíveis.]
 
 A lista pode apresentar documentos como:
 
-Pedido de venda;
-Orçamento;
-NF-e;
-NFC-e;
-NF-e no PDV;
-Pré-venda;
-NFS-e;
-Recibo;
-Etiqueta.
+- **Pedido de venda**;
+- **Orçamento**;
+- **NF-e**;
+- **NFC-e**;
+- **NF-e** no **PDV**;
+- **Pré-venda**;
+- **NFS-e**;
+- **Recibo**;
+- **Etiqueta**.
 
 Selecione, na respectiva linha, a impressora que será utilizada para a impressão do documento.
 
