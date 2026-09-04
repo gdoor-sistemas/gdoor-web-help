@@ -2,7 +2,7 @@
 title: Replicar código interno no código de barras
 description: 
 published: false
-date: 2026-09-04T19:26:11.376Z
+date: 2026-09-04T19:28:19.481Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T20:40:01.995Z
@@ -81,7 +81,7 @@ Para interromper a replicação automática nos novos produtos, acesse **"Config
 >  Desmarcar a opção não remove os códigos de barras que já foram replicados para os produtos existentes. A alteração apenas interrompe a replicação automática para os novos produtos cadastrados. {.is-warning}
 
 
-
+![rep8.png](/config/gerais/rep8.png)
 
 # Resultado da configuração
 
