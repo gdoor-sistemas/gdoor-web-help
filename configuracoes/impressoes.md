@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-04T18:05:49.826Z
+date: 2026-09-04T18:07:19.179Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -66,7 +66,7 @@ O agente realiza a comunicação entre o GWeb e as impressoras configuradas no c
 
 INFORMAÇÃO: A impressão direta funciona por meio de um serviço instalado no computador. Por esse motivo, o agente deve estar instalado e em execução para que o envio automático para a impressora seja realizado.
 
-# Ativar o envio direto para um documento
+#  Ativar o envio direto para um documento
 
 Depois de instalar e iniciar o agente de impressão, acesse novamente a seção "Impressoras padrão por documento" e localize o documento que receberá a configuração.
 
