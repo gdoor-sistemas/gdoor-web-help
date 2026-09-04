@@ -2,7 +2,7 @@
 title: Replicar código interno no código de barras
 description: 
 published: false
-date: 2026-09-04T18:11:10.173Z
+date: 2026-09-04T19:15:54.269Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T20:40:01.995Z
@@ -20,67 +20,55 @@ O recurso pode ser configurado para replicar o código interno apenas nos novos 
 
 # Ativar a replicação do código interno
 
-Acesse o módulo "Configurações", selecione "Geral" e localize o bloco "Controlar estoque e identificação dos produtos".
+Acesse o módulo **"Configurações"**, selecione **"Geral"** e localize o bloco **"Gestão de estoque"**. 
 
-[INSERIR IMAGEM — Tela "Geral", destacando o bloco "Controlar estoque e identificação dos produtos" e a opção "Replicar código interno no código de barras".]
+Marque a opção **"Replicar código interno no código de barras"**.
 
-O bloco "Controlar estoque e identificação dos produtos" concentra as configurações relacionadas ao controle do estoque e à identificação dos itens. A opção "Replicar código interno no código de barras" está identificada como "NOVO".
+![rep1.png](/config/gerais/rep1.png) 
 
-Marque "Replicar código interno no código de barras" para utilizar o código interno dos produtos como código de barras.
 
-Com a configuração ativa, os produtos podem receber automaticamente o respectivo código interno na lista de códigos de barras, evitando a necessidade de cadastrar outro código exclusivamente para essa finalidade.
+Será apresentada uma janela para definir como a configuração deverá ser aplicada aos produtos.
 
-# Definir a aplicação da replicação
-
-Ao marcar a opção "Replicar código interno no código de barras", será apresentada uma janela para definir como a configuração deverá ser aplicada aos produtos.
-
-[INSERIR IMAGEM — Janela apresentada ao ativar a opção, destacando as alternativas "Replicar" e "Replicar e definir como principal".]
+![rep2.png](/config/gerais/rep2.png)
 
 Selecione uma das opções disponíveis:
 
-Replicar: adiciona o código interno como mais um código de barras cadastrado para o produto.
-Replicar e definir como principal: adiciona o código interno como código de barras e também o define como o código principal do produto.
+- **Replicar:** adiciona o código interno como mais um código de barras cadastrado para o produto.
+- **Replicar e definir como principal:** adiciona o código interno como código de barras e também o define como o código principal do produto.
+> Um produto pode possuir mais de um código de barras cadastrado. Quando houver vários códigos, um deles pode ser definido como principal. {.is-info}
+- **Somente novos produtos:** mantém a configuração ativa apenas para os produtos cadastrados posteriormente.
+- **Aplicar:** executa a replicação também para os produtos já cadastrados.
+- **Fechar:** encerra a janela sem aplicar alterações.
 
-Um produto pode possuir mais de um código de barras cadastrado. Quando houver vários códigos, um deles pode ser definido como principal.
 
-Depois de selecionar a opção de replicação, defina os produtos que receberão a configuração.
-
-[INSERIR IMAGEM — Janela completa, destacando os botões "Fechar", "Somente novos produtos" e "Aplicar".]
-
-As ações disponíveis são:
-
-Fechar: encerra a janela sem aplicar alterações.
-Somente novos produtos: mantém a configuração ativa apenas para os produtos cadastrados posteriormente.
-Aplicar: executa a replicação também para os produtos já cadastrados.
 ## Aplicar somente aos novos produtos
 
-Clique em "Somente novos produtos" quando a replicação deverá ocorrer apenas nos próximos produtos cadastrados.
+Clique em **"Somente novos produtos"** quando a replicação deverá ocorrer apenas nos próximos produtos cadastrados.
 
-Os produtos já existentes não serão alterados. A partir da configuração, os novos cadastros poderão receber o código interno também como código de barras.
+> Os produtos já existentes não serão alterados. A partir da configuração, os novos cadastros poderão receber o código interno também como código de barras. {.is-warning}
+
+![rep3.png](/config/gerais/rep3.png)
 
 ## Aplicar aos produtos já cadastrados
 
-Selecione "Replicar" ou "Replicar e definir como principal" e clique em "Aplicar" para executar a configuração nos produtos já cadastrados.
+Selecione **"Replicar"** ou **"Replicar e definir como principal"** e clique em **"Aplicar"** para executar a configuração nos produtos já cadastrados.
 
-Durante o procedimento, o sistema apresenta o progresso do processamento.
+![rep4.png](/config/gerais/rep4.png)
 
-[INSERIR IMAGEM — Processamento da replicação ou mensagem de conclusão, mostrando o progresso e o resultado da aplicação.]
+## Conferir o resultado no cadastro do produto
 
-Ao finalizar, o sistema informa a quantidade de produtos atualizados e a opção utilizada na replicação.
+Acesse o módulo **"Cadastros"**, selecione **"Produtos"** e abra o cadastro de um item para conferir o resultado da replicação.
 
-INFORMAÇÃO: Executar novamente a aplicação não duplica os códigos de barras que já tenham sido replicados.
+No exemplo, o produto possui o código interno **"1"**. Com a replicação aplicada, esse mesmo número também é apresentado na lista de códigos de barras do produto. 
 
-# Conferir o resultado no cadastro do produto
-
-Acesse o módulo "Cadastros", selecione "Produtos" e abra o cadastro de um item para conferir o resultado da replicação.
-
-[INSERIR IMAGEM — Cadastro de um produto, destacando o código interno e a lista de códigos de barras.]
-
-No exemplo, o produto possui o código interno "367". Com a replicação aplicada, esse mesmo número também é apresentado na lista de códigos de barras do produto.
+![rep5.png](/config/gerais/rep5.png)
 
 Dessa forma, o código interno passa a ser utilizado como uma identificação disponível para leitura, mesmo quando o produto não possuir um código de barras próprio cadastrado.
 
-DICA: A configuração é especialmente útil para produtos que não possuem código de barras de fábrica, permitindo utilizar o código interno como identificação para leitura.
+![rep6.png](/config/gerais/rep6.png)
+
+
+> A configuração é especialmente útil para produtos que não possuem código de barras de fábrica, permitindo utilizar o código interno como identificação para leitura. {.is-success}
 
 # Desativar a replicação
 
