@@ -1,8 +1,8 @@
 ---
 title: Emissão de Etiquetas
 description: 
-published: true
-date: 2026-09-04T19:11:58.201Z
+published: false
+date: 2026-09-04T19:12:18.946Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
