@@ -2,7 +2,7 @@
 title: Configurações gerais
 description: Veja detalhes das configurações gerais do sistema
 published: true
-date: 2026-09-03T21:10:03.665Z
+date: 2026-09-04T12:07:03.676Z
 tags: configurações
 editor: markdown
 dateCreated: 2020-01-03T19:57:44.951Z
@@ -115,7 +115,7 @@ Determine o comportamento para **geração de comissão dos vendedores** quando 
 
 ![comissões](/config/gerais/comissões.png)
 
-Em **Comissão preferencial**, selecione uma das opções disponíveis:
+Em **"Comissão preferencial"**, selecione uma das opções disponíveis:
 
 - **Do vendedor:** considera a comissão configurada no cadastro do vendedor.
 - **Do produto/serviço:** considera a comissão configurada no cadastro do produto ou serviço.
