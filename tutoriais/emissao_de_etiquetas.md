@@ -2,7 +2,7 @@
 title: Emissão de Etiquetas
 description: 
 published: true
-date: 2026-09-02T20:43:56.303Z
+date: 2026-09-04T17:36:57.050Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-26T20:49:20.170Z
