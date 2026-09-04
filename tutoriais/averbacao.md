@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-04T17:44:45.169Z
+date: 2026-09-04T17:45:58.578Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -31,6 +31,8 @@ Antes de utilizar a integração no GWeb, é necessário possuir o cadastro e as
 Para utilizar a integração, inicialmente é necessário realizar o cadastro junto à [AT&M (ATM)](https://ww2.atmtec.com.br/) 
 
 <a href="https://ww2.atmtec.com.br/" target="_blank">AT&M (ATM)</a> e obter as credenciais utilizadas para acessar o serviço de averbação.
+
+<a href="https://www.exemplo.com" target="_blank" rel="noopener noreferrer">Texto do link</a>
 
 A configuração no GWeb utiliza os mesmos dados disponibilizados para acesso à operação da AT&M (ATM):
 
