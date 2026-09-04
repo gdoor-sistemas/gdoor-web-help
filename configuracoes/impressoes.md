@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-04T20:39:23.963Z
+date: 2026-09-04T21:02:17.332Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -20,21 +20,24 @@ Com o serviço de impressão direta instalado e em execução no computador, os 
 
 A configuração é realizada individualmente para cada documento. Dessa forma, determinados documentos podem utilizar o envio direto, enquanto os demais continuam utilizando o processo de impressão manual.
 
-# Instalar o serviço de impressão direta
+# Configurar o serviço de impressão direta
+
+Para utilizar a impressão direta, é necessário instalar o agente de impressão no computador responsável pela impressão. 
 
 Acesse **"Configurações"** e selecione **"Impressões"**. Na seção **"Serviço de impressão direta"**, clique em **"DOWNLOAD"** para baixar o aplicativo.
 
-
+![imp_auto1.png](/config/impressões/imp_auto1.png)
 
 Instale o serviço no computador que será utilizado para realizar as impressões.
 
+> O agente realiza a comunicação entre o GWeb e as impressoras configuradas no computador, permitindo enviar os documentos diretamente para impressão. Por esse motivo, o agente deve estar instalado e em execução para que o envio automático para a impressora seja realizado. {.is-info}
+
+
+![imp_auto2.png](/config/impressões/imp_auto2.png)
+
 Após a instalação, confirme que o serviço está em execução.
 
-ATENÇÃO: O serviço de impressão direta precisa estar instalado e em execução no computador para que o GWeb consiga enviar os documentos diretamente para a impressora.
 
-![imp_auto1.png](/config/impressões/imp_auto1.png)
-
-A tela apresenta as configurações relacionadas às impressoras utilizadas pelo sistema e ao serviço de impressão direta.
 
 # Configurar a impressora padrão por documento
 
@@ -60,19 +63,7 @@ Selecione, na respectiva linha, a impressora que será utilizada para a impress�
 
 A definição é realizada individualmente. Assim, cada tipo de documento pode utilizar uma impressora diferente, conforme a necessidade da operação.
 
-# Configurar o serviço de impressão direta
 
-Para utilizar a impressão direta, é necessário instalar o agente de impressão no computador responsável pela impressão.
-
-Na seção "Serviço de impressão direta", clique em "Download" para baixar o instalador.
-
-[INSERIR IMAGEM — Seção "Serviço de impressão direta", destacando o botão "Download".]
-
-Instale o serviço no computador utilizado para realizar as impressões e mantenha-o em execução.
-
-O agente realiza a comunicação entre o GWeb e as impressoras configuradas no computador, permitindo enviar os documentos diretamente para impressão.
-
-INFORMAÇÃO: A impressão direta funciona por meio de um serviço instalado no computador. Por esse motivo, o agente deve estar instalado e em execução para que o envio automático para a impressora seja realizado.
 
 #  Ativar o envio direto para um documento
 
