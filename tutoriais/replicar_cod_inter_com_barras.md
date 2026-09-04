@@ -2,7 +2,7 @@
 title: Replicar código interno no código de barras
 description: 
 published: false
-date: 2026-09-04T19:28:19.481Z
+date: 2026-09-04T20:09:56.034Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T20:40:01.995Z
@@ -80,15 +80,4 @@ Para interromper a replicação automática nos novos produtos, acesse **"Config
 
 >  Desmarcar a opção não remove os códigos de barras que já foram replicados para os produtos existentes. A alteração apenas interrompe a replicação automática para os novos produtos cadastrados. {.is-warning}
 
-
 ![rep8.png](/config/gerais/rep8.png)
-
-# Resultado da configuração
-
-Com o recurso configurado, produtos sem código de barras próprio podem utilizar o código interno também como código de barras.
-
-[INSERIR IMAGEM — Comparação ou resultado final, mostrando o código interno replicado na lista de códigos de barras do produto.]
-
-A replicação pode ser aplicada de duas formas: adicionando o código interno como mais um código de barras ou definindo-o também como o código principal. A configuração pode ser utilizada apenas nos novos produtos ou aplicada aos itens já cadastrados, conforme a necessidade da operação.
-
-INFORMAÇÃO: A utilização do código interno como código de barras permite disponibilizar uma identificação para leitura nos produtos que não possuem outro código de barras cadastrado.
