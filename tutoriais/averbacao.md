@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-04T17:36:46.602Z
+date: 2026-09-04T17:43:13.717Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -10,7 +10,7 @@ dateCreated: 2026-09-04T16:56:57.497Z
 
 # Averbação de seguro de carga
 
-Listamos neste artigo as orientações para configurar a averbação de seguro de carga no GWeb, realizar o cadastro necessário na AT&M, definir o envio automático das averbações, cancelar averbações quando necessário e utilizar as informações do seguro nos documentos de transporte.
+Listamos neste artigo as orientações para configurar a averbação de seguro de carga no GWeb, realizar o cadastro necessário na AT&M (ATM), definir o envio automático das averbações, cancelar averbações quando necessário e utilizar as informações do seguro nos documentos de transporte.
 
 # Introdução
 
@@ -18,19 +18,19 @@ A averbação de seguro é o processo utilizado para comunicar à operação de 
 
 Na prática, a operação informa os dados do transporte para a plataforma responsável pela averbação. Após o processamento, é gerado um número que identifica aquela averbação e pode ser utilizado nas informações de seguro dos documentos de transporte.
 
-A integração disponível no GWeb é realizada com a AT&M, permitindo automatizar esse processo a partir da emissão dos documentos.
+A integração disponível no GWeb é realizada com a AT&M (ATM), permitindo automatizar esse processo a partir da emissão dos documentos.
 
-A AT&M disponibiliza soluções de averbação eletrônica integradas aos processos de emissão de documentos fiscais de transporte, como CT-e e NF-e, com a geração do número de averbação utilizado nas operações relacionadas ao MDF-e.
+A AT&M (ATM) disponibiliza soluções de averbação eletrônica integradas aos processos de emissão de documentos fiscais de transporte, como CT-e e NF-e, com a geração do número de averbação utilizado nas operações relacionadas ao MDF-e.
 
 > A averbação não substitui a contratação do seguro. A apólice e a averbação possuem funções diferentes: a apólice estabelece a cobertura contratada, enquanto a averbação comunica os embarques conforme as regras da operação de seguro. {.is-info}
 
-Antes de utilizar a integração no GWeb, é necessário possuir o cadastro e as credenciais de acesso da AT&M.
+Antes de utilizar a integração no GWeb, é necessário possuir o cadastro e as credenciais de acesso da AT&M (ATM).
 
-# Realizar o cadastro na AT&M
+# Realizar o cadastro na AT&M (ATM)
 
-Para utilizar a integração, inicialmente é necessário realizar o cadastro junto à AT&M e obter as credenciais utilizadas para acessar o serviço de averbação.
+Para utilizar a integração, inicialmente é necessário realizar o cadastro junto à [AT&M (ATM)](https://ww2.atmtec.com.br/) e obter as credenciais utilizadas para acessar o serviço de averbação.
 
-A configuração no GWeb utiliza os mesmos dados disponibilizados para acesso à operação da AT&M:
+A configuração no GWeb utiliza os mesmos dados disponibilizados para acesso à operação da AT&M (ATM):
 
 Usuário;
 Senha;
@@ -38,11 +38,11 @@ Código.
 
 [INSERIR IMAGEM — Portal ou tela da AT&M utilizada para acesso, demonstrando que o cadastro e as credenciais devem ser obtidos antes da configuração no GWeb.]
 
-A integração depende dessas credenciais para realizar a comunicação entre o GWeb e a AT&M.
+A integração depende dessas credenciais para realizar a comunicação entre o GWeb e a AT&M (ATM).
 
-> O GWeb não realiza o cadastro da empresa junto à AT&M. Antes de configurar a integração, confirme com a AT&M quais dados devem ser utilizados e se o acesso está habilitado para a operação de averbação. {.is-warning}
+> O GWeb não realiza o cadastro da empresa junto à AT&M (ATM). Antes de configurar a integração, confirme com a AT&M quais dados devem ser utilizados e se o acesso está habilitado para a operação de averbação. {.is-warning}
 
-A AT&M possui uma solução específica para averbação eletrônica de documentos, permitindo integrar o processo de emissão aos serviços de averbação.
+A AT&M (ATM) possui uma solução específica para averbação eletrônica de documentos, permitindo integrar o processo de emissão aos serviços de averbação.
 
 # Como funciona a averbação de seguro
 
@@ -56,7 +56,7 @@ O processo automatizado reduz a necessidade de acessar separadamente a plataform
 
 [INSERIR IMAGEM — Fluxo ilustrativo: emissão do documento no GWeb → envio das informações para a AT&M → processamento da averbação → retorno do número de averbação.]
 
-A integração com a AT&M permite que esse processo seja realizado a partir da emissão dos documentos configurados no sistema.
+A integração com a AT&M (ATM) permite que esse processo seja realizado a partir da emissão dos documentos configurados no sistema.
 
 A legislação e as regras do seguro devem ser observadas conforme a operação e a cobertura contratada. Documentos como CT-e e MDF-e possuem funções fiscais distintas: o CT-e documenta digitalmente a prestação do serviço de transporte, enquanto o MDF-e vincula os documentos fiscais à operação de transporte.
 
@@ -75,27 +75,27 @@ Selecione a opção disponível para ativar o recurso.
 
 Com o recurso ativo, será possível configurar a integração com a plataforma de averbação.
 
-> Inicialmente, a integração de averbação disponível no recurso é realizada com a AT&M. {.is-info}
+> Inicialmente, a integração de averbação disponível no recurso é realizada com a AT&M (ATM). {.is-info}
 
-## Configurar a integração com a AT&M
+## Configurar a integração com a AT&M (ATM)
 
 Depois de ativar o recurso, acesse novamente as configurações do MDF-e e localize a seção "Averbação de seguro".
 
 [INSERIR IMAGEM — Configuração da averbação, mostrando as opções de integração disponíveis.]
 
-Selecione "AT&M" como integração.
+Selecione "ATM" como integração.
 
 Em seguida, informe as credenciais obtidas durante o cadastro na plataforma:
 
-Usuário: identificação utilizada para acesso à AT&M.
+Usuário: identificação utilizada para acesso à AT&M (ATM).
 Senha: senha utilizada na autenticação.
 Código: código disponibilizado para a operação de averbação.
 
 [INSERIR IMAGEM — Configuração da AT&M, destacando os campos "Usuário", "Senha" e "Código".]
 
-Salve a configuração para permitir a comunicação entre o GWeb e a AT&M.
+Salve a configuração para permitir a comunicação entre o GWeb e a AT&M (ATM).
 
-> Utilize os mesmos dados fornecidos para a operação da empresa na plataforma da AT&M. Antes de iniciar a utilização, confirme se as credenciais estão corretas e habilitadas para o serviço de averbação.{.is-success}
+> Utilize os mesmos dados fornecidos para a operação da empresa na plataforma da AT&M (ATM). Antes de iniciar a utilização, confirme se as credenciais estão corretas e habilitadas para o serviço de averbação.{.is-success}
 
 # Configurar o envio automático
 
