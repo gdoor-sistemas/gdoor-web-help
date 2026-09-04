@@ -1,8 +1,8 @@
 ---
 title: Averbação
 description: 
-published: true
-date: 2026-09-04T16:56:57.497Z
+published: false
+date: 2026-09-04T17:36:46.602Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
