@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-08T19:25:50.853Z
+date: 2026-09-08T19:26:19.119Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -60,7 +60,7 @@ Acesse o módulo **"Transporte"**, selecione **"MDF-e"** e localize **"Configura
 
 Salve a configuração para permitir a comunicação entre o GWeb e a AT&M (ATM).
 
-> Utilize os mesmos dados fornecidos para a operação da empresa na plataforma da AT&M (ATM). Antes de iniciar a utilização, confirme se as credenciais estão corretas e habilitadas para o serviço de averbação.{.is-success}
+> Utilize os mesmos dados fornecidos para a operação da empresa na plataforma da AT&M (ATM). Antes de iniciar a utilização, confirme se as credenciais estão corretas e habilitadas para o serviço de averbação.{.is-warning}
 
 # Configurar o envio automático
 
