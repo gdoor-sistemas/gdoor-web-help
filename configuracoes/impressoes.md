@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-04T21:02:17.332Z
+date: 2026-09-08T16:52:33.701Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -35,8 +35,9 @@ Instale o serviço no computador que será utilizado para realizar as impressõe
 
 ![imp_auto2.png](/config/impressões/imp_auto2.png)
 
-Após a instalação, confirme que o serviço está em execução.
+Após a instalação, o serviço já estará em execução.
 
+> Caso ainda apresente a mensagem informando que o serviço não está em operação, verifique as configurações do navegador de internet utilizado. Se necessário, redefina as configurações do navegador e teste novamente. {.is-success}
 
 
 # Configurar a impressora padrão por documento
@@ -62,6 +63,8 @@ Selecione, na respectiva linha, a impressora que será utilizada para a impress�
 [INSERIR IMAGEM — Documento "Etiqueta" com uma impressora selecionada.]
 
 A definição é realizada individualmente. Assim, cada tipo de documento pode utilizar uma impressora diferente, conforme a necessidade da operação.
+
+
 
 
 
