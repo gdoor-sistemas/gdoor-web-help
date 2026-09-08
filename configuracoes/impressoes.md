@@ -1,8 +1,8 @@
 ---
 title: Impressões
 description: 
-published: false
-date: 2026-09-08T17:23:49.961Z
+published: true
+date: 2026-09-08T17:24:29.124Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
