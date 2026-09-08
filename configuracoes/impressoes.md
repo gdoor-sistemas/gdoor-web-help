@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-08T16:52:33.701Z
+date: 2026-09-08T17:21:09.800Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -35,16 +35,18 @@ Instale o serviço no computador que será utilizado para realizar as impressõe
 
 ![imp_auto2.png](/config/impressões/imp_auto2.png)
 
-Após a instalação, o serviço já estará em execução.
+Após a instalação, o serviço já estará em execução e uma mensagem será apresentada solicitando a **"Permissão"** deste recurso.
 
-> Caso ainda apresente a mensagem informando que o serviço não está em operação, verifique as configurações do navegador de internet utilizado. Se necessário, redefina as configurações do navegador e teste novamente. {.is-success}
+![imp_auto3.png](/config/impressões/imp_auto3.png)
+
+> Quando o agente de impressão não estiver instalado ou não estiver em execução, o sistema apresentará uma mensagem "Agente de impressão direta não encontrado". Verifique as configurações do navegador de internet utilizado. Se necessário, redefina as configurações do navegador e teste novamente. {.is-success}
 
 
 # Configurar a impressora padrão por documento
 
 Na seção **"Impressoras padrão por documento"**, localize o documento que receberá a configuração.
 
-[INSERIR IMAGEM — Seção "Impressoras padrão por documento", mostrando a lista de documentos disponíveis.]
+![imp_auto5.png](/config/impressões/imp_auto5.png)
 
 A lista pode apresentar documentos como:
 
@@ -60,72 +62,21 @@ A lista pode apresentar documentos como:
 
 Selecione, na respectiva linha, a impressora que será utilizada para a impressão do documento.
 
-[INSERIR IMAGEM — Documento "Etiqueta" com uma impressora selecionada.]
+> A definição é realizada individualmente. Assim, cada tipo de documento pode utilizar uma impressora diferente, conforme a necessidade da operação. {.is-info}
 
-A definição é realizada individualmente. Assim, cada tipo de documento pode utilizar uma impressora diferente, conforme a necessidade da operação.
+![imp_auto4.png](/config/impressões/imp_auto4.png)
+
+Para cada tipo de documento, realize as configurações:
+
+- Marque a opção de **envio direto na linha correspondente ao documento**;
+- Selecione a **impressora que receberá o documento**;
+- Informe a **quantidade de cópias** que deverá ser impressa sempre que o documento for enviado diretamente ao agente.
+
+> Configure o envio direto apenas nos documentos que normalmente precisam ser **impressos imediatamente**. Os demais documentos podem permanecer com o processo de impressão manual. Por exemplo, o **"Pedido de venda"** pode ser configurado para envio automático, enquanto o **"Orçamento"** permanece disponível apenas para impressão manual.{.is-success}
+
+![imp_auto6.png](/config/impressões/imp_auto6.png)
+
+Ao final da configuração, clique em **"Salvar"** e inicie a utilização.
 
 
 
-
-
-#  Ativar o envio direto para um documento
-
-Depois de instalar e iniciar o agente de impressão, acesse novamente a seção "Impressoras padrão por documento" e localize o documento que receberá a configuração.
-
-[INSERIR IMAGEM — Lista de documentos, destacando a opção de envio direto para impressão.]
-
-Marque a opção de envio direto na linha correspondente ao documento.
-
-Ao posicionar o cursor sobre a opção, o sistema apresenta a descrição "Envia documento diretamente ao agente de impressão após a autorização".
-
-Com a opção marcada, o documento será enviado automaticamente ao agente de impressão quando a operação for concluída, sem apresentar a janela de impressão do navegador.
-
-Na mesma linha, selecione a impressora que receberá o documento.
-
-[INSERIR IMAGEM — Documento configurado com a opção de envio direto marcada e a impressora selecionada.]
-
-DICA: Configure o envio direto apenas nos documentos que normalmente precisam ser impressos imediatamente. Os demais documentos podem permanecer com o processo de impressão manual.
-
-# Definir a quantidade de cópias
-
-Ao ativar o envio direto para um documento, será disponibilizado o campo "Cópias" na respectiva linha.
-
-[INSERIR IMAGEM — Documento configurado para impressão direta, destacando o campo "Cópias".]
-
-Informe a quantidade de cópias que deverá ser impressa sempre que o documento for enviado diretamente ao agente.
-
-Por exemplo, um "Pedido de venda" pode ser configurado para imprimir duas cópias, permitindo manter uma via para a empresa e entregar outra ao cliente.
-
-INFORMAÇÃO: A quantidade de cópias é definida individualmente para cada tipo de documento. O número informado para um documento não altera a quantidade de cópias dos demais.
-
-# Configurar o envio direto individualmente
-
-A configuração da impressão direta é independente para cada documento.
-
-Por exemplo, o "Pedido de venda" pode ser configurado para envio automático, enquanto o "Orçamento" permanece disponível apenas para impressão manual.
-
-[INSERIR IMAGEM — Exemplo de documentos com configurações diferentes, destacando um documento com envio direto ativo e outro sem a configuração.]
-
-Dessa forma, é possível adequar a impressão ao fluxo de cada operação, definindo quais documentos devem ser enviados automaticamente para a impressora.
-
-# Verificar o agente de impressão
-
-Quando o agente de impressão não estiver instalado ou não estiver em execução, o sistema apresentará uma mensagem antes da tentativa de impressão.
-
-[INSERIR IMAGEM — Mensagem "Agente de impressão direta não encontrado".]
-
-ATENÇÃO: Ao receber a mensagem "Agente de impressão direta não encontrado", verifique se o serviço foi instalado corretamente e se está em execução no computador utilizado para realizar a impressão.
-
-Também é necessário confirmar se a impressora configurada para o documento está disponível e instalada no mesmo computador em que o agente de impressão está sendo executado.
-
-# Resultado da configuração
-
-Com o serviço de impressão direta configurado, os documentos selecionados podem ser enviados automaticamente para as respectivas impressoras.
-
-A configuração permite definir, individualmente para cada documento:
-
-A impressora utilizada;
-O envio direto para o agente de impressão;
-A quantidade de cópias.
-
-Dessa forma, documentos que exigem impressão imediata podem ser enviados automaticamente, enquanto os demais permanecem disponíveis para impressão manual conforme a necessidade da operação.
