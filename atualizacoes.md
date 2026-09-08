@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-04T19:22:49.967Z
+date: 2026-09-08T16:59:49.262Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 48
-- Ajustes: 141
+- Ajustes: 142
 
-**Total: 189**
+**Total: 190**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 08/09/2026
+f2.11.264 {.versions}
+
+## Ajustes
+- Ajustado layout de impressão da pré-venda quando configurada a impressão direta.
+
 # 04/09/2026
 f2.11.263, b3.10.520 {.versions}
 
