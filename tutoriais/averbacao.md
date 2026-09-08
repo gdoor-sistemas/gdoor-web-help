@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-08T19:26:19.119Z
+date: 2026-09-08T20:23:33.177Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -49,7 +49,14 @@ A averbação de seguro é disponibilizada como um recurso adicional do módulo 
 
 > A ativação pode ser realizada inicialmente em período de teste de 15 dias. Após esse período, a continuidade da utilização depende da ativação do recurso pela revenda. {.is-success}
 
-Acesse o módulo **"Transporte"**, selecione **"MDF-e"** e localize **"Configurações do MDF-e"**. Na seção **"Averbação"**, configure os campos:
+Acesse o módulo **"Transporte"**, selecione **"MDF-e"** e localize **"Configurações do MDF-e"**. 
+
+![averba2.png](/transporte/averba2.png)
+
+
+Na seção **"Averbação"**, configure os campos:
+
+![averba3.png](/transporte/averba3.png)
 
 - **Seguradora:** selecione **"ATM"** como integração.
 - **Usuário ATM:** identificação utilizada para acesso à AT&M (ATM).
@@ -58,31 +65,23 @@ Acesse o módulo **"Transporte"**, selecione **"MDF-e"** e localize **"Configura
 
 [INSERIR IMAGEM — Configuração da AT&M, destacando os campos "Usuário", "Senha" e "Código".]
 
-Salve a configuração para permitir a comunicação entre o GWeb e a AT&M (ATM).
+**Salve** a configuração para permitir a comunicação entre o GWeb e a AT&M (ATM).
 
 > Utilize os mesmos dados fornecidos para a operação da empresa na plataforma da AT&M (ATM). Antes de iniciar a utilização, confirme se as credenciais estão corretas e habilitadas para o serviço de averbação.{.is-warning}
 
 # Configurar o envio automático
 
-Depois de configurar as credenciais da AT&M, defina como as averbações serão realizadas.
+A configuração permite automatizar o envio quando um documento for autorizado. Marque a opção de averbação automática para enviar as informações à AT&M no momento da autorização do documento.
 
-A configuração permite automatizar o envio quando um documento for autorizado.
+![averba4.png](/transporte/averba4.png)
 
-[INSERIR IMAGEM — Configuração da averbação, destacando a opção de realizar automaticamente a averbação após a autorização do documento.]
+Com essa configuração ativa, o GWeb realiza automaticamente a solicitação de averbação ao autorizar os documentos compatíveis com o recurso. O processo pode ser utilizado em documentos como:
+- **CT-e**;
+- **NF-e**;
+- **MDF-e**.
 
-Marque a opção de averbação automática para enviar as informações à AT&M no momento da autorização do documento.
 
-Com essa configuração ativa, o GWeb realiza automaticamente a solicitação de averbação ao autorizar os documentos compatíveis com o recurso.
-
-O processo pode ser utilizado em documentos como:
-
-CT-e;
-NF-e;
-MDF-e.
-
-Após o processamento, as informações retornadas pela integração ficam disponíveis no documento.
-
-> A automação evita a necessidade de realizar individualmente a averbação de cada documento pela plataforma da AT&M. {.is-info}
+> A automação evita a necessidade de realizar individualmente a averbação de cada documento pela plataforma da AT&M. {.is-success}
 
 # Configurar o cancelamento automático da averbação
 
