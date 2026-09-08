@@ -2,7 +2,7 @@
 title: Impressões
 description: 
 published: false
-date: 2026-09-08T17:21:09.800Z
+date: 2026-09-08T17:23:49.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T18:01:01.181Z
@@ -35,7 +35,7 @@ Instale o serviço no computador que será utilizado para realizar as impressõe
 
 ![imp_auto2.png](/config/impressões/imp_auto2.png)
 
-Após a instalação, o serviço já estará em execução e uma mensagem será apresentada solicitando a **"Permissão"** deste recurso.
+Após a instalação, o serviço será iniciado automaticamente e uma mensagem será apresentada solicitando a **"Permissão"** para utilização do recurso.
 
 ![imp_auto3.png](/config/impressões/imp_auto3.png)
 
@@ -66,17 +66,17 @@ Selecione, na respectiva linha, a impressora que será utilizada para a impress�
 
 ![imp_auto4.png](/config/impressões/imp_auto4.png)
 
-Para cada tipo de documento, realize as configurações:
+Para cada tipo de documento, configure:
 
-- Marque a opção de **envio direto na linha correspondente ao documento**;
-- Selecione a **impressora que receberá o documento**;
-- Informe a **quantidade de cópias** que deverá ser impressa sempre que o documento for enviado diretamente ao agente.
+- Marque a opção de **envio direto** na linha correspondente ao documento;
+- Selecione a **impressora** que será utilizada;
+- Informe a **quantidade de cópias** que deverá ser impressa sempre que o documento for enviado diretamente pelo agente de impressão.
 
 > Configure o envio direto apenas nos documentos que normalmente precisam ser **impressos imediatamente**. Os demais documentos podem permanecer com o processo de impressão manual. Por exemplo, o **"Pedido de venda"** pode ser configurado para envio automático, enquanto o **"Orçamento"** permanece disponível apenas para impressão manual.{.is-success}
 
 ![imp_auto6.png](/config/impressões/imp_auto6.png)
 
-Ao final da configuração, clique em **"Salvar"** e inicie a utilização.
+Ao concluir as configurações, clique em **"Salvar"** para aplicá-las.
 
 
 
