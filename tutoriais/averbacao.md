@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-08T20:34:39.144Z
+date: 2026-09-08T20:58:25.583Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -92,33 +92,27 @@ Também é possível configurar o cancelamento da averbação quando o documento
 
 Por exemplo, quando um CT-e já averbado for cancelado, o sistema poderá realizar automaticamente o cancelamento da averbação correspondente.
 
-
 > O funcionamento do cancelamento está relacionado às regras e ao processamento da integração. Valide o retorno da seguradora após a autorização ou cancelamento. O sistema não reenvia automaticamente em caso de instabilidade da API.{.is-warning}
 
 # Configurar as informações do seguro de carga
 
-Além das configurações da integração, o GWeb permite cadastrar previamente informações do seguro utilizadas com frequência nos documentos de transporte.
+As configurações de seguro permitem definir os dados da seguradora, do responsável pelo seguro e da apólice que serão utilizados como informações padrão na emissão do MDF-e.
 
-Essa configuração evita a necessidade de informar repetidamente os mesmos dados durante a emissão de cada MDF-e.
+Ainda na tela de **"Configurações do MDF-e"** e localize a seção **"Informações do seguro de carga"**.
 
-Acesse o módulo "MDF-e", selecione "Configurações" e localize a seção "Informações do seguro de carga".
+![info_seg1.png](/transporte/info_seg1.png){.is-success}
 
-[INSERIR IMAGEM — Tela de configurações do MDF-e, destacando a seção "Informações do seguro de carga".]
+Preencha os campos conforme as informações do seguro:
 
-Informe os dados utilizados nas operações de seguro, como:
-
-Responsável pelo seguro;
-Número da apólice;
-Seguradora;
-CNPJ da seguradora.
-
-[INSERIR IMAGEM — Configuração das informações do seguro de carga, mostrando os campos preenchidos.]
+- **Responsável pelo seguro:** selecione quem é o responsável pelo seguro do transporte. As opções correspondem ao emitente ou ao contratante do serviço de transporte.
+- **CNPJ/CPF do responsável pelo seguro:** informe o CNPJ ou CPF da pessoa ou empresa responsável pelo seguro.
+- **Nome da seguradora:** informe o nome da empresa responsável pelo seguro.
+- **CNPJ da seguradora:** informe o CNPJ da seguradora.
+- **Número da apólice:** informe o número da apólice de seguro utilizada no transporte.
 
 Salve as informações.
 
-Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice.
-
-> Mantenha o número da apólice atualizado. Mesmo quando as demais informações permanecem constantes, a apólice possui período de vigência e deve ser revisada sempre que houver alteração na contratação do seguro. {.is-success}
+> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice sempre atualizado. 
 
 # Utilizar a averbação na emissão dos documentos
 ## Averbação automática
