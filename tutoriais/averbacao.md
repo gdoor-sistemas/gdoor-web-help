@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-08T20:23:33.177Z
+date: 2026-09-08T20:34:39.144Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -71,7 +71,7 @@ Na seção **"Averbação"**, configure os campos:
 
 # Configurar o envio automático
 
-A configuração permite automatizar o envio quando um documento for autorizado. Marque a opção de averbação automática para enviar as informações à AT&M no momento da autorização do documento.
+A configuração permite automatizar o envio quando um documento for autorizado. Marque a opção de **averbação automática** para enviar as informações à AT&M no momento da autorização do documento.
 
 ![averba4.png](/transporte/averba4.png)
 
@@ -85,17 +85,15 @@ Com essa configuração ativa, o GWeb realiza automaticamente a solicitação de
 
 # Configurar o cancelamento automático da averbação
 
-Também é possível configurar o cancelamento da averbação quando o documento correspondente for cancelado.
+Também é possível configurar o cancelamento da averbação quando o documento correspondente for cancelado. Marque a opção de **cancelamento automático** para que o GWeb envie a solicitação de cancelamento da averbação quando o documento relacionado for cancelado.
 
-[INSERIR IMAGEM — Configuração da averbação, destacando a opção de cancelamento automático.]
+![averba5.png](/transporte/averba5.png) 
 
-Marque a opção de cancelamento automático para que o GWeb envie a solicitação de cancelamento da averbação quando o documento relacionado for cancelado.
 
 Por exemplo, quando um CT-e já averbado for cancelado, o sistema poderá realizar automaticamente o cancelamento da averbação correspondente.
 
-Essa configuração reduz a necessidade de acessar manualmente cada documento para solicitar o cancelamento da averbação.
 
-> O funcionamento do cancelamento está relacionado às regras e ao processamento da integração. Quando necessário, confirme a situação da averbação e do respectivo cancelamento junto à operação de seguro. {.is-warning}
+> O funcionamento do cancelamento está relacionado às regras e ao processamento da integração. Valide o retorno da seguradora após a autorização ou cancelamento. O sistema não reenvia automaticamente em caso de instabilidade da API.{.is-warning}
 
 # Configurar as informações do seguro de carga
 
