@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-04T17:46:58.496Z
+date: 2026-09-08T19:25:50.853Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -30,68 +30,31 @@ Antes de utilizar a integração no GWeb, é necessário possuir o cadastro e as
 
 Para utilizar a integração, inicialmente é necessário realizar o cadastro junto à [AT&M (ATM)](https://ww2.atmtec.com.br/) e obter as credenciais utilizadas para acessar o serviço de averbação.
 
-
+![averba1.png](/transporte/averba1.png)
 
 A configuração no GWeb utiliza os mesmos dados disponibilizados para acesso à operação da AT&M (ATM):
 
-Usuário;
-Senha;
-Código.
-
-[INSERIR IMAGEM — Portal ou tela da AT&M utilizada para acesso, demonstrando que o cadastro e as credenciais devem ser obtidos antes da configuração no GWeb.]
+- **Usuário;**
+- **Senha;**
+- **Código ATM.**
 
 A integração depende dessas credenciais para realizar a comunicação entre o GWeb e a AT&M (ATM).
 
 > O GWeb não realiza o cadastro da empresa junto à AT&M (ATM). Antes de configurar a integração, confirme com a AT&M quais dados devem ser utilizados e se o acesso está habilitado para a operação de averbação. {.is-warning}
-
-A AT&M (ATM) possui uma solução específica para averbação eletrônica de documentos, permitindo integrar o processo de emissão aos serviços de averbação.
-
-# Como funciona a averbação de seguro
-
-A averbação funciona como a comunicação das informações de um embarque à operação responsável pelo seguro.
-
-Os dados da carga e do transporte são enviados para processamento e, quando a averbação é realizada, é gerado um número que identifica aquela operação.
-
-Esse número pode ser utilizado nas informações de seguro dos documentos de transporte.
-
-O processo automatizado reduz a necessidade de acessar separadamente a plataforma de averbação para registrar manualmente cada operação.
-
-[INSERIR IMAGEM — Fluxo ilustrativo: emissão do documento no GWeb → envio das informações para a AT&M → processamento da averbação → retorno do número de averbação.]
-
-A integração com a AT&M (ATM) permite que esse processo seja realizado a partir da emissão dos documentos configurados no sistema.
-
-A legislação e as regras do seguro devem ser observadas conforme a operação e a cobertura contratada. Documentos como CT-e e MDF-e possuem funções fiscais distintas: o CT-e documenta digitalmente a prestação do serviço de transporte, enquanto o MDF-e vincula os documentos fiscais à operação de transporte.
 
 # Configurar a averbação de seguro
 ## Ativar o recurso
 
 A averbação de seguro é disponibilizada como um recurso adicional do módulo de MDF-e.
 
-A ativação pode ser realizada inicialmente em período de teste de 15 dias. Após esse período, a continuidade da utilização depende da ativação do recurso pela revenda.
+> A ativação pode ser realizada inicialmente em período de teste de 15 dias. Após esse período, a continuidade da utilização depende da ativação do recurso pela revenda. {.is-success}
 
-Acesse o módulo "MDF-e", selecione "Configurações" e localize a seção "Averbação de seguro".
+Acesse o módulo **"Transporte"**, selecione **"MDF-e"** e localize **"Configurações do MDF-e"**. Na seção **"Averbação"**, configure os campos:
 
-[INSERIR IMAGEM — Tela de configurações do MDF-e, destacando a seção ou o recurso "Averbação de seguro".]
-
-Selecione a opção disponível para ativar o recurso.
-
-Com o recurso ativo, será possível configurar a integração com a plataforma de averbação.
-
-> Inicialmente, a integração de averbação disponível no recurso é realizada com a AT&M (ATM). {.is-info}
-
-## Configurar a integração com a AT&M (ATM)
-
-Depois de ativar o recurso, acesse novamente as configurações do MDF-e e localize a seção "Averbação de seguro".
-
-[INSERIR IMAGEM — Configuração da averbação, mostrando as opções de integração disponíveis.]
-
-Selecione "ATM" como integração.
-
-Em seguida, informe as credenciais obtidas durante o cadastro na plataforma:
-
-Usuário: identificação utilizada para acesso à AT&M (ATM).
-Senha: senha utilizada na autenticação.
-Código: código disponibilizado para a operação de averbação.
+- **Seguradora:** selecione **"ATM"** como integração.
+- **Usuário ATM:** identificação utilizada para acesso à AT&M (ATM).
+- **Senha ATM:** senha utilizada na autenticação.
+- **Código ATM:** código disponibilizado para a operação de averbação.
 
 [INSERIR IMAGEM — Configuração da AT&M, destacando os campos "Usuário", "Senha" e "Código".]
 
