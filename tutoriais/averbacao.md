@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-08T20:58:25.583Z
+date: 2026-09-08T21:02:12.584Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
