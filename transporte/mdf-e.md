@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T18:00:09.428Z
+date: 2026-09-09T18:13:05.454Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -130,11 +130,9 @@ Para visualizar as "**opções**", clique nos três pontos. Será possível: **M
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Enquanto houver **rejeição** do MDF-e será possível **editá-lo**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar MDF-e**".
-
 Enquanto houver **rejeição** do MDF-e, será possível **editá-lo**. Para isso, clique em **"Editar MDF-e"**.
 
-Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **<Pré-visualizar XML** ou **Excluir**.
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
 
 ![Rejeição](/movimentos/mdf-e/rejeição.png)
 
@@ -150,16 +148,16 @@ Para visualizar as "**opções**", clique nos três pontos. Será possível: **M
 
 ## Buscar
 
-Para localizar um MDF-e, digite a informação desejada no campo de busca indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
-Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
-Para ordenar a lista por número ou data de emissão clique em "**ordenar**" (<em class="mdi mdi-sort"></em>).
-Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
+Para localizar um MDF-e, digite a informação desejada no campo de busca indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão **"Limpar a busca"**.
+Para aplicar ["Filtros"](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar) aprimorados, clique no botão **"Filtrar"**. 
+Para ordenar a lista por número ou data de emissão, clique em **"Ordenar"**.
+Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão **"Atualizar lista"**.
 
 ![Buscar](/movimentos/mdf-e/buscar.png)
 
 ## Filtrar
 
-Para fazer um filtro na lista, clique no botão "**filtro**" (<em class="mdi mdi-filter"></em>) e o painel será exibido:
+Para fazer um filtro na lista, clique no botão **"Filtro"** e o painel será exibido:
 
 ![Filtrar](/movimentos/mdf-e/filtrar.png)
 
@@ -192,7 +190,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ![Opções filtros](/movimentos/mdf-e/mais_opções_filtros.png)
 
-> Sempre que um filtro estiver aplicado, você verá o **botão de filtro na cor laranja**: 
+> Sempre que houver um filtro aplicado, o botão de filtro será exibido na **cor laranja**: 
 ![filtro aplicado](/movimentos/mdf-e/filtro-aplicado.png)
 {.is-success .gw .gw-tip}
 
@@ -204,7 +202,7 @@ O modo de contingência offline pode ser acessado pelo menu de acesso rápido, l
 
 ![Contingência desativada](/movimentos/mdf-e/desativada.png)
 
-Para ativar o modo de contingência, informe o "**motivo**" e clique em <span class="mat-button mdi "> confirmar</span>.
+Para ativar o modo de contingência, informe o "**Motivo**" e clique em **"Confirmar"**.
 
 ![Informe o motivo da entrada em contingência](/movimentos/mdf-e/conti.png)
 
@@ -230,20 +228,20 @@ Caso seja necessário enviar os **XMLs** de determinado mês para a **contabilid
 
 ![XML do mês](/movimentos/mdf-e/xml_do_mes.png)
 
-Informe o **mês** dos XMLs que deseja separar e, abaixo, marque os documentos fiscais desejados. Selecione também se deseja **baixar o arquivo** ou enviá-lo para o **e-mail da contabilidade** diretamente pelo GWeb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+Informe o **mês** dos XMLs que deseja separar e, em seguida, marque os documentos fiscais desejados. Selecione também se deseja **baixar o arquivo** ou enviá-lo para o **e-mail da contabilidade** diretamente pelo GWeb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
 
 Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
 
 ![Agendar envio do arquivo XML](/movimentos/mdf-e/agendar_arquivo_xml_mes.png)
 
 - **Dia do mês:** informe o dia em que o arquivo deverá ser gerado e enviado;
-- **E-mail**: E-mail de destino do envio dos XMLs;
-- **Nome**: Razão social ou nome do destinatário do e-mail;
-- **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
+- **E-mail**: informe o e-mail de destino dos XMLs;
+- **Nome**: informe a razão social ou o nome do destinatário do e-mail;
+- **Incluir XML**: selecione os arquivos dos quais deseja gerar os XMLs com base nos dados informados anteriormente.
 
 ## Encerrar MDF-e
 
-No menu de acesso rápido, localizado à direita da tela, clique em **"Encerrar MDF-e"**. A tela abaixo será exibida. Informe a "**Chave do documento**", "**Nº protocolo**", "**Município de encerramento**" e clique em **"Confirmar"**.
+No menu de acesso rápido, localizado à direita da tela, clique em **"Encerrar MDF-e"**. A tela será exibida. Informe a **"Chave do documento"**, o **"Nº protocolo"** e o **"Município de encerramento"** e clique em **"Confirmar"**.
 
 ![Encerrar MDF-e](/movimentos/mdf-e/encerrar.png)
 
@@ -251,7 +249,7 @@ No menu de acesso rápido, localizado à direita da tela, clique em **"Encerrar 
 
 As configurações do MDF-e são aplicadas a todos os usuários, e somente usuários com permissão podem alterá-las.
 
-> Cada seção possui seu próprio botão **Salvar**. Ao realizar alterações, é necessário salvar individualmente cada seção. {.is-warning}
+> Cada seção possui seu próprio botão **Salvar**. Ao realizar alterações, é necessário salvar cada seção individualmente. {.is-warning}
 
 ![config_mdfe1.png](/transporte/config_mdfe1.png)
 
@@ -272,7 +270,7 @@ Nesta seção são configuradas as informações utilizadas na emissão do MDF-e
 - **Ambiente de emissão:** define o ambiente utilizado para emissão dos MDF-e:
 	- **Homologação:** utilizado para testes. Os MDF-e transmitidos nesse ambiente não possuem validade fiscal.
 	- **Produção:** utilizado para as emissões oficiais. Os MDF-e transmitidos nesse ambiente possuem validade fiscal.
-- **Nº do próximo MDF-e:** informe um número nesse campo somente quando a empresa já realizava a emissão de MDF-e por outro sistema e for necessário continuar a sequência de numeração.
+- **Nº do próximo MDF-e:** informe um número nesse campo somente quando a empresa já realizava a emissão de MDF-e por outro sistema e seja necessário continuar a sequência de numeração.
 - **Forma de emissão:** define a forma de emissão do MDF-e. As opções disponíveis são:
 	- **Normal.**
 	- **Contingência offline.**
@@ -305,7 +303,7 @@ Preencha os campos conforme as informações do seguro:
 - **CNPJ da seguradora:** informe o CNPJ da seguradora.
 - **Número da apólice:** informe o número da apólice de seguro utilizada no transporte.
 
-> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice atualizado para evitar divergências nas informações do seguro. {.is-info}
+> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente dados que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice atualizado para evitar divergências nas informações do seguro. {.is-info}
 
 ## Opções de e-mail
 
@@ -329,15 +327,15 @@ Para alterar o modelo de mensagem, clique em **"Editar"** e cadastre a mensagem 
 
 ## Autorizados a baixar o XML
 
-Nesta seção, informe o CPF ou CNPJ de pessoas ou empresas autorizadas a realizar o download do **XML do MDF-e** pelo site da [SEFAZ](/glossario#sefaz), como, por exemplo, a contabilidade da empresa. 
+Nesta seção, informe o CPF ou CNPJ de pessoas ou empresas autorizadas a realizar o download do **XML do MDF-e** no site da [SEFAZ](/glossario#sefaz), como, por exemplo, a contabilidade da empresa. 
 
 ![config_mdfe7.png](/transporte/config_mdfe7.png)
 
-Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione **"Enter"** ou clique no botão à direita (seta). Para visualizar ou excluir documentos já adicionados, clique no botão **"Visualizar"**.
+Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione **"Enter"** ou clique no botão à direita (seta). Para visualizar ou excluir os documentos já adicionados, clique no botão **"Visualizar"**.
 
 ## Impressão do DAMDFe
 
-Nesta seção são configuradas as opções de impressão do DAMDFE.
+Nesta seção são configuradas as opções de impressão do DAMDFe.
 
 ![config_mdfe8.png](/transporte/config_mdfe8.png)
 
@@ -358,7 +356,7 @@ Nesta seção são configuradas as opções de impressão do DAMDFE.
 
 ## Informações adicionais
 
-Nesta seção pode ser cadastrada uma mensagem padrão para as informações adicionais dos MDF-e emitidos no GWeb.
+Nesta seção, pode ser cadastrada uma mensagem padrão para as informações adicionais dos MDF-e emitidos no GWeb.
 
 ![config_mdfe9.png](/transporte/config_mdfe9.png)
 
