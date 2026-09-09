@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:41:52.309Z
+date: 2026-09-09T17:52:33.902Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -143,7 +143,7 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-eye"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-file-code"></em> visualizar XML**.
+Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![MDF-e cancelado](/movimentos/mdf-e/cancelado.png)
 
@@ -225,30 +225,30 @@ Se desejar permanecer no modo de contingência, clique em **"Cancelar"**.
 
 ## XML do mês
 
-Caso seja necessário os **XML's** de determinado mês para enviar à **contabilidade**, pode utilizar a opção de **XML do mês** no Gweb.
+Caso seja necessário enviar os **XMLs** de determinado mês para a **contabilidade**, utilize a opção **"XML do mês"** no GWeb.
 
 ![XML do mês](/movimentos/mdf-e/xml_do_mes.png)
 
-Você pode informar o **mês** que deseja separar os XML’s e abaixo marque quais documentos fiscais que deseja. Também selecione se deseja **baixar o arquivo** ou fazer o envio para o **e-mail da contabilidade** diretamente pelo Gweb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
+Informe o **mês** dos XMLs que deseja separar e, abaixo, marque os documentos fiscais desejados. Selecione também se deseja **baixar o arquivo** ou enviá-lo para o **e-mail da contabilidade** diretamente pelo GWeb. Caso escolha a segunda opção, informe o **nome** e **e-mail** do contador.
 
 Clique na opção **Agendar Envio do XML** para abrir o formulário de agendamento de envio do XML do mês.
 
 ![Agendar envio do arquivo XML](/movimentos/mdf-e/agendar_arquivo_xml_mes.png)
 
-- **Dia do mês**: Informe o dia do mês para gerar e enviar o arquivo;
+- **Dia do mês:** informe o dia em que o arquivo deverá ser gerado e enviado;
 - **E-mail**: E-mail de destino do envio dos XMLs;
 - **Nome**: Razão social ou nome do destinatário do e-mail;
 - **Incluir XML**: Selecione os arquivos que deseja gerar o XML com base nos dados anteriores. 
 
 ## Encerrar MDF-e
 
-No menu de acesso rápido localizado a direita da tela, ao clicar em "**encerrar MDF-e**" a tela abaixo será exibida. Informe a "**chave do documento**", "**nº protocolo**", "**município de encerramento**" e clique em <span class="mat-button mdi "> confirmar</span>.
+No menu de acesso rápido, localizado à direita da tela, clique em **"Encerrar MDF-e"**. A tela abaixo será exibida. Informe a "**Chave do documento**", "**Nº protocolo**", "**Município de encerramento**" e clique em **"Confirmar"**.
 
 ![Encerrar MDF-e](/movimentos/mdf-e/encerrar.png)
 
 # Configurações 
 
-As configurações do MDF-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las.
+As configurações do MDF-e são aplicadas a todos os usuários, e somente usuários com permissão podem alterá-las.
 
 > Cada seção possui seu próprio botão **Salvar**. Ao realizar alterações, é necessário salvar individualmente cada seção. {.is-warning}
 
@@ -257,13 +257,13 @@ As configurações do MDF-e são gerais para todos os usuários e somente usuár
 
 ## Certificado digital
 
-O certificado digital utilizado para emissão do MDF-e deve ser configurado nas [Configurações gerais](/configuracoes/geral) do GWEB.
+O certificado digital utilizado para emissão do MDF-e deve ser configurado nas ["Configurações gerais"](/configuracoes/geral) do GWEB.
 
 ![config_mdfe2.png](/transporte/config_mdfe2.png)
 
 ## Ambiente do MDF-e
 
-Nesta seção são configuradas as informações utilizadas para a geração do MDF-e.
+Nesta seção são configuradas as informações utilizadas na emissão do MDF-e.
 
 ![config_mdfe3.png](/transporte/config_mdfe3.png)
 
@@ -271,7 +271,7 @@ Nesta seção são configuradas as informações utilizadas para a geração do 
 - **Ambiente de emissão:** define o ambiente utilizado para emissão dos MDF-e:
 	- **Homologação:** utilizado para testes. Os MDF-e transmitidos nesse ambiente não possuem validade fiscal.
 	- **Produção:** utilizado para as emissões oficiais. Os MDF-e transmitidos nesse ambiente possuem validade fiscal.
-- **Nº do próximo MDF-e:** informe um número nesse campo somente quando a empresa já realizava a emissão de MDF-e por outro sistema e seja necessário continuar a sequência de numeração.
+- **Nº do próximo MDF-e:** informe um número nesse campo somente quando a empresa já realizava a emissão de MDF-e por outro sistema e for necessário continuar a sequência de numeração.
 - **Forma de emissão:** define a forma de emissão do MDF-e. As opções disponíveis são:
 	- **Normal.**
 	- **Contingência offline.**
@@ -284,7 +284,7 @@ Nesta seção são configuradas as informações relacionadas à averbação dos
 
 - **Seguradora:** selecione a seguradora utilizada para realizar a averbação.
 
-- **Averbar automaticamente o autorizador:** quando habilitada, essa opção permite realizar automaticamente a averbação do documento quando o autorizador retornar com status 100.
+- **Averbar automaticamente o autorizador:** quando habilitada, essa opção realiza automaticamente a averbação do documento quando o autorizador retornar o status.
 
 - **Cancelar averbação automaticamente:** quando habilitada, essa opção permite realizar automaticamente o cancelamento da averbação quando o documento fiscal for cancelado.
 
@@ -292,7 +292,7 @@ Nesta seção são configuradas as informações relacionadas à averbação dos
 
 ## Informações de seguro padrão do MDF-e
 
-As configurações de seguro permitem definir os dados da seguradora, do responsável pelo seguro e da apólice que serão utilizados como informações padrão na emissão do MDF-e.
+As configurações de seguro permitem definir os dados da seguradora, do responsável pelo seguro e da apólice que serão utilizados como padrão na emissão do MDF-e.
 
 ![info_seg1.png](/transporte/info_seg1.png){.is-success}
 
@@ -304,7 +304,7 @@ Preencha os campos conforme as informações do seguro:
 - **CNPJ da seguradora:** informe o CNPJ da seguradora.
 - **Número da apólice:** informe o número da apólice de seguro utilizada no transporte.
 
-> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice sempre atualizado. {.is-info}
+> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice atualizado para evitar divergências nas informações do seguro. {.is-info}
 
 ## Opções de e-mail
 
@@ -312,10 +312,10 @@ Nesta seção são configuradas as opções para envio do MDF-e por e-mail.
 
 ![config_mdfe5.png](/transporte/config_mdfe5.png)
 
-- **Enviar e-mail automaticamente:** quando habilitada, permite enviar o e-mail automaticamente ao tomador do MDF-e depois da autorização do documento.
+- **Enviar e-mail automaticamente:** quando habilitada, envia automaticamente o e-mail ao tomador do MDF-e após a autorização do documento.
 - **Cópia para o emitente:** quando habilitada, envia uma cópia do e-mail para o endereço do emitente.
 - **Anexar PDF:** quando habilitada, adiciona o PDF do MDF-e como anexo ao e-mail.
-- **Enviar cópia para os condutores:** quando habilitada, envia uma cópia do e-mail para os condutores informados no MDF-e.
+- **Enviar cópia para os condutores:** quando habilitada, envia uma cópia do e-mail aos condutores informados no MDF-e.
 
 ## E-mails padrão
 
@@ -328,15 +328,15 @@ Para alterar o modelo de mensagem, clique em **"Editar"** e cadastre a mensagem 
 
 ## Autorizados a baixar o XML
 
-Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do MDF-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
+Nesta seção, informe o CPF ou CNPJ de pessoas ou empresas autorizadas a realizar o download do **XML do MDF-e** pelo site da [SEFAZ](/glossario#sefaz), como, por exemplo, a contabilidade da empresa. 
 
 ![config_mdfe7.png](/transporte/config_mdfe7.png)
 
-Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
+Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione **"Enter"** ou clique no botão à direita (seta). Para visualizar ou excluir documentos já adicionados, clique no botão **"Visualizar"**.
 
 ## Impressão do DAMDFe
 
-Nesta seção são configuradas as características de impressão do DAMDFE.
+Nesta seção são configuradas as opções de impressão do DAMDFE.
 
 ![config_mdfe8.png](/transporte/config_mdfe8.png)
 
