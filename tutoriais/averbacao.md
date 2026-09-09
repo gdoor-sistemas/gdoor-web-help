@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-09T19:30:26.388Z
+date: 2026-09-09T19:30:55.521Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -121,11 +121,10 @@ Quando a averbação automática não estiver configurada ou quando for necessá
 
 Localize o documento e utilize a opção **"Averbar"**.
 
-> Caso o documento estiver **"Averdabo"**, a opção disponível será referente ao **cancelamento**. Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento. {.is-success}
-
 ![config_mdfe10.png](/transporte/config_mdfe10.png)
 
 O GWeb envia a solicitação para a integração configurada.
 
 Depois da conclusão do processo, o documento passa a apresentar a indicação de que está averbado.
 
+> Caso o documento estiver **"Averdabo"**, a opção disponível será referente ao **cancelamento**. Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento. {.is-success}
