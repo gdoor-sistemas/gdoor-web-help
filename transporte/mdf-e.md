@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:52:33.902Z
+date: 2026-09-09T18:00:09.428Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -23,7 +23,7 @@ Para criar um MDF-e, existem duas opções:
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
 
-Todas as opções acima estão indicadas na imagem abaixo:
+As opções estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
 
@@ -31,7 +31,7 @@ Também é possível gerar um MDF-e a partir da **NF-e**. Dessa forma, todas as 
 
 ![NF-e gerar MDF-e](/movimentos/mdf-e/nf-e.gif)
 
-A emissão é dividida em 4 etapas: **Geral**, **Modal rodoviário**, **Documentos** e **Seguro**, sendo possível navegar entre elas.
+A emissão é dividida em quatro etapas: **Geral**, **Modal rodoviário**, **Documentos** e **Seguro**, sendo possível navegar entre elas.
 
 Veja abaixo os campos disponíveis para preenchimento. Alguns campos não são obrigatórios. Em caso de dúvida, consulte a contabilidade da empresa.
 
@@ -41,14 +41,14 @@ Esta seção reúne os dados gerais referentes ao transporte e à localização 
 
 ![Geral](/movimentos/mdf-e/aba_gerall.png)
 
-- **UF**: do início do carregamento (campo obrigatório);
-- **Município**: do término do transporte (campo obrigatório);
+- **UF**: informe a UF de início do carregamento (campo obrigatório);
+- **Município**: informe o município de término do transporte (campo obrigatório);
 - **Início da viagem**: data e horário de partida;
 - **Unidade de medida:** selecione a unidade utilizada para informar o peso bruto da carga, em KG ou TON (campo obrigatório);
 - **Peso bruto**: total da carga;
 - **Valor total**: da mercadoria/carga transportada;
 - **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
-- **Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
+- **Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum **"documento"**, possibilitando adicionar **"NF-e por evento"** posteriormente.”
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
 ## Aba modal rodoviário
@@ -62,9 +62,8 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 - **CEP carregamento**: onde foi carregado o MDF-e;
 - **CEP descarregamento**: onde será descarregado o MDF-e;
 - **Descrição do produto**: predominante na carga (campo obrigatório);
-- **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
 - **NCM**: informe o NCM do produto predominante;
-- **Condutores**: selecione uma pessoa cadastrada como condutora (campo obrigatório);
+- **Condutores**: selecione uma pessoa cadastrada como [condutora](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
 - **Informações de pagamento:** informe os componentes e a forma de pagamento do transporte;
 ![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
 - **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
@@ -75,7 +74,7 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 
 ## Aba documentos
 
-- **Documentos transportados**: importe o "**XML**" ou informe a "**chave**" dos documentos transportados  (campo obrigatório);
+- **Documentos transportados**: importe o **"XML"** ou informe a **"chave"** dos documentos a serem transportados (campo obrigatório);”
 - **Outras informações**: informações adicionais e de interesse do Fisco.
 
 ![Documentos](/movimentos/mdf-e/documentoss.png)
@@ -103,7 +102,7 @@ Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>
 
 Enquanto o MDF-e estiver **pendente**, será possível **editá-lo**. Para isso, clique em **"Editar MDF-e"**.
 
-Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
 
 ![MDF-e pendente](/movimentos/mdf-e/pendente.png)
 
@@ -113,17 +112,17 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Consultar status**, **Encerrar**, **Cancelar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Consultar status**, **Encerrar**, **Cancelar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![Autorizado o uso do MDF-e](/movimentos/mdf-e/autorizado_o_uso.png)
 
 ### MDF-e encerrado
 
-Nesta etapa as edições não são permitidas.
+Nesta etapa, as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![MDF-e encerrado](/movimentos/mdf-e/encerrado.png)
 
@@ -133,7 +132,9 @@ Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>
 
 Enquanto houver **rejeição** do MDF-e será possível **editá-lo**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar MDF-e**".
 
-Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **<Pré-visualizar XML** ou **Excluir**.
+Enquanto houver **rejeição** do MDF-e, será possível **editá-lo**. Para isso, clique em **"Editar MDF-e"**.
+
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **<Pré-visualizar XML** ou **Excluir**.
 
 ![Rejeição](/movimentos/mdf-e/rejeição.png)
 
@@ -143,7 +144,7 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
+Para visualizar as "**opções**", clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![MDF-e cancelado](/movimentos/mdf-e/cancelado.png)
 
