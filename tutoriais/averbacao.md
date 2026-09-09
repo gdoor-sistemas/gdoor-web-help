@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-09T19:44:21.626Z
+date: 2026-09-09T19:45:26.580Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -128,4 +128,4 @@ O GWeb envia a solicitação à integração configurada.
 
 Após a conclusão do processo, o documento passa a apresentar a indicação de que está averbado.
 
-> Caso o documento estiver **"Averdabo"**, a opção disponível será referente ao **cancelamento**. Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento. {.is-success}
+> Caso o documento esteja **"Averbado"**, a opção disponível será referente ao **cancelamento**. Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento. {.is-success}
