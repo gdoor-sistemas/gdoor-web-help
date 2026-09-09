@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:40:33.602Z
+date: 2026-09-09T17:41:52.309Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -123,7 +123,7 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-pdf"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-xml"></em> visualizar XML**.
+Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![MDF-e encerrado](/movimentos/mdf-e/encerrado.png)
 
@@ -133,7 +133,7 @@ Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>
 
 Enquanto houver **rejeição** do MDF-e será possível **editá-lo**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar MDF-e**".
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DAMDF-e**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
+Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **<Pré-visualizar XML** ou **Excluir**.
 
 ![Rejeição](/movimentos/mdf-e/rejeição.png)
 
