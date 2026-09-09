@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:07:29.952Z
+date: 2026-09-09T17:23:03.922Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -304,13 +304,31 @@ Preencha os campos conforme as informações do seguro:
 
 > Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice sempre atualizado. {.is-info}
 
+## Opções de e-mail
+
+Nesta seção são configuradas as opções para envio do MDF-e por e-mail.
+
+![config_mdfe5.png](/transporte/config_mdfe5.png)
+
+- **Enviar e-mail automaticamente:** quando habilitada, permite enviar o e-mail automaticamente ao tomador do MDF-e depois da autorização do documento.
+- **Cópia para o emitente:** quando habilitada, envia uma cópia do e-mail para o endereço do emitente.
+- **Anexar PDF:** quando habilitada, adiciona o PDF do MDF-e como anexo ao e-mail.
+- **Enviar cópia para os condutores:** quando habilitada, envia uma cópia do e-mail para os condutores informados no MDF-e.
+
+## E-mails padrão
+
+Nesta seção são configurados os modelos de e-mail utilizados no envio dos documentos.
+
+Para alterar o modelo de mensagem, clique em **"Editar"** e cadastre a mensagem correspondente ao e-mail do MDF-e.
+
+![config_mdfe6.png](/transporte/config_mdfe6.png)
 
 
 ## Autorizados a baixar o XML
 
 Nesta seção você informa o CPF ou CNPJ de pessoas ou empresas autorizadas a fazer o download do [XML](/glossario#xml) do MDF-e pelo site da [SEFAZ](/glossario#sefaz), por exemplo, a contabilidade da sua empresa. 
 
-![Autorizados a baixar o XML](/movimentos/mdf-e/auto.png)
+![config_mdfe7.png](/transporte/config_mdfe7.png)
 
 Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adicionar um documento, digite o número no campo intitulado "**Adicionar CNPJ/CPF**" e pressione <kbd>Enter</kbd> ou clique no botão à direita (<em class="mdi mdi-arrow-right"></em>). Para visualizar ou excluir documentos já adicionados, clique no botão [<em class="mdi mdi-eye"></em>].
 
@@ -318,7 +336,7 @@ Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adic
 
 Nesta seção você configura detalhes sobre a impressão do DAMDFe. 
 
-![Impressão do DAMDFe](/movimentos/mdf-e/impressao.png)
+![config_mdfe8.png](/transporte/config_mdfe8.png)
 
 Veja o que pode ser alterado:
 
@@ -336,9 +354,11 @@ Define a posição da logomarca, **centralizada**, à **esquerda** ou à **direi
 
 ## Informações adicionais
 
-Nesta seção você pode informar um texto padrão para as informações adicionais dos MDF-es que emitir no GWEB.
+Nesta seção pode ser cadastrada uma mensagem padrão para as informações adicionais dos MDF-e emitidos no GWeb.
 
-![Informações adicionais do MDF-e](/movimentos/mdf-e/infos_adicionais.png)
+![config_mdfe9.png](/transporte/config_mdfe9.png)
+
+> Utilize essa configuração para informações que precisam ser apresentadas de forma padronizada nos MDF-e, evitando a necessidade de informar o mesmo texto manualmente em cada emissão. {.is-success}
 
 ## Vídeo
 
