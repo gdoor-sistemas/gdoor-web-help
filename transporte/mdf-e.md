@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:39:33.489Z
+date: 2026-09-09T17:40:33.602Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -103,7 +103,7 @@ Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>
 
 Enquanto o MDF-e estiver **pendente**, será possível **editá-lo**. Para isso, clique em **"Editar MDF-e"**.
 
-Para visualizar as "**opções**" clique em nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
+Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
 
 ![MDF-e pendente](/movimentos/mdf-e/pendente.png)
 
@@ -113,7 +113,7 @@ Nesta etapa as edições não são permitidas.
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-refresh-circle"></em> consultar status**, **<em class="mdi mdi-file-cancel-outline"></em> encerrar**, **<em class="mdi mdi-cancel"></em> cancelar**, **<em class="mdi mdi-file-pdf"></em> visualizar DAMDF-e** ou **<em class="mdi mdi-xml"></em> visualizar XML**.
+Para visualizar as "**opções**" clique nos três pontos. Será possível: **Marcar**, **Consultar status**, **Encerrar**, **Cancelar**, **Visualizar DAMDF-e** ou **Visualizar XML**.
 
 ![Autorizado o uso do MDF-e](/movimentos/mdf-e/autorizado_o_uso.png)
 
