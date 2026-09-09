@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T14:00:10.918Z
+date: 2026-09-09T14:23:55.776Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -246,39 +246,33 @@ No menu de acesso rápido localizado a direita da tela, ao clicar em "**encerrar
 
 # Configurações 
 
-As configurações do MDF-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las. Ao alterar cada seção, **você precisará clicar em "Salvar" individualmente**. 
+As configurações do MDF-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las.
+
+> Cada seção possui seu próprio botão **Salvar**. Ao realizar alterações, é necessário salvar individualmente cada seção. {.is-warning}
 
 ![config_mdfe1.png](/transporte/config_mdfe1.png)
-
-Veja abaixo os detalhes de cada seção/configuração.
 
 
 ## Certificado digital
 
-Para configurar o certificado digital para emissão de MDF-e, acesse as [Configurações gerais](/configuracoes/geral) do GWEB.
+O certificado digital utilizado para emissão do MDF-e deve ser configurado nas [Configurações gerais](/configuracoes/geral) do GWEB.
 
+![config_mdfe2.png](/transporte/config_mdfe2.png)
 
 ## Ambiente do MDF-e
 
-Nesta seção você configura dados para a geração do MDF-e. Abaixo, veja detalhes de cada configuração.
+Nesta seção são configuradas as informações utilizadas para a geração do MDF-e.
 
-![Ambiente do MDF-e](/movimentos/mdf-e/ambiente.png)
+![config_mdfe3.png](/transporte/config_mdfe3.png)
 
-Série do MDF-e{.subtitle}
-
-Série de emissão do MDF-e. Esta informação pode ser obtida com sua contabilidade.
-
-Ambiente de emissão{.subtitle}
-
-Aqui você determina se os MDF-e terão validade fiscal ou não. O ambiente de **homologação** é usado para testar a emissão, e tudo o que você transmitir será sem valor. Já no ambiente de **produção**, os MDF-e transmitidos terão valor fiscal.
-
-Nº do próximo MDF-e{.subtitle}
-
-Apenas informe um número neste campo se sua empresa já emitia MDF-e por outro sistema, assim você poderá continuar a numeração de onde parou. Ao salvar um número neste campo, o próximo MDF-e será gerado com esse número e os subsequentes terão o número sequencial.
-
-Forma de emissão{.subtitle}
-
-Neste campo você pode configurar a forma de emissão do MDF-e: "**normal**" ou "**contingência offline**".
+- **Série do MDF-e:** informe a série utilizada para emissão do MDF-e.
+- **Ambiente de emissão:** define o ambiente utilizado para emissão dos MDF-e:
+	- **Homologação:** utilizado para testes. Os MDF-e transmitidos nesse ambiente não possuem validade fiscal.
+	- **Produção:** utilizado para as emissões oficiais. Os MDF-e transmitidos nesse ambiente possuem validade fiscal.
+- **Nº do próximo MDF-e:** informe um número nesse campo somente quando a empresa já realizava a emissão de MDF-e por outro sistema e seja necessário continuar a sequência de numeração.
+- **Forma de emissão:** define a forma de emissão do MDF-e. As opções disponíveis são:
+	- **Normal.**
+	- **Contingência offline.**
 
 ## Autorizados a baixar o XML
 
