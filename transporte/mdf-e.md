@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T17:23:03.922Z
+date: 2026-09-09T17:39:33.489Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -10,15 +10,15 @@ dateCreated: 2022-08-08T14:14:20.352Z
 
 # Introdução
 
-O MDF-e efetua o **agrupamento de todos os documentos fiscais transportados na carga** e é necessário no transporte de mercadorias interestaduais e/ou vários estados.
+O MDF-e realiza o **agrupamento dos documentos fiscais transportados na carga** e é utilizado no transporte de mercadorias entre diferentes estados.
 
-O módulo é destinado a micro e pequenas empresas de comércio, as quais possuem veículos próprios para entrega direta no destinatário ou recebedor.
+O módulo é destinado a micro e pequenas empresas do comércio que possuem veículos próprios para realizar entregas diretamente ao destinatário ou recebedor.
 
 ![Visão geral](/movimentos/mdf-e/1_visao_geral.png)
 
 # Novo MDF-e
 
-Para criar um MDF-e, você pode:
+Para criar um MDF-e, existem duas opções:
 
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no canto direito inferior da tela inicial do MDF-e;
 - Clicar no botão de adição (<em class="mdi mdi-plus"></em>) no painel lateral do MDF-e, ao lado do acesso à lista.
@@ -27,27 +27,28 @@ Todas as opções acima estão indicadas na imagem abaixo:
 
 ![Novo MDF-e](/movimentos/mdf-e/novo.png)
 
-Também é possível gerar um MDF-e a partir da **NF-e**, desta forma, todas as informações contidas na NF-e serão importadas para o MDF-e:
+Também é possível gerar um MDF-e a partir da **NF-e**. Dessa forma, todas as informações contidas na NF-e serão importadas para o MDF-e:
 
 ![NF-e gerar MDF-e](/movimentos/mdf-e/nf-e.gif)
 
-A emissão é dividida em 4 abas: [geral](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-geral), [modal rodoviário](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-modal-rodovi%C3%A1rio), [documentos](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-documentos) e [seguro](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#aba-seguro), sendo possível navegar entre elas. 
-Veja abaixo os campos para preenchimento, alguns campos não são obrigatórios, em caso de dúvida é possível consultar o contador da sua empresa.
+A emissão é dividida em 4 etapas: **Geral**, **Modal rodoviário**, **Documentos** e **Seguro**, sendo possível navegar entre elas.
+
+Veja abaixo os campos disponíveis para preenchimento. Alguns campos não são obrigatórios. Em caso de dúvida, consulte a contabilidade da empresa.
 
 ## Aba geral
 
-Aba destinada aos dados gerais referentes ao transporte e localização do MDF-e, os campos disponíveis nesta aba são:
+Esta seção reúne os dados gerais referentes ao transporte e à localização do MDF-e. Os campos disponíveis são:
 
 ![Geral](/movimentos/mdf-e/aba_gerall.png)
 
 - **UF**: do início do carregamento (campo obrigatório);
 - **Município**: do término do transporte (campo obrigatório);
 - **Início da viagem**: data e horário de partida;
-- **Unidade de medida**: peso bruto da carga KG ou TON (campo obrigatório);
+- **Unidade de medida:** selecione a unidade utilizada para informar o peso bruto da carga, em KG ou TON (campo obrigatório);
 - **Peso bruto**: total da carga;
 - **Valor total**: da mercadoria/carga transportada;
 - **UF de percurso**: informe as UF a serem percorridas conforme a ordem da rota;
-- **<em class="mdi mdi-checkbox-blank-outline"></em> Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
+- **Carregamento posterior**: ao marcar o checkbox, será possível transmitir o MDF-e sem informar nenhum "**documento**", possibilitando adicionar "**NF-e por evento**" posterior.
 - **Municípios de carregamento**: informe os municípios de carregamento conforme a ordem da rota.
 
 ## Aba modal rodoviário
@@ -63,8 +64,8 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 - **Descrição do produto**: predominante na carga (campo obrigatório);
 - **Condutores**: adicione o [condutor](https://help.gdoorweb.com.br/pt-br/cadastros/pessoas#atributos) (campo obrigatório);
 - **NCM**: informe o NCM do produto predominante;
-- **Condutores**: Selecione uma pessoa cadastrada como condutora.
-- **Informações de pagamento**: inclua os componentes do pagamento e a forma de pagamento do transporte;
+- **Condutores**: selecione uma pessoa cadastrada como condutora (campo obrigatório);
+- **Informações de pagamento:** informe os componentes e a forma de pagamento do transporte;
 ![19_formulario_pagamento.png](/movimentos/mdf-e/19_formulario_pagamento.png)
 - **CIOT**: informe o número do CIOT e CPF/CNPJ do responsável pela geração do CIOT;
 - **Reboques**: adicione informações dos reboques;
@@ -85,13 +86,13 @@ Aba destinada ao cadastro do modal rodoviário, referente ao transporte, produto
 
 ![Seguro](/movimentos/mdf-e/aba_seguro.png)
 
-Para concluir, clique na opção desejada <span class="mat-button mdi "> salvar e transmitir</span> ou apenas <span class="mat-button mat-accent mdi "> salvar</span> o MDF-e.
+Para concluir, clique na opção desejada para **salvar** ou **transmitir** o MDF-e.
 
 # Lista
 
-Na lista, você visualiza os MDF-e emitidos, podendo efetuar uma [busca](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#buscar) ou [filtrar](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar)  informações para visualizar apenas dados pertinentes ao que você precisa.
+Na lista, são apresentados os MDF-e emitidos. É possível realizar uma **busca** ou aplicar **filtros** para localizar as informações necessárias.
 
-> Na barra superior do quadro lista, temos o controle de paginação, que permite escolher a quantidade de itens que serão exibidos "por página", além de poder navegar entre elas **< >**.
+> Na barra superior da lista, está disponível o controle de paginação, que permite definir a quantidade de itens exibidos por página e navegar entre elas pelos botões **< >**.
 {.is-info}
 
 As informações mostradas variam de acordo com a situação atual do documento exibido na lista, veja mais detalhes abaixo:
@@ -100,9 +101,9 @@ As informações mostradas variam de acordo com a situação atual do documento 
 
 Para **duplicar o MDF-e** clique em (<em class="mdi mdi-content-duplicate"></em>).
 
-Note que enquanto o MDF-e estiver **pendente** será possível **editá-lo**, basta clicar em (<em class="mdi mdi-pencil"></em>) para "**editar MDF-e**".
+Enquanto o MDF-e estiver **pendente**, será possível **editá-lo**. Para isso, clique em **"Editar MDF-e"**.
 
-Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"></em>). Será possível: **<em class="mdi mdi-checkbox-marked"></em> marcar**, **<em class="mdi mdi-file-send"></em> transmitir**, **<em class="mdi mdi-file-eye"></em> pré-visualizar DAMDF-e**, **<em class="mdi mdi-file-code"></em> pré-visualizar XML** ou **<em class="mdi mdi-delete"></em> excluir**.
+Para visualizar as "**opções**" clique em nos três pontos. Será possível: **Marcar**, **Transmitir**, **Pré-visualizar DAMDF-e**, **Pré-visualizar XML** ou **Excluir**.
 
 ![MDF-e pendente](/movimentos/mdf-e/pendente.png)
 
@@ -148,7 +149,7 @@ Para visualizar as "**opções**" clique em (<em class="mdi mdi-dots-vertical"><
 
 ## Buscar
 
-Para localizar um MDF-e, digite no campo de busca no quadro indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
+Para localizar um MDF-e, digite a informação desejada no campo de busca indicado na imagem abaixo. Para limpar a busca rapidamente, clique no botão "**limpar a busca**" (<em class="mdi mdi-close"></em>).
 Para aplicar [filtros](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#filtrar) aprimorados, clique no botão "**filtrar**" (<em class="mdi mdi-filter"></em>). 
 Para ordenar a lista por número ou data de emissão clique em "**ordenar**" (<em class="mdi mdi-sort"></em>).
 Para atualizar a lista, considerando os registros adicionados mais recentemente, clique no botão "**atualizar lista**" (<em class="mdi mdi-refresh"></em>).
@@ -175,7 +176,7 @@ As opções de filtro são:
 - **Condutor**;
 - **Contratante/tomador**.
 
-Para aplicar um filtro, clique no botão <span class="mat-button mdi "> aplicar</span>, para removê-lo clique em <span class="mat-button mdi "> limpar filtros</span>.
+Para aplicar um filtro, clique no botão correspondente. Para removê-lo, clique no botão de **remoção**.
 
 ![Aplicar limpar filtros](/movimentos/mdf-e/filtro.png)
 
@@ -198,7 +199,7 @@ Para remover um filtro padrão, clique no botão (<span class="mdi mdi-filter-me
 
 ## Contingência
 
-O modo de contingência offline pode ser acessado no menu de acesso rápido localizado a direita da tela em "**contingência (desativado)**" ou através das [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#configura%C3%A7%C3%B5es).
+O modo de contingência offline pode ser acessado pelo menu de acesso rápido, localizado à direita da tela, na opção **"Contingência (desativado)"**, ou pelas [configurações do MDF-e](https://help.gdoorweb.com.br/pt-br/transporte/mdf-e#configura%C3%A7%C3%B5es).
 
 ![Contingência desativada](/movimentos/mdf-e/desativada.png)
 
@@ -210,14 +211,15 @@ Observe que no menu de acesso rápido a descrição será alterada para "conting
 
 ![Contingência ativada](/movimentos/mdf-e/ativada.png)
 
-A partir deste momento, os MDF-e emitidos ficarão com a tag de identificação "**MDF-e emitidos em contingência offline**".
+A partir desse momento, os MDF-e emitidos receberão a identificação **"MDF-e emitidos em contingência offline"**.
 
 ![MDF-e em contingência](/movimentos/mdf-e/mdf-e_em_contingencia.png)
 
 Para sair do modo de contingência, clique em "**contingência (ativado)**" no menu de acesso rápido.
 
-A mensagem abaixo será exibida, clique em <span class="mat-button mdi "> transmitir</span> para transmitir automaticamente todos os MFD-e gerados em contingência, ou em <span class="mat-button mdi "> não</span> se desejar transmiti-los manualmente. 
-Se desejar permanecer no modo de contingência, clique em <span class="mat-button mdi "> cancelar</span>.
+A mensagem abaixo será exibida. Clique em **Transmitir**, para transmitir automaticamente todos os MDF-e gerados em contingência ou em **"Não"** para realizar a transmissão manualmente.
+
+Se desejar permanecer no modo de contingência, clique em **"Cancelar"**.
 
 ![Sair contingência](/movimentos/mdf-e/sair_contingencia.png)
 
@@ -334,23 +336,24 @@ Os documentos informados aqui serão adicionados em cada MDF-e gerado. Para adic
 
 ## Impressão do DAMDFe
 
-Nesta seção você configura detalhes sobre a impressão do DAMDFe. 
+Nesta seção são configuradas as características de impressão do DAMDFE.
 
 ![config_mdfe8.png](/transporte/config_mdfe8.png)
 
-Veja o que pode ser alterado:
+- **Orientação:** define a orientação utilizada na impressão:
+	- Retrato.
+	- Paisagem.
 
-Orientação{.subtitle}
+- **Fonte:** define a fonte utilizada na impressão. As opções disponíveis são:
+	- Times: fonte com serifa.
+	- Arial: fonte sem serifa.
+	- Courier: fonte monoespaçada.
+  
+- **Posição da logomarca:** define o posicionamento da logomarca no documento:
+	- Centralizada.
+	- Esquerda.
+	- Direita.
 
-Orientação para impressão do MDF-e em modo **retrato** ou **paisagem**.
-
-Fonte{.subtitle}
-
-Estilo da fonte da impressão. As opções são: **Times** (com serifa), **Arial** (sem serifa) e **Courier** (monoespaçada).
-
-Posição da logomarca{.subtitle}
-
-Define a posição da logomarca, **centralizada**, à **esquerda** ou à **direita**.
 
 ## Informações adicionais
 
