@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-09T19:30:55.521Z
+date: 2026-09-09T19:33:56.710Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -10,13 +10,13 @@ dateCreated: 2026-09-04T16:56:57.497Z
 
 # Averbação de seguro de carga
 
-Listamos neste artigo as orientações para configurar a averbação de seguro de carga no GWeb, realizar o cadastro necessário na AT&M (ATM), definir o envio automático das averbações, cancelar averbações quando necessário e utilizar as informações do seguro nos documentos de transporte.
+Listamos neste artigo as orientações para configurar a averbação de seguro de carga no GWeb, realizar o cadastro necessário na AT&M (ATM), definir o envio automático das averbações, configurar o cancelamento automático e utilizar as informações do seguro nos documentos de transporte.
 
 # Introdução
 
-A averbação de seguro é o processo utilizado para comunicar à operação de seguro os embarques realizados, vinculando as informações da carga à apólice contratada.
+A averbação de seguro é o processo utilizado para comunicar à seguradora os embarques realizados, vinculando as informações da carga à apólice contratada.
 
-Na prática, a operação informa os dados do transporte para a plataforma responsável pela averbação. Após o processamento, é gerado um número que identifica aquela averbação e pode ser utilizado nas informações de seguro dos documentos de transporte.
+Na prática, os dados do transporte são enviados para a plataforma responsável pela averbação. Após o processamento, é gerado um número que identifica aquela averbação e pode ser utilizado nas informações de seguro dos documentos de transporte.
 
 A integração disponível no GWeb é realizada com a AT&M (ATM), permitindo automatizar esse processo a partir da emissão dos documentos.
 
