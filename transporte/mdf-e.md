@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T14:23:55.776Z
+date: 2026-09-09T14:28:06.294Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -273,6 +273,22 @@ Nesta seção são configuradas as informações utilizadas para a geração do 
 - **Forma de emissão:** define a forma de emissão do MDF-e. As opções disponíveis são:
 	- **Normal.**
 	- **Contingência offline.**
+  
+## Averbação
+
+Nesta seção são configuradas as informações relacionadas à averbação dos documentos fiscais.
+
+![config_mdfe4.png](/transporte/config_mdfe4.png)
+
+Seguradora: selecione a seguradora utilizada para realizar a averbação.
+
+Averbar automaticamente o autorizador: quando habilitada, essa opção permite realizar automaticamente a averbação do documento quando o autorizador retornar com status 100.
+
+Cancelar averbação automaticamente: quando habilitada, essa opção permite realizar automaticamente o cancelamento da averbação quando o documento fiscal for cancelado.
+
+> O funcionamento da averbação automática depende da integração configurada com a seguradora. Clique aqui para acessar o tutorial compledo referente à **"Averbação do seguro"**.
+
+
 
 ## Autorizados a baixar o XML
 
