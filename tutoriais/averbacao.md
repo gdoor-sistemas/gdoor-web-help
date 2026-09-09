@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-09T17:08:00.762Z
+date: 2026-09-09T17:08:08.264Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -112,7 +112,7 @@ Preencha os campos conforme as informações do seguro:
 
 > Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice sempre atualizado. {.is-info}
 
-Salve as informações.
+**Salve** as informações.
 
 # Utilizar a averbação na emissão dos documentos
 ## Averbação automática
