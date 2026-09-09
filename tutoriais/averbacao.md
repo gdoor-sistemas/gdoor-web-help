@@ -2,7 +2,7 @@
 title: Averbação
 description: 
 published: false
-date: 2026-09-09T17:08:08.264Z
+date: 2026-09-09T19:30:26.388Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-04T16:56:57.497Z
@@ -114,76 +114,18 @@ Preencha os campos conforme as informações do seguro:
 
 **Salve** as informações.
 
-# Utilizar a averbação na emissão dos documentos
-## Averbação automática
 
-Com a integração configurada e a averbação automática ativa, o processo é realizado durante a autorização do documento.
-
-[INSERIR IMAGEM — Documento autorizado com indicação de que a averbação foi realizada.]
-
-Quando a averbação for concluída, o GWeb registra as informações retornadas pela integração.
-
-No documento, é possível identificar que a operação foi averbada.
-
-[INSERIR IMAGEM — Lista de CT-e, destacando o indicador de documento averbado.]
-
-O indicador permite identificar rapidamente os documentos que possuem averbação registrada.
-
-## Consultar os dados da averbação
-
-Abra o documento averbado para consultar as informações retornadas pela integração.
-
-[INSERIR IMAGEM — Detalhes do CT-e, destacando o número da averbação.]
-
-Nos detalhes do documento, são disponibilizadas informações como:
-
-Número da averbação;
-Número do cancelamento da averbação, quando o cancelamento tiver sido realizado.
-
-Essas informações permitem acompanhar o resultado da integração diretamente pelo documento.
-
-# Realizar a averbação manualmente
+# Realizar a averbação ou cancelamento manualmente
 
 Quando a averbação automática não estiver configurada ou quando for necessário realizar o processo manualmente, acesse a lista de documentos correspondente.
 
-Localize o documento e utilize a opção "Averbar".
+Localize o documento e utilize a opção **"Averbar"**.
 
-[INSERIR IMAGEM — Lista de documentos, destacando a opção "Averbar".]
+> Caso o documento estiver **"Averdabo"**, a opção disponível será referente ao **cancelamento**. Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento. {.is-success}
+
+![config_mdfe10.png](/transporte/config_mdfe10.png)
 
 O GWeb envia a solicitação para a integração configurada.
 
 Depois da conclusão do processo, o documento passa a apresentar a indicação de que está averbado.
 
-> Quando o documento já possuir uma averbação registrada, a opção disponível será alterada para permitir o cancelamento da averbação. {.is-info}
-
-# Cancelar uma averbação manualmente
-
-Para cancelar manualmente uma averbação, acesse a lista de documentos e localize o documento que possui a averbação.
-
-[INSERIR IMAGEM — Documento já averbado, destacando a opção "Cancelar averbação".]
-
-Utilize a opção "Cancelar averbação".
-
-O GWeb envia a solicitação de cancelamento pela integração configurada.
-
-Após o processamento, as informações relacionadas ao cancelamento ficam registradas nos detalhes do documento.
-
-[INSERIR IMAGEM — Detalhes do documento, destacando o número da averbação e o número do cancelamento.]
-
-# Utilizar as informações no MDF-e
-
-Durante a emissão de um MDF-e, acesse a seção "Seguro".
-
-[INSERIR IMAGEM — Emissão do MDF-e, destacando a seção "Seguro".]
-
-Quando as informações do seguro e da averbação estiverem disponíveis, o GWeb poderá preencher automaticamente os dados correspondentes.
-
-Isso é especialmente útil quando a operação já possui documentos vinculados que foram averbados anteriormente.
-
-[INSERIR IMAGEM — Seção "Seguro" do MDF-e, destacando o número da averbação preenchido automaticamente.]
-
-As informações configuradas previamente em "Informações do seguro de carga" também podem ser utilizadas para preencher automaticamente os dados recorrentes.
-
-Dessa forma, durante a emissão do MDF-e, é necessário apenas complementar ou conferir as informações específicas da operação.
-
-> Configure previamente os dados utilizados com frequência antes de iniciar as emissões. Dessa forma, informações como responsável pelo seguro, seguradora e número da apólice podem ser reaproveitadas nas novas operações. {.is-success}
