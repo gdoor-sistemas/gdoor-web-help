@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T16:33:52.792Z
+date: 2026-09-09T17:07:29.952Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -287,6 +287,23 @@ Nesta seção são configuradas as informações relacionadas à averbação dos
 - **Cancelar averbação automaticamente:** quando habilitada, essa opção permite realizar automaticamente o cancelamento da averbação quando o documento fiscal for cancelado.
 
 > O funcionamento da averbação automática depende da integração configurada com a seguradora. [Clique aqui](/tutoriais/averbacao) para acessar o tutorial completo referente à **"Averbação do seguro"**. {.is-info}
+
+## Informações de seguro padrão do MDF-e
+
+As configurações de seguro permitem definir os dados da seguradora, do responsável pelo seguro e da apólice que serão utilizados como informações padrão na emissão do MDF-e.
+
+![info_seg1.png](/transporte/info_seg1.png){.is-success}
+
+Preencha os campos conforme as informações do seguro:
+
+- **Responsável pelo seguro:** selecione quem é o responsável pelo seguro do transporte. As opções correspondem ao emitente ou ao contratante do serviço de transporte.
+- **CNPJ/CPF do responsável pelo seguro:** informe o CNPJ ou CPF da pessoa ou empresa responsável pelo seguro.
+- **Nome da seguradora:** informe o nome da empresa responsável pelo seguro.
+- **CNPJ da seguradora:** informe o CNPJ da seguradora.
+- **Número da apólice:** informe o número da apólice de seguro utilizada no transporte.
+
+> Com a configuração cadastrada, os dados podem ser preenchidos automaticamente durante a emissão dos documentos, reduzindo a necessidade de informar repetidamente informações que normalmente permanecem iguais durante a vigência da apólice. Mantenha o número da apólice sempre atualizado. {.is-info}
+
 
 
 ## Autorizados a baixar o XML
