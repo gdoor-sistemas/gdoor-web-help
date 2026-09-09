@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-09-09T14:34:00.579Z
+date: 2026-09-09T16:33:31.005Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -284,7 +284,7 @@ Nesta seção são configuradas as informações relacionadas à averbação dos
 
 - **Averbar automaticamente o autorizador:** quando habilitada, essa opção permite realizar automaticamente a averbação do documento quando o autorizador retornar com status 100.
 
-**- Cancelar averbação automaticamente:** quando habilitada, essa opção permite realizar automaticamente o cancelamento da averbação quando o documento fiscal for cancelado.
+- **Cancelar averbação automaticamente:** quando habilitada, essa opção permite realizar automaticamente o cancelamento da averbação quando o documento fiscal for cancelado.
 
 > O funcionamento da averbação automática depende da integração configurada com a seguradora. [Clique aqui](/tutoriais/averbacao) para acessar o tutorial compledo referente à **"Averbação do seguro"**. {.is-info}
 
