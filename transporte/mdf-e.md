@@ -2,7 +2,7 @@
 title: MDF-e
 description: Veja como gerar o Manifesto de Documentos Fiscais eletrônico no Gweb
 published: true
-date: 2026-06-22T19:51:14.016Z
+date: 2026-09-09T14:00:10.918Z
 tags: mdf-e, manifesto, transporte
 editor: markdown
 dateCreated: 2022-08-08T14:14:20.352Z
@@ -244,10 +244,14 @@ No menu de acesso rápido localizado a direita da tela, ao clicar em "**encerrar
 
 ![Encerrar MDF-e](/movimentos/mdf-e/encerrar.png)
 
-# Configurações
+# Configurações 
 
-As configurações do MDF-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las. 
-Ao alterar cada seção, **você precisará clicar em <span class="mat-button mdi "> salvar</span> individualmente**. Veja abaixo os detalhes de cada seção/configuração.
+As configurações do MDF-e são gerais para todos os usuários e somente usuários com permissão podem alterá-las. Ao alterar cada seção, **você precisará clicar em "Salvar" individualmente**. 
+
+![config_mdfe1.png](/transporte/config_mdfe1.png)
+
+Veja abaixo os detalhes de cada seção/configuração.
+
 
 ## Certificado digital
 
