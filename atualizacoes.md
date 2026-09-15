@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-09T20:50:42.025Z
+date: 2026-09-15T15:28:31.411Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 48
-- Ajustes: 142
+- Novidades: 52
+- Ajustes: 158
 
-**Total: 190**
+**Total: 210**
 
 --- 
 
@@ -29,6 +29,32 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 15/09/2026
+b4.0.0, f2.35.0, p1.5.0 {.versions}
+
+## Novidades
+- Implementado agrupamento e totalizadores por cliente no relatório Contas a receber.
+- Adicionado o campo total de quantidades para cada documento e total geral no relatório Movimentos (Completo).
+- Implementado o campo marca no cadastro do produto e apresentado o mesmo na busca do PDV.
+- Adicionado filtro por cliente nos relatórios Pedidos de venda (Simplificado) e Orçamentos (Simplificado).
+
+## Ajustes
+- Ajustado relatório “Fechamento de caixa“ para contabilizar corretamente o troco na seção de Caixa físico, em total e sangria fechamento.
+- Corrigida a geração do bloco K do SPED Fiscal.
+- Corrigido menu de ações de PDV Híbrido para ocultar a sangria e suprimento somente se o caixa estiver fechado ou o sistema em modo offline.
+- Ajustada geração da NFC-e a partir de pré-venda.
+- Removido “Utilizar código específico“ da regra de tributação de serviço pois o campo não é utilizado pelo sistema. No serviço o campo utilizado é “Código de classificação tributária“.
+- Ajustada mensagem de aviso de troca da natureza de operação e revisão de impostos para ser apresentada somente quando houver itens na NF-e.
+- Ajustado relatório “Pagamentos NFC-e“ para trazer a nomenclatura correta das movimentações de caixa.
+- Ajustada e melhorada a pesquisa do código NBS, permitindo busca sem utilização da pontuação e seleção após busca.
+- Ajustados filtros da lista do PDV para apresentar corretamente as vendas quando houver múltiplos status selecionados.
+- Ajustado perfil do usuário para permitir salvar mesmo sendo CNPJ, assim como refletir as mudanças feitas no perfil para a pessoa e da pessoa para o perfil.
+- Ajustada importação da transportadora informada no pedido para as notas.
+- Limitada a lista dos CST de IBS/CBS e os Códigos de Classificação Tributária no CT-e para apresentar somente os permitidos.
+- Melhorada a tela inicial do PDV Híbrido no módulo PDV para apresentar o nome do caixa aberto.
+- Ocultada a busca de CIOT na MDF-e quando o cliente não possúi o módulo CIOT habilitado.
+- Corrigida a alteração de produto da compra para refletir no produto.
+
 # 08/09/2026
 f2.11.264 {.versions}
 
