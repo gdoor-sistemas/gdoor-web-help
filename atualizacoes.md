@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-15T15:28:31.411Z
+date: 2026-09-15T15:37:37.550Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -52,8 +52,9 @@ b4.0.0, f2.35.0, p1.5.0 {.versions}
 - Ajustada importação da transportadora informada no pedido para as notas.
 - Limitada a lista dos CST de IBS/CBS e os Códigos de Classificação Tributária no CT-e para apresentar somente os permitidos.
 - Melhorada a tela inicial do PDV Híbrido no módulo PDV para apresentar o nome do caixa aberto.
-- Ocultada a busca de CIOT na MDF-e quando o cliente não possúi o módulo CIOT habilitado.
+- Ocultada a busca de CIOT na MDF-e quando o cliente não possui o módulo CIOT habilitado.
 - Corrigida a alteração de produto da compra para refletir no produto.
+- Corrigida a adição de GTIN na aba “Alterar produto“ na compra.
 
 # 08/09/2026
 f2.11.264 {.versions}
