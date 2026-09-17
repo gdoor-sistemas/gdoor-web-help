@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-15T15:37:37.550Z
+date: 2026-09-17T20:24:51.530Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 52
-- Ajustes: 158
+- Ajustes: 159
 
-**Total: 210**
+**Total: 211**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/09/2026
+b4.0.1 {.versions}
+
+## Ajustes
+- Ajustadas vendas no PIX que não estavam retornando corretamente os dados de autorização.
+
 # 15/09/2026
 b4.0.0, f2.35.0, p1.5.0 {.versions}
 
