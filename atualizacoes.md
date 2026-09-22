@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-17T20:24:51.530Z
+date: 2026-09-22T11:37:38.205Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 52
-- Ajustes: 159
+- Novidades: 53
+- Ajustes: 162
 
-**Total: 211**
+**Total: 215**
 
 --- 
 
@@ -29,6 +29,22 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 22/09/2026
+b4.0.4, f2.35.1 {.versions}
+
+## Novidades
+- Implementado PLG do financeiro, possibilitando o teste grátis do módulo financeiro durante o período de 15 dias.
+
+## Ajustes
+- Ajustes na importação e edição de compras que possuem grande quantidade de itens.
+
+# 21/09/2026
+b4.0.2, b4.0.3 {.versions}
+
+## Ajustes
+- Ajustado pagamento com PIX na NFC-e quando utilizado TEF/POS.
+- Corrigido relatório “Contas a receber“ para apresentar os parâmetros “Campos visíveis no relatório”, “Ordenação do relatório” e “Formato do relatório”.
+
 # 17/09/2026
 b4.0.1 {.versions}
 
