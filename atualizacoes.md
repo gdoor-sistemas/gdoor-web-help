@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-22T11:37:38.205Z
+date: 2026-09-22T13:42:50.138Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 53
-- Ajustes: 162
+- Ajustes: 164
 
-**Total: 215**
+**Total: 217**
 
 --- 
 
@@ -37,6 +37,8 @@ b4.0.4, f2.35.1 {.versions}
 
 ## Ajustes
 - Ajustes na importação e edição de compras que possuem grande quantidade de itens.
+- Incluso envio de campos da reforma tributária na NFS-e para ambiente de prefeitura.
+- Enviado o campo indicador destinatário na NFS-e para ambiente de prefeitura.
 
 # 21/09/2026
 b4.0.2, b4.0.3 {.versions}
