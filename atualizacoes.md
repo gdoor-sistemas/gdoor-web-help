@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-24T12:06:20.451Z
+date: 2026-09-24T12:07:22.049Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -36,7 +36,7 @@ b4.0.6 {.versions}
 - Ajustado ECONF para trazer a chave refernte ao número da nota no sistema.
 
 # 22/09/2026
-b4.0.4, f2.35.1 {.versions}
+b4.0.4, b4.0.5, f2.35.1 {.versions}
 
 ## Novidades
 - Implementado PLG do financeiro, possibilitando o teste grátis do módulo financeiro durante o período de 15 dias.
