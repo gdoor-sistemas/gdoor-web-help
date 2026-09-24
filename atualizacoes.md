@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-22T13:42:50.138Z
+date: 2026-09-24T12:06:20.451Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 53
-- Ajustes: 164
+- Ajustes: 165
 
-**Total: 217**
+**Total: 218**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 23/09/2026
+b4.0.6 {.versions}
+
+## Ajustes
+- Ajustado ECONF para trazer a chave refernte ao número da nota no sistema.
+
 # 22/09/2026
 b4.0.4, f2.35.1 {.versions}
 
