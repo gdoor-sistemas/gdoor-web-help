@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-24T12:48:18.119Z
+date: 2026-09-25T13:46:58.413Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 53
-- Ajustes: 166
+- Ajustes: 167
 
-**Total: 219**
+**Total: 220**
 
 --- 
 
@@ -30,10 +30,11 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 24/09/2026
-b4.0.7 {.versions}
+b4.0.7, b4.0.8, f2.35.2 {.versions}
 
 ## Ajustes
 - Corrigido o campo consumidor final da NFS-e para ser enviado somente quando o emitente aderir a reforma tributária.
+- Ajustada criação do ECONF via NF-e.
 
 # 23/09/2026
 b4.0.6 {.versions}
