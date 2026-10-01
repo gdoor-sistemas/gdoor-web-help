@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-09-25T13:46:58.413Z
+date: 2026-10-01T19:53:55.538Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 53
-- Ajustes: 167
+- Ajustes: 168
 
-**Total: 220**
+**Total: 221**
 
 --- 
 
@@ -29,6 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 01/10/2026
+f2.35.3, b4.0.9 {.versions}
+
+## Ajustes
+- Aumentado limite de caracteres do campo "marca" no cadastro do produtos para 120 caracteres.
+- Implementada a visualização da marca ao buscar pela lista de produtos dentro do orçamento, pedido de venda e NF-e.
+- Possibilitada a pesquisa na lista de produtos pela marca.
+
 # 24/09/2026
 b4.0.7, b4.0.8, f2.35.2 {.versions}
 
