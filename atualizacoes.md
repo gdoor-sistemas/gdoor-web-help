@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-01T20:03:37.858Z
+date: 2026-10-02T18:28:42.314Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 53
-- Ajustes: 168
+- Ajustes: 170
 
-**Total: 221**
+**Total: 223**
 
 --- 
 
@@ -29,8 +29,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 02/10/2026
+b4.0.10, f2.35.4, f2.35.5 {.versions}
+
+## Ajustes
+- Ajustadas as opções e o envio do campo regime especial de tributação para o ambiente nacional e layout nacional.
+- Ajustada a geração da tag “tpIntegra“ quando utilizado meio de pagamento com dispositivo TEF.
+
 # 01/10/2026
-f2.35.3, b4.0.9 {.versions}
+b4.0.9, f2.35.3 {.versions}
 
 ## Ajustes
 - Aumentado limite de caracteres do campo "marca" no cadastro do produtos para 120 caracteres.
