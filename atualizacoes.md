@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-02T18:28:42.314Z
+date: 2026-10-05T12:32:20.810Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 53
-- Ajustes: 170
+- Novidades: 54
+- Ajustes: 172
 
-**Total: 223**
+**Total: 226**
 
 --- 
 
@@ -29,6 +29,16 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 05/10/2026
+b4.0.11, f2.35.6 {.versions}
+
+## Novidades
+- Implementado o status 120 (Autorizado o uso da NF-e, com alerta) para NFC-e.
+
+## Ajustes
+- Para nos adequarmos ao Despacho CONFAZ 42/2026 no CT-e, removemos o atalho de contingência do menu lateral direito e atualizamos as opções disponíveis para emissão: normal, SVC RS e SVC SP.
+- Para nos adequarmos ao Despacho CONFAZ 42/2026 na NF-e, atualizamos as opções disponíveis para emissão: normal, SVC RS e SVC SP.
+
 # 02/10/2026
 b4.0.10, f2.35.4, f2.35.5 {.versions}
 
