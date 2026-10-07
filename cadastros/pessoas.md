@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:12:30.342Z
+date: 2026-10-07T20:13:02.046Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -113,7 +113,7 @@ Este quadro será exibido quando o atributo **cliente** estiver marcado.
 
 ### Vendedor
 
-Este quadro será exibido quando o [atributo](#atributos) **vendedor** estiver marcado.
+Este quadro será exibido quando o atributo **vendedor** estiver marcado.
 
 - **Comissão para produtos**: Informe o percentual de comissão à vista e à prazo para a venda de produtos;
 - **Comissão para serviços**: Informe o percentual de comissão à vista e à prazo para a prestação de serviços.
