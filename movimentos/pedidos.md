@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-06-02T20:21:26.125Z
+date: 2026-10-07T19:45:33.830Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -12,7 +12,7 @@ dateCreated: 2021-05-25T12:24:39.280Z
 
 O pedido de venda é uma operação  importante para gerenciamento das vendas, nele constam as intenções de compra do cliente, e por ser um documento que antecede a venda, não é necessário que todos os dados do cliente estejam cadastrados, podendo ser emitido também para **consumidor final**.
 
-No pedido de venda você pode indicar o [cliente](/pt-br/movimentos/pedidos#cliente), [vendedor](/pt-br/movimentos/pedidos#vendedor), [produtos](/pt-br/movimentos/pedidos#mercadorias), [serviços](/pt-br/movimentos/pedidos#servi%C3%A7os), formas de [pagamento](/pt-br/movimentos/pedidos#pagamentos) negociadas e [outras informações](/pt-br/movimentos/pedidos#outras-informações).
+No pedido de venda você pode indicar o [cliente](/pt-br/movimentos/pedidos#cliente), [vendedor](/pt-br/movimentos/pedidos#vendedor), [produtos](/pt-br/movimentos/pedidos#mercadorias), [serviços](/pt-br/movimentos/pedidos#serviços), formas de [pagamento](/pt-br/movimentos/pedidos#pagamentos) negociadas e [outras informações](/pt-br/movimentos/pedidos#outras-informações).
 
 Os pedidos de venda podem ser **impressos** ou enviados para o cliente via **e-mail**. Quando houver a confirmação da compra, o pedido de venda poderá ser enviado diretamente para faturamento e geração de [NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#nfc-e) ou [NF-e](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe#emitindo-uma-nf-e).
 
