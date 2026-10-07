@@ -2,7 +2,7 @@
 title: Cadastro de operações
 description: Veja como cadastrar naturezas de operações no Gweb para usar nos documentos
 published: true
-date: 2026-10-07T20:03:33.533Z
+date: 2026-10-07T20:04:12.552Z
 tags: cadastros, operações, visão geral
 editor: markdown
 dateCreated: 2020-01-03T19:29:43.125Z
@@ -45,7 +45,7 @@ Você pode cadastrar uma nova operação acessando o módulo de cadastro de oper
 - **Entrada/Saída**. Indica se é uma operação de entrada ou saída.
 - **Importação/Exportação**. Indica se é uma operação de comércio exterior.
 - **Operação de ajuste**. Indica se é uma operação para ser referenciada em uma [NF-e de ajuste](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe-de-ajuste).
-- **Operação de complemento**. Indica se é uma operação para ser referenciada em uma [NF-e de complemento](/movimentos/nf-e/complemento).
+- **Operação de complemento**. Indica se é uma operação para ser referenciada em uma [NF-e de complemento](https://help.gdoorweb.com.br/pt-br/tutoriais/como-emitir-uma-nfe-de-complemento).
 - **Movimenta estoque**. Indica se notas feitas com esta operação devem alterar a quantidade dos produtos no estoque.
 - **Devolução**. Infica se é uma operação para ser referenciada em uma [NF-e de devolução](/movimentos/nf-e/devolucao).
 - **Saída/Entrada para consumo**. Indica se a operação será feita para consumo. Com esta opção marcada, a nota fiscal será identificada como destinada a consumidor final e a incidência da tributação pode ser diferenciada.
