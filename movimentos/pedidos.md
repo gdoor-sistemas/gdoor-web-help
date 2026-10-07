@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-10-07T19:56:11.559Z
+date: 2026-10-07T19:57:22.784Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -179,7 +179,7 @@ Você pode ativar o modo de seleção múltipla ao clicar no [menu de ações](h
 
 ![Selecionar mais de um pedido](/movimentos/pedidos/selecionar.png)
 
-Depois de selecionar um pedido de venda, você poderá clicar em outros para marcar ou desmarcar. Só é possível marcar pedidos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtros).
+Depois de selecionar um pedido de venda, você poderá clicar em outros para marcar ou desmarcar. Só é possível marcar pedidos exibidos na página atual. Para ter mais opções para selecionar, você pode aumentar a quantidade de itens por página e/ou aplicar um [filtro](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#filtrar).
 
 ![Opções dos pedidos](/movimentos/pedidos/selecionar_ações.png)
 
