@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-10-07T19:48:36.381Z
+date: 2026-10-07T19:52:54.391Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -142,7 +142,7 @@ Visível para os pedidos de venda com status aberto. Direciona para geração de
 
 <span class="mat-button mdi mdi-qrcode"> gerar NFC-e</span>
 
-Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/movimentos/pdv/formulario#criando-uma-nfc-e).
+Visível para os pedidos de venda com status aberto. Direciona para geração de uma nova [NFC-e](https://help.gdoorweb.com.br/pt-br/movimentos/pdv#nfc-e).
 
 <span class="mat-button mdi mdi-cash-register"> gerar pré-venda gerencial</span>
 
