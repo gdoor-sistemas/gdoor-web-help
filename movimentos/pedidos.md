@@ -2,7 +2,7 @@
 title: Pedidos de venda
 description: Veja como registrar seus pedidos de venda no Gweb
 published: true
-date: 2026-10-07T19:45:33.830Z
+date: 2026-10-07T19:48:36.381Z
 tags: produtos, movimentos, serviços
 editor: markdown
 dateCreated: 2021-05-25T12:24:39.280Z
@@ -102,7 +102,7 @@ Campo para preenchimento de informações adicionais ao pedido de venda.
 
 ![Outras informações](/movimentos/pedidos/outras_informaçõess.png)
  
-> Nas “**configurações**” do pedido de venda, em “[informações adicionais](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#informa%C3%A7%C3%B5es-adicionais)” é possível definir uma mensagem padrão que será inserida automaticamente em todos os pedidos de venda.
+> Nas “**configurações**” do pedido de venda, em “[informações adicionais](https://help.gdoorweb.com.br/pt-br/movimentos/pedidos#informações-adicionais)” é possível definir uma mensagem padrão que será inserida automaticamente em todos os pedidos de venda.
 {.is-success .gw .gw-tip}
 
 # Lista
