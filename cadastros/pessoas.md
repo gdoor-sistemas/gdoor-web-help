@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:11:04.072Z
+date: 2026-10-07T20:12:05.091Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -79,8 +79,8 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 - **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro vendedor;
 - **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação;
 - **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação;
-- **Contador**: Indica que a pessoa jurídica poderá ser referenciada como contador para a geração do [SPED Fiscal](/pt-br/arquivos-fiscais/sped);
-- **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o [intermediador](#intermediador), é necessário que seja selecionada a opção **pessoa jurídica**.
+- **Contador**: Indica que a pessoa jurídica poderá ser referenciada como contador para a geração do SPED Fiscal;
+- **Intermediador**: indica o intermediador da operação, que poderá ser referenciado quando a venda ocorrer por alguma plataforma de terceiro, como marketplaces e deliverys. Para habilitar a seleção e informar o intermediador, é necessário que seja selecionada a opção **pessoa jurídica**.
 
 Os campos neste quadro variam bastante. A seguir, os campos destacados em **negrito** são os que são exibidos conforme o cenário. 
 
@@ -95,15 +95,15 @@ Você também identifica a pessoa como **física** ou **jurídica**, ou seja, um
 
 Também é possível inativar um cadastro desmarcando a caixa **ativo**. Isto pode ser utilizado no caso de um cadastro que já foi referenciado e não pode ser excluído, mas você não quer que seja sugerido para referenciar em novos documentos, por exemplo: ao buscar clientes por nome na hora de adicionar na NF-e, os cadastros inativos não serão buscados.
 
-> Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [imagens](/cadastros/comum/imagens).
+> Para ver mais detalhes sobre a adição de imagens, veja o tópico sobre [imagens](https://help.gdoorweb.com.br/cadastros/comum/imagens).
 {.is-info .gw .gw-note}
 
 ### Cliente
 
-Este quadro será exibido quando o [atributo](#atributos) **cliente** estiver marcado.
+Este quadro será exibido quando o atributo **cliente** estiver marcado.
 
 - **Dia de acerto**: indica o dia do mês em que vencerão as contas geradas para o cliente;
-- **Limite de crédito**: limite de crédito do cliente, ele será respeitado de acordo com a [configuração](/pt-br/configuracoes/geral) marcada;
+- **Limite de crédito**: limite de crédito do cliente, ele será respeitado de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/configuracoes/geral) marcada;
 **Valores em atraso:** Valores que este cliente tem em atraso no financeiro;
 
 - **Tabela de preços preferencial**: indica a [tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços) que deve ser utilizada quando esse cliente for indicado em uma venda.
