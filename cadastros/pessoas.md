@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:13:02.046Z
+date: 2026-10-07T20:13:53.682Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -122,14 +122,14 @@ Este quadro será exibido quando o atributo **vendedor** estiver marcado.
 
 ### Intermediador
 
-Este quadro será exibido quando o [atributo](#atributos) **intermediador** estiver marcado. 
+Este quadro será exibido quando o atributo **intermediador** estiver marcado. 
 
 O cadastro da pessoa jurídica deve ser preenchido com todas as informações do intermediador (razão social, CNPJ...) e no quadro indicado na imagem abaixo, inserir o código de identificação do **intermediador/marketplace**, obtido diretamente na plataforma de vendas on-line (marketplace, delivery...)   
 
 ![Quadro intermediador](/cadastros/pessoas/intermediador.png)
 
 ### Transportador
-Este quadro será exibido quando o [atributo](#atributos) **transportador** estiver marcado.
+Este quadro será exibido quando o atributo **transportador** estiver marcado.
 
 - **RNTRC - Registro Nacional de Transporte Rodoviário de Carga**: é o registro obrigatório para profissionais que exercem atividades ligadas ao transporte rodoviário de carga;
 - **Tipo da transportadora**: indica o tipo da empresa transportadora de acordo com a atividade que exerce;
@@ -138,7 +138,7 @@ Este quadro será exibido quando o [atributo](#atributos) **transportador** esti
 ![Quadro transportador](/cadastros/pessoas/campos-transportadora.png)
 
 ### Contador
-Este quadro será exibido quando o [atributo](#atributos) **contador** estiver marcado. 
+Este quadro será exibido quando o atributo **contador** estiver marcado. 
 
 - **CRC**: É o registro regular do contador no Conselho Regional de Contabilidade(CRC).
 
@@ -187,7 +187,7 @@ Ao marcar na caixa de seleção do cabeçalho da página que a empresa ou pessoa
 - **Tipo de carroceria**: tipo da carroceria do veículo;
 - **Reboque**: veículo sem tração própria e depende de outro para se mover.
 
-> O cadastro dos veículos também pode ser realizado no menu [Veículos](/cadastros/veiculos).
+> O cadastro dos veículos também pode ser realizado no menu [Veículos](https://help.gdoorweb.com.br/cadastros/veiculos).
 {.is-info}
 
 
