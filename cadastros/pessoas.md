@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:07:32.995Z
+date: 2026-10-07T20:09:27.834Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -10,7 +10,7 @@ dateCreated: 2020-01-03T11:35:26.037Z
 
 # Cadastro de pessoas
 
-O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor**, **contador** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses [atributos](#atributos), não sendo necessário repetir cadastros.
+O cadastro de pessoas no Gweb é unificado. Isso significa que no mesmo lugar, você cadastra **cliente**, **fornecedor**, **vendedor**, **transportador**, **condutor**, **contador** e **intermediador/marketplace** da operação. Não só é possível cadastrar no mesmo lugar, como uma só pessoa pode ter todos esses **atributos**, não sendo necessário repetir cadastros.
 
 # Lista
 
@@ -28,8 +28,8 @@ Na parte superior do quadro que contém a lista, você encontra o controle de pa
 
 Ao passar o *mouse* sobre um item da lista, serão exibidos os botões de edição (<em class="mdi mdi-pencil"></em>) e mais opções (<em class="mdi mdi-dots-vertical"></em>). As opções de ação para esta tela são:
 
-- **Ver detalhes**: direciona para a tela de [detalhes](#detalhes);
-- **Nova venda**: direciona para a [tela de NF-e](/movimentos/nf-e) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**;
+- **Ver detalhes**: direciona para a tela de detalhes;
+- **Nova venda**: direciona para a [tela de NF-e](/movimentos/nf-e) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o atributo **cliente**;
 - **Apagar**: apaga o cadastro sob confirmação. Somente será possível apagar o cadastro se ele não estiver referenciado em outros módulos do sistema.
 
 ![Opções do item na lista](/cadastros/pessoas/lista-opcoes.png)
@@ -49,7 +49,7 @@ A tela de detalhes possibilita ter uma visão completa do cadastro:
 No cabeçalho desta tela, você encontra algumas informações básicas do cadastro que são repetidas mais abaixo, mas facilita a visualização rápida. Na direita constam informações das datas de cadastro e alteração, bem como que usuário as executou. No canto superior direito, o menu com mais opções (<em class="mdi mdi-dots-vertical"></em>) permite que você:
 
 - Acesse a tela de edição do cadastro;
-- Abra a [tela de NF-e](/movimentos/nf-/formulario) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o [atributo](#atributos) **cliente**.
+- Abra a [tela de NF-e](https://help.gdoorweb.com.br/movimentos/nf-e) com a pessoa já referenciada. Esta opção só estará disponível se a pessoa tiver o atributo **cliente**.
 
 ![Mais opções](/cadastros/pessoas/mais-opcoes.png)
 
