@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:12:05.091Z
+date: 2026-10-07T20:12:30.342Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -106,7 +106,7 @@ Este quadro será exibido quando o atributo **cliente** estiver marcado.
 - **Limite de crédito**: limite de crédito do cliente, ele será respeitado de acordo com a [configuração](https://help.gdoorweb.com.br/pt-br/configuracoes/geral) marcada;
 **Valores em atraso:** Valores que este cliente tem em atraso no financeiro;
 
-- **Tabela de preços preferencial**: indica a [tabela de preços](/pt-br/cadastros/produtos#tabelas-de-preços) que deve ser utilizada quando esse cliente for indicado em uma venda.
+- **Tabela de preços preferencial**: indica a [tabela de preços](https://help.gdoorweb.com.br/pt-br/cadastros/produtos#tabelas-de-preços) que deve ser utilizada quando esse cliente for indicado em uma venda.
 - **Vendedor do cliente**: indica o vendedor preferencial para este cliente. Esta informação será utilizada nas vendas que serão realizadas para este cliente no GWEB e no GPED.
 
 ![Quadro cliente](/cadastros/pessoas/campos-cliente.png)
