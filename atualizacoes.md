@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-05T12:33:07.540Z
+date: 2026-10-07T19:01:07.847Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 54
-- Ajustes: 172
+- Ajustes: 173
 
-**Total: 226**
+**Total: 227**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 07/10/2026
+b4.0.15 {.versions}
+
+## Ajustes
+- Ajustado no Peso bruto do MDF-e para respeitar 4 casas decimais.
+
 # 05/10/2026
 b4.0.11, f2.35.6 {.versions}
 
