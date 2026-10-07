@@ -2,7 +2,7 @@
 title: Cadastro de pessoas
 description: Veja como funciona o cadastro de clientes, fornecedores e outras pessoas para trabalhar com o Gweb
 published: true
-date: 2026-10-07T20:09:27.834Z
+date: 2026-10-07T20:11:04.072Z
 tags: cadastros, pessoas, visão geral
 editor: markdown
 dateCreated: 2020-01-03T11:35:26.037Z
@@ -60,7 +60,7 @@ Logo abaixo do cabeçalho há duas abas: **identificação** e **histórico**. S
 
 # Formulário
 
-O formulário de cadastro será exibido ao **adicionar** ou **atualizar** o cadastro de uma pessoa. Para cadastrar uma pessoa, clique no botão de adição (<em class="mdi mdi-plus"></em>) localizado no canto inferior direito nas telas de [lista](#lista) e [detalhes](#detalhes). A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os [atributos](#atributos), e outros de acordo com os dados informados no próprio cadastro.
+O formulário de cadastro será exibido ao **adicionar** ou **atualizar** o cadastro de uma pessoa. Para cadastrar uma pessoa, clique no botão de adição (<em class="mdi mdi-plus"></em>) localizado no canto inferior direito nas telas de lista e detalhes. A tela de formulário não terá sempre a mesma aparência. Alguns campos são exibidos de acordo com os atributos, e outros de acordo com os dados informados no próprio cadastro.
 
 ## Identificação
 
@@ -75,8 +75,8 @@ Os atributos são usados para identificar onde a pessoa pode ser referenciada e 
 ![Atributos](/cadastros/pessoas/atributos.png)
 
 - **Cliente**: indica que a pessoa pode ser referenciada nas movimentações;
-- **Fornecedor**: indica que a pessoa pode ser referenciada nas [compras](/movimentos/compras) e nas [NF-e](/movimetos/nf-e) de entrada;
-- **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro [vendedor](#vendedor);
+- **Fornecedor**: indica que a pessoa pode ser referenciada nas compras e nas notas eletrônicas de entrada;
+- **Vendedor**: indica que a pessoa pode ser selecionada como vendedor nos campos apropriados. Habilita o quadro vendedor;
 - **Transportador**: indica que a pessoa poderá ser referenciada como transportadora nos documentos que pedem essa informação;
 - **Condutor**: indica que a pessoa poderá ser referenciada como condutor nos documentos que pedem essa informação;
 - **Contador**: Indica que a pessoa jurídica poderá ser referenciada como contador para a geração do [SPED Fiscal](/pt-br/arquivos-fiscais/sped);
