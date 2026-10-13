@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-13T18:38:13.853Z
+date: 2026-10-13T19:14:29.383Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -30,7 +30,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 13/10/2026
-b4.0.16, b4.0.17, f2.35.7, a2.3.22 {.versions}
+b4.0.16, b4.0.17, f2.35.7, p1.5.1 {.versions}
 
 ## Novidades
 - Implementado vinculo do Código do Contribuinte ao serviço, possibilitando informar o código no cadastro do serviço.
