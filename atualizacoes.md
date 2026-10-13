@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-13T14:09:05.151Z
+date: 2026-10-13T18:34:49.976Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,8 +11,8 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 54
-- Ajustes: 176
+- Novidades: 56
+- Ajustes: 177
 
 **Total: 230**
 
@@ -30,12 +30,17 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 13/10/2026
-b4.0.16 {.versions}
+b4.0.16, b4.0.17, f2.35.7, a2.3.22 {.versions}
+
+## Novidades
+- Implementado vinculo do Código do Contribuinte ao serviço, possibilitanto informar o código no cadastro do serviço.
+- Implementado CNPJ alfanumérico no sistema.
 
 ## Ajustes
 - Ajustado XML do mês do CT-e para exportar os XML cancelados.
 - Ajustado erro na emissão de NFS-e em Brasília no layout nacional.
 - Otimizada consulta de cliente para os relatórios de documentos fiscais emitidos e pagamentos NFC-e.
+- Incluso histórico de sincronização, possibilitada visualização de detalhes e atualização de status dos pedidos em lote.
 
 
 # 07/10/2026
