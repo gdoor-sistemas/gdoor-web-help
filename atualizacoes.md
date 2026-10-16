@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-13T19:14:29.383Z
+date: 2026-10-16T11:30:36.531Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 56
-- Ajustes: 177
+- Ajustes: 178
 
-**Total: 230**
+**Total: 231**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 16/10/2026
+f2.35.8, b4.0.19 {.versions}
+
+## Ajustes
+- Ajustado para permitir alterar o valor do ICMS em notas de devolução com CSOSN 900 (CST 90).
+
 # 13/10/2026
 b4.0.16, b4.0.17, f2.35.7, p1.5.1 {.versions}
 
