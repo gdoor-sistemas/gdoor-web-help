@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-21T18:26:59.734Z
+date: 2026-10-22T13:42:09.183Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 56
-- Ajustes: 181
+- Ajustes: 182
 
-**Total: 237**
+**Total: 238**
 
 --- 
 
@@ -34,6 +34,13 @@ f2.35.11{.versions}
 
 ## Ajustes
 - Ajustadas as opções apresentadas para notas com rejeição 204 e 539 (duplicidade) para permitir importar XML autorizado e não permitir transmissão.
+
+# 20/10/2026
+b4.0.22{.versions}
+
+## Ajustes
+- Ajustado preenchimento dos dados de pagamento ao realizar vendas utilizando TEF/ZPOS.
+
 
 # 16/10/2026
 b4.0.19, b4.0.20, b4.0.21, f2.35.8, f2.35.9 {.versions}
