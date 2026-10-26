@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-22T13:42:09.183Z
+date: 2026-10-26T12:11:10.650Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 56
-- Ajustes: 182
+- Ajustes: 200
 
-**Total: 238**
+**Total: 256**
 
 --- 
 
@@ -29,6 +29,25 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/10/2026
+b4.0.25, f2.35.12, p1.5.2{.versions}
+
+## Ajustes
+- Ajustes de layout e padronização do sistema.
+- Ajustada a geração do relatório contas a receber para períodos maiores e realizadas melhorias nos filtros de status do mesmo.
+- Corrigida a edição de notas no PDV para não permitir alterar entre NF-e e NFC-e.
+- Ajustada a duplicação de NF-e, orçamento e pedido de venda para manter a forma de pagamento “Sem pagamento” no novo documento.
+- Ajustada a alteração em massa das regras de tributação.
+- Ajustada NFS-e para utilizar a operação padrão somente quando criada a nota. Ao duplicar a nota será utilizada a operação da nota original.
+- Ajustado limite de notas para transmissão em massa. O sistema agora, respeita a quantidade máxima de 10 documentos para transmissão.
+- Ajustado carregamento da tela de sangria e suprimento no PDV Híbrido.
+- Na importação da nota, os campos Frete, Seguro, Despesas e Desconto foram bloqueados, pois os valores são obtidos diretamente do XML e a alteração durante a importação pode gerar divergências nos arquivos fiscais.
+- Ajustada importação de compra por XML para sair da listagem ao cancelar o modal de cadastro do fornecedor.
+- Ajustado preenchimento do campo globalizado na impressão do CT-e.
+- Adicionada formatação aos totais do relatório Margem de lucro sobre preço de venda.
+- Ajustado o zoom do campo de senha na tela de login.
+- Relatório de produtos com entrada por fornecedor: corrigida a exibição do código do produto, que agora apresenta corretamente o código cadastrado.
+
 # 21/10/2026
 f2.35.11{.versions}
 
