@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-26T12:15:17.732Z
+date: 2026-10-26T14:52:49.485Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 56
-- Ajustes: 196
+- Ajustes: 200
 
-**Total: 252**
+**Total: 256**
 
 --- 
 
@@ -30,7 +30,7 @@ ir para [2021](#h-2021) {.goto}
 
 ---
 # 26/10/2026
-b4.0.25, f2.35.12, p1.5.2{.versions}
+b4.0.25, b4.0.26, f2.35.12, p1.5.2, p1.5.3{.versions}
 
 ## Ajustes
 - Ajustes de layout e padronização do sistema.
@@ -47,6 +47,9 @@ b4.0.25, f2.35.12, p1.5.2{.versions}
 - Adicionada formatação aos totais do relatório Margem de lucro sobre preço de venda.
 - Ajustado o zoom do campo de senha na tela de login.
 - Relatório de produtos com entrada por fornecedor: corrigida a exibição do código do produto, que agora apresenta corretamente o código cadastrado.
+- Corrigida a leitura de peso no sistema de balanças que utilizam STX/ETX para transmissão de dados.
+- Ajustada a verificação de status da MDF-e na impressão para considerar número, série e ambiente da nota.
+- Ajustada a geração e autorização dos pagamentos PIX no TEF.
 
 # 21/10/2026
 f2.35.11{.versions}
@@ -55,11 +58,11 @@ f2.35.11{.versions}
 - Ajustadas as opções apresentadas para notas com rejeição 204 e 539 (duplicidade) para permitir importar XML autorizado e não permitir transmissão.
 
 # 20/10/2026
-b4.0.22{.versions}
+b4.0.22, b4.0.23{.versions}
 
 ## Ajustes
 - Ajustado preenchimento dos dados de pagamento ao realizar vendas utilizando TEF/ZPOS.
-
+- Ajustada importação de base para desconsiderar caracteres especiais no campo CNPJ e desconsiderar os zeros antes do número do RNTC.
 
 # 16/10/2026
 b4.0.19, b4.0.20, b4.0.21, f2.35.8, f2.35.9 {.versions}
