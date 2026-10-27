@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-26T14:52:49.485Z
+date: 2026-10-27T17:05:57.164Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 56
-- Ajustes: 200
+- Novidades: 57
+- Ajustes: 201
 
-**Total: 256**
+**Total: 258**
 
 --- 
 
@@ -29,6 +29,15 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 27/10/2026
+b4.0.27, b4.0.28, f2.35.13, f2.35.14 {.versions}
+
+## Novidades
+- Implementada impressão do CIOT.
+
+## Ajustes
+- Adicionados campos de IBS/CBS ao JSON da NFS-e para emitentes do simples nacional com notas transmitidas em ambiente nacional e layout nacional.
+
 # 26/10/2026
 b4.0.25, b4.0.26, f2.35.12, p1.5.2, p1.5.3{.versions}
 
