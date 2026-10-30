@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-29T12:51:46.699Z
+date: 2026-10-30T11:10:54.823Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 58
-- Ajustes: 202
+- Ajustes: 203
 
-**Total: 260**
+**Total: 261**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 28/10/2026
+b4.0.31 {.versions}
+
+## Ajustes
+- Ajustada a alíquota de ICMS interestadual para todas as origens de produtos conforme a regulamentação.
+
 # 28/10/2026
 b4.0.29, f2.35.15 {.versions}
 
