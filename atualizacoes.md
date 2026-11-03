@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-10-30T11:10:54.823Z
+date: 2026-11-03T11:52:49.935Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 58
-- Ajustes: 203
+- Novidades: 60
+- Ajustes: 207
 
-**Total: 261**
+**Total: 267**
 
 --- 
 
@@ -28,7 +28,22 @@ ir para [2022](#h-2022) {.goto}
 
 ir para [2021](#h-2021) {.goto}
 
+Ajustes:
+
 ---
+# 03/11/2026
+ b4.0.32, f2.35.16, p1.5.4 {.versions}
+
+## Novidades
+- Implementados novos campos para regra de nota de devolução.
+- Implementados novos campos para a tributação monofásica de combustíveis do IBS/CBS conforme NT 2025.002-RTC v1.50.
+
+## Ajustes
+- Ajustado alerta de tributos para aparecer somente quando não estiver preenchido algum tributo obrigatório.
+- Ajustada impressão de pedido de venda pelo celular quando configurado para duplicar informações.
+- Ajustada baixa de viagem no CIOT para permitir informar ou alterar o peso da carga.
+- Corrigida abertura das configurações da NFC-e quando o cliente não tiver o módulo NF-e habilitado.
+
 # 28/10/2026
 b4.0.31 {.versions}
 
