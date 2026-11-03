@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-03T11:52:49.935Z
+date: 2026-11-03T12:11:18.767Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 207
+- Ajustes: 208
 
-**Total: 267**
+**Total: 268**
 
 --- 
 
@@ -43,6 +43,7 @@ Ajustes:
 - Ajustada impressão de pedido de venda pelo celular quando configurado para duplicar informações.
 - Ajustada baixa de viagem no CIOT para permitir informar ou alterar o peso da carga.
 - Corrigida abertura das configurações da NFC-e quando o cliente não tiver o módulo NF-e habilitado.
+- Ajustado preenchimento da base de cálculo de IBS/CBS no CT-e.
 
 # 28/10/2026
 b4.0.31 {.versions}
