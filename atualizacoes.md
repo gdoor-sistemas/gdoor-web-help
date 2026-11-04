@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-03T12:11:18.767Z
+date: 2026-11-04T17:15:24.257Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 208
+- Ajustes: 211
 
-**Total: 268**
+**Total: 271**
 
 --- 
 
@@ -31,6 +31,14 @@ ir para [2021](#h-2021) {.goto}
 Ajustes:
 
 ---
+# 04/11/2026
+ b4.0.33, f2.35.17 {.versions}
+ 
+## Ajustes
+- Corrigida a validação para utilização do meio de pagamento em pagamentos com TEF e zpos.
+- Implementado o campo ibs_cbs_codigo_municipio_incidencia no JSON conforme o município de incidência da tributação e implementada a configuração para permitir o padrão de consumidor final 1 e 2.
+- Corrigido o trial do financeiro para não depender do controle de caixa do PDV.
+
 # 03/11/2026
  b4.0.32, f2.35.16, p1.5.4 {.versions}
 
