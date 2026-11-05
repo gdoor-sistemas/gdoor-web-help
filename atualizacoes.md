@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-04T17:17:32.765Z
+date: 2026-11-05T20:25:42.120Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 211
+- Ajustes: 212
 
-**Total: 271**
+**Total: 272**
 
 --- 
 
@@ -31,6 +31,12 @@ ir para [2021](#h-2021) {.goto}
 Ajustes:
 
 ---
+# 05/11/2026
+ b4.0.34 {.versions}
+ 
+## Ajustes
+- Ajustada visualização dos detalhes da nota de devolução que não possuir reforma tributária.
+
 # 04/11/2026
  b4.0.33, f2.35.17 {.versions}
  
