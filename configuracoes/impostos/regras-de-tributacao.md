@@ -2,7 +2,7 @@
 title: Regras de tributação
 description: Veja como configurar regras de tributação para que o sistema calcule os impostos automaticamente
 published: true
-date: 2025-10-23T12:15:30.264Z
+date: 2026-11-05T19:22:31.469Z
 tags: impostos, configurações
 editor: markdown
 dateCreated: 2021-03-04T22:09:45.909Z
@@ -31,7 +31,9 @@ De modo semelhante ao vínculo por NCM, o sistema também faz um vínculo pelo [
 
 ## Vínculo pela natureza da operação
 
-É possível vincular uma regra de tributação diretamente na [natureza da operação](/cadastros/operacoes). Quando uma natureza da operação vinculada com uma regra for utilizada em uma NF-e ou NFC-e, esta regra terá **prioridade** sobre qualquer outra quando o sistema buscar a regra automaticamente. No entanto, você ainda pode alterar manualmente a tributação de cada item.
+É possível vincular uma regra de tributação diretamente na [natureza da operação](/cadastros/operacoes). Quando uma natureza da operação vinculada com uma regra for utilizada em uma NF-e, esta regra terá **prioridade** sobre qualquer outra quando o sistema buscar a regra automaticamente. No entanto, você ainda pode alterar manualmente a tributação de cada item.
+
+> Na emissão de **NFC-e**, a regra fiscal aplicada aos produtos é sempre definida conforme o cadastro individual de cada produto. A natureza de operação não altera essa regra, sendo utilizada exclusivamente para gerar a tag correspondente no XML da NFC-e. {.is-info}
 
 # Criando uma regra
 
