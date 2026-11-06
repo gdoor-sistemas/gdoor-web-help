@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-05T20:25:42.120Z
+date: 2026-11-06T17:20:46.189Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 212
+- Ajustes: 213
 
-**Total: 272**
+**Total: 273**
 
 --- 
 
@@ -31,6 +31,12 @@ ir para [2021](#h-2021) {.goto}
 Ajustes:
 
 ---
+# 06/11/2026
+ b4.0.35 {.versions}
+ 
+## Ajustes
+- Ajustada a geração do financeiro para pré-venda (para geração de relatórios) quando o cliente não possuí módulo financeiro.
+
 # 05/11/2026
  b4.0.34 {.versions}
  
