@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-06T17:20:46.189Z
+date: 2026-11-06T19:44:39.375Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 213
+- Ajustes: 214
 
-**Total: 273**
+**Total: 274**
 
 --- 
 
@@ -32,10 +32,11 @@ Ajustes:
 
 ---
 # 06/11/2026
- b4.0.35 {.versions}
+ b4.0.35, b4.0.36 {.versions}
  
 ## Ajustes
 - Ajustada a geração do financeiro para pré-venda (para geração de relatórios) quando o cliente não possuí módulo financeiro.
+- Corrigido o envio de dados da NFS-e em ambiente de prefeitura para incluir a alíquota municipal e percentual de redução estadual do IBS/CBS.
 
 # 05/11/2026
  b4.0.34 {.versions}
