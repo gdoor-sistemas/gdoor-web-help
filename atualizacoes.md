@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-09T19:40:43.425Z
+date: 2026-11-10T15:13:54.628Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 216
+- Ajustes: 217
 
-**Total: 276**
+**Total: 277**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 09/11/2026
+ b4.0.38 {.versions}
+ 
+## Ajustes
+- Inclusos campos de redução, alíquota específica de IBS/CBS e total ao JSON da NFS-e.
+
 # 09/11/2026
  b4.0.37, f2.35.18 {.versions}
  
