@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-11T21:11:15.097Z
+date: 2026-11-12T17:07:04.876Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 60
-- Ajustes: 218
+- Ajustes: 219
 
-**Total: 278**
+**Total: 279**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 12/11/2026
+ b4.0.40 {.versions}
+ 
+## Ajustes
+- Ajustados campos de IBS/CBS para null no JSON quando a empresa tiver regime de tributação diferente de regime normal, permitindo assim não informar dados de IBS/CBS na nota.
+
 # 11/11/2026
  b4.0.39, f2.35.19 {.versions}
  
