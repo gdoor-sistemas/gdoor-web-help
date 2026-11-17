@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-12T17:07:04.876Z
+date: 2026-11-17T11:25:08.622Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -11,10 +11,10 @@ dateCreated: 2021-06-28T18:13:29.393Z
 ## Sumário
 
 Em **2026** já foram implementados:
-- Novidades: 60
-- Ajustes: 219
+- Novidades: 61
+- Ajustes: 226
 
-**Total: 279**
+**Total: 287**
 
 --- 
 
@@ -29,6 +29,21 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 17/11/2026
+ b4.0.41, f2.35.19 {.versions}
+
+## Novidades
+- Otimizado processo de busca por produtos. Além das formas já existentes, agora é possível realizar a busca por produtos com acento, sem acento e no plural.
+
+## Ajustes
+- Adicionados campos “Vendas vendedores sem meta” e “Vendas sem vendedor” no relatório “Metas” e nas “Configuração de Metas”, ajustado também o cálculo dos valores em notas com mais de um vendedor e melhorado o desempenho do relatório.
+- Realizadas melhorias na sincronização do PDV Híbrido.
+- Ajustado cálculo do valor do IBS quando a nota possui crédito presumido.
+- Corrigido carregamento de dados do PDV antes da importação de orçamentos e pedidos para o mesmo.
+- Ajustada geração da tributação de NF-e a partir do um pedido de venda.
+- Corrigida abertura de produto nos documentos após a ordenação para refletir o produto clicado.
+- Ajustada importação de XMLs específicos no compras.
+
 # 12/11/2026
  b4.0.40 {.versions}
  
