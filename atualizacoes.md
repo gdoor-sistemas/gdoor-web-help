@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-17T11:25:08.622Z
+date: 2026-11-19T19:09:30.414Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 61
-- Ajustes: 226
+- Ajustes: 229
 
-**Total: 287**
+**Total: 290**
 
 --- 
 
@@ -29,6 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 19/11/2026
+ b4.0.42, f2.35.20 {.versions}
+
+## Ajustes
+- Ajustada NFS-e para enviar “null” no campo valor total de tributos quando o cliente tiver CRT ISSQN de ME/EPP e for de CRT com simples nacional.
+- Criada seção para operação governamental na NFS-e, permitindo informar o ente e organização governamental na nota em ambiente nacional e layout nacional.
+- Inclusos campos de dados regulares, diferimento e total do cbs na NFS-e para clientes do regime normal em ambiente de prefeitura da NFS-e.
+
 # 17/11/2026
  b4.0.41, f2.35.19 {.versions}
 
