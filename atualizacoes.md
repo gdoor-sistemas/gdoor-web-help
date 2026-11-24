@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-19T19:09:30.414Z
+date: 2026-11-24T14:01:47.186Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 61
-- Ajustes: 229
+- Ajustes: 230
 
-**Total: 290**
+**Total: 291**
 
 --- 
 
@@ -29,8 +29,14 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 24/11/2026
+b4.0.43 {.versions}
+
+## Ajustes
+- Ajustada consulta de nomes de produtos que tenham pontuação ou caracteres especiais em qualquer parte do nome.
+
 # 19/11/2026
- b4.0.42, f2.35.20 {.versions}
+b4.0.42, f2.35.20 {.versions}
 
 ## Ajustes
 - Ajustada NFS-e para enviar “null” no campo valor total de tributos quando o cliente tiver CRT ISSQN de ME/EPP e for de CRT com simples nacional.
@@ -38,7 +44,7 @@ ir para [2021](#h-2021) {.goto}
 - Inclusos campos de dados regulares, diferimento e total do cbs na NFS-e para clientes do regime normal em ambiente de prefeitura da NFS-e.
 
 # 17/11/2026
- b4.0.41, f2.35.19 {.versions}
+b4.0.41, f2.35.19 {.versions}
 
 ## Novidades
 - Otimizado processo de busca por produtos. Além das formas já existentes, agora é possível realizar a busca por produtos com acento, sem acento e no plural.
