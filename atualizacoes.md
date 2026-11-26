@@ -2,7 +2,7 @@
 title: Atualizações
 description: Confira as últimas atualizações que deixaram o Gweb ainda mais robusto e funcional
 published: true
-date: 2026-11-24T14:02:38.649Z
+date: 2026-11-26T12:28:44.227Z
 tags: novidades
 editor: markdown
 dateCreated: 2021-06-28T18:13:29.393Z
@@ -12,9 +12,9 @@ dateCreated: 2021-06-28T18:13:29.393Z
 
 Em **2026** já foram implementados:
 - Novidades: 61
-- Ajustes: 230
+- Ajustes: 231
 
-**Total: 291**
+**Total: 292**
 
 --- 
 
@@ -29,6 +29,12 @@ ir para [2022](#h-2022) {.goto}
 ir para [2021](#h-2021) {.goto}
 
 ---
+# 26/11/2026
+b4.0.44 {.versions}
+
+## Ajustes
+- Ajustado o envio dos campos de redução e diferimento na NFS-e para clientes do regime normal, em ambiente de prefeitura, contemplando todos os CSTs utilizados. Anteriormente, o envio dessas informações era realizado apenas para CSTs de redução ou diferimento.
+
 # 24/11/2026
 b4.0.43 {.versions}
 
